@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"regexp"
+	"sort"
 	"strings"
 )
 
@@ -89,6 +90,14 @@ func unifiedDomains(domains map[string]bool) error {
 	return nil
 }
 
+func domainFor(url string) string {
+	dmnPts := strings.Split(url, ".")
+	if len(dmnPts) == 1 {
+		return ""
+	}
+	return dmnPts[len(dmnPts)-2]
+}
+
 func generateRuleGroup(name, path string) error {
 	ptrn := regexp.MustCompile(HostRegex)
 
@@ -123,11 +132,10 @@ func generateRuleGroup(name, path string) error {
 		domain := hstPts[0]
 
 		if (path != UnifiedUrl && !uniDmns[domain]) || path == UnifiedUrl {
-			dmnPts := strings.Split(domain, ".")
-			if len(dmnPts) == 1 {
+			d := domainFor(domain)
+			if d == "" {
 				continue
 			}
-			d := dmnPts[len(dmnPts)-2]
 			if domains[d] != nil && !contains(domains[d], domain) {
 				domains[d] = append(domains[d], domain)
 			} else {
@@ -143,6 +151,9 @@ func generateRuleGroup(name, path string) error {
 			RemoteDomains: v,
 		})
 	}
+	sort.Slice(rules, func(i, j int) bool {
+		return domainFor(rules[i].RemoteDomains[0]) < domainFor(rules[j].RemoteDomains[0])
+	})
 	rg.Rules = rules
 	file, _ := json.MarshalIndent(rg, "", " ")
 	err = ioutil.WriteFile(fmt.Sprintf(OutputPath, name), file, 0644)
