@@ -1,0 +1,29 @@
+name: rules
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.17.0
+      - name: Generate rules
+        run: go run main.go
+      - name: Check for changes
+        id: state
+        run: |
+          if ! git diff-index --quiet HEAD --; then
+            echo "Found changes..."
+            echo "::set-output name=dirty::true"
+          fi
+      - name: Push changes
+        if: steps.state.outputs.dirty == 'true'
+        run: |
+          git config --global user.name "Derek Schaller"
+          git config --global user.email "dschaller@users.noreply.github.com"
+          git commit -am "update rule groups"
+          git push
