@@ -1,4 +1,4 @@
-# Unified hosts file with base extensions
+# Little Snitch Rules
 
 This repository converts and hosts [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 rule groups from [StevenBlack/hosts](https://github.com/StevenBlack/hosts).
