@@ -16,7 +16,7 @@ jobs:
       - name: Check for changes
         id: state
         run: |
-          if ! git diff-index --quiet HEAD --; then
+          if ! git diff --quiet HEAD --; then
             echo "Found changes..."
             echo "::set-output name=dirty::true"
           fi
