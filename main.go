@@ -10,6 +10,7 @@ import (
 	"regexp"
 	"sort"
 	"strings"
+	"sync"
 )
 
 const (
@@ -22,7 +23,7 @@ const (
 	MetaAddress = "0.0.0.0"
 	HostRegex   = `0\.0\.0\.0\s(.+)$`
 	TitleRegex  = `#\sTitle:\s(.+)$`
-	OutputPath  = "RuleGroups/%s.lsrules"
+	OutputPath  = "RuleGroups/%s/%s.lsrules"
 )
 
 const ()
@@ -98,7 +99,7 @@ func domainFor(url string) string {
 	return dmnPts[len(dmnPts)-2]
 }
 
-func generateRuleGroup(name, path string) error {
+func generateRuleGroup(name, path string, action Action) error {
 	ptrn := regexp.MustCompile(HostRegex)
 
 	uniDmns := map[string]bool{}
@@ -146,7 +147,7 @@ func generateRuleGroup(name, path string) error {
 	rules := []*Rule{}
 	for _, v := range domains {
 		rules = append(rules, &Rule{
-			Action:        Deny,
+			Action:        action,
 			Process:       "any",
 			RemoteDomains: v,
 		})
@@ -156,7 +157,7 @@ func generateRuleGroup(name, path string) error {
 	})
 	rg.Rules = rules
 	file, _ := json.MarshalIndent(rg, "", " ")
-	err = ioutil.WriteFile(fmt.Sprintf(OutputPath, name), file, 0644)
+	err = ioutil.WriteFile(fmt.Sprintf(OutputPath, strings.Title(string(action)), name), file, 0644)
 	if err != nil {
 		return err
 	}
@@ -172,11 +173,21 @@ func main() {
 		"StevenBlack-Social":   SocialUrl,
 	}
 
-	for k, v := range hosts {
-		err := generateRuleGroup(k, v)
-		if err != nil {
-			fmt.Fprintf(os.Stderr, "error: %v\n", err)
-			os.Exit(1)
-		}
+	var wg sync.WaitGroup
+
+	for _, a := range []Action{Allow, Deny} {
+		wg.Add(1)
+		go func(a Action) {
+			defer wg.Done()
+			for k, v := range hosts {
+				err := generateRuleGroup(k, v, a)
+				if err != nil {
+					fmt.Fprintf(os.Stderr, "error: %v\n", err)
+					os.Exit(1)
+				}
+			}
+		}(a)
 	}
+
+	wg.Wait()
 }
