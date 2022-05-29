@@ -1043,9 +1043,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "betclic.pl",
     "en.betclic.com",
-    "www.betclic.com",
-    "betclic.pl"
+    "www.betclic.com"
    ]
   },
   {
@@ -1076,8 +1076,8 @@
    "process": "any",
    "remote-domains": [
     "betcris.com",
-    "www.betcris.com",
-    "betcris.pl"
+    "betcris.pl",
+    "www.betcris.com"
    ]
   },
   {
@@ -1503,13 +1503,13 @@
    "process": "any",
    "remote-domains": [
     "betpawa.com",
-    "ke.betpawa.com",
-    "www.ke.betpawa.com",
-    "www.betpawa.com",
     "betpawa.ng",
-    "www.betpawa.ng",
     "betpawa.ug",
-    "www.betpawa.ug"
+    "ke.betpawa.com",
+    "www.betpawa.com",
+    "www.betpawa.ng",
+    "www.betpawa.ug",
+    "www.ke.betpawa.com"
    ]
   },
   {
@@ -2488,8 +2488,8 @@
    "process": "any",
    "remote-domains": [
     "casinolasvegas.com",
-    "www.casinolasvegas.com",
     "casinolasvegas.no",
+    "www.casinolasvegas.com",
     "www.casinolasvegas.no"
    ]
   },
@@ -2732,110 +2732,110 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pais.co.il",
-    "www.pais.co.il",
     "22bet.co.ke",
-    "www.22bet.co.ke",
-    "betway.co.ke",
-    "www.betway.co.ke",
-    "mozzartbet.co.ke",
-    "www.mozzartbet.co.ke",
-    "nlotto.co.kr",
-    "www.nlotto.co.kr",
-    "lutrija.co.me",
-    "www.lutrija.co.me",
-    "mylotto.co.nz",
-    "www.mylotto.co.nz",
-    "tab.co.nz",
-    "www.tab.co.nz",
-    "balkanbet.co.rs",
-    "betpawa.co.tz",
-    "www.betpawa.co.tz",
-    "sportpesa.co.tz",
-    "www.sportpesa.co.tz",
-    "worldstar.co.ug",
-    "www.worldstar.co.ug",
-    "www.10bet.co.uk",
     "777bets.co.uk",
+    "balkanbet.co.rs",
+    "bet.co.za",
+    "betflash.co.za",
+    "betpawa.co.tz",
+    "betpawa.co.zm",
+    "betpawa.co.zw",
+    "bettingworld.co.za",
+    "betway.co.ke",
+    "betxchange.co.za",
     "bingotime.co.uk",
-    "www.bingotime.co.uk",
     "britsbingo.co.uk",
-    "www.britsbingo.co.uk",
     "candisbingo.co.uk",
-    "www.candisbingo.co.uk",
     "coral.co.uk",
-    "www.coral.co.uk",
     "cupcakebingo.co.uk",
-    "www.cupcakebingo.co.uk",
     "desertnightscasino.co.uk",
-    "www.desertnightscasino.co.uk",
     "fantasyclubsports.co.uk",
     "fun88.co.uk",
-    "www.fun88.co.uk",
     "healthlottery.co.uk",
-    "www.healthlottery.co.uk",
+    "interbet.co.za",
     "jackpotbingo.co.uk",
-    "www.jackpotbingo.co.uk",
     "jesterjackpots.co.uk",
-    "www.jesterjackpots.co.uk",
+    "justbet.co.za",
     "llamabet.co.uk",
     "loonybingo.co.uk",
-    "www.loonybingo.co.uk",
     "loquaxbingo.co.uk",
-    "www.loquaxbingo.co.uk",
     "luckyland.co.uk",
-    "www.luckyland.co.uk",
-    "www.marathonbet.co.uk",
+    "lutrija.co.me",
+    "mbet.co.za",
+    "mozzartbet.co.ke",
+    "mylotto.co.nz",
     "national-lottery.co.uk",
-    "www.national-lottery.co.uk",
+    "nationallottery.co.za",
     "netbet.co.uk",
-    "sport.netbet.co.uk",
     "nightwoodbookmakers.co.uk",
-    "www.nightwoodbookmakers.co.uk",
+    "nlotto.co.kr",
+    "pais.co.il",
     "pocketvegas.co.uk",
-    "www.pocketvegas.co.uk",
     "slotsino.co.uk",
-    "www.slotsino.co.uk",
-    "www.sunbets.co.uk",
+    "sport.netbet.co.uk",
+    "sportpesa.co.tz",
+    "sportsbet.co.za",
     "supersoccer.co.uk",
-    "www.supersoccer.co.uk",
+    "tab.co.nz",
+    "tabgold.co.za",
     "thebettingguy.co.uk",
     "toals.co.uk",
+    "usbetting.co.za",
+    "whalegaming.co.uk",
+    "worldofsport.co.za",
+    "worldsportsbetting.co.za",
+    "worldstar.co.ug",
+    "www.10bet.co.uk",
+    "www.22bet.co.ke",
+    "www.bet.co.za",
+    "www.betflash.co.za",
+    "www.betpawa.co.tz",
+    "www.betpawa.co.zm",
+    "www.betpawa.co.zw",
+    "www.bettingworld.co.za",
+    "www.betway.co.ke",
+    "www.betxchange.co.za",
+    "www.bingotime.co.uk",
+    "www.britsbingo.co.uk",
+    "www.candisbingo.co.uk",
+    "www.coral.co.uk",
+    "www.cupcakebingo.co.uk",
+    "www.desertnightscasino.co.uk",
+    "www.fun88.co.uk",
+    "www.healthlottery.co.uk",
+    "www.interbet.co.za",
+    "www.jackpotbingo.co.uk",
+    "www.jesterjackpots.co.uk",
+    "www.justbet.co.za",
+    "www.loonybingo.co.uk",
+    "www.loquaxbingo.co.uk",
+    "www.luckyland.co.uk",
+    "www.lutrija.co.me",
+    "www.marathonbet.co.uk",
+    "www.mbet.co.za",
+    "www.mozzartbet.co.ke",
+    "www.mylotto.co.nz",
+    "www.national-lottery.co.uk",
+    "www.nationallottery.co.za",
+    "www.nightwoodbookmakers.co.uk",
+    "www.nlotto.co.kr",
+    "www.pais.co.il",
+    "www.pocketvegas.co.uk",
+    "www.slotsino.co.uk",
+    "www.sportpesa.co.tz",
+    "www.sportsbet.co.za",
+    "www.sunbets.co.uk",
+    "www.supersoccer.co.uk",
+    "www.tab.co.nz",
+    "www.tabgold.co.za",
     "www.toals.co.uk",
     "www.unibet.co.uk",
-    "whalegaming.co.uk",
+    "www.usbetting.co.za",
     "www.whalegaming.co.uk",
     "www.winner.co.uk",
-    "bet.co.za",
-    "www.bet.co.za",
-    "betflash.co.za",
-    "www.betflash.co.za",
-    "bettingworld.co.za",
-    "www.bettingworld.co.za",
-    "betxchange.co.za",
-    "www.betxchange.co.za",
-    "interbet.co.za",
-    "www.interbet.co.za",
-    "justbet.co.za",
-    "www.justbet.co.za",
-    "mbet.co.za",
-    "www.mbet.co.za",
-    "nationallottery.co.za",
-    "www.nationallottery.co.za",
-    "sportsbet.co.za",
-    "www.sportsbet.co.za",
-    "tabgold.co.za",
-    "www.tabgold.co.za",
-    "usbetting.co.za",
-    "www.usbetting.co.za",
-    "worldofsport.co.za",
     "www.worldofsport.co.za",
-    "worldsportsbetting.co.za",
     "www.worldsportsbetting.co.za",
-    "betpawa.co.zm",
-    "www.betpawa.co.zm",
-    "betpawa.co.zw",
-    "www.betpawa.co.zw"
+    "www.worldstar.co.ug"
    ]
   },
   {
@@ -2890,77 +2890,77 @@
    "process": "any",
    "remote-domains": [
     "acttab.com.au",
-    "www.acttab.com.au",
     "betezy.com.au",
-    "www.betezy.com.au",
     "betfair.com.au",
     "betgolf.com.au",
-    "www.betgolf.com.au",
+    "betpawa.com.gh",
     "betstar.com.au",
-    "www.betstar.com.au",
+    "betus.com.pa",
     "bookies.com.au",
-    "www.bookies.com.au",
     "bookmaker.com.au",
-    "www.bookmaker.com.au",
+    "cashsweep.com.my",
+    "codere.com.co",
     "completesportsbetting.com.au",
-    "www.completesportsbetting.com.au",
     "crownbet.com.au",
+    "damacai.com.my",
     "dialabet.com.au",
-    "www.dialabet.com.au",
     "dynabet.com.au",
-    "www.dynabet.com.au",
     "flemingtonsportsbet.com.au",
-    "www.flemingtonsportsbet.com.au",
+    "herobet.com.br",
     "ladbrokes.com.au",
+    "loteria.com.ec",
     "madbookie.com.au",
     "overtheodds.com.au",
-    "www.overtheodds.com.au",
     "ozbet.com.au",
-    "www.ozbet.com.au",
+    "primebet.com.mt",
+    "safaribet.com.gh",
     "sportingbet.com.au",
-    "www.sportingbet.com.au",
+    "sportlife.com.mk",
     "sportsbet.com.au",
-    "www.sportsbet.com.au",
     "sportsbetting.com.au",
-    "www.sportsbetting.com.au",
+    "sportstoto.com.my",
+    "supabets.com.gh",
     "tab.com.au",
-    "www.tab.com.au",
+    "taiwanlottery.com.tw",
     "titansbet.com.au",
-    "www.titansbet.com.au",
     "topbetta.com.au",
     "topodds.com.au",
-    "www.topodds.com.au",
     "topsport.com.au",
-    "www.topsport.com.au",
     "unibet.com.au",
     "williamhill.com.au",
-    "zebrabet.com.au",
-    "www.zebrabet.com.au",
-    "herobet.com.br",
-    "www.herobet.com.br",
-    "codere.com.co",
-    "loteria.com.ec",
-    "www.loteria.com.ec",
-    "betpawa.com.gh",
+    "www.acttab.com.au",
+    "www.betezy.com.au",
+    "www.betgolf.com.au",
     "www.betpawa.com.gh",
-    "safaribet.com.gh",
-    "www.safaribet.com.gh",
-    "supabets.com.gh",
-    "www.supabets.com.gh",
-    "sportlife.com.mk",
-    "www.sportlife.com.mk",
-    "primebet.com.mt",
-    "www.primebet.com.mt",
-    "cashsweep.com.my",
-    "www.cashsweep.com.my",
-    "damacai.com.my",
-    "www.damacai.com.my",
-    "sportstoto.com.my",
-    "www.sportstoto.com.my",
-    "betus.com.pa",
+    "www.betstar.com.au",
     "www.betus.com.pa",
-    "taiwanlottery.com.tw",
-    "www.taiwanlottery.com.tw"
+    "www.bookies.com.au",
+    "www.bookmaker.com.au",
+    "www.cashsweep.com.my",
+    "www.completesportsbetting.com.au",
+    "www.damacai.com.my",
+    "www.dialabet.com.au",
+    "www.dynabet.com.au",
+    "www.flemingtonsportsbet.com.au",
+    "www.herobet.com.br",
+    "www.loteria.com.ec",
+    "www.overtheodds.com.au",
+    "www.ozbet.com.au",
+    "www.primebet.com.mt",
+    "www.safaribet.com.gh",
+    "www.sportingbet.com.au",
+    "www.sportlife.com.mk",
+    "www.sportsbet.com.au",
+    "www.sportsbetting.com.au",
+    "www.sportstoto.com.my",
+    "www.supabets.com.gh",
+    "www.tab.com.au",
+    "www.taiwanlottery.com.tw",
+    "www.titansbet.com.au",
+    "www.topodds.com.au",
+    "www.topsport.com.au",
+    "www.zebrabet.com.au",
+    "zebrabet.com.au"
    ]
   },
   {
@@ -3617,7 +3617,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "csgoroll.com"
+    "csgoroll.com",
+    "www.csgoroll.gg"
    ]
   },
   {
@@ -3735,8 +3736,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.daftar-klik4d.com",
-    "daftar-klik4d.net"
+    "daftar-klik4d.net",
+    "www.daftar-klik4d.com"
    ]
   },
   {
@@ -3820,8 +3821,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "betfirst.dhnet.be",
     "betfirst-en.dhnet.be",
+    "betfirst.dhnet.be",
     "www.betfirst-en.dhnet.be"
    ]
   },
@@ -3964,6 +3965,13 @@
    "remote-domains": [
     "dreamz.com",
     "www.dreamz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.duckyluck.ag"
    ]
   },
   {
@@ -4305,8 +4313,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "expekt.com",
     "en.expekt.com",
+    "expekt.com",
     "www.expekt.com"
    ]
   },
@@ -4505,6 +4513,14 @@
    "process": "any",
    "remote-domains": [
     "daftarsbobet.freeoda.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "freeslotshub.com",
+    "www.freeslotshub.com"
    ]
   },
   {
@@ -4935,8 +4951,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gtorb.com",
-    "esports.gtorb.com"
+    "esports.gtorb.com",
+    "gtorb.com"
    ]
   },
   {
@@ -5272,8 +5288,8 @@
    "process": "any",
    "remote-domains": [
     "igame.com",
-    "www.igame.com",
     "igame.se",
+    "www.igame.com",
     "www.igame.se"
    ]
   },
@@ -5570,8 +5586,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.justbet.co",
     "justbet.cx",
+    "www.justbet.co",
     "www.justbet.cx"
    ]
   },
@@ -5709,8 +5725,8 @@
    "process": "any",
    "remote-domains": [
     "kingneptunescasino.com",
-    "www.kingneptunescasino.com",
     "kingneptunescasino.eu",
+    "www.kingneptunescasino.com",
     "www.kingneptunescasino.eu"
    ]
   },
@@ -5765,13 +5781,13 @@
    "remote-domains": [
     "klik4d.asia",
     "klik4d.club",
+    "klik4d.rocks",
+    "klik4d.top",
+    "klik4d.xyz",
     "m.klik4d.com",
     "www.klik4d.com",
     "www.klik4d.link",
-    "klik4d.rocks",
-    "klik4d.top",
-    "www.klik4d.us",
-    "klik4d.xyz"
+    "www.klik4d.us"
    ]
   },
   {
@@ -5825,6 +5841,13 @@
    "remote-domains": [
     "lapalingo.com",
     "www.lapalingo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lasatlantispromos.com"
    ]
   },
   {
@@ -6082,8 +6105,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "loteriasyapuestas.es",
     "juegos.loteriasyapuestas.es",
+    "loteriasyapuestas.es",
     "www.juegos.loteriasyapuestas.es",
     "www.loteriasyapuestas.es"
    ]
@@ -6093,8 +6116,8 @@
    "process": "any",
    "remote-domains": [
     "loterie.lu",
-    "www.loterie.lu",
     "loterie.ma",
+    "www.loterie.lu",
     "www.loterie.ma"
    ]
   },
@@ -6119,8 +6142,8 @@
    "process": "any",
    "remote-domains": [
     "loto.mk",
-    "www.loto.mk",
     "loto.ro",
+    "www.loto.mk",
     "www.loto.ro"
    ]
   },
@@ -6128,12 +6151,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lotoquebec.com",
     "loteries.lotoquebec.com",
-    "www.loteries.lotoquebec.com",
+    "lotoquebec.com",
     "portail.lotoquebec.com",
-    "www.portail.lotoquebec.com",
-    "www.lotoquebec.com"
+    "www.loteries.lotoquebec.com",
+    "www.lotoquebec.com",
+    "www.portail.lotoquebec.com"
    ]
   },
   {
@@ -6157,12 +6180,12 @@
    "process": "any",
    "remote-domains": [
     "lotto.cn",
-    "www.lotto.cn",
     "lotto.de",
-    "www.lotto.de",
     "lotto.is",
-    "www.lotto.is",
     "lotto.pl",
+    "www.lotto.cn",
+    "www.lotto.de",
+    "www.lotto.is",
     "www.lotto.pl"
    ]
   },
@@ -6427,8 +6450,8 @@
    "process": "any",
    "remote-domains": [
     "lutrija.hr",
-    "www.lutrija.hr",
     "lutrija.rs",
+    "www.lutrija.hr",
     "www.lutrija.rs"
    ]
   },
@@ -6508,8 +6531,8 @@
    "remote-domains": [
     "magicred.com",
     "sports.magicred.com",
-    "www.sports.magicred.com",
-    "www.magicred.com"
+    "www.magicred.com",
+    "www.sports.magicred.com"
    ]
   },
   {
@@ -6643,13 +6666,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "blog.maxbet.rs",
+    "maxbet.one",
+    "maxbet.website",
     "www.maxbet.id",
     "www.maxbet.me",
-    "maxbet.one",
     "www.maxbet.org",
-    "blog.maxbet.rs",
-    "www.maxbet.rs",
-    "maxbet.website"
+    "www.maxbet.rs"
    ]
   },
   {
@@ -7003,8 +7026,8 @@
    "process": "any",
    "remote-domains": [
     "mybet.com",
-    "www.mybet.com",
-    "mybet.de"
+    "mybet.de",
+    "www.mybet.com"
    ]
   },
   {
@@ -7113,8 +7136,8 @@
    "remote-domains": [
     "nederlandseloterij.nl",
     "statsloterij.nederlandseloterij.nl",
-    "www.statsloterij.nederlandseloterij.nl",
-    "www.nederlandseloterij.nl"
+    "www.nederlandseloterij.nl",
+    "www.statsloterij.nederlandseloterij.nl"
    ]
   },
   {
@@ -7388,12 +7411,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "olg.ca",
     "cgaming.olg.ca",
-    "www.cgaming.olg.ca",
     "home.olg.ca",
-    "www.home.olg.ca",
     "lottery.olg.ca",
+    "olg.ca",
+    "www.cgaming.olg.ca",
+    "www.home.olg.ca",
     "www.lottery.olg.ca",
     "www.olg.ca"
    ]
@@ -7419,8 +7442,8 @@
    "process": "any",
    "remote-domains": [
     "olybet.com",
-    "www.olybet.com",
     "olybet.eu",
+    "www.olybet.com",
     "www.olybet.eu"
    ]
   },
@@ -7598,8 +7621,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sports.partypoker.com",
     "partypoker.cz",
+    "sports.partypoker.com",
     "www.partypoker.cz"
    ]
   },
@@ -7807,8 +7830,8 @@
    "process": "any",
    "remote-domains": [
     "pokerstars.cz",
-    "www.pokerstars.cz",
     "pokerstars.eu",
+    "www.pokerstars.cz",
     "www.pokerstars.eu",
     "www.pokerstars.uk"
    ]
@@ -8003,6 +8026,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "reddogcasinobonuses.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "redkings.com",
     "www.redkings.com"
    ]
@@ -8087,8 +8117,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "rizk.com",
     "campaign.rizk.com",
+    "rizk.com",
     "www.rizk.com"
    ]
   },
@@ -8466,8 +8496,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "skybet.com",
     "m.skybet.com",
+    "skybet.com",
     "www.skybet.com"
    ]
   },
@@ -8734,8 +8764,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sportpesa.com",
     "ke.sportpesa.com",
+    "sportpesa.com",
     "www.ke.sportpesa.com"
    ]
   },
@@ -8781,10 +8811,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.sportsbook.ag",
     "sportsbook.ca",
-    "www.sportsbook.ca",
     "sportsbook.com",
+    "www.sportsbook.ag",
+    "www.sportsbook.ca",
     "www.sportsbook.com"
    ]
   },
@@ -8985,8 +9015,8 @@
    "process": "any",
    "remote-domains": [
     "superbet.com",
-    "www.superbet.com",
-    "superbet.pl"
+    "superbet.pl",
+    "www.superbet.com"
    ]
   },
   {
@@ -9081,8 +9111,8 @@
    "process": "any",
    "remote-domains": [
     "swedencasino.com",
-    "www.swedencasino.com",
     "swedencasino.se",
+    "www.swedencasino.com",
     "www.swedencasino.se"
    ]
   },
@@ -9090,10 +9120,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "synottip.cz",
     "casino.synottip.cz",
     "poker.synottip.cz",
     "sport.synottip.cz",
+    "synottip.cz",
     "www.synottip.cz"
    ]
   },
@@ -9545,10 +9575,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vernons.com",
     "bingo.vernons.com",
     "casino.vernons.com",
     "sports.vernons.com",
+    "vernons.com",
     "www.vernons.com"
    ]
   },
@@ -9801,7 +9831,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "williamhill.com",
     "bingo.williamhill.com",
     "casino.williamhill.com",
     "games.williamhill.com",
@@ -9810,6 +9839,7 @@
     "poker.williamhill.com",
     "sports.williamhill.com",
     "vegas.williamhill.com",
+    "williamhill.com",
     "www.williamhill.com"
    ]
   },
@@ -9895,8 +9925,8 @@
    "process": "any",
    "remote-domains": [
     "wwin.ba",
-    "www.wwin.ba",
-    "wwin.com"
+    "wwin.com",
+    "www.wwin.ba"
    ]
   },
   {
@@ -9910,56 +9940,56 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xinweide.com",
-    "www.xinweide.com"
+    "www.xinweide.com",
+    "xinweide.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "yabet.com",
-    "www.yabet.com"
+    "www.yabet.com",
+    "yabet.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "yakocasino.com",
-    "www.yakocasino.com"
+    "www.yakocasino.com",
+    "yakocasino.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "yeticasino.com",
-    "www.yeticasino.com"
+    "www.yeticasino.com",
+    "yeticasino.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "yobetit.com",
-    "www.yobetit.com"
+    "www.yobetit.com",
+    "yobetit.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "youwager.eu",
-    "www.youwager.eu"
+    "www.youwager.eu",
+    "youwager.eu"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "youwin.com",
-    "www.youwin.com"
+    "www.youwin.com",
+    "youwin.com"
    ]
   },
   {
@@ -9973,16 +10003,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "zetpoker.eu",
-    "www.zetpoker.eu"
+    "www.zetpoker.eu",
+    "zetpoker.eu"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "zodiacu.com",
-    "www.zodiacu.com"
+    "www.zodiacu.com",
+    "zodiacu.com"
    ]
   },
   {
