@@ -309,6 +309,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "8888.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "fi.888casino.com"
    ]
   },
@@ -933,6 +940,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "betano.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "betanysports.eu",
     "www.betanysports.eu"
    ]
@@ -1258,6 +1272,13 @@
    "remote-domains": [
     "betin1.com",
     "www.betin1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "betindex.net"
    ]
   },
   {
@@ -1911,6 +1932,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "betway.bg",
     "betway.com",
     "casino.betway.com",
     "livecasino.betway.com",
@@ -2423,6 +2445,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "casinobg.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "casinobitco.in",
     "www.casinobitco.in"
    ]
@@ -2513,6 +2542,13 @@
    "remote-domains": [
     "casinopop.com",
     "www.casinopop.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "casinorobots.com"
    ]
   },
   {
@@ -4259,6 +4295,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "eurofootball.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "promotion.eurolotto.com"
    ]
   },
@@ -5305,6 +5348,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "inbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "inbet88.com",
     "www.inbet88.com"
    ]
@@ -5673,6 +5723,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "kasinoguru-bg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "kasinot.fi"
    ]
   },
@@ -5689,6 +5746,13 @@
    "remote-domains": [
     "katiesbingo.com",
     "www.katiesbingo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kazinoigri.com"
    ]
   },
   {
@@ -7583,6 +7647,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "palmsbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pandabet.net",
     "www.pandabet.net"
    ]
@@ -7670,6 +7741,13 @@
    "remote-domains": [
     "piratespin.com",
     "www.piratespin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pixabay.com"
    ]
   },
   {
@@ -7829,6 +7907,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pokerstars.bg",
     "pokerstars.cz",
     "pokerstars.eu",
     "www.pokerstars.cz",
@@ -8348,6 +8427,13 @@
    "remote-domains": [
     "sectorbet.com",
     "www.sectorbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sesame.bg"
    ]
   },
   {
@@ -9334,8 +9420,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "topcasinos.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "topcatsports.ag",
     "www.topcatsports.ag"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "topigri.bg"
    ]
   },
   {
@@ -9857,6 +9957,20 @@
    "remote-domains": [
     "win29.com",
     "www.win29.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "winbet.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "winbetaffiliates.bg"
    ]
   },
   {
