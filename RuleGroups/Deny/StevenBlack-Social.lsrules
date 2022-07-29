@@ -101,6 +101,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "badoo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bumble.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dm.bytedance.com"
    ]
   },
@@ -437,6 +451,20 @@
    "process": "any",
    "remote-domains": [
     "d2rdfnizen5apl.cloudfront.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "clover.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "coffeemeetsbagel.com"
    ]
   },
   {
@@ -2060,6 +2088,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "happn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hinge.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "p16.hypstarcdn.com"
    ]
   },
@@ -2355,6 +2397,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "match.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mbga.jp"
    ]
   },
@@ -2478,6 +2527,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "okcupid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "h-ct-m-fbx.fbsbx.com.online-metrix.net",
     "sac-h-ct-m-fbx.fbsbx.com.online-metrix.net"
    ]
@@ -2530,6 +2586,13 @@
     "www.pinterest.com",
     "www.pinterest.com.gslb.pinterest.com",
     "www.pinterest.fr"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pof.com"
    ]
   },
   {
@@ -2948,6 +3011,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tinder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "24.media.tumblr.com",
     "25.media.tumblr.com",
     "28.media.tumblr.com",
@@ -3093,6 +3163,13 @@
     "www.twitter.com",
     "www2.twitter.com",
     "www4.twitter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "weareher.com"
    ]
   },
   {
