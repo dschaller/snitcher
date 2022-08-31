@@ -139799,13 +139799,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xxxbullet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "cf.static.xxxbunker.com",
     "www.xxxbunker.com",
     "xxxbunker.com"
