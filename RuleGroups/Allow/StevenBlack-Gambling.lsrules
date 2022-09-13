@@ -768,6 +768,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "1wbae.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1x001.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1x002.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "1x2plus.com",
     "www.1x2plus.com"
    ]
@@ -776,6 +797,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "1xbet.in",
     "1xbet.com",
     "www.1xbet.com"
    ]
@@ -792,6 +814,13 @@
    "process": "any",
    "remote-domains": [
     "1xbet88vn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1xbetonline.in"
    ]
   },
   {
@@ -6344,7 +6373,10 @@
    "process": "any",
    "remote-domains": [
     "ad.choiwin79.com",
-    "choiwin79.com"
+    "choiwin79.com",
+    "choiwin79.net",
+    "dk.choiwin79.net",
+    "play.choiwin79.net"
    ]
   },
   {
@@ -6635,6 +6667,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lucky88.com.vn",
     "acttab.com.au",
     "betezy.com.au",
     "betfair.com.au",
@@ -9630,20 +9663,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gg.bet"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "gg146.bet"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "gi888.cc"
    ]
   },
@@ -10715,6 +10734,13 @@
    "process": "any",
    "remote-domains": [
     "izibet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "j1cleoil.site"
    ]
   },
   {
@@ -25828,6 +25854,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lotto60.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lottohelden.de",
     "www.lottohelden.de"
    ]
@@ -25961,10 +25994,17 @@
     "img.lucky88.com",
     "img.lucky88.net",
     "img.lucky88.win",
+    "lucky88.bet",
+    "lucky88.casino",
+    "lucky88.club",
     "lucky88.com",
+    "lucky88.game",
     "lucky88.live",
     "lucky88.net",
+    "lucky88.org",
     "lucky88.tv",
+    "lucky88.uk",
+    "lucky88.vn",
     "lucky88.win",
     "m.lucky88.com",
     "m.lucky88.net",
@@ -27332,6 +27372,13 @@
    "process": "any",
    "remote-domains": [
     "nhacaik8vn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nhacailucky88.net"
    ]
   },
   {
@@ -32680,6 +32727,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vz683.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m.vz79.com",
     "vz79.com",
     "www.vz79.com"
@@ -33194,6 +33248,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "play.win79.vip",
+    "tai.win79.vip",
+    "win79.vip",
+    "www.win79.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "win79play.me"
    ]
   },
@@ -33393,8 +33457,11 @@
    "process": "any",
    "remote-domains": [
     "play.x8vn.com",
+    "play.x8vn.top",
     "qc.x8vn.com",
-    "x8vn.com"
+    "qc.x8vn.top",
+    "x8vn.com",
+    "x8vn.top"
    ]
   },
   {
