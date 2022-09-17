@@ -1624,6 +1624,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "789d.club",
+    "game.789d.club",
+    "qc.789d.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "78win01.com",
     "api.78win01.com",
     "www.78win01.com"
@@ -6357,6 +6366,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choingayone88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choisv88.live"
    ]
   },
@@ -8725,6 +8741,15 @@
     "api.f8bet0.com",
     "f8bet0.com",
     "www.f8bet0.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.f8bet5.com",
+    "f8bet5.com",
+    "www.f8bet5.com"
    ]
   },
   {
@@ -28973,6 +28998,13 @@
     "tai.rik.vip",
     "tai.rik.win",
     "www.rik.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rikbet789.club"
    ]
   },
   {
