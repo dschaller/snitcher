@@ -29043,9 +29043,14 @@
    "process": "any",
    "remote-domains": [
     "ad.rikvip.uk",
+    "lp.rikvip.tv",
+    "play.rikvip.tv",
+    "rikvip.tv",
     "rikvip.uk",
     "rikvip.us",
+    "tai.rikvip.tv",
     "tai.rikvip.us",
+    "wp.rikvip.tv",
     "www.rikvip.uk"
    ]
   },
