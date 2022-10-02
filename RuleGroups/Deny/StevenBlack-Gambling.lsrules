@@ -27262,6 +27262,7 @@
    "remote-domains": [
     "m.nbet.com",
     "nbet.com",
+    "nbet.top",
     "nbet.vip",
     "nbet.win",
     "www.nbet.com"
@@ -28239,13 +28240,6 @@
    "remote-domains": [
     "piratespin.com",
     "www.piratespin.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pixabay.com"
    ]
   },
   {
@@ -30990,7 +30984,8 @@
    "process": "any",
    "remote-domains": [
     "thabet.co",
-    "thabet.gg"
+    "thabet.gg",
+    "thabet.one"
    ]
   },
   {
