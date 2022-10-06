@@ -4324,13 +4324,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "adserve.work"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "adsgangsta.com",
     "www.adsgangsta.com"
    ]
@@ -120048,7 +120041,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexvietz.co"
+    "sexvietz.co",
+    "sexvietz.org"
    ]
   },
   {
@@ -140478,6 +140472,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vietsex.cam",
     "vietsex.me"
    ]
   },
