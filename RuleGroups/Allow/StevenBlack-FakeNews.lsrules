@@ -12676,13 +12676,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.thebeaverton.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "theblacksphere.net"
    ]
   },
