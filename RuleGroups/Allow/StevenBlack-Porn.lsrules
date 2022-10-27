@@ -4009,6 +4009,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "abimimojo2.com",
+    "ndtnc.abimimojo2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "aboutangelinajolie.com",
     "www.aboutangelinajolie.com"
    ]
@@ -4064,6 +4072,13 @@
    "process": "any",
    "remote-domains": [
     "absoluteporno.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "abtrcker.com"
    ]
   },
   {
@@ -36028,6 +36043,7 @@
     "chichlive.club",
     "chichlive.com",
     "chichlive.info",
+    "chichlive.live",
     "chichlive.top"
    ]
   },
@@ -36829,6 +36845,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "clipnong.pro",
     "clipnong.video",
     "clipnong.xyz"
    ]
@@ -75217,6 +75234,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "j1.jump4geo.com",
+    "jump4geo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "darkangelsuni52.jun.pl",
     "www.darkangelsuni52.jun.pl"
    ]
@@ -88010,6 +88035,14 @@
    "process": "any",
    "remote-domains": [
     "msporn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "m1.mtrafficgeo.com",
+    "mtrafficgeo.com"
    ]
   },
   {
@@ -115189,6 +115222,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sb-cd.com",
     "assets.sb-cd.com",
     "tb1.sb-cd.com",
     "tb2.sb-cd.com",
@@ -115678,6 +115712,13 @@
     "images.securedataimages.com",
     "securedataimages.com",
     "www.securedataimages.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "securedsmcd.com"
    ]
   },
   {
@@ -149751,16 +149792,17 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xvideos-cdn.com",
     "cdn77-pic.xvideos-cdn.com",
+    "img-cf.xvideos-cdn.com",
+    "img-hw.xvideos-cdn.com",
+    "img-l3.xvideos-cdn.com",
+    "static-l3.xvideos-cdn.com",
+    "xvideos-cdn.com",
     "cdn77-vid.xvideos-cdn.com",
     "hls1-l3.xvideos-cdn.com",
     "hls2-l3.xvideos-cdn.com",
     "hls3-l3.xvideos-cdn.com",
     "hls-hw.xvideos-cdn.com",
-    "img-hw.xvideos-cdn.com",
-    "img-l3.xvideos-cdn.com",
-    "static-l3.xvideos-cdn.com",
     "www.xvideos-cdn.com"
    ]
   },

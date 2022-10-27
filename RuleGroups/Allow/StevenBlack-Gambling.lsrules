@@ -6358,6 +6358,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choang.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ad.choingay88.com",
     "choingay88.com"
    ]
@@ -8756,6 +8763,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "f8betaa.com",
+    "www.f8betaa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dl.fa88.win",
     "fa88.win",
     "play.fa88.win",
@@ -9561,6 +9576,13 @@
    "process": "any",
    "remote-domains": [
     "gamevui86.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gamewin79vip.net"
    ]
   },
   {
@@ -27306,6 +27328,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nemo.vin",
+    "play.nemo.vin",
+    "web.nemo.vin",
+    "www.nemo.vin"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "netbet.com",
     "www.netbet.com"
    ]
@@ -27461,7 +27493,10 @@
     "dl.nhatvip.net",
     "f1.nhatvip.net",
     "f5.nhatvip.net",
+    "nhatvip.mobi",
     "nhatvip.net",
+    "nhatvip.org",
+    "nhatvip.us",
     "qc.nhatvip.net",
     "tai.nhatvip.live",
     "web.nhatvip.net",
