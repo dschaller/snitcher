@@ -6,7 +6,76 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.xnmail.000webhostapp.com",
+    "xnmail.000webhostapp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "042kitchenllc.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jnpost.0515468541546.xyz",
+    "www.jnpost.0515468541546.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dispatchgoods-1npost.06221541254.xyz",
+    "www.dispatchgoods-1npost.06221541254.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "0karny.cyou",
+    "www.0karny.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "100percentfedup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "10best-review.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "12ewsdf.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "134tr4ck.com",
+    "www.134tr4ck.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vintted.1512584512.xyz",
+    "www.vintted.1512584512.xyz"
    ]
   },
   {
@@ -27,7 +96,105 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ihpost-shopping.2323433351.xyz",
+    "www.ihpost-shopping.2323433351.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "247bdtv.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "2jn45i.cyou",
+    "www.2jn45i.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "32324242.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "0lx-marketpage.3260515488.xyz",
+    "www.0lx-marketpage.3260515488.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jnpost-storepay.32620515454545.xyz",
+    "www.jnpost-storepay.32620515454545.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "payyinted-delivery.3544465008.xyz",
+    "www.payyinted-delivery.3544465008.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "360.my"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "365usanews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.3d-stickers.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "435757ut.com",
+    "www.435757ut.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "form-jnpost.46221541254.xyz",
+    "www.form-jnpost.46221541254.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "4funselfie.hu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "4r8uhzs3e.click"
    ]
   },
   {
@@ -41,7 +208,301 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wjnted.5000032121545.xyz",
+    "www.wjnted.5000032121545.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "impost.5265154515.xyz",
+    "www.impost.5265154515.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "impostinfopay.550652122222.xyz",
+    "www.impostinfopay.550652122222.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1npost.5512584512.xyz",
+    "www.1npost.5512584512.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "shopinpost-product.5647809097.xyz",
+    "www.shopinpost-product.5647809097.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "in-post-pay-shop.565676764321.xyz",
+    "www.in-post-pay-shop.565676764321.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "siteo1x-market.5768000913.xyz",
+    "www.siteo1x-market.5768000913.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "5galert.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "5tfgbgf6yjhg.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "store879impost.6026154555555.xyz",
+    "www.store879impost.6026154555555.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "o1x-shop.6051245844.xyz",
+    "www.o1x-shop.6051245844.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goods0lx-payment.6457093258.xyz",
+    "www.goods0lx-payment.6457093258.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "shop-inp0st.652312451154.xyz",
+    "www.shop-inp0st.652312451154.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "6ha7e7ws.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "6tgghf3ec2ws.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1npost.76215484512.xyz",
+    "www.1npost.76215484512.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alleqrol0kalnie.7652421441474.xyz",
+    "www.alleqrol0kalnie.7652421441474.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "impost-market.7778776765.xyz",
+    "www.impost-market.7778776765.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "olxshop-purchase.7865666434.xyz",
+    "www.olxshop-purchase.7865666434.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jnpost-purchase.786655555665.xyz",
+    "www.jnpost-purchase.786655555665.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "7uhjedf3e.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "7uyh9i1qws4r.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "impost.86323651548.xyz",
+    "www.impost.86323651548.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "8mrsxo.cyou",
+    "www.8mrsxo.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jmpost-shoppingpay.9000767751.xyz",
+    "www.jmpost-shoppingpay.9000767751.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sitewinted-delivery.9000878887.xyz",
+    "www.sitewinted-delivery.9000878887.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "market-43j-npost.9026154555555.xyz",
+    "www.market-43j-npost.9026154555555.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "viinte-d-formsite.920612548455.xyz",
+    "www.viinte-d-formsite.920612548455.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "market-vjnted.956215484512.xyz",
+    "www.market-vjnted.956215484512.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vjnted.96323651548.xyz",
+    "www.vjnted.96323651548.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "o1x-market.965141541221.xyz",
+    "www.o1x-market.965141541221.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "o1x.980000000002.xyz",
+    "www.o1x.980000000002.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.9bljsqc5.xyz",
+    "www.vinted-pl-gj32d.9bljsqc5.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "9d8pc33h.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "9hym.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "9ik4rfu85tg.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "9pexels.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kiss.a-dog.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "a3h0ew.cyou",
+    "www.a3h0ew.cyou"
    ]
   },
   {
@@ -62,6 +523,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aboify.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "abolishsocialism.com"
    ]
   },
@@ -70,6 +538,20 @@
    "process": "any",
    "remote-domains": [
     "abortions.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aboutbusiness.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aboutrealestate.us"
    ]
   },
   {
@@ -90,7 +572,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "absfxpro.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "absurd.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "akuntansi.itny.ac.id",
+    "copunupo.ac.zm"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "academyanalyst.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "academygh.com"
    ]
   },
   {
@@ -111,6 +622,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "acyclovir.news",
+    "www.acyclovir.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ada09sch.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "adairmadisonnews.com"
    ]
   },
@@ -125,7 +651,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "adapsai.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "adareporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "addchecks.com"
    ]
   },
   {
@@ -153,7 +693,57 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "felipesenna.adv.br"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "advairdiskus.news",
+    "www.advairdiskus.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "adverdose-eg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.ae911truth.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aecid.bo"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "afenet-conference.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "africaatthepark.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "africancatssafaris.com"
    ]
   },
   {
@@ -167,7 +757,49 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "agedyoutubeaccount.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ftp.agoraexpress.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "agrofert-eg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "agrovision.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ahlehadeethbdchapai.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ahtribune.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ahum-trading.com"
    ]
   },
   {
@@ -209,7 +841,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aleamoda.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alerfou.host",
+    "www.alerfou.host"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "alertchild.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alharaz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alichouikhi.tn"
    ]
   },
   {
@@ -237,6 +898,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "almas-beauty.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "almastandard.com"
    ]
   },
@@ -245,6 +913,13 @@
    "process": "any",
    "remote-domains": [
     "alohastatenews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "altaoferta.com"
    ]
   },
   {
@@ -272,6 +947,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "always21.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "alynews.com"
    ]
   },
@@ -279,7 +961,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "amaralcosta.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "amarillogazette.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "amed.dev"
    ]
   },
   {
@@ -412,7 +1108,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ams-insurance.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.amtvmedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "anarrimargoak.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "anbigh.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "anchormfgtx.com",
+    "www.anchormfgtx.com"
    ]
   },
   {
@@ -454,6 +1179,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "anguklaw.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ankenyguide.com"
    ]
   },
@@ -469,6 +1201,13 @@
    "process": "any",
    "remote-domains": [
     "annearundeltoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "annuairetogo.net"
    ]
   },
   {
@@ -496,6 +1235,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wk.anonline.site",
+    "www.wk.anonline.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "anonymousnews.ru",
     "www.anonymousnews.ru"
    ]
@@ -505,6 +1252,14 @@
    "process": "any",
    "remote-domains": [
     "anotherdayintheempire.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b.ant1-ees.xyz",
+    "www.b.ant1-ees.xyz"
    ]
   },
   {
@@ -532,7 +1287,68 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aperturedore.live",
+    "www.aperturedore.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.apfb.xyz",
+    "www.vinted-pl-gj32d.apfb.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aplicacionesweb.cl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "apopkatimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "apples-assistance.live",
+    "www.apples-assistance.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ftp.appleshipstores.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kulas.appmaxiz.site",
+    "www.kulas.appmaxiz.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aprilinterrogation.cn",
+    "www.aprilinterrogation.cn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "apysolution.com"
    ]
   },
   {
@@ -546,6 +1362,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "arccourier.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "arendonkfjest.be"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "areyouasleep.com"
    ]
   },
@@ -553,7 +1383,49 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "argojeans.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "aroostooknews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "artistdent.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.artrsllc.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "artybees.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "as45vfrt8.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "asadmiraj.xyz"
    ]
   },
   {
@@ -588,7 +1460,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ashleymadisonzs.com",
+    "www.ashleymadisonzs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "asia-pacificresearch.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "asialogi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "asmanta.com",
+    "www.asmanta.com"
    ]
   },
   {
@@ -616,7 +1511,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "astralk.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aswe45bju.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.atashelement.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "athensreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "atikmuhendislik.net"
    ]
   },
   {
@@ -644,6 +1567,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "attica-gr.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "auburntimes.com"
    ]
   },
@@ -651,7 +1581,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "audioselec.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "auqnako.space",
+    "www.auqnako.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "auranumero.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "auroraneguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aurumdrox.com"
    ]
   },
   {
@@ -666,6 +1625,34 @@
    "process": "any",
    "remote-domains": [
     "autismtruthnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "autobodyflatrack.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "autodiagbg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "autogaribustrans.ro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "avastar.ba"
    ]
   },
   {
@@ -700,6 +1687,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ayijimo.com",
+    "www.ayijimo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ayvaktechnologies.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "azagak.com",
+    "www.azagak.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "azbusinessdaily.com"
    ]
   },
@@ -714,6 +1724,68 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "azsdef7ujh.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b7hk59vz.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "babamart.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "babm.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "babydoodfanclub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bjjhiu.s3.us-west-004.backblazeb2.com",
+    "lajjiuy.s3.us-west-004.backblazeb2.com",
+    "mindixi.s3.us-west-004.backblazeb2.com",
+    "niijjvv.s3.us-west-004.backblazeb2.com",
+    "pjjlis.s3.us-west-004.backblazeb2.com",
+    "pllsizl.s3.us-west-004.backblazeb2.com",
+    "whjikki.s3.us-west-004.backblazeb2.com",
+    "www.bjjhiu.s3.us-west-004.backblazeb2.com",
+    "www.lajjiuy.s3.us-west-004.backblazeb2.com",
+    "www.mindixi.s3.us-west-004.backblazeb2.com",
+    "www.niijjvv.s3.us-west-004.backblazeb2.com",
+    "www.pjjlis.s3.us-west-004.backblazeb2.com",
+    "www.pllsizl.s3.us-west-004.backblazeb2.com",
+    "www.whjikki.s3.us-west-004.backblazeb2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "backlightbleedtest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "badcriminals.com"
    ]
   },
@@ -722,6 +1794,14 @@
    "process": "any",
    "remote-domains": [
     "baddoctors.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "badgeridge.cn",
+    "www.badgeridge.cn"
    ]
   },
   {
@@ -749,6 +1829,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "buy.balticpipe.buzz",
+    "buy.balticpipe.cfd",
+    "www.buy.balticpipe.buzz",
+    "www.buy.balticpipe.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "baltimorecitywire.com"
    ]
   },
@@ -757,6 +1847,14 @@
    "process": "any",
    "remote-domains": [
     "baltimoregazette.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "banditgaming.net",
+    "www.banditgaming.net"
    ]
   },
   {
@@ -778,6 +1876,45 @@
    "process": "any",
    "remote-domains": [
     "www.barenakedislam.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "barmdsson.com",
+    "www.barmdsson.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "basia468.pl",
+    "www.basia468.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "basiakrzy.pl",
+    "www.basiakrzy.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "baskinat.com",
+    "www.baskinat.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "basscom.fr"
    ]
   },
   {
@@ -833,7 +1970,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vinted-pl-gj32d.becik.xyz",
+    "www.vinted-pl-gj32d.becik.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "beehivestatenews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beekya.com"
    ]
   },
   {
@@ -861,6 +2013,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "beginnow.beauty",
+    "www.beginnow.beauty"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beicgroup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beideatic.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "belltelme.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bencevendeghaz.hu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bentontimes.com"
    ]
   },
@@ -882,7 +2070,101 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "berkelouw.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "berksconews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bestbmt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "besthairextension.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beststudwelders.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bestvtu.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bet-invest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bevos-training.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bg6buj3q.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bgfd3w7uj.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bgk24.cc",
+    "bgk24.co",
+    "www.bgk24.cc",
+    "www.bgk24.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bgy6trfdx.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bhandarijyotish.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bhavnagaridryfruitstores.com"
    ]
   },
   {
@@ -931,6 +2213,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bigm.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bignuggetnews.com"
    ]
   },
@@ -966,6 +2255,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bikkviz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "billnye.news"
    ]
   },
@@ -987,7 +2283,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "biriyanigril.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bisonguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bistokes.online",
+    "www.bistokes.online"
    ]
   },
   {
@@ -1001,7 +2312,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b24-ey8u96.bitrix24.site",
+    "www.b24-ey8u96.bitrix24.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bixbyguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bizdemo.xyz"
    ]
   },
   {
@@ -1036,8 +2362,58 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "blacksebo.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "blacksmithbooks.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "blackwhite.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "blangkonstudio.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "us.blastingnews.com",
     "www.blastingnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bllackdiamondkloset.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "blog-mag1.blog3maxi.site",
+    "www.blog-mag1.blog3maxi.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bloggingtalent.com"
    ]
   },
   {
@@ -1090,6 +2466,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bmpmedia.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bmschwartz4.com",
+    "www.bmschwartz4.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bnbfyt.com",
+    "www.bnbfyt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bnoikl.com",
+    "www.bnoikl.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bnsgrp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.bohol.top",
+    "www.vinted-pl-gj32d.bohol.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "boisecitywire.com"
    ]
   },
@@ -1097,7 +2519,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "max.bolss.xyz",
+    "www.max.bolss.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ft.qvjkw.bongsking.com",
+    "www.ft.qvjkw.bongsking.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bookwritingcorp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "boonecountyguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "borefak.uno",
+    "www.borefak.uno"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "borgelin.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bosny.com"
    ]
   },
   {
@@ -1153,6 +2620,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "brandsenvoy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bransontimes.com"
    ]
   },
@@ -1188,6 +2662,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "brianso.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bridgeporttimes.com"
    ]
   },
@@ -1196,6 +2677,35 @@
    "process": "any",
    "remote-domains": [
     "bristolreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "btcscloudmining.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aq14tyui-001-site1.btempurl.com",
+    "www.aq14tyui-001-site1.btempurl.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "btiku5c6x.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "btr65kaq1.one"
    ]
   },
   {
@@ -1230,6 +2740,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bundelkhand-tourism.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "burlingtonreporter.com"
    ]
   },
@@ -1258,6 +2775,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "businesseducationskills.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "butlerconews.com"
    ]
   },
@@ -1279,6 +2803,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "buty-hokaoneone.com",
+    "www.buty-hokaoneone.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bytesendesign.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "c34f5tybc.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cabarrustoday.com"
    ]
   },
@@ -1294,6 +2840,20 @@
    "process": "any",
    "remote-domains": [
     "cacao.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cacrevivalchapel.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "caimari.com"
    ]
   },
   {
@@ -1322,6 +2882,13 @@
    "process": "any",
    "remote-domains": [
     "cambriatimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.campusconindigital.org"
    ]
   },
   {
@@ -1377,6 +2944,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cantatric.com",
+    "www.cantatric.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cantelia.space",
+    "www.cantelia.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cantonreporter.com"
    ]
   },
@@ -1405,6 +2988,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "capitalboostinvest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "capitaldistricttimes.com"
    ]
   },
@@ -1420,6 +3010,21 @@
    "process": "any",
    "remote-domains": [
     "carbondioxide.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.careofu.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "caribbeanisl.net",
+    "www.caribbeanisl.net"
    ]
   },
   {
@@ -1454,7 +3059,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "catpay.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-mynid2ihxa.cazhou.top",
+    "www.inpost-pl-mynid2ihxa.cazhou.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cbds.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cccbutyonlinepl.com",
+    "www.cccbutyonlinepl.com"
    ]
   },
   {
@@ -1469,6 +3097,20 @@
    "process": "any",
    "remote-domains": [
     "cdc.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cdonation.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.cecambrils.cat"
    ]
   },
   {
@@ -1496,6 +3138,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "celebrities.ae"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "celebrityreputation.com"
    ]
   },
@@ -1510,7 +3159,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "celz2.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ceneooferty.com",
+    "www.ceneooferty.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "censorship.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "centatech.com"
    ]
   },
   {
@@ -1524,7 +3195,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "centerboar.com",
+    "www.centerboar.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.centerforsecuritypolicy.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "central-nutrition.com"
    ]
   },
   {
@@ -1706,6 +3392,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "centrodeapoioacolherdescentralizaminas.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "centroplexnews.com"
    ]
   },
@@ -1713,7 +3406,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "centrum24.pro",
+    "www.centrum24.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "centuryplydelaership.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "chambanasun.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chandigarhdaily.com"
    ]
   },
   {
@@ -1818,6 +3533,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "del1ver-inpomt38.chargdeliverry68.one",
+    "www.del1ver-inpomt38.chargdeliverry68.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "charlestonleader.com"
    ]
   },
@@ -1826,6 +3549,27 @@
    "process": "any",
    "remote-domains": [
     "charlestonreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "charminglady.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "checkmed.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cheffsys.com"
    ]
   },
   {
@@ -1854,6 +3598,13 @@
    "process": "any",
    "remote-domains": [
     "chemotherapy.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.chemsky.tn"
    ]
   },
   {
@@ -1895,7 +3646,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "chist.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chmgpllif.website",
+    "www.chmgpllif.website"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chobemaster.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "chocolate.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choosebusinessidea.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chooseconditrich.xyz",
+    "www.chooseconditrich.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chrismaca.com",
+    "www.chrismaca.com"
    ]
   },
   {
@@ -1910,6 +3706,13 @@
    "process": "any",
    "remote-domains": [
     "christiantimesnewspaper.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "christplanet.com"
    ]
   },
   {
@@ -1938,6 +3741,20 @@
    "process": "any",
    "remote-domains": [
     "cistranfinance.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "citypharmacylv.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "civcraft.net"
    ]
   },
   {
@@ -2056,6 +3873,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "clinicalbotanic.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "clintonreview.com"
    ]
   },
@@ -2070,6 +3894,86 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "justlive0311.node.cloudlets.zone",
+    "www.justlive0311.node.cloudlets.zone"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "app.clubdedocentes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cngst.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "an2az72-di828az.narwuaz.co.pl",
+    "kinka727a8a-72dame92.logoifn.co.pl",
+    "level928a8-for828a.ultrautv.co.pl",
+    "levl2877aa-dshasdghsaz2.wathwch.co.pl",
+    "logia828a-tri827a.spreadstv.co.pl",
+    "malgor027a-zat278az.nowejsil.co.pl",
+    "multi27a7a-vie727az.listydotv.co.pl",
+    "mus7276az-virt81.site828ztv.co.pl",
+    "noti28a7z-ce827a0.barnotv.co.pl",
+    "poss7276a-blea82az.otritv.co.pl",
+    "prote827a8-2982ma2.logainfw.co.pl",
+    "seu28a-fur8278a.podsutv.co.pl",
+    "staf726az-olwu2a.tansloga.co.pl",
+    "tralog827a98-info28az.rejedotv.co.pl",
+    "typ28a7z-naz8727a.siaedietv.co.pl",
+    "www.an2az72-di828az.narwuaz.co.pl",
+    "www.kinka727a8a-72dame92.logoifn.co.pl",
+    "www.level928a8-for828a.ultrautv.co.pl",
+    "www.levl2877aa-dshasdghsaz2.wathwch.co.pl",
+    "www.logia828a-tri827a.spreadstv.co.pl",
+    "www.malgor027a-zat278az.nowejsil.co.pl",
+    "www.multi27a7a-vie727az.listydotv.co.pl",
+    "www.mus7276az-virt81.site828ztv.co.pl",
+    "www.noti28a7z-ce827a0.barnotv.co.pl",
+    "www.poss7276a-blea82az.otritv.co.pl",
+    "www.prote827a8-2982ma2.logainfw.co.pl",
+    "www.seu28a-fur8278a.podsutv.co.pl",
+    "www.staf726az-olwu2a.tansloga.co.pl",
+    "www.tralog827a98-info28az.rejedotv.co.pl",
+    "www.typ28a7z-naz8727a.siaedietv.co.pl",
+    "allaboutguitar.co.uk",
+    "atlastravelservices.co.uk",
+    "blueskyplant.co.uk",
+    "brightkidznursery.co.uk",
+    "bwsengineering.co.za",
+    "chanutea.co.za",
+    "foodinar.co.za",
+    "forbestime.co.uk",
+    "geckoschool.co.za",
+    "hojinxmotors.co.ke",
+    "ipim.co.id",
+    "kmctrader.co.in",
+    "lifestory.co.in",
+    "mabemaservice.co.mz",
+    "magumbaviewcottages.co.tz",
+    "milalina.co.uk",
+    "poolehwbcentre.co.uk",
+    "redwingholistic.co.uk",
+    "royreid.co.uk",
+    "solitaireconstruction.co.ke",
+    "superliving.co.uk",
+    "thedigitalcollab.co.nz",
+    "tortilla.co.il",
+    "wedelivermz.co.mz",
+    "www.manchesterot.co.uk",
+    "zainulabidinsuppliesltd.co.uk",
+    "zamarket.co.za",
+    "zapworks.co.uk",
     "crazynews24.co.zw",
     "imzansi.co.za",
     "livemonitor.co.za",
@@ -2089,6 +3993,13 @@
    "process": "any",
    "remote-domains": [
     "coachellatoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "coadymarine.com"
    ]
   },
   {
@@ -2131,6 +4042,28 @@
    "process": "any",
    "remote-domains": [
     "coconinonews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cocostrunket.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cognac-dynasty.com",
+    "www.cognac-dynasty.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "coinkub.com"
    ]
   },
   {
@@ -2193,6 +4126,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "colombianadealimentos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "coloradovalleyguide.com"
    ]
   },
@@ -2221,6 +4161,124 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "donnetflexx.com.pl",
+    "groupsbnpparibas.com.ng",
+    "jonetflexx.com.pl",
+    "liq-payment.com.ua",
+    "netbflux.com.pl",
+    "netfluxtvvv.com.pl",
+    "netggfixxxxx.com.pl",
+    "onet-informacjemiasto24h.com.pl",
+    "www.donnetflexx.com.pl",
+    "www.groupsbnpparibas.com.ng",
+    "www.jonetflexx.com.pl",
+    "www.liq-payment.com.ua",
+    "www.netbflux.com.pl",
+    "www.netfluxtvvv.com.pl",
+    "www.netggfixxxxx.com.pl",
+    "www.onet-informacjemiasto24h.com.pl",
+    "www.xthq6g6.wm1mdfd31a.henryxclusive.com.ng",
+    "xthq6g6.wm1mdfd31a.henryxclusive.com.ng",
+    "abspet.com.br",
+    "adflow.com.au",
+    "agenciacontatomarketing.com.br",
+    "alpinecoffee.com.np",
+    "altoastralviagens.com.br",
+    "amorecuidados.com.br",
+    "animak.com.br",
+    "annunziato.com.br",
+    "assesci.com.br",
+    "atccmdm.com.au",
+    "barracadoloro.com.br",
+    "bdch.com.au",
+    "beautyline.com.bd",
+    "beenest.com.ng",
+    "blessocomedy.com.ng",
+    "bloomfieldassoc.com.au",
+    "capobiancoaduaneira.com.br",
+    "casalux.com.mx",
+    "cepasvirtual.com.ar",
+    "championsfactorysampaios.com.br",
+    "cidadelle.com.br",
+    "cjssports.com.au",
+    "claudiobertazzoni.com.br",
+    "cleanplaster.com.au",
+    "clinicaeitel.com.br",
+    "cocopasa.com.mx",
+    "contabilcastroecunha.com.br",
+    "contabilidadenovavisao.com.br",
+    "ctel.com.my",
+    "cursosdelavanderia.com.br",
+    "doublesix.com.br",
+    "ecosuministros.com.mx",
+    "edicionescosmos.com.co",
+    "eduardoaluxe.com.br",
+    "exclusivapax.com.br",
+    "exportpack.com.ar",
+    "faceyoga4u.com.au",
+    "fiiyork.com.br",
+    "fioriapicola.com.mx",
+    "gistscope.com.ng",
+    "grupoagapema.com.br",
+    "grupodivulgare.com.br",
+    "grupoexatta.com.br",
+    "gs.com.eg",
+    "hartstark.com.br",
+    "homeinvestor.com.au",
+    "i96.com.br",
+    "investarpropertysolutions.com.au",
+    "iteam.com.bo",
+    "jarediglobal.com.ng",
+    "kalaplakat.com.mk",
+    "kathmandubakery.com.np",
+    "kudos.com.ng",
+    "lacarretamdf.com.mx",
+    "lave.com.br",
+    "lavesc.com.br",
+    "lawyalty.com.ar",
+    "livingedge.com.bd",
+    "luquezfourcade.com.ar",
+    "mancinicabos.com.br",
+    "myd.com.ng",
+    "naturebest.com.bd",
+    "nbsservicos.com.br",
+    "noticiasdiarias.com.br",
+    "nucleogr.com.br",
+    "omeryener.com.tr",
+    "plazasatelite.com.mx",
+    "procalculus.com.br",
+    "proninjasdigital.com.br",
+    "publicshed.com.au",
+    "radiosolutions.com.hr",
+    "raisousa.com.br",
+    "reciclamundialpet.com.br",
+    "rst.com.np",
+    "sejarevitalle.com.br",
+    "seoazul.com.br",
+    "simplesound.com.br",
+    "sistemsab.com.br",
+    "solarrunapp.com.au",
+    "stagaluminium.com.au",
+    "stepheetech.com.ng",
+    "strowd.com.ng",
+    "sudariocontabilidade.com.br",
+    "supplychainsms.com.au",
+    "ta.com.ng",
+    "telmarufino.com.br",
+    "thinksafety.com.ng",
+    "vastra.com.ar",
+    "vrachnasandco.com.au",
+    "vsclinic.com.tr",
+    "wilsonestivalete.com.br",
+    "witgroup.com.au",
+    "www.angloextrema.com.br",
+    "www.chacaltattoo.com.br",
+    "www.clinicaportalpsicologia.com.br",
+    "www.controlnetworks.com.au",
+    "www.llev.com.br",
+    "www.tvculturaourofino.com.br",
+    "yeniguncay.com.tr",
+    "zohotec.com.br",
     "abcnews.com.co",
     "cnn.com.de",
     "drudgereport.com.co",
@@ -2232,7 +4290,31 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "comfortskillz.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "companynet.cc",
+    "companynet.pro",
+    "www.companynet.cc",
+    "www.companynet.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "computing.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.conceptagency.net"
    ]
   },
   {
@@ -2247,6 +4329,20 @@
    "process": "any",
    "remote-domains": [
     "concordledger.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "concrelaje.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "congresonacionaldefutbolfemenil.com"
    ]
   },
   {
@@ -2365,7 +4461,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "contadoor.cl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "conversetanie.pl",
+    "www.conversetanie.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cookcountyrecord.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cooperativeincident.info",
+    "www.cooperativeincident.info"
    ]
   },
   {
@@ -2380,6 +4499,13 @@
    "process": "any",
    "remote-domains": [
     "cornhuskerstatenews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "corporativo1102.com"
    ]
   },
   {
@@ -2442,6 +4568,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cpcwiki.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "crashedff.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "crawfordcountytimes.com"
    ]
   },
@@ -2463,7 +4603,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "crchomeremodeling.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "creambmp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "crescisocial.com"
    ]
   },
   {
@@ -2484,6 +4638,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cronoatletas.uy"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cropprotectionnews.com"
    ]
   },
@@ -2491,7 +4652,50 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "crumbites.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "crumpscor.com",
+    "www.crumpscor.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ctbusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cubelite.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cubicegg.asia"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.cubix-is.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cubixhub.com"
    ]
   },
   {
@@ -2519,6 +4723,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "curtainandbeyond.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cvallhost.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cwinvestmentltd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.cxth.xyz",
+    "www.vinted-pl-gj32d.cxth.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cyberwar.news"
    ]
   },
@@ -2527,6 +4760,20 @@
    "process": "any",
    "remote-domains": [
     "cyborg.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "d23c06na.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dacsandongthapmuoi.vn"
    ]
   },
   {
@@ -2610,6 +4857,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dailystockxchange.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.dailystormer.com"
    ]
   },
@@ -2638,6 +4892,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.danainteraccion.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dandygoat.com"
    ]
   },
@@ -2653,6 +4914,43 @@
    "process": "any",
    "remote-domains": [
     "dangerousmedicine.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "danhaines.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "danieliela.pl",
+    "www.danieliela.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "danmannuelgroup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.danren.xyz",
+    "www.vinted-pl-gj32d.danren.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "darkechelon.co"
    ]
   },
   {
@@ -2680,6 +4978,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "darwinistic.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "data-file-data-7.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "datie-tw.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dauphinnews.com"
    ]
   },
@@ -2701,6 +5020,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "davidmcguinness.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.davidwolfe.com"
    ]
   },
@@ -2709,6 +5035,13 @@
    "process": "any",
    "remote-domains": [
     "davistimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "davjoshoverland.org"
    ]
   },
   {
@@ -2751,6 +5084,20 @@
    "process": "any",
    "remote-domains": [
     "dcwhispers.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ddrtg0oikt.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dea6e67jp.cfd"
    ]
   },
   {
@@ -2820,7 +5167,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "delishicodes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "del1ver-inpomt163.delliverfast69.one",
+    "www.del1ver-inpomt163.delliverfast69.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dementia.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "demirelmarka.com"
    ]
   },
   {
@@ -2849,6 +5218,14 @@
    "process": "any",
    "remote-domains": [
     "demonictimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "olx.demteproki.org",
+    "www.olx.demteproki.org"
    ]
   },
   {
@@ -2918,6 +5295,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "desanchezhospital.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "design-panama.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "designgoalengineering.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "desmoinesguide.com"
    ]
   },
@@ -2932,6 +5330,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "destakimportado.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "destholiday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.detertecnica.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "detroitcitywire.com"
    ]
   },
@@ -2939,7 +5358,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "devinagallagher.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dewittreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dhakafareast.dk"
    ]
   },
   {
@@ -2967,7 +5400,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dicasutil.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "digestion.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "digitalearthfederation.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "buscascolegios.diit.cl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dikasdediva.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dinajpurkathan.in"
    ]
   },
   {
@@ -2982,6 +5450,14 @@
    "process": "any",
    "remote-domains": [
     "disaster.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "disccrdpremium.com",
+    "www.disccrdpremium.com"
    ]
   },
   {
@@ -3016,7 +5492,43 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "djanta-bio.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "djhard.es",
+    "www.djhard.es"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dkb-ag.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dmall-online.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dnc.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dnritsolutions.com"
    ]
   },
   {
@@ -3037,7 +5549,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "doncasco.pe"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "donlolohotel.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "donnetflexx.pl",
+    "www.donnetflexx.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dorchestertoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "itl.dorhtc.site",
+    "www.itl.dorhtc.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "doscorazonesfilms.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "feespay.poczta-polska.pl.dotview.pk",
+    "www.feespay.poczta-polska.pl.dotview.pk"
    ]
   },
   {
@@ -3059,6 +5616,27 @@
    "process": "any",
    "remote-domains": [
     "downtrend.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dpu-tca.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dragaoconnect.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "drkamalbachani.com"
    ]
   },
   {
@@ -3100,6 +5678,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dungaaraujo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dupagepolicyjournal.com"
    ]
   },
@@ -3115,6 +5700,24 @@
    "process": "any",
    "remote-domains": [
     "duvaltimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bafybeibuxjwj5c6x46h4pnsmbfflg4hxxydfuvz7ypjshtmv4az43dmvxe.ipfs.dweb.link",
+    "bafybeidffzoajn7r7ttuzn3qb4ug4gsyg5t5wcf4kmogniupjmp2qay2cq.ipfs.dweb.link",
+    "www.bafybeibuxjwj5c6x46h4pnsmbfflg4hxxydfuvz7ypjshtmv4az43dmvxe.ipfs.dweb.link",
+    "www.bafybeidffzoajn7r7ttuzn3qb4ug4gsyg5t5wcf4kmogniupjmp2qay2cq.ipfs.dweb.link"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dynastycognac.com",
+    "www.dynastycognac.com"
    ]
   },
   {
@@ -3415,6 +6018,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "easydownloadvideo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "easymeds.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "easyprofithunters.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ebabako.com",
+    "www.ebabako.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ecalabamanews.com"
    ]
   },
@@ -3485,6 +6117,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ecomshub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ectexasnews.com"
    ]
   },
@@ -3500,6 +6139,31 @@
    "process": "any",
    "remote-domains": [
     "ecwisconsinnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "abcollege.edu.au",
+    "nepalgunjcollege.edu.np",
+    "ratnarajyamavi.edu.np",
+    "thehopematrichss.edu.in",
+    "upemcampuscuautla.edu.mx"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cultura.educad.pe"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "educagroup.rw"
    ]
   },
   {
@@ -3534,7 +6198,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eirror.com",
+    "www.eirror.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hhe.eiwaggff.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ekdumdesi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ekos-1.com",
+    "www.ekos-1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "elanzanews.ng"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "electricity.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "elektro-outlet.pl",
+    "www.elektro-outlet.pl"
    ]
   },
   {
@@ -3556,6 +6265,22 @@
    "process": "any",
    "remote-domains": [
     "elkhornguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ellastikka.online",
+    "www.ellastikka.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ellosun.com",
+    "www.ellosun.com"
    ]
   },
   {
@@ -3633,7 +6358,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "files.encendercomunicacion.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "enchantmentstatenews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "encuadernacionesartis.com"
    ]
   },
   {
@@ -3668,6 +6407,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "energiesforever.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "engineerbudge.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "englishvalleyguide.com"
    ]
   },
@@ -3682,7 +6435,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eollow.com",
+    "www.eollow.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "epa.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "epabd.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ephphathlogistics.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "epigraphye.com",
+    "www.epigraphye.com"
    ]
   },
   {
@@ -3703,6 +6486,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eri39fg.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ericholder.news"
    ]
   },
@@ -3711,6 +6501,30 @@
    "process": "any",
    "remote-domains": [
     "eriecotimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-pacid273jks.erolab.xyz",
+    "vinted-pl-gj32d.erolab.xyz",
+    "www.inpost-pl-pacid273jks.erolab.xyz",
+    "www.vinted-pl-gj32d.erolab.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "eshoppingmart.pk"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "esicpune.in"
    ]
   },
   {
@@ -3752,6 +6566,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ev-venture.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "evergreenreporter.com"
    ]
   },
@@ -3780,6 +6601,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "evil-eye-design.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "evilnewsom.com"
    ]
   },
@@ -3787,7 +6615,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "evotechug.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.ewao.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "exanriefi.cf",
+    "www.exanriefi.cf"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "exereni.com",
+    "www.exereni.com"
    ]
   },
   {
@@ -3815,6 +6666,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eyotac.com",
+    "www.eyotac.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "f34g56y.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fabricanacionaldemunecos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fairfieldreporter.com"
    ]
   },
@@ -3823,6 +6696,13 @@
    "process": "any",
    "remote-domains": [
     "fairfieldreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fajobydavid.com"
    ]
   },
   {
@@ -3844,6 +6724,13 @@
    "process": "any",
    "remote-domains": [
     "fakescience.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fakherstore.ir"
    ]
   },
   {
@@ -3892,7 +6779,32 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "del1ver-inpomt066.fast-homes70.one",
+    "dellvers142ollx.fast-homes70.one",
+    "www.del1ver-inpomt066.fast-homes70.one",
+    "www.dellvers142ollx.fast-homes70.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fasting.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fastlinetravel.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fastyrydef.cf",
+    "www.fastyrydef.cf"
    ]
   },
   {
@@ -3920,6 +6832,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fbtask.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fda.news"
    ]
   },
@@ -3941,6 +6860,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fe34rfhg5tf.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "federalistpress.com"
    ]
   },
@@ -3955,6 +6881,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "feenyxshop.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fellowshipoftheminds.com"
    ]
   },
@@ -3962,7 +6895,77 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fencedpro.com",
+    "www.fencedpro.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fgcphiladelphiapastures.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fieundefi.com",
+    "www.fieundefi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fightelite.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fightobesity.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fill-wite.site",
+    "www.fill-wite.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "filmiserial.pl",
+    "www.filmiserial.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "filmyiseriale24.pl",
+    "www.filmyiseriale24.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fin-inside.com",
+    "www.fin-inside.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "financialnewsarticle.com",
+    "www.financialnewsarticle.com"
    ]
   },
   {
@@ -3997,6 +7000,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fishloversguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fitterpro.online",
+    "fitterpro.xyz",
+    "www.fitterpro.online",
+    "www.fitterpro.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fiveareaguide.com"
    ]
   },
@@ -4025,6 +7045,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "flintynapper.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "floridaparishnews.com"
    ]
   },
@@ -4033,6 +7060,13 @@
    "process": "any",
    "remote-domains": [
     "www.floridasunpost.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "floristeriatamaya.com"
    ]
   },
   {
@@ -4060,7 +7094,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "flyzawgyi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fmobserver.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.fmstore.xyz",
+    "www.vinted-pl-gj32d.fmstore.xyz"
    ]
   },
   {
@@ -4082,6 +7131,13 @@
    "process": "any",
    "remote-domains": [
     "fondulacnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "foodcibus.com"
    ]
   },
   {
@@ -4116,6 +7172,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "foodsblogs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "foodscience.news"
    ]
   },
@@ -4137,6 +7200,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "foodswipes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "foothillsreview.com"
    ]
   },
@@ -4151,7 +7221,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fordraro.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "forestcountrynews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "foreverlivingpk.com"
    ]
   },
   {
@@ -4166,6 +7250,22 @@
    "process": "any",
    "remote-domains": [
     "fortsmithtimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fota-strony.eu",
+    "www.fota-strony.eu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fota-znaleziona.eu",
+    "www.fota-znaleziona.eu"
    ]
   },
   {
@@ -4207,6 +7307,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "del1ver-inpomt153pollands.free-deliverrypoland59.one",
+    "www.del1ver-inpomt153pollands.free-deliverrypoland59.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "freebeacon.com"
    ]
   },
@@ -4242,6 +7350,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "del1ver-inpomt497pollands.freedostawkapln61.one",
+    "www.del1ver-inpomt497pollands.freedostawkapln61.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "freepetergreste.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.freewoodpost.com"
    ]
   },
@@ -4264,6 +7387,14 @@
    "process": "any",
    "remote-domains": [
     "www.fridaymash.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "frlxid.cyou",
+    "www.frlxid.cyou"
    ]
   },
   {
@@ -4319,6 +7450,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fundacjazielonaprzyszlosc.pl",
+    "www.fundacjazielonaprzyszlosc.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "funds-flowlimited.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fusionlacedillusions.com"
    ]
   },
@@ -4327,6 +7473,21 @@
    "process": "any",
    "remote-domains": [
     "futuresciencenews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "futuretoday.pro",
+    "www.futuretoday.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "g4rty6b.one"
    ]
   },
   {
@@ -4368,6 +7529,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gallivantoinn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "galvaguide.com"
    ]
   },
@@ -4383,6 +7551,13 @@
    "process": "any",
    "remote-domains": [
     "gardenstatetimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gasextraincltd.com"
    ]
   },
   {
@@ -4410,7 +7585,50 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gayatrisatta.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wh-pl.gaztr.xyz",
+    "www.wh-pl.gaztr.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gbpinter.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gccvfs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gcfurn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gemstatewire.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gencayemlak.com"
    ]
   },
   {
@@ -4438,6 +7656,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gentegeek.mx"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "geoengineering.news"
    ]
   },
@@ -4459,7 +7684,89 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "germliningcorporation.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gestko.top",
+    "www.gestko.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "getbusinessservices.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "getintodevice.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "getyournitro3.one",
+    "www.getyournitro3.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "giftcoupononline.com",
+    "www.giftcoupononline.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fot.gimms.xyz",
+    "www.fot.gimms.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "giyahgostar.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "glaciercountrynews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "glamspin360.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "m.glarespongy.top",
+    "www.m.glarespongy.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "glceg.com"
    ]
   },
   {
@@ -4480,7 +7787,24 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tangy-cat-turn.glitch.me",
+    "www.tangy-cat-turn.glitch.me",
     "glitch.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "globalconstructionindustries.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "globallpackoif.com",
+    "www.globallpackoif.com"
    ]
   },
   {
@@ -4537,6 +7861,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "god-bless.online",
+    "www.god-bless.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.godlikeproductions.com"
    ]
   },
@@ -4572,6 +7904,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "golipuy.shop",
+    "www.golipuy.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gomerblog.com"
    ]
   },
@@ -4600,8 +7940,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "noticiasalcaldianeiva.gov.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "govtslaves.com",
     "govtslaves.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gpuminingcards.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "grafitplus.ro"
    ]
   },
   {
@@ -4630,6 +7991,14 @@
    "process": "any",
    "remote-domains": [
     "granitestatetimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gravidasa.com",
+    "www.gravidasa.com"
    ]
   },
   {
@@ -4720,6 +8089,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.greenvalleyschool.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "greenvilleleader.com"
    ]
   },
@@ -4741,7 +8117,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "griseldaproperties.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "grocery.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "grouptraveltours.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "growvl.com"
    ]
   },
   {
@@ -4756,6 +8153,13 @@
    "process": "any",
    "remote-domains": [
     "grundyreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gtb7cd8x6.cfd"
    ]
   },
   {
@@ -4783,7 +8187,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gulf-crown.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gulfnewsjournal.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gulfpearlshotel.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gullyclubs.com"
    ]
   },
   {
@@ -4797,7 +8222,70 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gypsyisms.com",
+    "www.gypsyisms.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "h45iuy7.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-hid226ks.haberim.xyz",
+    "www.inpost-pl-hid226ks.haberim.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "habr.moscow",
+    "habr.world",
+    "www.habr.moscow",
+    "www.habr.world"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "habraszek.pl",
+    "www.habraszek.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hahaloud.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hairexpect.info",
+    "www.hairexpect.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "halilovicbus.ba"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "halimaakter.xyz"
    ]
   },
   {
@@ -4860,6 +8348,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "harleyofficial.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hartfordreporter.com"
    ]
   },
@@ -4867,7 +8362,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hartstark.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hasanmojumdar.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hasovan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hawkeyereporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "headlineplayroom.com"
    ]
   },
   {
@@ -4889,6 +8412,13 @@
    "process": "any",
    "remote-domains": [
     "healthimpactnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "healthlinetips.xyz"
    ]
   },
   {
@@ -4958,6 +8488,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hegirom.site",
+    "www.hegirom.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "helicopterbookingonline.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hemebsconstruction.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hempscience.news"
    ]
   },
@@ -4987,6 +8539,29 @@
    "process": "any",
    "remote-domains": [
     "hernandoreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "frozen-river-81375.herokuapp.com",
+    "www.frozen-river-81375.herokuapp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hey-tv.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hiansgoew.com",
+    "www.hiansgoew.com"
    ]
   },
   {
@@ -5042,6 +8617,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "himalayaclinic.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hindstoday.com"
    ]
   },
@@ -5049,7 +8631,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hivetrades.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hoax.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hoedoma.com",
+    "www.hoedoma.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "holidaytimes.net"
    ]
   },
   {
@@ -5084,7 +8688,50 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "home-babysvvap.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "del1ver-inpomt406pollands.home-dostavochkapl58.one",
+    "www.del1ver-inpomt406pollands.home-dostavochkapl58.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "homeschooling.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "homesexpert.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "homesinspiration.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "homeworkproviders.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "homro.com"
    ]
   },
   {
@@ -5106,6 +8753,36 @@
    "process": "any",
    "remote-domains": [
     "hopkinsvilletimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "horriblehosting.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hotakeol.com",
+    "www.hotakeol.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hotellandmarkinn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "prog-pl1.hotpr0g.site",
+    "www.prog-pl1.hotpr0g.site"
    ]
   },
   {
@@ -5154,7 +8831,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hphost.online",
+    "www.hphost.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hrdailywire.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hrsdj.shop",
+    "www.hrsdj.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hsweixintp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "huacapalmeras.com"
    ]
   },
   {
@@ -5168,6 +8875,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-olx-u28hv2.hufutang.top",
+    "www.pl-olx-u28hv2.hufutang.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "humansarefree.com"
    ]
   },
@@ -5175,7 +8890,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "humasjatim.id"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "humboldtreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "humerabuildersanddevelopers.com"
    ]
   },
   {
@@ -5231,7 +8960,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vinted-pl-gj32d.hzbn.xyz",
+    "www.vinted-pl-gj32d.hzbn.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "iabusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "iattle.com",
+    "www.iattle.com"
    ]
   },
   {
@@ -5259,7 +9004,43 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "idealkitchen.ma"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "idealpackaging.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "a.angel-tn.idv.tw"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "iencedu.ng"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.ifactsviral.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "igbodsatu.cf",
+    "www.igbodsatu.cf"
    ]
   },
   {
@@ -5273,7 +9054,43 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "iiia.ae"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ijmnhxd5t.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ikbalhossain.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ikr2c8jw.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ilbusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ilisewx.space",
+    "www.ilisewx.space"
    ]
   },
   {
@@ -5294,6 +9111,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ilmbuzz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "immediatesafety.org"
    ]
   },
@@ -5308,7 +9132,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "impeccablepublishingng.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "imperialcanews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "impsol.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "incamore.com"
    ]
   },
   {
@@ -5329,6 +9174,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "indianbake.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "indianolaguide.com"
    ]
   },
@@ -5337,6 +9189,13 @@
    "process": "any",
    "remote-domains": [
     "indiantownguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "industry-link.com"
    ]
   },
   {
@@ -5357,7 +9216,45 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "inegakel.space",
+    "www.inegakel.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.infiniteunknown.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "infocannep.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ai.infocos.xyz",
+    "www.ai.infocos.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "infoiaonline.site",
+    "www.infoiaonline.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inforising.com"
    ]
   },
   {
@@ -5394,7 +9291,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ingoinves.website",
+    "www.ingoinves.website"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ingolimentgold.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ingredients.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "innovatedbusinessmarketing.com"
    ]
   },
   {
@@ -5408,7 +9327,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "insidemaxi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "insuranceratereporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "integps.com"
    ]
   },
   {
@@ -5422,6 +9355,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pril15kuzue.interasf.xyz",
+    "www.pril15kuzue.interasf.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "interioralaskanews.com"
    ]
   },
@@ -5429,7 +9370,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "interprizink.online",
+    "www.interprizink.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "inthenow.media"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b-pl.intproject.xyz",
+    "www.b-pl.intproject.xyz"
    ]
   },
   {
@@ -5464,7 +9421,32 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "investinafrica.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "investmentwatchblog.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "invst.live",
+    "invst.pro",
+    "www.invst.live",
+    "www.invst.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inwestycjabtc.com",
+    "www.inwestycjabtc.com"
    ]
   },
   {
@@ -5527,6 +9509,51 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "itfive.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "itsshowtime.top",
+    "www.itsshowtime.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "izedup.com",
+    "www.izedup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "j8f7bgmm7.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "j9bvc1z.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dpd.jabiprok.org",
+    "www.dpd.jabiprok.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "jacksoncoguide.com"
    ]
   },
@@ -5562,6 +9589,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jamiewriters.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jammingexpressshipping.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "janmorganmedia.com"
    ]
   },
@@ -5577,6 +9618,13 @@
    "process": "any",
    "remote-domains": [
     "jayokguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jc-ministry.org"
    ]
   },
   {
@@ -5612,6 +9660,28 @@
    "process": "any",
    "remote-domains": [
     "www.jihadwatch.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jiufaer.space",
+    "www.jiufaer.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jjeccforum.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "partner-api.jobbio.com"
    ]
   },
   {
@@ -5695,7 +9765,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jonetflexx.pl",
+    "www.jonetflexx.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "journal-neo.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jsc-market.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jtotruth.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "justsmart.online",
+    "www.justsmart.online"
    ]
   },
   {
@@ -5709,7 +9809,72 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "juugaadmedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jvconsults.ng"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jxwd.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "k2bpms.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "k56tyui.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "k60s5v.cyou",
+    "www.k60s5v.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kaarnival.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kabaruntukrakyat.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kalamazootimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kaloszehunterwarszawa.com",
+    "www.kaloszehunterwarszawa.com"
    ]
   },
   {
@@ -5724,6 +9889,21 @@
    "process": "any",
    "remote-domains": [
     "kankakeetimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kapraywala.ga"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kasiazurawju.pl",
+    "www.kasiazurawju.pl"
    ]
   },
   {
@@ -5751,7 +9931,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "inpost.kbiao.top",
+    "www.inpost.kbiao.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kcreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kemaplspc.website",
+    "www.kemaplspc.website"
    ]
   },
   {
@@ -5800,6 +9996,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kesodemo.com",
+    "www.kesodemo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kevogel.com",
+    "www.kevogel.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "keystonebusinessnews.com"
    ]
   },
@@ -5815,6 +10027,56 @@
    "process": "any",
    "remote-domains": [
     "keywestreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "polska-vinted-hjso21.kfjpojr.top",
+    "vinted-pl-gj32d.kfjpojr.top",
+    "vintet-pl-kl2112.kfjpojr.top",
+    "virted-pl-fi551.kfjpojr.top",
+    "www.polska-vinted-hjso21.kfjpojr.top",
+    "www.vinted-pl-gj32d.kfjpojr.top",
+    "www.vintet-pl-kl2112.kfjpojr.top",
+    "www.virted-pl-fi551.kfjpojr.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kiapartners.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kidsgalaxylearningcenter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kilitvar.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kimyen.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kingowczar.pl",
+    "www.kingowczar.pl"
    ]
   },
   {
@@ -5842,6 +10104,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kitchenmy.online",
+    "www.kitchenmy.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kitsapreview.com"
    ]
   },
@@ -5849,7 +10119,38 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "inpost-pl-my-id2g3ys.kivip.top",
+    "www.inpost-pl-my-id2g3ys.kivip.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.kkk.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "klimexcm.com",
+    "www.klimexcm.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kmnh6tg43ed.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kmrekinvinpl.space",
+    "www.kmrekinvinpl.space"
    ]
   },
   {
@@ -5877,7 +10178,25 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "komarsyspl.site",
+    "www.komarsyspl.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "info.kopp-verlag.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "olx-pol-kxlsw2.kotes.xyz",
+    "polska-olx-girqz.kotes.xyz",
+    "www.olx-pol-kxlsw2.kotes.xyz",
+    "www.polska-olx-girqz.kotes.xyz"
    ]
   },
   {
@@ -5905,7 +10224,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kucamulak.pl",
+    "www.kucamulak.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kupr7.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kuygvdt5tg.click"
    ]
   },
   {
@@ -5927,6 +10261,13 @@
    "process": "any",
    "remote-domains": [
     "kypo6.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "l9eg69oik.cfd"
    ]
   },
   {
@@ -6024,6 +10365,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lanalu.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.landrypost.com"
    ]
   },
@@ -6052,6 +10400,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lansol.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lapetitecocinas.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "laptop4students.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "laredotimes.com"
    ]
   },
@@ -6067,6 +10436,21 @@
    "process": "any",
    "remote-domains": [
     "larouchepub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lasgoy.space",
+    "www.lasgoy.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lasonet.com"
    ]
   },
   {
@@ -6094,7 +10478,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "latoyacafe.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "laurelhighlandstoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lawcourses.us"
    ]
   },
   {
@@ -6116,6 +10514,13 @@
    "process": "any",
    "remote-domains": [
     "laxleader.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "laxvhost.in"
    ]
   },
   {
@@ -6150,7 +10555,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "legateway.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lehightimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost.leidei.top",
+    "www.inpost.leidei.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lensmedia.ae"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "letsggoo.com"
    ]
   },
   {
@@ -6249,6 +10683,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lideser.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.lifezette.com"
    ]
   },
@@ -6284,6 +10725,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "liragee.info",
+    "www.liragee.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "litchfieldhillstoday.com"
    ]
   },
@@ -6305,6 +10754,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "polska-vinted-hjso21.liuru.top",
+    "vinted-pl-gj32d.liuru.top",
+    "vinted-pl-gkk219.liuru.top",
+    "vinted-pl-id002c.liuru.top",
+    "vinted-polska-rr124.liuru.top",
+    "vintet-pl-kl2112.liuru.top",
+    "virted-pl-fi551.liuru.top",
+    "vjnted-pl-ijfoks.liuru.top",
+    "www.polska-vinted-hjso21.liuru.top",
+    "www.vinted-pl-gj32d.liuru.top",
+    "www.vinted-pl-gkk219.liuru.top",
+    "www.vinted-pl-id002c.liuru.top",
+    "www.vinted-polska-rr124.liuru.top",
+    "www.vintet-pl-kl2112.liuru.top",
+    "www.virted-pl-fi551.liuru.top",
+    "www.vjnted-pl-ijfoks.liuru.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "livingresistance.com"
    ]
   },
@@ -6313,6 +10784,14 @@
    "process": "any",
    "remote-domains": [
     "livingstontoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "logujesz-sie.life",
+    "www.logujesz-sie.life"
    ]
   },
   {
@@ -6340,7 +10819,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ps.lontoozz.site",
+    "www.ps.lontoozz.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "loraintimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lordbabalokenath.org"
    ]
   },
   {
@@ -6382,6 +10876,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lsknf45vgh.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ltsoftwares.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lubbocktimes.com"
    ]
   },
@@ -6396,6 +10904,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lugarbarato.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.lushforlife.com"
    ]
   },
@@ -6403,7 +10918,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "luttesenegal.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "luzernetimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lwsoundtrackstore.com"
    ]
   },
   {
@@ -6425,6 +10954,28 @@
    "process": "any",
    "remote-domains": [
     "lynwoodtimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lyricsouts.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lyskaniuk.pl",
+    "www.lyskaniuk.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "m-ainsurance.com"
    ]
   },
   {
@@ -6460,6 +11011,13 @@
    "process": "any",
    "remote-domains": [
     "macontimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "madaecotrip.com"
    ]
   },
   {
@@ -6522,7 +11080,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "magrasac.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "magutines.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mahaskaguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mahiunitedservices.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "maincyber.live",
+    "www.maincyber.live"
    ]
   },
   {
@@ -6557,6 +11144,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "maisher.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "maitlandtoday.com"
    ]
   },
@@ -6565,6 +11159,13 @@
    "process": "any",
    "remote-domains": [
     "makeamericagreattoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "maksv.lv"
    ]
   },
   {
@@ -6592,6 +11193,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "maorkotler.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "marinleader.com"
    ]
   },
@@ -6613,7 +11221,64 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "marisabarda.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "marktbitpro.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "marrakech-luxury-properties.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "marshallguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "martmedix.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mascotahub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mashankol.space",
+    "www.mashankol.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mastbeauty.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mateteirealty.com"
    ]
   },
   {
@@ -6634,7 +11299,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "andro.maximizator-avto.xyz",
+    "www.andro.maximizator-avto.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mbankscz.online",
+    "www.mbankscz.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mbynews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mc-conserv.com"
    ]
   },
   {
@@ -6670,6 +11358,20 @@
    "process": "any",
    "remote-domains": [
     "mdstatewire.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mecanicacitesa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mecasysbaja.com"
    ]
   },
   {
@@ -6725,7 +11427,52 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mediumagd.pl",
+    "www.mediumagd.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mee.mn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "meetskoy.uno",
+    "www.meetskoy.uno"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "megadealernews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "megotwon.space",
+    "www.megotwon.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mehndidesignssimple.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mekongavc.sg"
    ]
   },
   {
@@ -6774,7 +11521,24 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fact.mestopoland.pro",
+    "sunfun.mestopoland.space",
+    "www.fact.mestopoland.pro",
+    "www.sunfun.mestopoland.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "metals.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "metexshowroom.com"
    ]
   },
   {
@@ -6809,6 +11573,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "meusnk.space",
+    "www.meusnk.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mexicanjeff.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mexicobusinessdaily.com"
    ]
   },
@@ -6816,7 +11595,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mhdirect.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "miamicourant.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mianhoew.uno",
+    "www.mianhoew.uno"
    ]
   },
   {
@@ -6872,6 +11666,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "midcourses.info",
+    "www.midcourses.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "midlandtimes.com"
    ]
   },
@@ -6908,6 +11710,13 @@
    "process": "any",
    "remote-domains": [
     "www.militianews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "millattribune.com"
    ]
   },
   {
@@ -6970,6 +11779,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mireis.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "missaosocialmedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mitgath.host",
+    "www.mitgath.host"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mkecitywire.com"
    ]
   },
@@ -6985,6 +11816,34 @@
    "process": "any",
    "remote-domains": [
     "mkesouth.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mkeyecentergh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mlkaviation.sg"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mlwsx6ygh.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mnbumalifoundation.org"
    ]
   },
   {
@@ -7026,6 +11885,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "modernenglishclasses.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mohamedhamada.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mohavetoday.com"
    ]
   },
@@ -7034,6 +11907,13 @@
    "process": "any",
    "remote-domains": [
     "mohawkvalleytimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "monke.re"
    ]
   },
   {
@@ -7208,6 +12088,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mt-proyectos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mt5team.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mtbusinessdaily.com"
    ]
   },
@@ -7223,6 +12117,44 @@
    "process": "any",
    "remote-domains": [
     "mtpleasantguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "muchalukasz.pl",
+    "www.muchalukasz.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "muddyindulgent.cn",
+    "www.muddyindulgent.cn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mudrafinanceslimited.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mufaddal-its.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "muldasatouchs.tk",
+    "www.muldasatouchs.tk"
    ]
   },
   {
@@ -7257,7 +12189,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mynextsteps.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "myphamcuatui.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "myrtlebeachleader.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "myseacharter.com"
    ]
   },
   {
@@ -7271,7 +12224,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mzhuto2j.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nahadaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "najm-co.ir"
    ]
   },
   {
@@ -7299,6 +12266,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nasaglobal.ca"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nashvillestandard.com"
    ]
   },
@@ -7306,7 +12280,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "naspmt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nassaustandard.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nastlosawt.com",
+    "www.nastlosawt.com"
    ]
   },
   {
@@ -7447,6 +12436,27 @@
    "process": "any",
    "remote-domains": [
     "naugatucktimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nauticagurri.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "navylin.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nayatelhosting.com"
    ]
   },
   {
@@ -7838,6 +12848,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "isc.net.ua"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "netarrantnews.com"
    ]
   },
@@ -7845,7 +12862,70 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "netbflux.pl",
+    "www.netbflux.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hosting180139.a2f0c.netcup.net",
+    "www.hosting180139.a2f0c.netcup.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "netfluxtvvv.pl",
+    "www.netfluxtvvv.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chipper-pavlova-1f5123.netlify.app",
+    "cpcleanserversion598734541cgyby34872545v23452345.netlify.app",
+    "frolicking-cannoli-b2c810.netlify.app",
+    "magnificent-pika-bb2f40.netlify.app",
+    "peaceful-muffin-a7832a.netlify.app",
+    "shiny-mousse-17797b.netlify.app",
+    "tangerine-sorbet-981d76.netlify.app",
+    "taupe-sprite-67ab1d.netlify.app",
+    "transcendent-queijadas-e99992.netlify.app",
+    "www.chipper-pavlova-1f5123.netlify.app",
+    "www.cpcleanserversion598734541cgyby34872545v23452345.netlify.app",
+    "www.frolicking-cannoli-b2c810.netlify.app",
+    "www.magnificent-pika-bb2f40.netlify.app",
+    "www.peaceful-muffin-a7832a.netlify.app",
+    "www.shiny-mousse-17797b.netlify.app",
+    "www.tangerine-sorbet-981d76.netlify.app",
+    "www.taupe-sprite-67ab1d.netlify.app",
+    "www.transcendent-queijadas-e99992.netlify.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "netlivemedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "networkcoursemedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.xokkl.neuro-unlim.xyz",
+    "xokkl.neuro-unlim.xyz"
    ]
   },
   {
@@ -7867,6 +12947,14 @@
    "process": "any",
    "remote-domains": [
     "nevo.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "newabc24.pl",
+    "www.newabc24.pl"
    ]
   },
   {
@@ -7908,6 +12996,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "newhom24h.pl",
+    "www.newhom24h.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "newisconsinnews.com"
    ]
   },
@@ -7923,6 +13019,13 @@
    "process": "any",
    "remote-domains": [
     "newrivervalleytimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "news13.eu"
    ]
   },
   {
@@ -8076,7 +13179,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nextbtc.io"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nflhdgamepass.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ngosathi.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nhbusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nhgfr7yh.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nhgtr46t.cfd"
    ]
   },
   {
@@ -8090,7 +13228,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nikieco.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.nipunpharmaskill.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "njbusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nlasandbox.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nlasandbox3.com"
    ]
   },
   {
@@ -8119,6 +13285,13 @@
    "process": "any",
    "remote-domains": [
     "nolareporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nonfungiblearcade.com"
    ]
   },
   {
@@ -8322,6 +13495,14 @@
    "process": "any",
    "remote-domains": [
     "northessexnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "northfacewarszawa.pl",
+    "www.northfacewarszawa.pl"
    ]
   },
   {
@@ -8762,6 +13943,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nowe-info24h.pl",
+    "www.nowe-info24h.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.nowtheendbegins.com"
    ]
   },
@@ -8791,6 +13980,20 @@
    "process": "any",
    "remote-domains": [
     "nuclearweapons.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nug5i3tv.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nutaze.com"
    ]
   },
   {
@@ -9049,7 +14252,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nyt67dfa.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "oaklandrecord.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "observercertify.cn",
+    "www.observercertify.cn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ocabinu.com",
+    "www.ocabinu.com"
    ]
   },
   {
@@ -9091,6 +14317,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "odlcampus.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "oealuminiumsolutionltd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "off-guardian.org"
    ]
   },
@@ -9098,7 +14338,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "offermaketool.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "oftwominds.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ogloszenia.store",
+    "www.ogloszenia.store"
    ]
   },
   {
@@ -9113,6 +14368,14 @@
    "process": "any",
    "remote-domains": [
     "ohiovalleytimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ohorub.com",
+    "www.ohorub.com"
    ]
   },
   {
@@ -9161,6 +14424,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "olivicolapalazzini.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ollbest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "olympictimes.com"
    ]
   },
@@ -9169,6 +14446,21 @@
    "process": "any",
    "remote-domains": [
     "omaharecord.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.omeome.xyz",
+    "www.vinted-pl-gj32d.omeome.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onclickweb.com"
    ]
   },
   {
@@ -9189,7 +14481,65 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "onelifecm.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "onlineconservativepress.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlinehelicopterbookingtrip.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlinehelicopterservice.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlinelearningcom.shop",
+    "www.onlinelearningcom.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlinelearningup.site",
+    "www.onlinelearningup.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlineloansoffers.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlineolabooking.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "onlinetvlivestreaming24.xyz"
    ]
   },
   {
@@ -9231,6 +14581,49 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "oplexx.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "oplexxhealth.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "oplexxlifestyle.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "oprites.link",
+    "www.oprites.link"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "optinum.ltd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "orangetravel.cl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "orbusinessdaily.com"
    ]
   },
@@ -9238,7 +14631,50 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "orchidflowerssas.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-argn.order1894.biz",
+    "inpost-xszm.order1894.biz",
+    "www.inpost-argn.order1894.biz",
+    "www.inpost-xszm.order1894.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-tuhg.order6091.info",
+    "inpost-uku.order6091.info",
+    "vinted-twfh.order6091.info",
+    "www.inpost-tuhg.order6091.info",
+    "www.inpost-uku.order6091.info",
+    "www.vinted-twfh.order6091.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "oreillypost.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "borntobefree.org.za",
+    "consumoconsciente.org.ar",
+    "ebpm.org.br",
+    "fundacionvidanueva.org.ec",
+    "iculturalbr.org.br",
+    "msjcharity.org.uk",
+    "rccgjuniorchurch.org.ng",
+    "sakatrust.org.uk"
    ]
   },
   {
@@ -9287,6 +14723,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "orlen.page",
+    "www.orlen.page"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "otticapassadore.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ottumwaguide.com"
    ]
   },
@@ -9315,6 +14766,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "overthehedgemusic.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "oxfordmetoday.com"
    ]
   },
@@ -9336,7 +14794,54 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "p1.autos",
+    "www.p1.autos",
+    "www.youtube.p1.beauty",
+    "www.youtube.p1.gives",
+    "youtube.p1.beauty",
+    "youtube.p1.gives"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pa12cqxe.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "packlabsolutions.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lkwnw.pages.dev",
+    "uieuq.pages.dev",
+    "vtlpn.pages.dev",
+    "www.lkwnw.pages.dev",
+    "www.uieuq.pages.dev",
+    "www.vtlpn.pages.dev",
+    "www.xtntg.pages.dev",
+    "xtntg.pages.dev"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pagetaylornews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pagtutors.com"
    ]
   },
   {
@@ -9413,6 +14918,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "papspharma.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "particuliers-societe.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pascoreporter.com"
    ]
   },
@@ -9421,6 +14940,13 @@
    "process": "any",
    "remote-domains": [
     "passiacnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "passmytoefl.com"
    ]
   },
   {
@@ -9463,6 +14989,35 @@
    "process": "any",
    "remote-domains": [
     "www.paulcraigroberts.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "del1ver-inpomt847.payment-poland67.one",
+    "www.del1ver-inpomt847.payment-poland67.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "payoco.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "paywafe.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pchosting.ir"
    ]
   },
   {
@@ -9518,6 +15073,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "peopleplants.top",
+    "www.peopleplants.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "peoriastandard.com"
    ]
   },
@@ -9567,6 +15130,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "del1ver-inpomt6152polland.peydostawahome56.cyou",
+    "www.del1ver-inpomt6152polland.peydostawahome56.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phanvisinhmaichi.vn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phillyleader.com"
    ]
   },
@@ -9588,7 +15166,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pickupglobals.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "piercetoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pigertow.com",
+    "www.pigertow.com"
    ]
   },
   {
@@ -9630,7 +15223,31 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "piralty.com",
+    "www.piralty.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "piskome.space",
+    "www.piskome.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pittreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "facebook.pl5.shop",
+    "www.facebook.pl5.shop"
    ]
   },
   {
@@ -9672,7 +15289,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pocztowy.co",
+    "www.pocztowy.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pokalambroguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "greenenegryx1.polbest.monster",
+    "www.greenenegryx1.polbest.monster"
    ]
   },
   {
@@ -9770,6 +15403,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "polskiepremium.pl",
+    "www.polskiepremium.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pomonavalleynews.com"
    ]
   },
@@ -9792,6 +15433,14 @@
    "process": "any",
    "remote-domains": [
     "populationcontrol.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "porgaw.site",
+    "www.porgaw.site"
    ]
   },
   {
@@ -9848,6 +15497,16 @@
    "process": "any",
    "remote-domains": [
     "poweshiekguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "app.pragmago.net",
+    "pragmago.net",
+    "www.app.pragmago.net",
+    "www.pragmago.net"
    ]
   },
   {
@@ -9946,6 +15605,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "productssuggest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "4us.profesptsln.online",
+    "pu.profesptsln.online",
+    "www.4us.profesptsln.online",
+    "www.pu.profesptsln.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "profileboosta.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "profitoneerp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "progress.news"
    ]
   },
@@ -9954,6 +15644,14 @@
    "process": "any",
    "remote-domains": [
     "projectveritas.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "propaczki.cloud",
+    "www.propaczki.cloud"
    ]
   },
   {
@@ -9974,7 +15672,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "propertywolf.pk"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "prophecy.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "prosperitymoving.com"
    ]
   },
   {
@@ -9995,6 +15707,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "przechodze-dalej.buzz",
+    "przechodze-dalej.icu",
+    "www.przechodze-dalej.buzz",
+    "www.przechodze-dalej.icu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "psifiakoworld.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pulaskitimes.com"
    ]
   },
@@ -10002,7 +15731,58 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pumpkininnovations.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pupmotihari.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "purchase-facebook.com",
+    "www.purchase-facebook.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "purposedesigns.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qa5nhg6tygh.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qm492v.cyou",
+    "www.qm492v.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "qpolitical.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qtamed.com"
    ]
   },
   {
@@ -10023,7 +15803,51 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "2up.quantiremesp.xyz",
+    "www.2up.quantiremesp.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "quietasamouseofficial.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "quincyreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qushowka.link",
+    "www.qushowka.link"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qwvmgj82cvm.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qyqevqvig.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "r6hsv2gxd.cfd"
    ]
   },
   {
@@ -10051,6 +15875,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "rafayrajpoot.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "yuanliao.raluking.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "randolphcountynews.com"
    ]
   },
@@ -10059,6 +15897,13 @@
    "process": "any",
    "remote-domains": [
     "www.rapefugees.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "raynerise.com"
    ]
   },
   {
@@ -10121,6 +15966,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "realsoftsd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "receipy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "reconditionari-turbine.com",
+    "www.reconditionari-turbine.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "recoveryservicedubai.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "reddingtoday.com"
    ]
   },
@@ -10129,6 +16003,14 @@
    "process": "any",
    "remote-domains": [
     "www.redflagnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kolbka.redsistem.site",
+    "www.kolbka.redsistem.site"
    ]
   },
   {
@@ -10170,6 +16052,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "relationshiplife.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.renegadetribune.com"
    ]
   },
@@ -10184,8 +16073,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "renovapos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "rense.com",
     "www.rense.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "teslaprestige.repl.co",
+    "www.teslaprestige.repl.co"
    ]
   },
   {
@@ -10199,7 +16103,59 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "requitelove.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "reregulat.com",
+    "www.reregulat.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "research.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "researchtoll.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "resorbreso.com",
+    "www.resorbreso.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "restaurantela73.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "retro-fanshirt.com",
+    "www.retro-fanshirt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "revitrealestate.com"
    ]
   },
   {
@@ -10220,6 +16176,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "rfj87lmj.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ribusinessdaily.com"
    ]
   },
@@ -10234,7 +16197,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "richconnect.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "richesandbeyond.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "richmondleader.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "richrainbows.com"
    ]
   },
   {
@@ -10263,6 +16247,21 @@
    "process": "any",
    "remote-domains": [
     "rightwingnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rihannii.space",
+    "www.rihannii.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "db.rikaz.tech"
    ]
   },
   {
@@ -10326,6 +16325,13 @@
    "process": "any",
    "remote-domains": [
     "rivieratxguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rkhack.com"
    ]
   },
   {
@@ -10402,6 +16408,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "rockvalleygoa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "rockymounttoday.com"
    ]
   },
@@ -10423,7 +16436,51 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "route66cars.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "routinger.net",
+    "www.routinger.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "rowannews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "royalenfield-dealer.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "royalenfielddealer.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rparg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rraimall.com",
+    "www.rraimall.com"
    ]
   },
   {
@@ -10436,6 +16493,13 @@
     "francais.rt.com",
     "rtd.rt.com",
     "www.rt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ruitaiwz.com"
    ]
   },
   {
@@ -10485,6 +16549,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "s3ghospitality.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "s584d3v3s.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beansdata.sa.com",
+    "defstage.sa.com",
+    "deftime.sa.com",
+    "limitationline.sa.com",
+    "october-pl.sa.com",
+    "pincore.sa.com",
+    "securityon.sa.com",
+    "topdefline.sa.com",
+    "www.beansdata.sa.com",
+    "www.defstage.sa.com",
+    "www.deftime.sa.com",
+    "www.limitationline.sa.com",
+    "www.october-pl.sa.com",
+    "www.pincore.sa.com",
+    "www.securityon.sa.com",
+    "www.topdefline.sa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sacoriverguide.com"
    ]
   },
@@ -10506,7 +16606,43 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sadjadtalakoob.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sageremediesgh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sahwa77.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "saififoundation.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "salemnewswire.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "samtek-invest.pro",
+    "www.samtek-invest.pro"
    ]
   },
   {
@@ -10625,6 +16761,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sat7ate.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "satanictech.com"
    ]
   },
@@ -10660,6 +16803,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sb244iuy.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "scalaskanews.com"
    ]
   },
@@ -10667,7 +16817,45 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "scarpabuty.com",
+    "www.scarpabuty.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "scconnnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "scelecta.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "badbadak.sch.ir",
+    "smkn1bengkulu.sch.id"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "schemeobscure.cn",
+    "www.schemeobscure.cn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "schooloftechnologies.com"
    ]
   },
   {
@@ -10759,6 +16947,14 @@
    "process": "any",
    "remote-domains": [
     "scoklahomanews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "scouthistory.net",
+    "www.scouthistory.net"
    ]
   },
   {
@@ -10919,6 +17115,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "seekbooks.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "segeorgianews.com"
    ]
   },
@@ -10983,6 +17186,35 @@
    "process": "any",
    "remote-domains": [
     "selatimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "selectonecollision.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "selirit.space",
+    "www.selirit.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "semalop98w7.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "semarewwdw7.cfd"
    ]
   },
   {
@@ -11059,7 +17291,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sepalsunf.com",
+    "www.sepalsunf.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sercoltur.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "2biz.services-ai-tech.cfd",
+    "www.2biz.services-ai-tech.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sesdnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sesiseperu.com"
    ]
   },
   {
@@ -11143,6 +17405,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sharedigitalcards.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sheepkillers.com"
    ]
   },
@@ -11151,6 +17420,13 @@
    "process": "any",
    "remote-domains": [
     "sheeple.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sheershasangbad.com"
    ]
   },
   {
@@ -11199,7 +17475,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "shiercha.top",
+    "www.shiercha.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.shiftfrequency.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "shingroup.com"
    ]
   },
   {
@@ -11214,6 +17505,14 @@
    "process": "any",
    "remote-domains": [
     "shoebat.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "shotech.site",
+    "www.shotech.site"
    ]
   },
   {
@@ -11248,7 +17547,45 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "shubhdeals.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "siangol.space",
+    "www.siangol.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sianhoer.site",
+    "www.sianhoer.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "siebnsad.space",
+    "www.siebnsad.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "silentmajoritypatriots.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "siliconstreetlk.com"
    ]
   },
   {
@@ -11276,6 +17613,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sinail.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "siouxcitytimes.com"
    ]
   },
@@ -11290,7 +17634,81 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sitautomation.it"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "siteara-co.ir"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sjsexecutives.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "skeptiko.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skilkigrosheytreba.xyz",
+    "www.skilkigrosheytreba.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skilldomartialart.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skincarebysym.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skslegaljast.com",
+    "www.skslegaljast.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skslegalstart.com",
+    "www.skslegalstart.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skslegaltrast.com",
+    "www.skslegaltrast.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skyxpres.com"
    ]
   },
   {
@@ -11318,6 +17736,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "slotautomat.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "smartmeters.news"
    ]
   },
@@ -11332,7 +17757,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "smmahmud.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "smokymountaintoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "smtplast.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "snipersbbs78.xyz"
    ]
   },
   {
@@ -11353,7 +17799,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "socialmediafollowers.uk"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.socialmediamorning.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "softmaticsoftware.com"
    ]
   },
   {
@@ -11367,7 +17827,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "solarcompanybakersfield.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "solarpanels.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "map.solprof.site",
+    "www.map.solprof.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "solsw98w7.cfd"
    ]
   },
   {
@@ -11388,6 +17870,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "somkoy.space",
+    "www.somkoy.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "soonerstatenews.com"
    ]
   },
@@ -11395,7 +17885,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sooswa8w7.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.sott.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sourcecool.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sousafilho.com"
    ]
   },
   {
@@ -11990,6 +18501,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "spacetunes.store",
+    "www.spacetunes.store"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "spartanburgreporter.com"
    ]
   },
@@ -11997,7 +18516,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "speedworkinformatica.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "speisa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.spinbalence.com"
    ]
   },
   {
@@ -12060,6 +18593,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ssagrofoods.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "stanislausnews.com"
    ]
   },
@@ -12068,6 +18608,22 @@
    "process": "any",
    "remote-domains": [
     "starbuckswatch.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "starofistanbul.com",
+    "starofistanbul.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "starsnovo.com",
+    "www.starsnovo.com"
    ]
   },
   {
@@ -12089,6 +18645,22 @@
    "process": "any",
    "remote-domains": [
     "statins.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "statscoord.xyz",
+    "www.statscoord.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "staynomo.space",
+    "www.staynomo.space"
    ]
   },
   {
@@ -12130,6 +18702,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.stickers-et-deco.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "stjoebentonharbor.com"
    ]
   },
@@ -12145,6 +18724,13 @@
    "process": "any",
    "remote-domains": [
     "stlrecord.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "stltda.cl"
    ]
   },
   {
@@ -12214,7 +18800,38 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "strassenburgpharma.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.strategic-culture.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "streamtradeoptions.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "stronki-ogloszeniowe.eu",
+    "www.stronki-ogloszeniowe.eu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "33e0.portraits.studio-94-photography.com",
+    "ae86.portraits.studio-94-photography.com",
+    "ec98.portraits.studio-94-photography.com"
    ]
   },
   {
@@ -12242,6 +18859,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "stylishhomes.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "subjectpolitics.com"
    ]
   },
@@ -12249,7 +18873,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "suchitrasforeignlanguages.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "suffolkreporter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sujghwdtb.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "summernightlifeoutreach.com"
    ]
   },
   {
@@ -12285,6 +18930,13 @@
    "process": "any",
    "remote-domains": [
     "superfoods.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "supernovaakademi.com"
    ]
   },
   {
@@ -12341,6 +18993,20 @@
    "process": "any",
    "remote-domains": [
     "sussexreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "svrcreations.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sw2gt5.cfd"
    ]
   },
   {
@@ -12424,6 +19090,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "swifteduction.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "swillinoisnews.com"
    ]
   },
@@ -12439,6 +19112,20 @@
    "process": "any",
    "remote-domains": [
     "swiowatimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "switzmining.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "swizztrades.com"
    ]
   },
   {
@@ -12529,6 +19216,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "swqtglk8u.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "swriversidenews.com"
    ]
   },
@@ -12578,7 +19272,58 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sxi42l.cyou",
+    "www.sxi42l.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "syailendra-primatama.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "syntelv.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "syracusesun.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "t2dwsm3v.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-my-id2g3ys.taffo.top",
+    "www.inpost-pl-my-id2g3ys.taffo.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taggproducts.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "takliesreview.com"
    ]
   },
   {
@@ -12613,6 +19358,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tarandaly.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tashainc.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vu.tcoprog.site",
+    "www.vu.tcoprog.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "teadonm.host",
+    "www.teadonm.host"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.teaparty.org"
    ]
   },
@@ -12634,7 +19409,82 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tecos.teconkilotr.site",
+    "www.tecos.teconkilotr.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-pacid273jks.tejiamai.top",
+    "www.inpost-pl-pacid273jks.tejiamai.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dpd.tekynomad.org",
+    "www.dpd.tekynomad.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tengfeidn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tepaofficial.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "teraviewer.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "prel2dor.tes-pl1.xyz",
+    "www.prel2dor.tes-pl1.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tx34.tessl.xyz",
+    "www.tx34.tessl.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "texasbusinesscoalition.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tfauganda.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thamage.com"
    ]
   },
   {
@@ -12676,6 +19526,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.thebeginningstore.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thebestkitchenutensils.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "theblacksphere.net"
    ]
   },
@@ -12705,6 +19569,13 @@
    "process": "any",
    "remote-domains": [
     "www.thecontroversialfiles.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thecrymzee.com"
    ]
   },
   {
@@ -12839,6 +19710,13 @@
    "remote-domains": [
     "themindunleashed.com",
     "themindunleashed.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "themkconstruction.in"
    ]
   },
   {
@@ -12999,6 +19877,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "thescrooge-gold.com",
+    "www.thescrooge-gold.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "theshoppingdream.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "theskunk.org"
    ]
   },
@@ -13049,6 +19942,13 @@
    "process": "any",
    "remote-domains": [
     "thetruthdivision.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thetruthjourney.com"
    ]
   },
   {
@@ -13209,6 +20109,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "d.tocat.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "todaynewson.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "toledoreporter.com"
    ]
   },
@@ -13230,7 +20144,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "top-notch-rentals.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "top10grocerysecrets.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "topcoinsprofit.com"
    ]
   },
   {
@@ -13251,6 +20179,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "topicpure.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.topinfopost.com"
    ]
   },
@@ -13259,6 +20194,20 @@
    "process": "any",
    "remote-domains": [
     "toprightnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "toptravellingpoints.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "torchofknowledge.ir"
    ]
   },
   {
@@ -13279,6 +20228,65 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "was.totli.xyz",
+    "www.was.totli.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "toursguatape.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "toycollectorsindia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tp4mtmoaj.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tqbnb8c2f.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trk.trackingclickss.com",
+    "www.trk.trackingclickss.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trackpackteam.co",
+    "www.trackpackteam.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tradicijanova.rs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "trafficking.news"
    ]
   },
@@ -13286,7 +20294,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "traildenunciation.cn",
+    "www.traildenunciation.cn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "transhumanism.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "transitionspetrescue.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "travelplannings.com"
    ]
   },
   {
@@ -13329,6 +20359,13 @@
    "process": "any",
    "remote-domains": [
     "triconews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trombe-wall.com"
    ]
   },
   {
@@ -13440,6 +20477,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaw2.ttchatpro.site",
+    "gaw.ttchatpro.site",
+    "www.gaw2.ttchatpro.site",
+    "www.gaw.ttchatpro.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tucsonstandard.com"
    ]
   },
@@ -13455,6 +20502,20 @@
    "process": "any",
    "remote-domains": [
     "tulsastandard.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tundeogunsakinandco.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tunisiabuzz.com"
    ]
   },
   {
@@ -13482,7 +20543,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tussursfi.com",
+    "www.tussursfi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tvvianet.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twistedlittletales.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "twitchy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "2344.campaign.tworiversboat.com",
+    "bc4a.campaign.tworiversboat.com"
    ]
   },
   {
@@ -13503,7 +20594,53 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "typebeatcentral.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ubehay.site",
+    "www.ubehay.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ubscan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "uconservative.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "udafoya.com",
+    "www.udafoya.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "udohyn.top",
+    "www.udohyn.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uflix24.com",
+    "www.uflix24.com"
    ]
   },
   {
@@ -13524,7 +20661,37 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ugconcept.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ujhg6yhgdc.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ultimatefinancialsolution.com",
+    "www.ultimatefinancialsolution.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ultimateflashnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ulyssesantonia.cn",
+    "www.ulyssesantonia.cn"
    ]
   },
   {
@@ -13566,7 +20733,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "unflutedp.com",
+    "www.unflutedp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uniformescorporativos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "unioncountyreview.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "unitedftb.com"
    ]
   },
   {
@@ -13587,7 +20776,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "unmannedvehiclesass.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "unxinvest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.unz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uoplasser.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "upbook.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "updatenetworkingloc.at"
    ]
   },
   {
@@ -13804,6 +21028,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "uxewcvsdi3f.digital",
+    "www.uxewcvsdi3f.digital"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "v5tr6yfr.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vabusinessdaily.com"
    ]
   },
@@ -13853,7 +21092,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vaishnodevihelicopteronline.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "valdelsacarni.it"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vallianttoday.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "valorantcrew.net",
+    "www.valorantcrew.net"
    ]
   },
   {
@@ -13867,6 +21128,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "varealestatesolutions.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.vdare.com"
    ]
   },
@@ -13874,7 +21142,51 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vebhoys.space",
+    "www.vebhoys.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vectrum.ba"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vekioler.space",
+    "www.vekioler.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vendorsnation.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "verbozonanorte.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "verdugosnews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "versac.pe"
    ]
   },
   {
@@ -13896,6 +21208,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vfews23pl.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "viaksako.host",
+    "www.viaksako.host"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "victorvalleytimes.com"
    ]
   },
@@ -13903,7 +21230,25 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "1act1.views1pl.site",
+    "1act.views1pl.site",
+    "www.1act1.views1pl.site",
+    "www.1act.views1pl.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vigilantcitizen.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "untubvaostalbus.vin09.info",
+    "www.untubvaostalbus.vin09.info"
    ]
   },
   {
@@ -13987,7 +21332,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "visionarea.ltd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vitamind.news"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vivasurplus.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bankmillennium.pl.vizatiman.com",
+    "www.bankmillennium.pl.vizatiman.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "volpsolkpas7.cfd"
    ]
   },
   {
@@ -14009,6 +21383,27 @@
    "process": "any",
    "remote-domains": [
     "vtbusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vuanhhao.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bafybeibpthvanvr66xquxzno3dstgnzq5j6xhhwf6rledop436rrvz5wjq.ipfs.w3s.link",
+    "bafybeic5ko4hmjgqz6lyjnq2p5o5xvthjjjvsmc5umry3dw6dbeeh727ka.ipfs.w3s.link",
+    "bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link",
+    "bafybeig5mg3lusqyax3dpn34jrd7tcogwt2zgiz2ytrz7xrckhj7ogql7m.ipfs.w3s.link",
+    "www.bafybeibpthvanvr66xquxzno3dstgnzq5j6xhhwf6rledop436rrvz5wjq.ipfs.w3s.link",
+    "www.bafybeic5ko4hmjgqz6lyjnq2p5o5xvthjjjvsmc5umry3dw6dbeeh727ka.ipfs.w3s.link",
+    "www.bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link",
+    "www.bafybeig5mg3lusqyax3dpn34jrd7tcogwt2zgiz2ytrz7xrckhj7ogql7m.ipfs.w3s.link"
    ]
   },
   {
@@ -14302,6 +21697,31 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wearegentl.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "formula22boga.web.app",
+    "mypoczta-polska.web.app",
+    "www.formula22boga.web.app",
+    "www.mypoczta-polska.web.app",
+    "man2batanghari.web.id"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "webartvision.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.webdaily.com"
    ]
   },
@@ -14309,7 +21729,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "webearned.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "webertimes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "web-uwb-edu.weebly.com",
+    "www.web-uwb-edu.weebly.com"
    ]
   },
   {
@@ -14344,7 +21779,62 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wenslot.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "weokd09rt.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wepromocodes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "weretongi.space",
+    "www.weretongi.space"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jilo.wertas.xyz",
+    "lukop.wertas.xyz",
+    "www.jilo.wertas.xyz",
+    "www.lukop.wertas.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "weryfka.top",
+    "www.weryfka.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "weshapelife.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wesokino.com",
+    "www.wesokino.com"
    ]
   },
   {
@@ -14429,6 +21919,14 @@
    "process": "any",
    "remote-domains": [
     "westeldoradonews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "western-money.live",
+    "www.western-money.live"
    ]
   },
   {
@@ -14680,6 +22178,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wh13xf.cyou",
+    "www.wh13xf.cyou"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "whales-capital.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "whatdoesitmean.com",
     "www.whatdoesitmean.com"
    ]
@@ -14689,6 +22202,13 @@
    "process": "any",
    "remote-domains": [
     "www.whatreallyhappened.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "whitecoralspaacademy.com"
    ]
   },
   {
@@ -14716,6 +22236,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wiadomosci-wp.pl",
+    "www.wiadomosci-wp.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wiadomoscizradia.pl",
+    "www.wiadomoscizradia.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "wibusinessdaily.com"
    ]
   },
@@ -14731,6 +22267,14 @@
    "process": "any",
    "remote-domains": [
     "wichitastandard.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wieskazieba.pl",
+    "www.wieskazieba.pl"
    ]
   },
   {
@@ -14779,6 +22323,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wind4tech.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "windcomtechnologies.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "windermeretoday.com"
    ]
   },
@@ -14821,7 +22379,31 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wisebusiness.store",
+    "www.wisebusiness.store"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wisganerk.com",
+    "www.wisganerk.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "witscience.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "olxplatnosc74.wixsite.com",
+    "www.olxplatnosc74.wixsite.com"
    ]
   },
   {
@@ -14884,6 +22466,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "worldhdsports.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "worldnewsdailyreport.com"
    ]
   },
@@ -14912,7 +22501,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wp-wiadomosci.pl",
+    "www.wp-wiadomosci.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "wrightcountyguide.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wrzucone-fotki.eu",
+    "www.wrzucone-fotki.eu"
    ]
   },
   {
@@ -14947,6 +22552,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wwwassure-ameli-fr.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wwwkso-bw-de.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "wyandottetimes.com"
    ]
   },
@@ -14955,6 +22574,56 @@
    "process": "any",
    "remote-domains": [
     "wybusinessdaily.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "x4rt45tgf5g.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xg4x7yzy.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wordpress.xinmoshiwang.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.xinzhouzixun.top",
+    "xinzhouzixun.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xplorebuddy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xr45tyui.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "y29se10.one"
    ]
   },
   {
@@ -14975,7 +22644,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "yanfang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "yasbuzz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "yasikha.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "yavapainews.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted-pl-gj32d.ybhf.xyz",
+    "www.vinted-pl-gj32d.ybhf.xyz"
    ]
   },
   {
@@ -14996,7 +22694,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "yesdeko.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.yesimright.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl-myid271xs.ygklt.xyz",
+    "www.inpost-pl-myid271xs.ygklt.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ly.yjlianyi.top"
    ]
   },
   {
@@ -15045,6 +22765,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "youthtechnologynetwork.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "youtubecensorship.com"
    ]
   },
@@ -15066,6 +22793,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "photo.zarobuv.xyz",
+    "rest.zarobuv.online",
+    "www.photo.zarobuv.xyz",
+    "www.rest.zarobuv.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ze-care.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "zenburger.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.zeppfeed.com"
    ]
   },
@@ -15080,6 +22831,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.zertlik-investing.pro",
+    "zertlik-investing.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "zillamall.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "zillionaireskills.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.znajomi-szukaj.eu",
+    "znajomi-szukaj.eu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "zombie.news"
    ]
   },
@@ -15088,6 +22869,13 @@
    "process": "any",
    "remote-domains": [
     "www.zootfeed.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "w1.zypaint.com"
    ]
   }
  ]
