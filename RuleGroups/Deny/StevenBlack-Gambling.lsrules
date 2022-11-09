@@ -6,14 +6,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.xnmail.000webhostapp.com",
-    "xnmail.000webhostapp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "010bestk8.com"
    ]
   },
@@ -165,13 +157,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "042kitchenllc.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "04bestk8.com"
    ]
   },
@@ -193,14 +178,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jnpost.0515468541546.xyz",
-    "www.jnpost.0515468541546.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "05bestk8.com"
    ]
   },
@@ -216,14 +193,6 @@
    "process": "any",
    "remote-domains": [
     "05prok8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dispatchgoods-1npost.06221541254.xyz",
-    "www.dispatchgoods-1npost.06221541254.xyz"
    ]
   },
   {
@@ -308,21 +277,6 @@
    "process": "any",
    "remote-domains": [
     "09prok8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "0karny.cyou",
-    "www.0karny.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "10best-review.com"
    ]
   },
   {
@@ -472,23 +426,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "12ewsdf.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "1337bid.com",
     "www.1337bid.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "134tr4ck.com",
-    "www.134tr4ck.com"
    ]
   },
   {
@@ -505,14 +444,6 @@
    "process": "any",
    "remote-domains": [
     "13lg8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vintted.1512584512.xyz",
-    "www.vintted.1512584512.xyz"
    ]
   },
   {
@@ -868,21 +799,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ihpost-shopping.2323433351.xyz",
-    "www.ihpost-shopping.2323433351.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "247bdtv.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "24bettle.com",
     "www.24bettle.com"
    ]
@@ -915,39 +831,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "2jn45i.cyou",
-    "www.2jn45i.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "2winbet.gr",
     "www.2winbet.gr"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "32324242.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "0lx-marketpage.3260515488.xyz",
-    "www.0lx-marketpage.3260515488.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jnpost-storepay.32620515454545.xyz",
-    "www.jnpost-storepay.32620515454545.xyz"
    ]
   },
   {
@@ -1017,21 +902,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "payyinted-delivery.3544465008.xyz",
-    "www.payyinted-delivery.3544465008.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "360.my"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "3650022.com",
     "api.3650022.com",
     "www.3650022.com"
@@ -1078,13 +948,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.3d-stickers.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "3kingclub.com",
     "m.3kingclub.com"
    ]
@@ -1094,14 +957,6 @@
    "process": "any",
    "remote-domains": [
     "3sxsg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "435757ut.com",
-    "www.435757ut.com"
    ]
   },
   {
@@ -1146,37 +1001,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "form-jnpost.46221541254.xyz",
-    "www.form-jnpost.46221541254.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "4funselfie.hu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "4gy80.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "4r8uhzs3e.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wjnted.5000032121545.xyz",
-    "www.wjnted.5000032121545.xyz"
    ]
   },
   {
@@ -1207,31 +1032,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "impost.5265154515.xyz",
-    "www.impost.5265154515.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "52gp1.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "impostinfopay.550652122222.xyz",
-    "www.impostinfopay.550652122222.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "1npost.5512584512.xyz",
-    "www.1npost.5512584512.xyz"
    ]
   },
   {
@@ -1247,31 +1048,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "shopinpost-product.5647809097.xyz",
-    "www.shopinpost-product.5647809097.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "in-post-pay-shop.565676764321.xyz",
-    "www.in-post-pay-shop.565676764321.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "570manx.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "siteo1x-market.5768000913.xyz",
-    "www.siteo1x-market.5768000913.xyz"
    ]
   },
   {
@@ -1301,46 +1078,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "5tfgbgf6yjhg.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "store879impost.6026154555555.xyz",
-    "www.store879impost.6026154555555.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "o1x-shop.6051245844.xyz",
-    "www.o1x-shop.6051245844.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "63wan.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "goods0lx-payment.6457093258.xyz",
-    "www.goods0lx-payment.6457093258.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "shop-inp0st.652312451154.xyz",
-    "www.shop-inp0st.652312451154.xyz"
    ]
   },
   {
@@ -1402,38 +1140,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "6ha7e7ws.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "6tgghf3ec2ws.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "724sports.com",
     "www.724sports.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "1npost.76215484512.xyz",
-    "www.1npost.76215484512.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "alleqrol0kalnie.7652421441474.xyz",
-    "www.alleqrol0kalnie.7652421441474.xyz"
    ]
   },
   {
@@ -1477,14 +1185,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "impost-market.7778776765.xyz",
-    "www.impost-market.7778776765.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "777balls.com"
    ]
   },
@@ -1500,22 +1200,6 @@
    "process": "any",
    "remote-domains": [
     "779one.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "olxshop-purchase.7865666434.xyz",
-    "www.olxshop-purchase.7865666434.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jnpost-purchase.786655555665.xyz",
-    "www.jnpost-purchase.786655555665.xyz"
    ]
   },
   {
@@ -1805,20 +1489,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "7uhjedf3e.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "7uyh9i1qws4r.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "80k8vn.com"
    ]
   },
@@ -1834,14 +1504,6 @@
    "process": "any",
    "remote-domains": [
     "828bet.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "impost.86323651548.xyz",
-    "www.impost.86323651548.xyz"
    ]
   },
   {
@@ -2242,14 +1904,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "8mrsxo.cyou",
-    "www.8mrsxo.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "8x055.com",
     "www.8x055.com"
    ]
@@ -2334,30 +1988,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jmpost-shoppingpay.9000767751.xyz",
-    "www.jmpost-shoppingpay.9000767751.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sitewinted-delivery.9000878887.xyz",
-    "www.sitewinted-delivery.9000878887.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "market-43j-npost.9026154555555.xyz",
-    "www.market-43j-npost.9026154555555.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "90dakika.com",
     "www.90dakika.com"
    ]
@@ -2373,39 +2003,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "viinte-d-formsite.920612548455.xyz",
-    "www.viinte-d-formsite.920612548455.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "92lottery.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "market-vjnted.956215484512.xyz",
-    "www.market-vjnted.956215484512.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vjnted.96323651548.xyz",
-    "www.vjnted.96323651548.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "o1x-market.965141541221.xyz",
-    "www.o1x-market.965141541221.xyz"
    ]
   },
   {
@@ -2421,14 +2019,6 @@
    "remote-domains": [
     "978bet34.com",
     "www.978bet34.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "o1x.980000000002.xyz",
-    "www.o1x.980000000002.xyz"
    ]
   },
   {
@@ -2503,50 +2093,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vinted-pl-gj32d.9bljsqc5.xyz",
-    "www.vinted-pl-gj32d.9bljsqc5.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "9d8pc33h.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "9e3c.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "9hym.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "9ik4rfu85tg.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "9pexels.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kiss.a-dog.top"
    ]
   },
   {
@@ -2575,14 +2122,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "a3h0ew.cyou",
-    "www.a3h0ew.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "aa88.in",
     "www.aa88.in"
    ]
@@ -2599,58 +2138,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "aboify.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aboutbusiness.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aboutrealestate.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "absfxpro.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "abuvn.cc",
     "www.abuvn.cc"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "akuntansi.itny.ac.id",
-    "copunupo.ac.zm"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "academyanalyst.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "academygh.com"
    ]
   },
   {
@@ -2688,35 +2177,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "acyclovir.news",
-    "www.acyclovir.news"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ada09sch.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "adapsai.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "addchecks.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "adjarabet.com"
    ]
   },
@@ -2725,28 +2185,6 @@
    "process": "any",
    "remote-domains": [
     "www.admiralspot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "felipesenna.adv.br"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "advairdiskus.news",
-    "www.advairdiskus.news"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "adverdose-eg.com"
    ]
   },
   {
@@ -2786,20 +2224,6 @@
    "remote-domains": [
     "ae988bet.com",
     "www.ae988bet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aecid.bo"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "afenet-conference.net"
    ]
   },
   {
@@ -2848,29 +2272,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "africaatthepark.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "africancatssafaris.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "agbet.co",
     "www.agbet.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "agedyoutubeaccount.com"
    ]
   },
   {
@@ -2906,27 +2309,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ftp.agoraexpress.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "agrofert-eg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "agrovision.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "agviet168.com"
    ]
   },
@@ -2956,22 +2338,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ahlehadeethbdchapai.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ahtigames.com",
     "www.ahtigames.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ahum-trading.com"
    ]
   },
   {
@@ -2992,37 +2360,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "aleamoda.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "alerfou.host",
-    "www.alerfou.host"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "alfcasino.com",
     "www.alfcasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "alharaz.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "alichouikhi.tn"
    ]
   },
   {
@@ -3076,13 +2415,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "almas-beauty.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.alohasportsbook.com"
    ]
   },
@@ -3098,36 +2430,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "altaoferta.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "always21.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "amaralcosta.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "amcleanbookmakers.com",
     "www.amcleanbookmakers.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "amed.dev"
    ]
   },
   {
@@ -3150,90 +2454,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ams-insurance.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "anarrimargoak.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "anbigh.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "anchormfgtx.com",
-    "www.anchormfgtx.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "anguklaw.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "annuairetogo.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "anonibet.com",
     "www.anonibet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wk.anonline.site",
-    "www.wk.anonline.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "b.ant1-ees.xyz",
-    "www.b.ant1-ees.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aperturedore.live",
-    "www.aperturedore.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.apfb.xyz",
-    "www.vinted-pl-gj32d.apfb.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aplicacionesweb.cl"
    ]
   },
   {
@@ -3256,67 +2478,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "apples-assistance.live",
-    "www.apples-assistance.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ftp.appleshipstores.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kulas.appmaxiz.site",
-    "www.kulas.appmaxiz.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aprilinterrogation.cn",
-    "www.aprilinterrogation.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "apysolution.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "arccourier.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "arena-bet.com",
     "www.arena-bet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "arendonkfjest.be"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "argojeans.com"
    ]
   },
   {
@@ -3330,58 +2493,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "artistdent.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.artrsllc.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "artybees.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "as45vfrt8.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "asadmiraj.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ashleymadisonzs.com",
-    "www.ashleymadisonzs.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "asiak8thai.com",
     "asiak8thai.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "asialogi.com"
    ]
   },
   {
@@ -3403,35 +2516,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "asmanta.com",
-    "www.asmanta.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "astralk.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aswe45bju.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.atashelement.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "atashows.com"
    ]
   },
@@ -3441,77 +2525,6 @@
    "remote-domains": [
     "atg.se",
     "www.atg.se"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "atikmuhendislik.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "attica-gr.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "audioselec.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "auqnako.space",
-    "www.auqnako.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "auranumero.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aurumdrox.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "autobodyflatrack.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "autodiagbg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "autogaribustrans.ro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "avastar.ba"
    ]
   },
   {
@@ -3550,37 +2563,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ayijimo.com",
-    "www.ayijimo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ayvaktechnologies.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "azagak.com",
-    "www.azagak.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.azcasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "azsdef7ujh.click"
    ]
   },
   {
@@ -3631,13 +2614,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "b7hk59vz.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "b89.bet"
    ]
   },
@@ -3645,73 +2621,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "babamart.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "babm.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "babydoodfanclub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bjjhiu.s3.us-west-004.backblazeb2.com",
-    "lajjiuy.s3.us-west-004.backblazeb2.com",
-    "mindixi.s3.us-west-004.backblazeb2.com",
-    "niijjvv.s3.us-west-004.backblazeb2.com",
-    "pjjlis.s3.us-west-004.backblazeb2.com",
-    "pllsizl.s3.us-west-004.backblazeb2.com",
-    "whjikki.s3.us-west-004.backblazeb2.com",
-    "www.bjjhiu.s3.us-west-004.backblazeb2.com",
-    "www.lajjiuy.s3.us-west-004.backblazeb2.com",
-    "www.mindixi.s3.us-west-004.backblazeb2.com",
-    "www.niijjvv.s3.us-west-004.backblazeb2.com",
-    "www.pjjlis.s3.us-west-004.backblazeb2.com",
-    "www.pllsizl.s3.us-west-004.backblazeb2.com",
-    "www.whjikki.s3.us-west-004.backblazeb2.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "backlightbleedtest.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "badgeridge.cn",
-    "www.badgeridge.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ballebaazi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "buy.balticpipe.buzz",
-    "buy.balticpipe.cfd",
-    "www.buy.balticpipe.buzz",
-    "www.buy.balticpipe.cfd"
    ]
   },
   {
@@ -3747,55 +2657,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "banditgaming.net",
-    "www.banditgaming.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "barbadoscasino.com",
     "www.barbadoscasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "barmdsson.com",
-    "www.barmdsson.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "basia468.pl",
-    "www.basia468.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "basiakrzy.pl",
-    "www.basiakrzy.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "baskinat.com",
-    "www.baskinat.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "basscom.fr"
    ]
   },
   {
@@ -3840,50 +2703,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vinted-pl-gj32d.becik.xyz",
-    "www.vinted-pl-gj32d.becik.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "beekya.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "beginnow.beauty",
-    "www.beginnow.beauty"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "beicgroup.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "beideatic.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "belltelme.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "belmont.ag",
     "www.belmont.ag"
    ]
@@ -3892,21 +2711,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bencevendeghaz.hu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bepe88.website"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "berkelouw.net"
    ]
   },
   {
@@ -3937,13 +2742,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bestbmt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bestcacuoc8.com",
     "www.bestcacuoc8.com"
    ]
@@ -3968,13 +2766,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "besthairextension.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bestk8.com"
    ]
   },
@@ -3983,20 +2774,6 @@
    "process": "any",
    "remote-domains": [
     "bestsportslines.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "beststudwelders.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bestvtu.com"
    ]
   },
   {
@@ -4034,13 +2811,6 @@
    "remote-domains": [
     "bet-csgo.com",
     "www.bet-csgo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bet-invest.com"
    ]
   },
   {
@@ -5317,20 +4087,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bevos-training.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bg6buj3q.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bgbet.com",
     "www.bgbet.com"
    ]
@@ -5339,46 +4095,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bgfd3w7uj.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bgk24.cc",
-    "bgk24.co",
-    "www.bgk24.cc",
-    "www.bgk24.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bgo.com",
     "www.bgo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bgy6trfdx.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bhandarijyotish.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bhavnagaridryfruitstores.com"
    ]
   },
   {
@@ -5422,21 +4140,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bigm.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bigwinvietnam.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bikkviz.com"
    ]
   },
   {
@@ -5483,21 +4187,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "biriyanigril.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bistokes.online",
-    "www.bistokes.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.bitcoinrush.io"
    ]
   },
@@ -5513,23 +4202,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "b24-ey8u96.bitrix24.site",
-    "www.b24-ey8u96.bitrix24.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bitsaloon.com",
     "www.bitsaloon.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bizdemo.xyz"
    ]
   },
   {
@@ -5634,94 +4308,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "blacksebo.de"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "blacksmithbooks.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "blackwhite.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "blangkonstudio.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bllackdiamondkloset.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "blog-mag1.blog3maxi.site",
-    "www.blog-mag1.blog3maxi.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bloggingtalent.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bmpmedia.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bmschwartz4.com",
-    "www.bmschwartz4.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bnbfyt.com",
-    "www.bnbfyt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bnoikl.com",
-    "www.bnoikl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bnsgrp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bobcasino.com",
     "www.bobcasino.com"
    ]
@@ -5775,24 +4361,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vinted-pl-gj32d.bohol.top",
-    "www.vinted-pl-gj32d.bohol.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bola88.com",
     "www.bola88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "max.bolss.xyz",
-    "www.max.bolss.xyz"
    ]
   },
   {
@@ -5854,14 +4424,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ft.qvjkw.bongsking.com",
-    "www.ft.qvjkw.bongsking.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "book247.eu",
     "www.book247.eu"
    ]
@@ -5894,37 +4456,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bookwritingcorp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "boom66.com",
     "www.boom66.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "borefak.uno",
-    "www.borefak.uno"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "borgelin.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bosny.com"
    ]
   },
   {
@@ -5963,20 +4496,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "brandsenvoy.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "brianso.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "browncowbingo.com",
     "www.browncowbingo.com"
    ]
@@ -6000,37 +4519,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "btcscloudmining.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "btcsportsbet.com",
     "www.btcsportsbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "aq14tyui-001-site1.btempurl.com",
-    "www.aq14tyui-001-site1.btempurl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "btiku5c6x.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "btr65kaq1.one"
    ]
   },
   {
@@ -6069,20 +4559,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bundelkhand-tourism.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "businesseducationskills.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bustabit.com"
    ]
   },
@@ -6099,14 +4575,6 @@
    "remote-domains": [
     "butterflybingo.com",
     "www.butterflybingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "buty-hokaoneone.com",
-    "www.buty-hokaoneone.com"
    ]
   },
   {
@@ -6151,13 +4619,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bytesendesign.nl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "c31test.com"
    ]
   },
@@ -6165,21 +4626,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "c34f5tybc.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "c88bet4.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cacrevivalchapel.com"
    ]
   },
   {
@@ -6233,13 +4680,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "caimari.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "caliente.mx",
     "online.caliente.mx",
     "sports.caliente.mx",
@@ -6266,13 +4706,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.campusconindigital.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "canadasbookie.com",
     "www.canadasbookie.com"
    ]
@@ -6289,29 +4722,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cantatric.com",
-    "www.cantatric.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cantelia.space",
-    "www.cantelia.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "capitalboostinvest.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "carbonsports.ag",
     "www.carbonsports.ag"
    ]
@@ -6322,21 +4732,6 @@
    "remote-domains": [
     "cardbet.com",
     "www.cardbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.careofu.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "caribbeanisl.net",
-    "www.caribbeanisl.net"
    ]
   },
   {
@@ -6618,21 +5013,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "catpay.nl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-mynid2ihxa.cazhou.top",
-    "www.inpost-pl-mynid2ihxa.cazhou.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "cbmsport.com",
     "www.cbmsport.com"
    ]
@@ -6649,28 +5029,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cccbutyonlinepl.com",
-    "www.cccbutyonlinepl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cdonation.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.cecambrils.cat"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "celebbingo.com",
     "www.celebbingo.com"
    ]
@@ -6679,74 +5037,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "celebrities.ae"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "celz2.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ceneooferty.com",
-    "www.ceneooferty.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "centatech.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "centerboar.com",
-    "www.centerboar.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "central-nutrition.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "centrebet.com",
     "www.centrebet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "centrodeapoioacolherdescentralizaminas.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "centrum24.pro",
-    "www.centrum24.pro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "centuryplydelaership.com"
    ]
   },
   {
@@ -6792,30 +5084,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "chandigarhdaily.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "chanz.com",
     "www.chanz.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt38.chargdeliverry68.one",
-    "www.del1ver-inpomt38.chargdeliverry68.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "charminglady.xyz"
    ]
   },
   {
@@ -6830,29 +5100,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "checkmed.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "cheekywin.com",
     "www.cheekywin.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cheffsys.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.chemsky.tn"
    ]
   },
   {
@@ -6883,29 +5132,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "chist.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "chmgpllif.website",
-    "www.chmgpllif.website"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "choang.fun"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "chobemaster.com"
    ]
   },
   {
@@ -6953,36 +5180,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "choosebusinessidea.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "chooseconditrich.xyz",
-    "www.chooseconditrich.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "chrismaca.com",
-    "www.chrismaca.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "christplanet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "circlebet.com",
     "www.circlebet.com"
    ]
@@ -7001,20 +5198,6 @@
    "remote-domains": [
     "citybingo.com",
     "www.citybingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "citypharmacylv.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "civcraft.net"
    ]
   },
   {
@@ -7044,29 +5227,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "clinicalbotanic.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.cloudbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "justlive0311.node.cloudlets.zone",
-    "www.justlive0311.node.cloudlets.zone"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "app.clubdedocentes.com"
    ]
   },
   {
@@ -7118,71 +5279,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cngst.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "an2az72-di828az.narwuaz.co.pl",
-    "kinka727a8a-72dame92.logoifn.co.pl",
-    "level928a8-for828a.ultrautv.co.pl",
-    "levl2877aa-dshasdghsaz2.wathwch.co.pl",
-    "logia828a-tri827a.spreadstv.co.pl",
-    "malgor027a-zat278az.nowejsil.co.pl",
-    "multi27a7a-vie727az.listydotv.co.pl",
-    "mus7276az-virt81.site828ztv.co.pl",
-    "noti28a7z-ce827a0.barnotv.co.pl",
-    "poss7276a-blea82az.otritv.co.pl",
-    "prote827a8-2982ma2.logainfw.co.pl",
-    "seu28a-fur8278a.podsutv.co.pl",
-    "staf726az-olwu2a.tansloga.co.pl",
-    "tralog827a98-info28az.rejedotv.co.pl",
-    "typ28a7z-naz8727a.siaedietv.co.pl",
-    "www.an2az72-di828az.narwuaz.co.pl",
-    "www.kinka727a8a-72dame92.logoifn.co.pl",
-    "www.level928a8-for828a.ultrautv.co.pl",
-    "www.levl2877aa-dshasdghsaz2.wathwch.co.pl",
-    "www.logia828a-tri827a.spreadstv.co.pl",
-    "www.malgor027a-zat278az.nowejsil.co.pl",
-    "www.multi27a7a-vie727az.listydotv.co.pl",
-    "www.mus7276az-virt81.site828ztv.co.pl",
-    "www.noti28a7z-ce827a0.barnotv.co.pl",
-    "www.poss7276a-blea82az.otritv.co.pl",
-    "www.prote827a8-2982ma2.logainfw.co.pl",
-    "www.seu28a-fur8278a.podsutv.co.pl",
-    "www.staf726az-olwu2a.tansloga.co.pl",
-    "www.tralog827a98-info28az.rejedotv.co.pl",
-    "www.typ28a7z-naz8727a.siaedietv.co.pl",
-    "allaboutguitar.co.uk",
-    "atlastravelservices.co.uk",
-    "blueskyplant.co.uk",
-    "brightkidznursery.co.uk",
-    "bwsengineering.co.za",
-    "chanutea.co.za",
-    "foodinar.co.za",
-    "forbestime.co.uk",
-    "geckoschool.co.za",
-    "hojinxmotors.co.ke",
-    "ipim.co.id",
-    "kmctrader.co.in",
-    "lifestory.co.in",
-    "mabemaservice.co.mz",
-    "magumbaviewcottages.co.tz",
-    "milalina.co.uk",
-    "poolehwbcentre.co.uk",
-    "redwingholistic.co.uk",
-    "royreid.co.uk",
-    "solitaireconstruction.co.ke",
-    "superliving.co.uk",
-    "thedigitalcollab.co.nz",
-    "tortilla.co.il",
-    "wedelivermz.co.mz",
-    "www.manchesterot.co.uk",
-    "zainulabidinsuppliesltd.co.uk",
-    "zamarket.co.za",
-    "zapworks.co.uk",
     "22bet.co.ke",
     "777bets.co.uk",
     "balkanbet.co.rs",
@@ -7293,13 +5389,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "coadymarine.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "coastalsportsbook.com",
     "www.coastalsportsbook.com"
    ]
@@ -7310,13 +5399,6 @@
    "remote-domains": [
     "cocktailbingo.com",
     "www.cocktailbingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cocostrunket.com"
    ]
   },
   {
@@ -7353,28 +5435,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cognac-dynasty.com",
-    "www.cognac-dynasty.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "coinkub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "colombianadealimentos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "colossusbets.com",
     "www.colossusbets.com"
    ]
@@ -7383,124 +5443,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "donnetflexx.com.pl",
-    "groupsbnpparibas.com.ng",
-    "jonetflexx.com.pl",
-    "liq-payment.com.ua",
-    "netbflux.com.pl",
-    "netfluxtvvv.com.pl",
-    "netggfixxxxx.com.pl",
-    "onet-informacjemiasto24h.com.pl",
-    "www.donnetflexx.com.pl",
-    "www.groupsbnpparibas.com.ng",
-    "www.jonetflexx.com.pl",
-    "www.liq-payment.com.ua",
-    "www.netbflux.com.pl",
-    "www.netfluxtvvv.com.pl",
-    "www.netggfixxxxx.com.pl",
-    "www.onet-informacjemiasto24h.com.pl",
-    "www.xthq6g6.wm1mdfd31a.henryxclusive.com.ng",
-    "xthq6g6.wm1mdfd31a.henryxclusive.com.ng",
-    "abspet.com.br",
-    "adflow.com.au",
-    "agenciacontatomarketing.com.br",
-    "alpinecoffee.com.np",
-    "altoastralviagens.com.br",
-    "amorecuidados.com.br",
-    "animak.com.br",
-    "annunziato.com.br",
-    "assesci.com.br",
-    "atccmdm.com.au",
-    "barracadoloro.com.br",
-    "bdch.com.au",
-    "beautyline.com.bd",
-    "beenest.com.ng",
-    "blessocomedy.com.ng",
-    "bloomfieldassoc.com.au",
-    "capobiancoaduaneira.com.br",
-    "casalux.com.mx",
-    "cepasvirtual.com.ar",
-    "championsfactorysampaios.com.br",
-    "cidadelle.com.br",
-    "cjssports.com.au",
-    "claudiobertazzoni.com.br",
-    "cleanplaster.com.au",
-    "clinicaeitel.com.br",
-    "cocopasa.com.mx",
-    "contabilcastroecunha.com.br",
-    "contabilidadenovavisao.com.br",
-    "ctel.com.my",
-    "cursosdelavanderia.com.br",
-    "doublesix.com.br",
-    "ecosuministros.com.mx",
-    "edicionescosmos.com.co",
-    "eduardoaluxe.com.br",
-    "exclusivapax.com.br",
-    "exportpack.com.ar",
-    "faceyoga4u.com.au",
-    "fiiyork.com.br",
-    "fioriapicola.com.mx",
-    "gistscope.com.ng",
-    "grupoagapema.com.br",
-    "grupodivulgare.com.br",
-    "grupoexatta.com.br",
-    "gs.com.eg",
-    "hartstark.com.br",
-    "homeinvestor.com.au",
-    "i96.com.br",
-    "investarpropertysolutions.com.au",
-    "iteam.com.bo",
-    "jarediglobal.com.ng",
-    "kalaplakat.com.mk",
-    "kathmandubakery.com.np",
-    "kudos.com.ng",
-    "lacarretamdf.com.mx",
-    "lave.com.br",
-    "lavesc.com.br",
-    "lawyalty.com.ar",
-    "livingedge.com.bd",
-    "luquezfourcade.com.ar",
-    "mancinicabos.com.br",
-    "myd.com.ng",
-    "naturebest.com.bd",
-    "nbsservicos.com.br",
-    "noticiasdiarias.com.br",
-    "nucleogr.com.br",
-    "omeryener.com.tr",
-    "plazasatelite.com.mx",
-    "procalculus.com.br",
-    "proninjasdigital.com.br",
-    "publicshed.com.au",
-    "radiosolutions.com.hr",
-    "raisousa.com.br",
-    "reciclamundialpet.com.br",
-    "rst.com.np",
-    "sejarevitalle.com.br",
-    "seoazul.com.br",
-    "simplesound.com.br",
-    "sistemsab.com.br",
-    "solarrunapp.com.au",
-    "stagaluminium.com.au",
-    "stepheetech.com.ng",
-    "strowd.com.ng",
-    "sudariocontabilidade.com.br",
-    "supplychainsms.com.au",
-    "ta.com.ng",
-    "telmarufino.com.br",
-    "thinksafety.com.ng",
-    "vastra.com.ar",
-    "vrachnasandco.com.au",
-    "vsclinic.com.tr",
-    "wilsonestivalete.com.br",
-    "witgroup.com.au",
-    "www.angloextrema.com.br",
-    "www.chacaltattoo.com.br",
-    "www.clinicaportalpsicologia.com.br",
-    "www.controlnetworks.com.au",
-    "www.llev.com.br",
-    "www.tvculturaourofino.com.br",
-    "yeniguncay.com.tr",
-    "zohotec.com.br",
     "lucky88.com.vn",
     "acttab.com.au",
     "betezy.com.au",
@@ -7643,51 +5585,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "comfortskillz.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "companynet.cc",
-    "companynet.pro",
-    "www.companynet.cc",
-    "www.companynet.pro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.conceptagency.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "concrelaje.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "congresonacionaldefutbolfemenil.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "contadoor.cl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "contorabet.com",
     "www.contorabet.com"
    ]
@@ -7696,24 +5593,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "conversetanie.pl",
-    "www.conversetanie.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "coolbet.com",
     "www.coolbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cooperativeincident.info",
-    "www.cooperativeincident.info"
    ]
   },
   {
@@ -7730,13 +5611,6 @@
    "remote-domains": [
     "corona999.com",
     "www.corona999.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "corporativo1102.com"
    ]
   },
   {
@@ -7775,36 +5649,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cpcwiki.de"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "crashedff.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "crchomeremodeling.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "creditwagering.com",
     "www.creditwagering.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "crescisocial.com"
    ]
   },
   {
@@ -7827,13 +5673,6 @@
    "process": "any",
    "remote-domains": [
     "cricketweb.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cronoatletas.uy"
    ]
   },
   {
@@ -7864,21 +5703,6 @@
    "remote-domains": [
     "crsportsbetting.com",
     "www.crsportsbetting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "crumbites.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "crumpscor.com",
-    "www.crumpscor.com"
    ]
   },
   {
@@ -8491,34 +6315,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cubelite.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cubicegg.asia"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.cubix-is.nl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cubixhub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "cuoc8live.com"
    ]
   },
@@ -8548,42 +6344,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "curtainandbeyond.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cvallhost.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cwinvestmentltd.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.cxth.xyz",
-    "www.vinted-pl-gj32d.cxth.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "d23c06na.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "d4j95.com"
    ]
   },
@@ -8602,13 +6362,6 @@
     "d3.dabet.me",
     "dabet.me",
     "dabet.win"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dacsandongthapmuoi.vn"
    ]
   },
   {
@@ -8700,13 +6453,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dailystockxchange.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "daisybingo.com",
     "www.daisybingo.com"
    ]
@@ -8716,13 +6462,6 @@
    "process": "any",
    "remote-domains": [
     "dakotacasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.danainteraccion.com"
    ]
   },
   {
@@ -8745,36 +6484,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "danhaines.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "danieliela.pl",
-    "www.danieliela.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "danmannuelgroup.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.danren.xyz",
-    "www.vinted-pl-gj32d.danren.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "danskespil.dk"
    ]
   },
@@ -8790,20 +6499,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "darkechelon.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "darwinistic.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "dashbet.com",
     "www.dashbet.com"
    ]
@@ -8812,36 +6507,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "data-file-data-7.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "datcuoc247.com",
     "www.datcuoc247.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "datie-tw.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "davidmcguinness.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "davjoshoverland.org"
    ]
   },
   {
@@ -8857,20 +6524,6 @@
    "remote-domains": [
     "dd7bet.me",
     "www.dd7bet.me"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ddrtg0oikt.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dea6e67jp.cfd"
    ]
   },
   {
@@ -8907,87 +6560,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "delishicodes.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt163.delliverfast69.one",
-    "www.del1ver-inpomt163.delliverfast69.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "demirelmarka.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "olx.demteproki.org",
-    "www.olx.demteproki.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.depositbetplace88.com",
     "www.depositbetplace88.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "desanchezhospital.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "design-panama.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "designgoalengineering.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "destakimportado.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "destholiday.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.detertecnica.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "devinagallagher.com"
    ]
   },
   {
@@ -9004,13 +6578,6 @@
    "remote-domains": [
     "dfkaya.com",
     "www.dfkaya.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dhakafareast.dk"
    ]
   },
   {
@@ -9036,13 +6603,6 @@
    "remote-domains": [
     "diamond7casino.com",
     "www.diamond7casino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dicasutil.com"
    ]
   },
   {
@@ -9081,35 +6641,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "digitalearthfederation.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "buscascolegios.diit.cl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dikasdediva.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "dimeline.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dinajpurkathan.in"
    ]
   },
   {
@@ -9131,31 +6663,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "disccrdpremium.com",
-    "www.disccrdpremium.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "divabingo.com",
     "www.divabingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "djanta-bio.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "djhard.es",
-    "www.djhard.es"
    ]
   },
   {
@@ -9192,29 +6701,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dkb-ag.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "dlb.lk",
     "www.dlb.lk"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dmall-online.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dnritsolutions.com"
    ]
   },
   {
@@ -9250,36 +6738,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "doncasco.pe"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "donlolohotel.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "donnetflexx.pl",
-    "www.donnetflexx.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "itl.dorhtc.site",
-    "www.itl.dorhtc.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "doribet.com",
     "www.doribet.com"
    ]
@@ -9288,37 +6746,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "doscorazonesfilms.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "feespay.poczta-polska.pl.dotview.pk",
-    "www.feespay.poczta-polska.pl.dotview.pk"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "doxxbet.com",
     "www.doxxbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dpu-tca.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dragaoconnect.net"
    ]
   },
   {
@@ -9356,13 +6785,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "drkamalbachani.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.duckyluck.ag"
    ]
   },
@@ -9394,32 +6816,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dungaaraujo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "dutapoker.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bafybeibuxjwj5c6x46h4pnsmbfflg4hxxydfuvz7ypjshtmv4az43dmvxe.ipfs.dweb.link",
-    "bafybeidffzoajn7r7ttuzn3qb4ug4gsyg5t5wcf4kmogniupjmp2qay2cq.ipfs.dweb.link",
-    "www.bafybeibuxjwj5c6x46h4pnsmbfflg4hxxydfuvz7ypjshtmv4az43dmvxe.ipfs.dweb.link",
-    "www.bafybeidffzoajn7r7ttuzn3qb4ug4gsyg5t5wcf4kmogniupjmp2qay2cq.ipfs.dweb.link"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dynastycognac.com",
-    "www.dynastycognac.com"
    ]
   },
   {
@@ -9457,28 +6854,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "easydownloadvideo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "easyk8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "easymeds.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "easyprofithunters.com"
    ]
   },
   {
@@ -9487,14 +6863,6 @@
    "remote-domains": [
     "easytowager.com",
     "www.easytowager.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ebabako.com",
-    "www.ebabako.com"
    ]
   },
   {
@@ -9548,40 +6916,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ecomshub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ed3688.com",
     "www.ed3688.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "abcollege.edu.au",
-    "nepalgunjcollege.edu.np",
-    "ratnarajyamavi.edu.np",
-    "thehopematrichss.edu.in",
-    "upemcampuscuautla.edu.mx"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "cultura.educad.pe"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "educagroup.rw"
    ]
   },
   {
@@ -9675,21 +7011,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "eirror.com",
-    "www.eirror.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hhe.eiwaggff.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ek8802.com"
    ]
   },
@@ -9712,54 +7033,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ekdumdesi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ekos-1.com",
-    "www.ekos-1.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "elanzanews.ng"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "elektro-outlet.pl",
-    "www.elektro-outlet.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "elitebetkenya.com",
     "www.elitebetkenya.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ellastikka.online",
-    "www.ellastikka.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ellosun.com",
-    "www.ellosun.com"
    ]
   },
   {
@@ -9782,35 +7057,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "files.encendercomunicacion.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "encuadernacionesartis.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "energiesforever.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "energybet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "engineerbudge.xyz"
    ]
   },
   {
@@ -9833,38 +7080,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "eollow.com",
-    "www.eollow.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "epabd.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ephphathlogistics.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "promotions.epic.partners",
     "www.promotions.epic.partners"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "epigraphye.com",
-    "www.epigraphye.com"
    ]
   },
   {
@@ -9879,39 +7096,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "eri39fg.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-pacid273jks.erolab.xyz",
-    "vinted-pl-gj32d.erolab.xyz",
-    "www.inpost-pl-pacid273jks.erolab.xyz",
-    "www.vinted-pl-gj32d.erolab.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "esball.net",
     "www.esball.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "eshoppingmart.pk"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "esicpune.in"
    ]
   },
   {
@@ -10056,20 +7242,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ev-venture.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "evil-eye-design.de"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "evobet.com",
     "www.evobet.com"
    ]
@@ -10078,22 +7250,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "evotechug.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ewinner.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "exanriefi.cf",
-    "www.exanriefi.cf"
    ]
   },
   {
@@ -10116,14 +7273,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "exereni.com",
-    "www.exereni.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "en.expekt.com",
     "expekt.com",
     "www.expekt.com"
@@ -10135,14 +7284,6 @@
    "remote-domains": [
     "extreme-sportsbetting.com",
     "www.extreme-sportsbetting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "eyotac.com",
-    "www.eyotac.com"
    ]
   },
   {
@@ -10183,13 +7324,6 @@
    "remote-domains": [
     "ezstreetsports.com",
     "www.ezstreetsports.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "f34g56y.one"
    ]
   },
   {
@@ -10298,27 +7432,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fabricanacionaldemunecos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fajobydavid.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fakherstore.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "falconbet.com",
     "www.falconbet.com"
    ]
@@ -10342,32 +7455,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "del1ver-inpomt066.fast-homes70.one",
-    "dellvers142ollx.fast-homes70.one",
-    "www.del1ver-inpomt066.fast-homes70.one",
-    "www.dellvers142ollx.fast-homes70.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "fastbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fastlinetravel.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fastyrydef.cf",
-    "www.fastyrydef.cf"
    ]
   },
   {
@@ -10500,13 +7588,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fbtask.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "fcb8.club",
     "fcb8.com",
     "fcb8.fun",
@@ -10537,35 +7618,6 @@
    "remote-domains": [
     "fdj.fr",
     "www.fdj.fr"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fe34rfhg5tf.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "feenyxshop.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fencedpro.com",
-    "www.fencedpro.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fgcphiladelphiapastures.org"
    ]
   },
   {
@@ -10622,22 +7674,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fieundefi.com",
-    "www.fieundefi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "fifak8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fightelite.com"
    ]
   },
   {
@@ -10652,46 +7689,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fill-wite.site",
-    "www.fill-wite.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "filmiserial.pl",
-    "www.filmiserial.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "filmyiseriale24.pl",
-    "www.filmyiseriale24.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fin-inside.com",
-    "www.fin-inside.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "financialnewsarticle.com",
-    "www.financialnewsarticle.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "findk8.com"
    ]
   },
@@ -10700,23 +7697,6 @@
    "process": "any",
    "remote-domains": [
     "fine.bet"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fishloversguide.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fitterpro.online",
-    "fitterpro.xyz",
-    "www.fitterpro.online",
-    "www.fitterpro.xyz"
    ]
   },
   {
@@ -10749,20 +7729,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "flintynapper.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "floristeriatamaya.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "flumecasino.com",
     "www.flumecasino.com"
    ]
@@ -10771,22 +7737,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "flyzawgyi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "fmapt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.fmstore.xyz",
-    "www.vinted-pl-gj32d.fmstore.xyz"
    ]
   },
   {
@@ -10809,43 +7760,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "foodcibus.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "foodsblogs.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "foodswipes.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "footballpools.com",
     "www.footballpools.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fordraro.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "foreverlivingpk.com"
    ]
   },
   {
@@ -10869,22 +7785,6 @@
    "process": "any",
    "remote-domains": [
     "fortunelegends.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fota-strony.eu",
-    "www.fota-strony.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fota-znaleziona.eu",
-    "www.fota-znaleziona.eu"
    ]
   },
   {
@@ -10915,30 +7815,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "del1ver-inpomt153pollands.free-deliverrypoland59.one",
-    "www.del1ver-inpomt153pollands.free-deliverrypoland59.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt497pollands.freedostawkapln61.one",
-    "www.del1ver-inpomt497pollands.freedostawkapln61.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "daftarsbobet.freeoda.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "freepetergreste.org"
    ]
   },
   {
@@ -10947,14 +7824,6 @@
    "remote-domains": [
     "freeslotshub.com",
     "www.freeslotshub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "frlxid.cyou",
-    "www.frlxid.cyou"
    ]
   },
   {
@@ -11054,21 +7923,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fundacjazielonaprzyszlosc.pl",
-    "www.fundacjazielonaprzyszlosc.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "funds-flowlimited.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "funk8th888.com"
    ]
   },
@@ -11084,22 +7938,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "futuretoday.pro",
-    "www.futuretoday.pro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "fxbg7.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "g4rty6b.one"
    ]
   },
   {
@@ -11138,13 +7977,6 @@
    "remote-domains": [
     "galaxysports.com",
     "www.galaxysports.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gallivantoinn.com"
    ]
   },
   {
@@ -11335,13 +8167,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gasextraincltd.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gate777.com",
     "www.gate777.com"
    ]
@@ -11350,44 +8175,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gayatrisatta.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gaznbike.com",
     "www.gaznbike.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wh-pl.gaztr.xyz",
-    "www.wh-pl.gaztr.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gbpinter.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gccvfs.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gcfurn.com"
    ]
   },
   {
@@ -11408,22 +8197,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gencayemlak.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "genesiscasino.com",
     "www.genesiscasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gentegeek.mx"
    ]
   },
   {
@@ -11455,21 +8230,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "germliningcorporation.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gestko.top",
-    "www.gestko.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "getabet.com",
     "www.getabet.com"
    ]
@@ -11478,30 +8238,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "getbusinessservices.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "getintodevice.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "getlucky.com",
     "www.getlucky.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "getyournitro3.one",
-    "www.getyournitro3.one"
    ]
   },
   {
@@ -11531,22 +8269,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "giftcoupononline.com",
-    "www.giftcoupononline.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fot.gimms.xyz",
-    "www.fot.gimms.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "giocoreale.com",
     "www.giocoreale.com"
    ]
@@ -11555,60 +8277,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "giyahgostar.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "glamspin360.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "m.glarespongy.top",
-    "www.m.glarespongy.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "glceg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "glimmercasino.com",
     "www.glimmercasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tangy-cat-turn.glitch.me",
-    "www.tangy-cat-turn.glitch.me"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "globalconstructionindustries.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "globallpackoif.com",
-    "www.globallpackoif.com"
    ]
   },
   {
@@ -11744,14 +8414,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "god-bless.online",
-    "www.god-bless.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gohorsebetting.ag",
     "www.gohorsebetting.ag"
    ]
@@ -11794,14 +8456,6 @@
    "remote-domains": [
     "goliathcasino.com",
     "www.goliathcasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "golipuy.shop",
-    "www.golipuy.shop"
    ]
   },
   {
@@ -11853,7 +8507,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "noticiasalcaldianeiva.gov.co",
     "mpi.gov.tr",
     "www.mpi.gov.tr"
    ]
@@ -11864,13 +8517,6 @@
    "remote-domains": [
     "gowildcasino.net",
     "www.gowildcasino.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gpuminingcards.com"
    ]
   },
   {
@@ -11893,57 +8539,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "grafitplus.ro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gravidasa.com",
-    "www.gravidasa.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.greenvalleyschool.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "griseldaproperties.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.grosvenorcasinos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "grouptraveltours.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "growvl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gtb7cd8x6.cfd"
    ]
   },
   {
@@ -11968,27 +8564,6 @@
    "remote-domains": [
     "guestlistbingo.com",
     "www.guestlistbingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gulf-crown.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gulfpearlshotel.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gullyclubs.com"
    ]
   },
   {
@@ -12027,58 +8602,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gypsyisms.com",
-    "www.gypsyisms.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "h3bet.com",
     "pop.h3bet.com",
     "www.h3bet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "h45iuy7.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-hid226ks.haberim.xyz",
-    "www.inpost-pl-hid226ks.haberim.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "habr.moscow",
-    "habr.world",
-    "www.habr.moscow",
-    "www.habr.world"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "habraszek.pl",
-    "www.habraszek.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hairexpect.info",
-    "www.hairexpect.info"
    ]
   },
   {
@@ -12094,20 +8620,6 @@
    "process": "any",
    "remote-domains": [
     "halaplay.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "halilovicbus.ba"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "halimaakter.xyz"
    ]
   },
   {
@@ -12148,34 +8660,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "harleyofficial.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hartstark.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hasanmojumdar.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hasovan.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "hawaiicasino.com",
     "www.hawaiicasino.com"
    ]
@@ -12184,37 +8668,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "headlineplayroom.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "healthlinetips.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "heavenbet.com",
     "www.heavenbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hegirom.site",
-    "www.hegirom.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "helicopterbookingonline.in"
    ]
   },
   {
@@ -12236,30 +8691,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hemebsconstruction.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "heritagesports.eu",
     "www.heritagesports.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "frozen-river-81375.herokuapp.com",
-    "www.frozen-river-81375.herokuapp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hey-tv.com"
    ]
   },
   {
@@ -12298,14 +8731,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hiansgoew.com",
-    "www.hiansgoew.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "highheelsbingo.com",
     "www.highheelsbingo.com"
    ]
@@ -12330,13 +8755,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "himalayaclinic.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "hippobingo.com",
     "www.hippobingo.com"
    ]
@@ -12353,30 +8771,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hivetrades.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bet.hkjc.com",
     "www.bet.hkjc.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hoedoma.com",
-    "www.hoedoma.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "holidaytimes.net"
    ]
   },
   {
@@ -12399,51 +8795,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "home-babysvvap.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt406pollands.home-dostavochkapl58.one",
-    "www.del1ver-inpomt406pollands.home-dostavochkapl58.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "homerunsportsbetting.com",
     "www.homerunsportsbetting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "homesexpert.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "homesinspiration.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "homeworkproviders.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "homro.com"
    ]
   },
   {
@@ -12473,28 +8826,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "horriblehosting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hotakeol.com",
-    "www.hotakeol.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hotellandmarkinn.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "hotlinecsgo.com",
     "www.hotlinecsgo.com"
    ]
@@ -12504,14 +8835,6 @@
    "process": "any",
    "remote-domains": [
     "hotlive8.vip"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "prog-pl1.hotpr0g.site",
-    "www.prog-pl1.hotpr0g.site"
    ]
   },
   {
@@ -12533,22 +8856,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hphost.online",
-    "www.hphost.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hrsdj.shop",
-    "www.hrsdj.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "hrwager.ag",
     "www.hrwager.ag"
    ]
@@ -12564,29 +8871,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hsweixintp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "huacapalmeras.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "hucd0.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-olx-u28hv2.hufutang.top",
-    "www.pl-olx-u28hv2.hufutang.top"
    ]
   },
   {
@@ -12595,20 +8880,6 @@
    "remote-domains": [
     "hughesbet.com",
     "www.hughesbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "humasjatim.id"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "humerabuildersanddevelopers.com"
    ]
   },
   {
@@ -12638,14 +8909,6 @@
    "process": "any",
    "remote-domains": [
     "hypercasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.hzbn.xyz",
-    "www.vinted-pl-gj32d.hzbn.xyz"
    ]
   },
   {
@@ -12735,14 +8998,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "iattle.com",
-    "www.iattle.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ibcbetberry.com"
    ]
   },
@@ -12780,34 +9035,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "idealkitchen.ma"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "idealpackaging.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "a.angel-tn.idv.tw"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "iencedu.ng"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "iforbet.pl"
    ]
   },
@@ -12833,73 +9060,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "igbodsatu.cf",
-    "www.igbodsatu.cf"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "iiia.ae"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ijmnhxd5t.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ikbalhossain.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ikibu.com",
     "www.ikibu.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ikr2c8jw.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ilisewx.space",
-    "www.ilisewx.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ilmbuzz.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "impeccablepublishingng.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "impsol.in"
    ]
   },
   {
@@ -12921,23 +9083,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "incamore.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "income88.com",
     "record.income88.com",
     "www.income88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "indianbake.com"
    ]
   },
   {
@@ -12951,22 +9099,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "industry-link.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.indycasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inegakel.space",
-    "www.inegakel.space"
    ]
   },
   {
@@ -12975,65 +9108,6 @@
    "remote-domains": [
     "infinitybet.com",
     "www.infinitybet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "infocannep.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ai.infocos.xyz",
-    "www.ai.infocos.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "infoiaonline.site",
-    "www.infoiaonline.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inforising.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ingoinves.website",
-    "www.ingoinves.website"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ingolimentgold.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "innovatedbusinessmarketing.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "insidemaxi.com"
    ]
   },
   {
@@ -13056,13 +9130,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "integps.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "interapostas.com",
     "www.interapostas.com"
    ]
@@ -13071,24 +9138,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pril15kuzue.interasf.xyz",
-    "www.pril15kuzue.interasf.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "intercasino.com",
     "www.intercasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "interprizink.online",
-    "www.interprizink.online"
    ]
   },
   {
@@ -13115,39 +9166,6 @@
    "remote-domains": [
     "interwinvn.com",
     "www.interwinvn.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "b-pl.intproject.xyz",
-    "www.b-pl.intproject.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "investinafrica.nl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "invst.live",
-    "invst.pro",
-    "www.invst.live",
-    "www.invst.pro"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inwestycjabtc.com",
-    "www.inwestycjabtc.com"
    ]
   },
   {
@@ -13201,21 +9219,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "itfive.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "itsshowtime.top",
-    "www.itsshowtime.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "itvbingo.com",
     "www.itvbingo.com"
    ]
@@ -13259,22 +9262,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "izedup.com",
-    "www.izedup.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "j3108.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "j8f7bgmm7.cfd"
    ]
   },
   {
@@ -13289,13 +9277,6 @@
    "process": "any",
    "remote-domains": [
     "j9-casino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "j9bvc1z.one"
    ]
   },
   {
@@ -14104,14 +10085,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dpd.jabiprok.org",
-    "www.dpd.jabiprok.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "jackpotcity.com",
     "www.jackpotcity.com"
    ]
@@ -14135,20 +10108,6 @@
    "process": "any",
    "remote-domains": [
     "jagobetting.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jamiewriters.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jammingexpressshipping.com"
    ]
   },
   {
@@ -14269,13 +10228,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jc-ministry.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "jdb66.vip",
     "www.jdb66.vip"
    ]
@@ -14347,28 +10299,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jiufaer.space",
-    "www.jiufaer.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jjeccforum.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "partner-api.jobbio.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "jogossantacasa.pt",
     "www.jogossantacasa.pt"
    ]
@@ -14407,30 +10337,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jonetflexx.pl",
-    "www.jonetflexx.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jsc-market.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "jss77.net",
     "www.jss77.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jtotruth.com"
    ]
   },
   {
@@ -14476,35 +10384,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "justsmart.online",
-    "www.justsmart.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "juugaadmedia.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jvconsults.ng"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jxwd.cc"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "k10022.com"
    ]
   },
@@ -14542,28 +10421,6 @@
    "remote-domains": [
     "k188casino.vip",
     "www.k188casino.vip"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "k2bpms.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "k56tyui.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "k60s5v.cyou",
-    "www.k60s5v.cyou"
    ]
   },
   {
@@ -25900,20 +21757,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kaarnival.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kabaruntukrakyat.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kaboo.com",
     "www.kaboo.com"
    ]
@@ -25931,21 +21774,6 @@
    "process": "any",
    "remote-domains": [
     "kalevalakasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kaloszehunterwarszawa.com",
-    "www.kaloszehunterwarszawa.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kapraywala.ga"
    ]
   },
   {
@@ -25991,14 +21819,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kasiazurawju.pl",
-    "www.kasiazurawju.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kasinoguru-bg.com"
    ]
   },
@@ -26035,24 +21855,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "inpost.kbiao.top",
-    "www.inpost.kbiao.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kc6bet.net",
     "www.kc6bet.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kemaplspc.website",
-    "www.kemaplspc.website"
    ]
   },
   {
@@ -26088,22 +21892,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kesodemo.com",
-    "www.kesodemo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kevogel.com",
-    "www.kevogel.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "key-drop.com"
    ]
   },
@@ -26119,43 +21907,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "polska-vinted-hjso21.kfjpojr.top",
-    "vinted-pl-gj32d.kfjpojr.top",
-    "vintet-pl-kl2112.kfjpojr.top",
-    "virted-pl-fi551.kfjpojr.top",
-    "www.polska-vinted-hjso21.kfjpojr.top",
-    "www.vinted-pl-gj32d.kfjpojr.top",
-    "www.vintet-pl-kl2112.kfjpojr.top",
-    "www.virted-pl-fi551.kfjpojr.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kiapartners.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kidsgalaxylearningcenter.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kidslovemartialartsomahane.com",
     "www.kidslovemartialartsomahane.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kilitvar.com"
    ]
   },
   {
@@ -26234,13 +21987,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kimyen.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "king66.vin"
    ]
   },
@@ -26306,14 +22052,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kingowczar.pl",
-    "www.kingowczar.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kingswaybingoonline.com",
     "www.kingswaybingoonline.com"
    ]
@@ -26338,22 +22076,6 @@
    "process": "any",
    "remote-domains": [
     "daftarpokeronline.kissr.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kitchenmy.online",
-    "www.kitchenmy.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-my-id2g3ys.kivip.top",
-    "www.inpost-pl-my-id2g3ys.kivip.top"
    ]
   },
   {
@@ -26411,14 +22133,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "klimexcm.com",
-    "www.klimexcm.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "km238b.com"
    ]
   },
@@ -26427,39 +22141,6 @@
    "process": "any",
    "remote-domains": [
     "kmisa68.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kmnh6tg43ed.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "kmrekinvinpl.space",
-    "www.kmrekinvinpl.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "komarsyspl.site",
-    "www.komarsyspl.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "olx-pol-kxlsw2.kotes.xyz",
-    "polska-olx-girqz.kotes.xyz",
-    "www.olx-pol-kxlsw2.kotes.xyz",
-    "www.polska-olx-girqz.kotes.xyz"
    ]
   },
   {
@@ -26688,14 +22369,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kucamulak.pl",
-    "www.kucamulak.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "kucasino68.net"
    ]
   },
@@ -26727,21 +22400,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kuygvdt5tg.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.l69.me"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "l9eg69oik.cfd"
    ]
   },
   {
@@ -26756,21 +22415,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lanalu.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "langvuichoi.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lansol.com"
    ]
   },
   {
@@ -26785,36 +22430,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lapetitecocinas.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "laptop4students.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lasatlantispromos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lasgoy.space",
-    "www.lasgoy.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lasonet.com"
    ]
   },
   {
@@ -26852,27 +22468,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "latoyacafe.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lawcourses.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "laxvhost.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lazvegas.com",
     "www.lazvegas.com"
    ]
@@ -26882,13 +22477,6 @@
    "process": "any",
    "remote-domains": [
     "leaguex.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "legateway.org"
    ]
   },
   {
@@ -26911,23 +22499,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "inpost.leidei.top",
-    "www.inpost.leidei.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "leisure888.com",
     "www.leisure888.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lensmedia.ae"
    ]
   },
   {
@@ -26977,21 +22550,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "letsggoo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lgl9p.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lideser.com"
    ]
   },
   {
@@ -27089,14 +22648,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "liragee.info",
-    "www.liragee.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lite-1x0801165.top"
    ]
   },
@@ -27113,28 +22664,6 @@
    "remote-domains": [
     "littlebigbingo.com",
     "www.littlebigbingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "polska-vinted-hjso21.liuru.top",
-    "vinted-pl-gj32d.liuru.top",
-    "vinted-pl-gkk219.liuru.top",
-    "vinted-pl-id002c.liuru.top",
-    "vinted-polska-rr124.liuru.top",
-    "vintet-pl-kl2112.liuru.top",
-    "virted-pl-fi551.liuru.top",
-    "vjnted-pl-ijfoks.liuru.top",
-    "www.polska-vinted-hjso21.liuru.top",
-    "www.vinted-pl-gj32d.liuru.top",
-    "www.vinted-pl-gkk219.liuru.top",
-    "www.vinted-pl-id002c.liuru.top",
-    "www.vinted-polska-rr124.liuru.top",
-    "www.vintet-pl-kl2112.liuru.top",
-    "www.virted-pl-fi551.liuru.top",
-    "www.vjnted-pl-ijfoks.liuru.top"
    ]
   },
   {
@@ -27261,23 +22790,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "logujesz-sie.life",
-    "www.logujesz-sie.life"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "long092.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ps.lontoozz.site",
-    "www.ps.lontoozz.site"
    ]
   },
   {
@@ -27317,13 +22830,6 @@
    "remote-domains": [
     "lopocasport.com",
     "www.lopocasport.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lordbabalokenath.org"
    ]
   },
   {
@@ -27609,13 +23115,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lsknf45vgh.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lt991.com"
    ]
   },
@@ -27631,13 +23130,6 @@
    "process": "any",
    "remote-domains": [
     "lt997.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ltsoftwares.com"
    ]
   },
   {
@@ -27746,13 +23238,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lugarbarato.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lumibet.com",
     "www.lumibet.com"
    ]
@@ -27765,13 +23250,6 @@
     "lutrija.rs",
     "www.lutrija.hr",
     "www.lutrija.rs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "luttesenegal.com"
    ]
   },
   {
@@ -27801,35 +23279,6 @@
    "process": "any",
    "remote-domains": [
     "lvbet.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lwsoundtrackstore.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lyricsouts.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lyskaniuk.pl",
-    "www.lyskaniuk.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "m-ainsurance.com"
    ]
   },
   {
@@ -27975,13 +23424,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "madaecotrip.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "madbookie.com"
    ]
   },
@@ -28015,42 +23457,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "magrasac.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "magutines.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mahiunitedservices.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "maincyber.live",
-    "www.maincyber.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "maisher.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "majorbet.net",
     "www.majorbet.net"
    ]
@@ -28061,13 +23467,6 @@
    "remote-domains": [
     "majorsportsbetting.com",
     "www.majorsportsbetting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "maksv.lv"
    ]
   },
   {
@@ -28154,13 +23553,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "maorkotler.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "marathonbet.com",
     "www.marathonbet.com"
    ]
@@ -28177,29 +23569,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "marisabarda.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "markjarvisbet.com",
     "www.markjarvisbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "marktbitpro.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "marrakech-luxury-properties.com"
    ]
   },
   {
@@ -28238,35 +23609,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "martmedix.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mascotahub.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mashankol.space",
-    "www.mashankol.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mastbeauty.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.masuk4d.com"
    ]
   },
@@ -28276,13 +23618,6 @@
    "remote-domains": [
     "matchbook.com",
     "www.matchbook.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mateteirealty.com"
    ]
   },
   {
@@ -28303,14 +23638,6 @@
    "process": "any",
    "remote-domains": [
     "www.maxbetmaxbetmaxbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "andro.maximizator-avto.xyz",
-    "www.andro.maximizator-avto.xyz"
    ]
   },
   {
@@ -28355,23 +23682,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mbankscz.online",
-    "www.mbankscz.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mbx88.com",
     "www.mbx88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mc-conserv.com"
    ]
   },
   {
@@ -28402,43 +23714,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mecanicacitesa.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mecasysbaja.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mediumagd.pl",
-    "www.mediumagd.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mee.mn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "meetskoy.uno",
-    "www.meetskoy.uno"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "megalotto.pl",
     "www.megalotto.pl"
    ]
@@ -28455,29 +23730,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "megotwon.space",
-    "www.megotwon.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mehndidesignssimple.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mekinglove.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mekongavc.sg"
    ]
   },
   {
@@ -28492,25 +23745,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fact.mestopoland.pro",
-    "sunfun.mestopoland.space",
-    "www.fact.mestopoland.pro",
-    "www.sunfun.mestopoland.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "metalcasino.com",
     "www.metalcasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "metexshowroom.com"
    ]
   },
   {
@@ -28525,14 +23761,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "meusnk.space",
-    "www.meusnk.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mewahbonus.com"
    ]
   },
@@ -28540,21 +23768,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mexicanjeff.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.mexicocasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mhdirect.in"
    ]
   },
   {
@@ -28579,14 +23793,6 @@
    "remote-domains": [
     "miamidicecasino.com",
     "www.miamidicecasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mianhoew.uno",
-    "www.mianhoew.uno"
    ]
   },
   {
@@ -28626,14 +23832,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "midcourses.info",
-    "www.midcourses.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "middlebet.com",
     "www.middlebet.com"
    ]
@@ -28650,35 +23848,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "millattribune.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mireis.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "missaosocialmedia.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mitgath.host",
-    "www.mitgath.host"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mix79.vip"
    ]
   },
@@ -28686,35 +23855,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mkeyecentergh.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mlkaviation.sg"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mlnnssapi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mlwsx6ygh.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mnbumalifoundation.org"
    ]
   },
   {
@@ -28761,20 +23902,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "modernenglishclasses.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mohamedhamada.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "monacoaces.com",
     "www.monacoaces.com"
    ]
@@ -28795,13 +23922,6 @@
     "promo.moneyyellow.com",
     "wap.moneyyellow.com",
     "www.moneyyellow.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "monke.re"
    ]
   },
   {
@@ -28976,20 +24096,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mt-proyectos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mt5team.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lotto.mthai.com",
     "www.lotto.mthai.com"
    ]
@@ -29031,44 +24137,6 @@
    "process": "any",
    "remote-domains": [
     "mu922.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "muchalukasz.pl",
-    "www.muchalukasz.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "muddyindulgent.cn",
-    "www.muddyindulgent.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mudrafinanceslimited.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mufaddal-its.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "muldasatouchs.tk",
-    "www.muldasatouchs.tk"
    ]
   },
   {
@@ -29144,28 +24212,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mynextsteps.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "myphamcuatui.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "mypowerplay11.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "myseacharter.com"
    ]
   },
   {
@@ -29188,13 +24235,6 @@
    "process": "any",
    "remote-domains": [
     "myteampoker.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "mzhuto2j.cfd"
    ]
   },
   {
@@ -29240,13 +24280,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "najm-co.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nanos365.com",
     "www.nanos365.com"
    ]
@@ -29255,51 +24288,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nasaglobal.ca"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "naspmt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nastlosawt.com",
-    "www.nastlosawt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nationale-loterij.be",
     "www.nationale-loterij.be"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nauticagurri.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "navylin.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nayatelhosting.com"
    ]
   },
   {
@@ -29362,78 +24352,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "isc.net.ua"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "netbet.com",
     "www.netbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "netbflux.pl",
-    "www.netbflux.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "hosting180139.a2f0c.netcup.net",
-    "www.hosting180139.a2f0c.netcup.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "netfluxtvvv.pl",
-    "www.netfluxtvvv.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "chipper-pavlova-1f5123.netlify.app",
-    "cpcleanserversion598734541cgyby34872545v23452345.netlify.app",
-    "frolicking-cannoli-b2c810.netlify.app",
-    "magnificent-pika-bb2f40.netlify.app",
-    "peaceful-muffin-a7832a.netlify.app",
-    "shiny-mousse-17797b.netlify.app",
-    "tangerine-sorbet-981d76.netlify.app",
-    "taupe-sprite-67ab1d.netlify.app",
-    "transcendent-queijadas-e99992.netlify.app",
-    "www.chipper-pavlova-1f5123.netlify.app",
-    "www.cpcleanserversion598734541cgyby34872545v23452345.netlify.app",
-    "www.frolicking-cannoli-b2c810.netlify.app",
-    "www.magnificent-pika-bb2f40.netlify.app",
-    "www.peaceful-muffin-a7832a.netlify.app",
-    "www.shiny-mousse-17797b.netlify.app",
-    "www.tangerine-sorbet-981d76.netlify.app",
-    "www.taupe-sprite-67ab1d.netlify.app",
-    "www.transcendent-queijadas-e99992.netlify.app"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "networkcoursemedia.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.xokkl.neuro-unlim.xyz",
-    "xokkl.neuro-unlim.xyz"
    ]
   },
   {
@@ -29448,37 +24368,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "newabc24.pl",
-    "www.newabc24.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "newhom24h.pl",
-    "www.newhom24h.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "newk8.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "news13.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nextbtc.io"
    ]
   },
   {
@@ -29487,20 +24377,6 @@
    "remote-domains": [
     "nextcasino.com",
     "www.nextcasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nflhdgamepass.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ngosathi.in"
    ]
   },
   {
@@ -29624,20 +24500,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nhgfr7yh.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nhgtr46t.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nightrush.com",
     "www.nightrush.com"
    ]
@@ -29648,13 +24510,6 @@
    "remote-domains": [
     "nikebet.net",
     "www.nikebet.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nikieco.com"
    ]
   },
   {
@@ -29677,29 +24532,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.nipunpharmaskill.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nitrogensports.eu",
     "www.nitrogensports.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nlasandbox.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nlasandbox3.com"
    ]
   },
   {
@@ -29738,13 +24572,6 @@
    "remote-domains": [
     "nohuk8.fun",
     "nohuk8.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nonfungiblearcade.com"
    ]
   },
   {
@@ -29813,14 +24640,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "northfacewarszawa.pl",
-    "www.northfacewarszawa.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nostrabet.com",
     "www.nostrabet.com"
    ]
@@ -29853,14 +24672,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nowe-info24h.pl",
-    "www.nowe-info24h.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "noxwin.com",
     "www.noxwin.com"
    ]
@@ -29883,20 +24694,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nug5i3tv.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nutaze.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "nyspins.com",
     "www.nyspins.com"
    ]
@@ -29905,30 +24702,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nyt67dfa.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "o65qmb.tw"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "observercertify.cn",
-    "www.observercertify.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ocabinu.com",
-    "www.ocabinu.com"
    ]
   },
   {
@@ -29966,27 +24740,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "odlcampus.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "oealuminiumsolutionltd.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "offermaketool.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "offsidebet.com",
     "www.offsidebet.com"
    ]
@@ -29996,14 +24749,6 @@
    "process": "any",
    "remote-domains": [
     "www.offtrackbetting.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ogloszenia.store",
-    "www.ogloszenia.store"
    ]
   },
   {
@@ -30020,14 +24765,6 @@
    "remote-domains": [
     "ohmbet.com",
     "www.ohmbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ohorub.com",
-    "www.ohorub.com"
    ]
   },
   {
@@ -30104,20 +24841,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "olivicolapalazzini.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ollbest.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "olybet.com",
     "olybet.eu",
     "www.olybet.com",
@@ -30135,23 +24858,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vinted-pl-gj32d.omeome.xyz",
-    "www.vinted-pl-gj32d.omeome.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "omniacasino.com",
     "www.omniacasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onclickweb.com"
    ]
   },
   {
@@ -30183,13 +24891,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "onelifecm.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "onetpedia.net"
    ]
   },
@@ -30198,57 +24899,6 @@
    "process": "any",
    "remote-domains": [
     "onevegas.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlinehelicopterbookingtrip.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlinehelicopterservice.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlinelearningcom.shop",
-    "www.onlinelearningcom.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlinelearningup.site",
-    "www.onlinelearningup.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlineloansoffers.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlineolabooking.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "onlinetvlivestreaming24.xyz"
    ]
   },
   {
@@ -30279,27 +24929,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "oplexx.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "oplexxhealth.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "oplexxlifestyle.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "api.oppa888.com",
     "en.oppa888.com",
     "hi.oppa888.com",
@@ -30324,23 +24953,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "oprites.link",
-    "www.oprites.link"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "optibet.com",
     "www.optibet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "optinum.ltd"
    ]
   },
   {
@@ -30363,56 +24977,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "orangetravel.cl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "orchidflowerssas.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-argn.order1894.biz",
-    "inpost-xszm.order1894.biz",
-    "www.inpost-argn.order1894.biz",
-    "www.inpost-xszm.order1894.biz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-tuhg.order6091.info",
-    "inpost-uku.order6091.info",
-    "vinted-twfh.order6091.info",
-    "www.inpost-tuhg.order6091.info",
-    "www.inpost-uku.order6091.info",
-    "www.vinted-twfh.order6091.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "borntobefree.org.za",
-    "consumoconsciente.org.ar",
-    "ebpm.org.br",
-    "fundacionvidanueva.org.ec",
-    "iculturalbr.org.br",
-    "msjcharity.org.uk",
-    "rccgjuniorchurch.org.ng",
-    "sakatrust.org.uk"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sbobetcasino.orgfree.com"
    ]
   },
@@ -30428,21 +24992,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "orlen.page",
-    "www.orlen.page"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "otticapassadore.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ourpricebet.com",
     "www.ourpricebet.com"
    ]
@@ -30452,13 +25001,6 @@
    "process": "any",
    "remote-domains": [
     "ov-game.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "overthehedgemusic.com"
    ]
   },
   {
@@ -30529,33 +25071,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "p1.autos",
-    "www.p1.autos",
-    "www.youtube.p1.beauty",
-    "www.youtube.p1.gives",
-    "youtube.p1.beauty",
-    "youtube.p1.gives"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "p2poker.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pa12cqxe.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "packlabsolutions.com"
    ]
   },
   {
@@ -30572,27 +25088,6 @@
    "remote-domains": [
     "paf.com",
     "www.paf.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lkwnw.pages.dev",
-    "uieuq.pages.dev",
-    "vtlpn.pages.dev",
-    "www.lkwnw.pages.dev",
-    "www.uieuq.pages.dev",
-    "www.vtlpn.pages.dev",
-    "www.xtntg.pages.dev",
-    "xtntg.pages.dev"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pagtutors.com"
    ]
   },
   {
@@ -30636,13 +25131,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "papspharma.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "paradisewin.com"
    ]
   },
@@ -30673,13 +25161,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "particuliers-societe.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "partypoker.cz",
     "sports.partypoker.com",
     "www.partypoker.cz"
@@ -30691,42 +25172,6 @@
    "remote-domains": [
     "pasarbola.com",
     "www.pasarbola.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "passmytoefl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt847.payment-poland67.one",
-    "www.del1ver-inpomt847.payment-poland67.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "payoco.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "paywafe.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pchosting.ir"
    ]
   },
   {
@@ -30747,22 +25192,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "peopleplants.top",
-    "www.peopleplants.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "del1ver-inpomt6152polland.peydostawahome56.cyou",
-    "www.del1ver-inpomt6152polland.peydostawahome56.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vn.pg.bet"
    ]
   },
@@ -30770,29 +25199,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "phanvisinhmaichi.vn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "phatloc88.club"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pickupglobals.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pigertow.com",
-    "www.pigertow.com"
    ]
   },
   {
@@ -30822,14 +25229,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "piralty.com",
-    "www.piralty.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "piratespin.com",
     "www.piratespin.com"
    ]
@@ -30838,23 +25237,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "piskome.space",
-    "www.piskome.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bet.pkr.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "facebook.pl5.shop",
-    "www.facebook.pl5.shop"
    ]
   },
   {
@@ -31010,14 +25393,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pocztowy.co",
-    "www.pocztowy.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pogo.com"
    ]
   },
@@ -31104,30 +25479,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "greenenegryx1.polbest.monster",
-    "www.greenenegryx1.polbest.monster"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "polskiepremium.pl",
-    "www.polskiepremium.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "porgaw.site",
-    "www.porgaw.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "postcodeloterij.nl",
     "www.postcodeloterij.nl"
    ]
@@ -31138,16 +25489,6 @@
    "remote-domains": [
     "potsofluck.com",
     "www.potsofluck.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "app.pragmago.net",
-    "pragmago.net",
-    "www.app.pragmago.net",
-    "www.pragmago.net"
    ]
   },
   {
@@ -31186,37 +25527,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "productssuggest.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "4us.profesptsln.online",
-    "pu.profesptsln.online",
-    "www.4us.profesptsln.online",
-    "www.pu.profesptsln.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "profileboosta.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "profitoneerp.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "prok8.com"
    ]
   },
@@ -31239,54 +25549,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "propaczki.cloud",
-    "www.propaczki.cloud"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "propawin.com",
     "www.propawin.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "propertywolf.pk"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "prosperitymoving.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "przechodze-dalej.buzz",
-    "przechodze-dalej.icu",
-    "www.przechodze-dalej.buzz",
-    "www.przechodze-dalej.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "psifiakoworld.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pumpkininnovations.com"
    ]
   },
   {
@@ -31301,30 +25565,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pupmotihari.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "purchase-facebook.com",
-    "www.purchase-facebook.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "purepoker.eu",
     "www.purepoker.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "purposedesigns.net"
    ]
   },
   {
@@ -31339,13 +25581,6 @@
    "process": "any",
    "remote-domains": [
     "q0f2a.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qa5nhg6tygh.cfd"
    ]
   },
   {
@@ -31367,14 +25602,6 @@
    "process": "any",
    "remote-domains": [
     "qh91.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qm492v.cyou",
-    "www.qm492v.cyou"
    ]
   },
   {
@@ -31435,21 +25662,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "qtamed.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "2up.quantiremesp.xyz",
-    "www.2up.quantiremesp.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "quayhuk8.info"
    ]
   },
@@ -31486,42 +25698,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "quietasamouseofficial.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qushowka.link",
-    "www.qushowka.link"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qwvmgj82cvm.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qyqevqvig.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "r6hsv2gxd.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "download.r88.vn",
     "fan88.r88.vn",
     "gamvip88.r88.vn",
@@ -31542,13 +25718,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "rafayrajpoot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "rajahbet.com",
     "www.rajahbet.com"
    ]
@@ -31558,20 +25727,6 @@
    "process": "any",
    "remote-domains": [
     "rajaslot77.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "yuanliao.raluking.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "raynerise.com"
    ]
   },
   {
@@ -31609,37 +25764,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "realsoftsd.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "rebatewager.ag",
     "www.rebatewager.ag"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "receipy.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "reconditionari-turbine.com",
-    "www.reconditionari-turbine.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "recoveryservicedubai.com"
    ]
   },
   {
@@ -31693,14 +25819,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kolbka.redsistem.site",
-    "www.kolbka.redsistem.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "redspins.com",
     "www.redspins.com"
    ]
@@ -31731,88 +25849,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "relationshiplife.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "renovapos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "teslaprestige.repl.co",
-    "www.teslaprestige.repl.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "requitelove.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "reregulat.com",
-    "www.reregulat.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "researchtoll.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "resorbreso.com",
-    "www.resorbreso.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "restaurantela73.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "retro-fanshirt.com",
-    "www.retro-fanshirt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "revitrealestate.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "revmasters.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "rfj87lmj.one"
    ]
   },
   {
@@ -31835,37 +25872,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "richconnect.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "richesandbeyond.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "richrainbows.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ridika.com",
     "www.ridika.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "rihannii.space",
-    "www.rihannii.space"
    ]
   },
   {
@@ -31883,13 +25891,6 @@
     "tai.rik.vip",
     "tai.rik.win",
     "www.rik.win"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "db.rikaz.tech"
    ]
   },
   {
@@ -32005,22 +26006,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "rkhack.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "roadbet.com",
     "www.roadbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "rockvalleygoa.com"
    ]
   },
   {
@@ -32049,37 +26036,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "route66cars.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "routinger.net",
-    "www.routinger.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "royalcspot.com",
     "www.royalcspot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "royalenfield-dealer.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "royalenfielddealer.in"
    ]
   },
   {
@@ -32110,30 +26068,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "rparg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "rraimall.com",
-    "www.rraimall.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "rubet.com",
     "www.rubet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ruitaiwz.com"
    ]
   },
   {
@@ -32149,20 +26085,6 @@
    "process": "any",
    "remote-domains": [
     "s0kn5.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "s3ghospitality.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "s584d3v3s.cfd"
    ]
   },
   {
@@ -32192,28 +26114,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "beansdata.sa.com",
-    "defstage.sa.com",
-    "deftime.sa.com",
-    "limitationline.sa.com",
-    "october-pl.sa.com",
-    "pincore.sa.com",
-    "securityon.sa.com",
-    "topdefline.sa.com",
-    "www.beansdata.sa.com",
-    "www.defstage.sa.com",
-    "www.deftime.sa.com",
-    "www.limitationline.sa.com",
-    "www.october-pl.sa.com",
-    "www.pincore.sa.com",
-    "www.securityon.sa.com",
-    "www.topdefline.sa.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "saartoto.de",
     "www.saartoto.de"
    ]
@@ -32230,44 +26130,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sadjadtalakoob.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sageremediesgh.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "saharabet.com",
     "www.saharabet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sahwa77.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "saififoundation.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "samtek-invest.pro",
-    "www.samtek-invest.pro"
    ]
   },
   {
@@ -32290,13 +26154,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sat7ate.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "saturnplay.com",
     "www.saturnplay.com"
    ]
@@ -32307,13 +26164,6 @@
    "remote-domains": [
     "sazka.cz",
     "www.sazka.cz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sb244iuy.one"
    ]
   },
   {
@@ -32383,46 +26233,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "scarpabuty.com",
-    "www.scarpabuty.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "scasino.com",
     "www.scasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "scelecta.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "badbadak.sch.ir",
-    "smkn1bengkulu.sch.id"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "schemeobscure.cn",
-    "www.schemeobscure.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "schooloftechnologies.com"
    ]
   },
   {
@@ -32439,14 +26251,6 @@
    "remote-domains": [
     "scotbet.com",
     "www.scotbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "scouthistory.net",
-    "www.scouthistory.net"
    ]
   },
   {
@@ -32494,65 +26298,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "seekbooks.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "selectonecollision.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "selirit.space",
-    "www.selirit.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "semalop98w7.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "semarewwdw7.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sepalsunf.com",
-    "www.sepalsunf.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sercoltur.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "2biz.services-ai-tech.cfd",
-    "www.2biz.services-ai-tech.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sesame.bg"
    ]
   },
@@ -32568,22 +26313,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sesiseperu.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "setantabet.com",
     "www.setantabet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sharedigitalcards.com"
    ]
   },
   {
@@ -32615,67 +26346,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sheershasangbad.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "shiercha.top",
-    "www.shiercha.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "shingroup.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "shotech.site",
-    "www.shotech.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "shubhdeals.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "siangol.space",
-    "www.siangol.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sianhoer.site",
-    "www.sianhoer.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "siebnsad.space",
-    "www.siebnsad.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sieubomtan.com"
    ]
   },
@@ -32693,13 +26363,6 @@
    "remote-domains": [
     "qc.sieukeo.live",
     "sieukeo.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "siliconstreetlk.com"
    ]
   },
   {
@@ -32756,13 +26419,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sinail.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "online.singaporepools.com",
     "www.online.singaporepools.com"
    ]
@@ -32795,20 +26451,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sitautomation.it"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "siteara-co.ir"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "situsjuditogel.net"
    ]
   },
@@ -32824,30 +26466,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sjsexecutives.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "skedina.com",
     "www.skedina.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "skilkigrosheytreba.xyz",
-    "www.skilkigrosheytreba.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "skilldomartialart.com"
    ]
   },
   {
@@ -32864,13 +26484,6 @@
    "remote-domains": [
     "skinbet.com",
     "www.skinbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "skincarebysym.com"
    ]
   },
   {
@@ -32925,30 +26538,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "skslegaljast.com",
-    "www.skslegaljast.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "skslegalstart.com",
-    "www.skslegalstart.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "skslegaltrast.com",
-    "www.skslegaltrast.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sky88.com",
     "sky88.top",
     "sky88.uk",
@@ -32985,22 +26574,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "skyxpres.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "slbet.com",
     "www.slbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "slotautomat.de"
    ]
   },
   {
@@ -33091,20 +26666,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "smmahmud.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "smtplast.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "snabbare.com",
     "www.snabbare.com"
    ]
@@ -33113,22 +26674,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "snipersbbs78.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "socalsportbook.com",
     "www.socalsportbook.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "socialmediafollowers.uk"
    ]
   },
   {
@@ -33227,13 +26774,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "softmaticsoftware.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "en.sol86.com",
     "sol86.com",
     "vi.sol86.com",
@@ -33262,75 +26802,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "solarcompanybakersfield.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "solbet88.com",
     "vn.solbet88.com",
     "www.solbet88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "map.solprof.site",
-    "www.map.solprof.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "solsw98w7.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "somkoy.space",
-    "www.somkoy.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sooswa8w7.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sourcecool.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sousafilho.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "spacetunes.store",
-    "www.spacetunes.store"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "speedworkinformatica.com"
    ]
   },
   {
@@ -33347,13 +26821,6 @@
    "remote-domains": [
     "spela.com",
     "www.spela.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.spinbalence.com"
    ]
   },
   {
@@ -33607,13 +27074,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ssagrofoods.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sssbet.com",
     "www.sssbet.com"
    ]
@@ -33659,54 +27119,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "starofistanbul.com",
-    "starofistanbul.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "starsnovo.com",
-    "www.starsnovo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "statscoord.xyz",
-    "www.statscoord.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "statusbet.com",
     "www.statusbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "staynomo.space",
-    "www.staynomo.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.stickers-et-deco.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "stltda.cl"
    ]
   },
   {
@@ -33737,20 +27151,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "strassenburgpharma.biz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "streamtradeoptions.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "strikewin.com",
     "www.strikewin.com"
    ]
@@ -33759,52 +27159,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "stronki-ogloszeniowe.eu",
-    "www.stronki-ogloszeniowe.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "sts.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "33e0.portraits.studio-94-photography.com",
-    "ae86.portraits.studio-94-photography.com",
-    "ec98.portraits.studio-94-photography.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "stylishhomes.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "suchitrasforeignlanguages.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sujghwdtb.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "summernightlifeoutreach.com"
    ]
   },
   {
@@ -33890,13 +27245,6 @@
    "remote-domains": [
     "superlenny.com",
     "www.superlenny.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "supernovaakademi.com"
    ]
   },
   {
@@ -33994,67 +27342,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "svrcreations.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sw2gt5.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "swedencasino.com",
     "swedencasino.se",
     "www.swedencasino.com",
     "www.swedencasino.se"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "swifteduction.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "switzmining.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "swizztrades.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "swqtglk8u.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "sxi42l.cyou",
-    "www.sxi42l.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "syailendra-primatama.com"
    ]
   },
   {
@@ -34066,13 +27357,6 @@
     "sport.synottip.cz",
     "synottip.cz",
     "www.synottip.cz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "syntelv.com"
    ]
   },
   {
@@ -34102,13 +27386,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "t2dwsm3v.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "api.t8bet999.com",
     "t8bet999.com",
     "www.t8bet999.com"
@@ -34130,21 +27407,6 @@
     "t1.ta88.com",
     "t2.ta88.com",
     "ta88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-my-id2g3ys.taffo.top",
-    "www.inpost-pl-my-id2g3ys.taffo.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "taggproducts.com"
    ]
   },
   {
@@ -34291,13 +27553,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "takliesreview.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "tangsoc.com"
    ]
   },
@@ -34312,61 +27567,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tarandaly.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tashainc.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "tatts.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vu.tcoprog.site",
-    "www.vu.tcoprog.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "teadonm.host",
-    "www.teadonm.host"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tecos.teconkilotr.site",
-    "www.tecos.teconkilotr.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-pacid273jks.tejiamai.top",
-    "www.inpost-pl-pacid273jks.tejiamai.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "dpd.tekynomad.org",
-    "www.dpd.tekynomad.org"
    ]
   },
   {
@@ -34382,43 +27583,6 @@
    "remote-domains": [
     "tempobet.com",
     "www.tempobet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tengfeidn.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tepaofficial.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "teraviewer.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "prel2dor.tes-pl1.xyz",
-    "www.prel2dor.tes-pl1.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tx34.tessl.xyz",
-    "www.tx34.tessl.xyz"
    ]
   },
   {
@@ -34444,13 +27608,6 @@
     "m.tf88v.com",
     "tf88v.com",
     "www.tf88v.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tfauganda.org"
    ]
   },
   {
@@ -34509,28 +27666,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "thamage.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "thantai68.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.thebeginningstore.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "thebestkitchenutensils.com"
    ]
   },
   {
@@ -34552,13 +27688,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "thecrymzee.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "thegreek.com",
     "www.thegreek.com"
    ]
@@ -34569,28 +27698,6 @@
    "remote-domains": [
     "thelotter.com",
     "www.thelotter.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "themkconstruction.in"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "thescrooge-gold.com",
-    "www.thescrooge-gold.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "theshoppingdream.com"
    ]
   },
   {
@@ -34638,13 +27745,6 @@
    "process": "any",
    "remote-domains": [
     "thethaovip.vip"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "thetruthjourney.com"
    ]
   },
   {
@@ -34792,20 +27892,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "d.tocat.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "todaynewson.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "tommyfrench.com",
     "www.tommyfrench.com"
    ]
@@ -34824,13 +27910,6 @@
    "remote-domains": [
     "tonybet.com",
     "www.tonybet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "top-notch-rentals.com"
    ]
   },
   {
@@ -34915,22 +27994,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "topcoinsprofit.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "topdoithuong.net",
     "www.topdoithuong.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "topicpure.com"
    ]
   },
   {
@@ -34967,22 +28032,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "toptravellingpoints.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "topwin.cc",
     "www.topwin.cc"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "torchofknowledge.ir"
    ]
   },
   {
@@ -34999,14 +28050,6 @@
    "remote-domains": [
     "totesport.com",
     "www.totesport.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "was.totli.xyz",
-    "www.was.totli.xyz"
    ]
   },
   {
@@ -35052,59 +28095,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "toursguatape.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "toxicjackpot.com",
     "www.toxicjackpot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "toycollectorsindia.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tp4mtmoaj.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tqbnb8c2f.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "trk.trackingclickss.com",
-    "www.trk.trackingclickss.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "trackpackteam.co",
-    "www.trackpackteam.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tradicijanova.rs"
    ]
   },
   {
@@ -35118,37 +28110,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "traildenunciation.cn",
-    "www.traildenunciation.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "transitionspetrescue.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "travelplannings.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "triobet.com",
     "www.triobet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "trombe-wall.com"
    ]
   },
   {
@@ -35180,16 +28143,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gaw2.ttchatpro.site",
-    "gaw.ttchatpro.site",
-    "www.gaw2.ttchatpro.site",
-    "www.gaw.ttchatpro.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ttr.casino",
     "www.ttr.casino"
    ]
@@ -35198,36 +28151,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tundeogunsakinandco.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tunisiabuzz.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "turbico.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tussursfi.com",
-    "www.tussursfi.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "tvvianet.xyz"
    ]
   },
   {
@@ -35243,37 +28167,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "twistedlittletales.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "2344.campaign.tworiversboat.com",
-    "bc4a.campaign.tworiversboat.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "typebeatcentral.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "tzzxt.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ubehay.site",
-    "www.ubehay.site"
    ]
   },
   {
@@ -35295,53 +28189,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ubscan.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ucabet.co",
     "www.ucabet.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "udafoya.com",
-    "www.udafoya.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "udohyn.top",
-    "www.udohyn.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "uflix24.com",
-    "www.uflix24.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ugconcept.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ujhg6yhgdc.click"
    ]
   },
   {
@@ -35363,31 +28212,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ultimatefinancialsolution.com",
-    "www.ultimatefinancialsolution.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ulyssesantonia.cn",
-    "www.ulyssesantonia.cn"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "umfgg.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "unflutedp.com",
-    "www.unflutedp.com"
    ]
   },
   {
@@ -35409,57 +28234,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "uniformescorporativos.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "unionbet.com",
     "www.unionbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "unitedftb.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "unmannedvehiclesass.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "unxinvest.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "uoplasser.online"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "upbook.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "updatenetworkingloc.at"
    ]
   },
   {
@@ -35502,23 +28278,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "uxewcvsdi3f.digital",
-    "www.uxewcvsdi3f.digital"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "tai.v28.club",
     "v28.club"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "v5tr6yfr.one"
    ]
   },
   {
@@ -35635,28 +28396,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vaishnodevihelicopteronline.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "valdelsacarni.it"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "valorantcrew.net",
-    "www.valorantcrew.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vandersports.com",
     "www.vandersports.com"
    ]
@@ -35669,13 +28408,6 @@
     "vaorikvip.com",
     "vaorikvip.net",
     "win.vaorikvip.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "varealestatesolutions.com"
    ]
   },
   {
@@ -35698,22 +28430,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vebhoys.space",
-    "www.vebhoys.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vebo.bet"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vectrum.ba"
    ]
   },
   {
@@ -35736,30 +28453,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vekioler.space",
-    "www.vekioler.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vendorsnation.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "verajohn.com",
     "www.verajohn.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "verbozonanorte.com"
    ]
   },
   {
@@ -35777,13 +28472,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "versac.pe"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vestabet365.com",
     "www.vestabet365.com"
    ]
@@ -35793,13 +28481,6 @@
    "process": "any",
    "remote-domains": [
     "vf003.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vfews23pl.click"
    ]
   },
   {
@@ -35859,14 +28540,6 @@
     "m.vh79.com",
     "vh79.com",
     "www.vh79.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "viaksako.host",
-    "www.viaksako.host"
    ]
   },
   {
@@ -35945,16 +28618,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "1act1.views1pl.site",
-    "1act.views1pl.site",
-    "www.1act1.views1pl.site",
-    "www.1act.views1pl.site"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vikingslots.com",
     "www.vikingslots.com"
    ]
@@ -35973,14 +28636,6 @@
    "remote-domains": [
     "villabet.com",
     "www.villabet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "untubvaostalbus.vin09.info",
-    "www.untubvaostalbus.vin09.info"
    ]
   },
   {
@@ -36017,13 +28672,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "visionarea.ltd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "vitalbet.com",
     "www.vitalbet.com"
    ]
@@ -36035,21 +28683,6 @@
     "m.viva88.com",
     "viva88.com",
     "www.viva88.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vivasurplus.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "bankmillennium.pl.vizatiman.com",
-    "www.bankmillennium.pl.vizatiman.com"
    ]
   },
   {
@@ -36302,13 +28935,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "volpsolkpas7.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "voltbet.com",
     "www.voltbet.com"
    ]
@@ -36398,13 +29024,6 @@
    "process": "any",
    "remote-domains": [
     "vuaclub1008.club"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vuanhhao.com"
    ]
   },
   {
@@ -36753,20 +29372,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bafybeibpthvanvr66xquxzno3dstgnzq5j6xhhwf6rledop436rrvz5wjq.ipfs.w3s.link",
-    "bafybeic5ko4hmjgqz6lyjnq2p5o5xvthjjjvsmc5umry3dw6dbeeh727ka.ipfs.w3s.link",
-    "bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link",
-    "bafybeig5mg3lusqyax3dpn34jrd7tcogwt2zgiz2ytrz7xrckhj7ogql7m.ipfs.w3s.link",
-    "www.bafybeibpthvanvr66xquxzno3dstgnzq5j6xhhwf6rledop436rrvz5wjq.ipfs.w3s.link",
-    "www.bafybeic5ko4hmjgqz6lyjnq2p5o5xvthjjjvsmc5umry3dw6dbeeh727ka.ipfs.w3s.link",
-    "www.bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link",
-    "www.bafybeig5mg3lusqyax3dpn34jrd7tcogwt2zgiz2ytrz7xrckhj7ogql7m.ipfs.w3s.link"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "w753j.com"
    ]
   },
@@ -37036,18 +29641,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wearegentl.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "formula22boga.web.app",
-    "mypoczta-polska.web.app",
-    "www.formula22boga.web.app",
-    "www.mypoczta-polska.web.app",
-    "man2batanghari.web.id",
     "lotto.web.de",
     "www.lotto.web.de"
    ]
@@ -37056,22 +29649,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "webartvision.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "webbookmakers.com",
     "www.webbookmakers.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "webearned.com"
    ]
   },
   {
@@ -37103,82 +29682,11 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "web-uwb-edu.weebly.com",
-    "www.web-uwb-edu.weebly.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "app.wellviet.net",
     "m.wellviet.net",
     "wap.wellviet.net",
     "wellviet.net",
     "www.wellviet.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wenslot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "weokd09rt.one"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wepromocodes.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "weretongi.space",
-    "www.weretongi.space"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "jilo.wertas.xyz",
-    "lukop.wertas.xyz",
-    "www.jilo.wertas.xyz",
-    "www.lukop.wertas.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "weryfka.top",
-    "www.weryfka.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wesokino.com",
-    "www.wesokino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "western-money.live",
-    "www.western-money.live"
    ]
   },
   {
@@ -37216,54 +29724,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wh13xf.cyou",
-    "www.wh13xf.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "whales-capital.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "whitebet.com",
     "www.whitebet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "whitecoralspaacademy.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wiadomosci-wp.pl",
-    "www.wiadomosci-wp.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wiadomoscizradia.pl",
-    "www.wiadomoscizradia.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wieskazieba.pl",
-    "www.wieskazieba.pl"
    ]
   },
   {
@@ -37388,20 +29850,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wind4tech.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "windcomtechnologies.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "winmasters.com",
     "www.winmasters.com"
    ]
@@ -37425,31 +29873,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wisebusiness.store",
-    "www.wisebusiness.store"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wisganerk.com",
-    "www.wisganerk.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "wishmaker.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "olxplatnosc74.wixsite.com",
-    "www.olxplatnosc74.wixsite.com"
    ]
   },
   {
@@ -37464,31 +29888,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "worldhdsports.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "worldwidegamble.com",
     "www.worldwidegamble.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wp-wiadomosci.pl",
-    "www.wp-wiadomosci.pl"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wrzucone-fotki.eu",
-    "www.wrzucone-fotki.eu"
    ]
   },
   {
@@ -37534,20 +29935,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wwwassure-ameli-fr.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "wwwkso-bw-de.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "wy88vn.com"
    ]
   },
@@ -37563,13 +29950,6 @@
    "process": "any",
    "remote-domains": [
     "x1798.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "x4rt45tgf5g.cfd"
    ]
   },
   {
@@ -37623,13 +30003,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xg4x7yzy.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.xingtou888.com",
     "xingtou888.com"
    ]
@@ -37638,23 +30011,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "wordpress.xinmoshiwang.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.xinweide.com",
     "xinweide.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.xinzhouzixun.top",
-    "xinzhouzixun.top"
    ]
   },
   {
@@ -37712,28 +30070,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xplorebuddy.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "xr45tyui.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "xs638.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "y29se10.one"
    ]
   },
   {
@@ -37770,43 +30107,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "yanfang.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "yasbuzz.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "yasikha.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ybbbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "vinted-pl-gj32d.ybhf.xyz",
-    "www.vinted-pl-gj32d.ybhf.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "yesdeko.com"
    ]
   },
   {
@@ -37815,21 +30116,6 @@
    "remote-domains": [
     "www.yeticasino.com",
     "yeticasino.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "inpost-pl-myid271xs.ygklt.xyz",
-    "www.inpost-pl-myid271xs.ygklt.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ly.yjlianyi.top"
    ]
   },
   {
@@ -37903,13 +30189,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "youthtechnologynetwork.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "www.youwager.eu",
     "youwager.eu"
    ]
@@ -37935,16 +30214,6 @@
     "smart.yule12888.com",
     "www.yule12888.com",
     "yule12888.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "photo.zarobuv.xyz",
-    "rest.zarobuv.online",
-    "www.photo.zarobuv.xyz",
-    "www.rest.zarobuv.online"
    ]
   },
   {
@@ -37979,29 +30248,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ze-care.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "zenburger.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "zenitbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.zertlik-investing.pro",
-    "zertlik-investing.pro"
    ]
   },
   {
@@ -38010,28 +30257,6 @@
    "remote-domains": [
     "www.zetpoker.eu",
     "zetpoker.eu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "zillamall.co"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "zillionaireskills.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.znajomi-szukaj.eu",
-    "znajomi-szukaj.eu"
    ]
   },
   {
@@ -38089,13 +30314,6 @@
    "process": "any",
    "remote-domains": [
     "zvhlv.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "w1.zypaint.com"
    ]
   }
  ]
