@@ -97013,14 +97013,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "l86.pacewear.com",
-    "pacewear.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pacinocash.com",
     "www.pacinocash.com"
    ]
@@ -100577,7 +100569,6 @@
    "remote-domains": [
     "phimsexy.cyou",
     "phimsexy.info",
-    "phimsexy.me",
     "phimsexy.org",
     "phimsexy.pro",
     "phimsexy.top"
@@ -101148,13 +101139,6 @@
    "process": "any",
    "remote-domains": [
     "pic-porn.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pic69.me"
    ]
   },
   {
@@ -142714,7 +142698,6 @@
    "process": "any",
    "remote-domains": [
     "m.vlxx.in",
-    "m.vlxx.ws",
     "vlxx.ac",
     "vlxx.buzz",
     "vlxx.chat",

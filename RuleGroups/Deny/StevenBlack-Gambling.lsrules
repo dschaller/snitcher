@@ -6344,6 +6344,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cwin999.com",
+    "m.cwin999.com",
+    "www.cwin999.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "d4j95.com"
    ]
   },
@@ -7497,6 +7506,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fb88affok.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "fb88anh.com"
    ]
   },
@@ -7550,6 +7566,14 @@
    "remote-domains": [
     "fb88max.com",
     "www.fb88max.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fb88sg.com",
+    "www.fb88sg.com"
    ]
   },
   {
@@ -8931,6 +8955,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.i99902.com",
+    "app.i99902.com",
+    "i99902.com",
+    "www.i99902.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "api.i99903.com",
     "i99903.com",
     "www.i99903.com"
@@ -8960,6 +8994,15 @@
     "api.i9bet102.com",
     "i9bet102.com",
     "www.i9bet102.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.i9bet109.com",
+    "i9bet109.com",
+    "www.i9bet109.com"
    ]
   },
   {
@@ -23676,6 +23719,13 @@
     "lp.mayclub.net",
     "mayclub.net",
     "web.mayclub.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mb88.com"
    ]
   },
   {
