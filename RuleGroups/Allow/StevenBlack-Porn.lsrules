@@ -6,6 +6,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "0006666.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "007milf.com"
    ]
   },
@@ -23,6 +30,13 @@
     "amyd.00go.com",
     "angelicjeanette.00go.com",
     "www.angelicjeanette.00go.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "0310love.com"
    ]
   },
   {
@@ -1921,6 +1935,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "2ola.pro",
+    "sex.2ola.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "2umovies.org",
     "2umovies.lol"
    ]
@@ -3466,6 +3488,13 @@
     "www.start.9hz.com",
     "www.updatenationwide.9hz.com",
     "ads01.9hz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "9lxx.com"
    ]
   },
   {
@@ -11527,7 +11556,9 @@
    "process": "any",
    "remote-domains": [
     "anhsex18.com",
-    "www.anhsex18.com"
+    "anhsex18.net",
+    "www.anhsex18.com",
+    "www.anhsex18.net"
    ]
   },
   {
@@ -12810,6 +12841,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "app567lives.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "appchichlive.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "appgaixinh.com"
    ]
   },
@@ -12818,6 +12863,14 @@
    "process": "any",
    "remote-domains": [
     "apphotlive.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "applive.vn",
+    "blog.applive.vn"
    ]
   },
   {
@@ -19861,7 +19914,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "bimxinh.com"
+    "bimxinh.com",
+    "bimxinh.net"
    ]
   },
   {
@@ -20627,6 +20681,7 @@
     "filmseksbaru.blogspot.com",
     "khoanhnguoinoitieng.blogspot.com",
     "phimsexjavhd.blogspot.com",
+    "taiappliveshow.blogspot.com",
     "thegioianhdephd.blogspot.com",
     "waptuoinoiloan.blogspot.com",
     "1b0k3p.blogspot.com",
@@ -35493,6 +35548,7 @@
     "chichlive.com",
     "chichlive.info",
     "chichlive.live",
+    "chichlive.mobi",
     "chichlive.top"
    ]
   },
@@ -35549,6 +35605,13 @@
    "process": "any",
    "remote-domains": [
     "chigaicodon.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chim18.xyz"
    ]
   },
   {
@@ -36290,7 +36353,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "cliphot69.cc"
+    "cliphot69.cc",
+    "cliphot69.org"
    ]
   },
   {
@@ -37777,6 +37841,13 @@
    "process": "any",
    "remote-domains": [
     "contentdef.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chichlivemobi.contently.com"
    ]
   },
   {
@@ -42247,7 +42318,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "ditnhauz.com"
+    "ditnhauz.com",
+    "ditnhauz.net"
    ]
   },
   {
@@ -55085,7 +55157,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gaigoi18.pro"
+    "gaigoi18.biz",
+    "gaigoi18.pro",
+    "gaigoi18.site"
    ]
   },
   {
@@ -55970,6 +56044,13 @@
    "remote-domains": [
     "gaybubble.com",
     "www.gaybubble.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaycan.pro"
    ]
   },
   {
@@ -61961,6 +62042,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hdlove.at"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hdmatures.com"
    ]
   },
@@ -63930,7 +64018,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hentaivip.biz"
+    "hentaivip.biz",
+    "hentaivip.pro"
    ]
   },
   {
@@ -64129,6 +64218,13 @@
    "process": "any",
    "remote-domains": [
     "heo699.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "heo88.net"
    ]
   },
   {
@@ -64687,6 +64783,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hisex.cc",
     "hisex.xyz"
    ]
   },
@@ -71775,6 +71872,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jav2.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "jav2022.top"
    ]
   },
@@ -71882,9 +71986,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "javbabe.net",
     "vn.javbabe.net",
-    "ww1.javbabe.net"
+    "javbabe.net"
    ]
   },
   {
@@ -72040,6 +72143,13 @@
     "javdisk.com",
     "player.javdisk.com",
     "www.javdisk.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "javdit.com"
    ]
   },
   {
@@ -72245,6 +72355,7 @@
    "process": "any",
    "remote-domains": [
     "javhay.club",
+    "javhay.co",
     "javhay.one",
     "javhay.online",
     "javhay.org",
@@ -72573,7 +72684,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "javmienphi.com"
+    "javmienphi.com",
+    "javmienphi.live",
+    "javmienphi.net",
+    "javmienphi.org",
+    "javmienphi.xyz"
    ]
   },
   {
@@ -74223,6 +74338,13 @@
    "process": "any",
    "remote-domains": [
     "jpteacher.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jpxnx.com"
    ]
   },
   {
@@ -78590,7 +78712,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "linkclipsex.com"
+    "linkclipsex.com",
+    "linkclipsex.xyz"
    ]
   },
   {
@@ -83723,6 +83846,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mephimsex.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "merryangels.com",
     "merryangels.info",
     "www.merryangels.com",
@@ -84057,6 +84187,13 @@
    "process": "any",
    "remote-domains": [
     "midwestsewers.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "migraine-aura.com"
    ]
   },
   {
@@ -84925,6 +85062,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "milive.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "milkmanbook.com",
     "www.milkmanbook.com"
    ]
@@ -85307,8 +85451,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mobiblog.cc",
     "mobiblog.net",
-    "mobiblog.us"
+    "mobiblog.us",
+    "mobiblog.vip"
    ]
   },
   {
@@ -87028,6 +87174,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mphimsex.me",
     "mphimsex.pro"
    ]
   },
@@ -93467,7 +93614,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nudeok.com",
+    "nudeok.live",
     "nudeok.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nudephim.com"
    ]
   },
   {
@@ -98709,6 +98865,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phim-sex-hay.me",
     "phim-sex-hay.net"
    ]
   },
@@ -99067,6 +99224,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimhiepdam.me",
     "phimhiepdam.top"
    ]
   },
@@ -99826,6 +99984,7 @@
    "process": "any",
    "remote-domains": [
     "phimsexhanquoc.club",
+    "phimsexhanquoc.co",
     "phimsexhanquoc.info",
     "phimsexhanquoc.live",
     "phimsexhanquoc.me",
@@ -100084,7 +100243,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phimsexmoi69.com"
+    "phimsexmoi69.com",
+    "phimsexmoi69.net"
    ]
   },
   {
@@ -100148,6 +100308,7 @@
    "remote-domains": [
     "phimsexnhanh.club",
     "phimsexnhanh.me",
+    "phimsexnhanh.online",
     "phimsexnhanh.plus",
     "phimsexnhanh.xyz"
    ]
@@ -100338,6 +100499,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsextinhduc.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phimsextop.pro"
    ]
   },
@@ -100345,6 +100513,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsextop1.com",
     "phimsextop1.me"
    ]
   },
@@ -100410,6 +100579,7 @@
    "remote-domains": [
     "phimsexviet.info",
     "phimsexviet.one",
+    "phimsexviet.to",
     "phimsexviet.xxx",
     "phimsexviet.xyz"
    ]
@@ -100472,6 +100642,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsexvkl.me",
     "phimsexvkl.net"
    ]
   },
@@ -100790,6 +100961,13 @@
    "process": "any",
    "remote-domains": [
     "phimxnxx.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phimxvideos1.pro"
    ]
   },
   {
@@ -110859,6 +111037,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "qq892.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "qqqporn.com",
     "www.qqqporn.com"
    ]
@@ -115891,6 +116076,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sex-nhanh.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sex-nhat.com"
    ]
   },
@@ -116012,6 +116204,13 @@
    "process": "any",
    "remote-domains": [
     "sex-viet.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sex-viet-nam.net"
    ]
   },
   {
@@ -116196,6 +116395,13 @@
     "sex3x.info",
     "sex3x.pro",
     "sex3x.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sex3xhay.pro"
    ]
   },
   {
@@ -116923,7 +117129,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexdam3x.com"
+    "sexdam3x.com",
+    "sexdam3x.net"
    ]
   },
   {
@@ -117037,7 +117244,12 @@
    "process": "any",
    "remote-domains": [
     "sexditnhau.cc",
-    "sexditnhau.org"
+    "sexditnhau.info",
+    "sexditnhau.live",
+    "sexditnhau.me",
+    "sexditnhau.net",
+    "sexditnhau.org",
+    "sexditnhau.pro"
    ]
   },
   {
@@ -117494,6 +117706,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexhapdan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexhay.biz",
     "sexhay.vip"
    ]
@@ -117774,6 +117993,13 @@
    "process": "any",
    "remote-domains": [
     "sexhihii.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexhome.pro"
    ]
   },
   {
@@ -118529,6 +118755,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexnao.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexnet.club",
     "sexnet.me"
    ]
@@ -118874,6 +119107,13 @@
    "process": "any",
    "remote-domains": [
     "sexphimhds.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexphimjav.com"
    ]
   },
   {
@@ -119329,6 +119569,13 @@
    "process": "any",
    "remote-domains": [
     "sexsubjav.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexsubs.net"
    ]
   },
   {
@@ -119814,6 +120061,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sextv2.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sextvhay.net"
    ]
   },
@@ -120233,6 +120487,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexvkl.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexvl.biz",
     "sexvl.tv"
    ]
@@ -120253,7 +120514,9 @@
     "sexvn.icu",
     "sexvn.one",
     "sexvn.plus",
+    "sexvn.pro",
     "sexvn.store",
+    "sexvn.to",
     "sexvn.xyz"
    ]
   },
@@ -125945,6 +126208,7 @@
    "process": "any",
    "remote-domains": [
     "subjav.live",
+    "subjav.one",
     "subjav.org"
    ]
   },
@@ -127177,6 +127441,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taiapplive.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taichichlive.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taihotlive.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "click.taincash.com"
    ]
   },
@@ -127200,6 +127485,13 @@
    "process": "any",
    "remote-domains": [
     "taiphimsexnhatban.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taiqqlive.xyz"
    ]
   },
   {
@@ -132172,6 +132464,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tinhduc.online",
     "tinhduc.org"
    ]
   },
@@ -132411,6 +132704,20 @@
    "remote-domains": [
     "tjoob.com",
     "www.tjoob.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tk66.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tk66vn.com"
    ]
   },
   {
@@ -132946,6 +133253,7 @@
    "remote-domains": [
     "top1sex.biz",
     "top1sex.cc",
+    "top1sex.online",
     "top1sex.xyz"
    ]
   },
@@ -138254,6 +138562,7 @@
    "remote-domains": [
     "tuoi69.app",
     "tuoi69.biz",
+    "tuoi69.click",
     "tuoi69.club",
     "tuoi69.com",
     "tuoi69.io",
@@ -142638,6 +142947,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vl88.biz",
     "vl88.pro"
    ]
   },
@@ -142647,6 +142957,13 @@
    "remote-domains": [
     "phim.vl9x.net",
     "vl9x.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vldit.pro"
    ]
   },
   {
@@ -142684,6 +143001,13 @@
    "process": "any",
    "remote-domains": [
     "vlsex1s.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vlsexhay.net"
    ]
   },
   {
@@ -143023,6 +143347,7 @@
    "process": "any",
    "remote-domains": [
     "vnxxx.org",
+    "vnxxx.pro",
     "vnxxx.sex"
    ]
   },
@@ -144657,6 +144982,13 @@
     "www.angelesdivinos.webcindario.com",
     "www.angeline.webcindario.com",
     "www.thefallenangels.webcindario.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "webdoitruy.com"
    ]
   },
   {
@@ -147516,7 +147848,8 @@
    "process": "any",
    "remote-domains": [
     "xemsexx.me",
-    "xemsexx.pro"
+    "xemsexx.pro",
+    "xemsexx.top"
    ]
   },
   {
@@ -148213,13 +148546,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "726.xin-he.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "xindiana.com"
    ]
   },
@@ -148244,6 +148570,13 @@
    "process": "any",
    "remote-domains": [
     "xinh66.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xinhclub.com"
    ]
   },
   {
@@ -148833,6 +149166,7 @@
    "remote-domains": [
     "info.xnxx.gold",
     "www.xnxx.gold",
+    "xnxx.link",
     "cdnxxx.xnxx.report",
     "www.xnxx.college",
     "www.xnxx.com",
@@ -149140,6 +149474,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xnxx55.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xnxx7.biz"
    ]
   },
@@ -149436,6 +149777,7 @@
     "xnxxvn.online",
     "xnxxvn.org",
     "xnxxvn.top",
+    "xnxxvn.vip",
     "xnxxvn.xxx"
    ]
   },
@@ -150823,7 +151165,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "m.xvietsub.tv"
+    "m.xvietsub.tv",
+    "xvietsub.com"
    ]
   },
   {
@@ -151007,6 +151350,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xxhd1.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xxhot.sex"
    ]
   },
@@ -151050,7 +151400,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xxnhanh.net"
+    "xxnhanh.net",
+    "xxnhanh.pro"
    ]
   },
   {
@@ -152845,6 +153196,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xxxphim.biz",
     "xxxphim.me"
    ]
   },
@@ -153787,6 +154139,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xxxvl.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xxxvn.co",
     "xxxvn.live",
     "xxxvn.me"
@@ -154478,6 +154837,7 @@
    "process": "any",
    "remote-domains": [
     "yo69.me",
+    "yo69.one",
     "yo69.pro"
    ]
   },
@@ -156529,6 +156889,13 @@
    "remote-domains": [
     "www.za3ror.com",
     "za3ror.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinh18.zalovn.net"
    ]
   },
   {
