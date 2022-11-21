@@ -80786,13 +80786,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lxhentai.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "lynxdollars.com",
     "www.lynxdollars.com"
    ]
@@ -148561,7 +148554,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "h5.xinh1.com",
     "xinh1.com"
    ]
   },

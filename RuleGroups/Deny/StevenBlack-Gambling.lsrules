@@ -2194,13 +2194,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "affk8.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "affk8top.com"
    ]
   },
@@ -23119,7 +23112,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fbw.lucky88.net",
     "img.lucky88.com",
     "img.lucky88.net",
     "lucky88.bet",
@@ -26593,7 +26585,6 @@
    "process": "any",
    "remote-domains": [
     "socvip9.club",
-    "tiki.socvip9.club",
     "tx.socvip9.club",
     "www.socvip9.club"
    ]
