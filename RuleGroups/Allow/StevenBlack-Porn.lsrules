@@ -40984,6 +40984,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "demnay.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "denisenkov.org",
     "www.denisenkov.org"
    ]
@@ -98835,7 +98842,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phim-set.com",
     "phim-set.me",
     "phim-set.pro"
    ]
@@ -114423,6 +114429,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "s3xvn.com",
+    "www.s3xvn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "s666.tv"
    ]
   },
@@ -117377,6 +117391,14 @@
    "remote-domains": [
     "sexetube.pro",
     "www.sexetube.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexf8.com",
+    "www.sexf8.com"
    ]
   },
   {
@@ -143279,6 +143301,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "s.vnchich.net",
+    "vnchich.com",
     "vnchich.net"
    ]
   },
@@ -150837,6 +150861,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xvideos888.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xvideos9.com"
    ]
   },
@@ -154755,13 +154786,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "yeulien.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "yeusex.me",
     "yeusex.net",
     "yeusex.org",
@@ -157193,6 +157217,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.zohup.com",
+    "zohup.com",
     "zohup.net"
    ]
   },
