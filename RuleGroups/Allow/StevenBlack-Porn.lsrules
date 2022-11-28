@@ -81480,6 +81480,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "manhwa24hs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "manhwahentai.me",
     "www.manhwahentai.me"
    ]
@@ -101004,6 +101011,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimxxx.io",
     "phimxxx.link",
     "phimxxx.live",
     "phimxxx.lol",
@@ -135311,6 +135319,7 @@
    "process": "any",
    "remote-domains": [
     "truyensex.cc",
+    "truyensex.one",
     "truyensex.vip"
    ]
   },
