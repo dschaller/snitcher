@@ -1280,6 +1280,7 @@
     "789b.asia",
     "789b.dev",
     "789b.live",
+    "789b.win",
     "qc.789b.asia",
     "www.789b.live"
    ]
@@ -1533,6 +1534,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "885ae888.com",
+    "www.885ae888.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "8888.bg"
    ]
   },
@@ -1573,6 +1582,14 @@
    "remote-domains": [
     "888sport.com",
     "www.888sport.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "889ae888.com",
+    "www.889ae888.com"
    ]
   },
   {
@@ -1693,6 +1710,14 @@
    "process": "any",
    "remote-domains": [
     "88winners.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "890ae888.com",
+    "www.890ae888.com"
    ]
   },
   {
@@ -1939,6 +1964,7 @@
     "8xbet.com",
     "8xbet.fun",
     "8xbet.games",
+    "8xbet.org",
     "8xbet.tv",
     "8xbet.win",
     "8xbet.xyz",
@@ -1947,6 +1973,13 @@
     "www.8xbet.fun",
     "www.8xbet.tv",
     "www.8xbet.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "8xbet0.com"
    ]
   },
   {
@@ -2029,7 +2062,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "92lottery.com"
+    "92lottery.com",
+    "92lottery.mobi"
    ]
   },
   {
@@ -2217,7 +2251,23 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ae2888.com",
+    "www.ae2888.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ae3888.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ae58888.com",
+    "www.ae58888.com"
    ]
   },
   {
@@ -2233,8 +2283,11 @@
    "process": "any",
    "remote-domains": [
     "ae888.com",
+    "ae888.mobi",
+    "ae888.net",
     "api.ae888.com",
-    "www.ae888.com"
+    "www.ae888.com",
+    "www.ae888.mobi"
    ]
   },
   {
@@ -2283,6 +2336,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ae88848.com",
+    "www.ae88848.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ae88850.com"
    ]
   },
@@ -2292,6 +2353,14 @@
    "remote-domains": [
     "ae88856.com",
     "www.ae88856.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ae88858.com",
+    "www.ae88858.com"
    ]
   },
   {
@@ -2308,6 +2377,14 @@
    "process": "any",
    "remote-domains": [
     "ae888i.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ae888sports01.com",
+    "www.ae888sports01.com"
    ]
   },
   {
@@ -4986,6 +5063,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "casinoae888.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "casinoandfriends.com",
     "www.casinoandfriends.com"
    ]
@@ -5184,6 +5268,13 @@
    "remote-domains": [
     "centrebet.com",
     "www.centrebet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cf68.shop"
    ]
   },
   {
@@ -22993,6 +23084,7 @@
     "kubet.kim",
     "kubet.life",
     "kubet.mobi",
+    "kubet.tel",
     "www.kubet.ac",
     "www.kubet.biz",
     "www.kubet.gg",
@@ -27217,6 +27309,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.shbetgg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "shviet.com"
    ]
   },
@@ -29444,6 +29543,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "v9bet666.com",
+    "www.v9bet666.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.v9bet88.net",
     "v9bet88.net",
     "widget.v9bet88.net",
@@ -29454,10 +29561,31 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "v9beta.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "imsports.v9betasia.com",
     "m.v9betasia.com",
     "v9betasia.com",
     "www.v9betasia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "v9betvi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "v9betwin.net"
    ]
   },
   {

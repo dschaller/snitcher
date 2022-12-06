@@ -2876,6 +2876,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "567lives.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "5besten-sexdatingseiten.ch"
    ]
   },
