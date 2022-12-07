@@ -306,13 +306,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "10prok8.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "www.1126bet.com"
    ]
   },
@@ -1618,6 +1611,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "88bet88bet.com",
+    "api.88bet88bet.com",
+    "awsdfs.88bet88bet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "88gobet.com",
     "www.88gobet.com"
    ]
@@ -2330,6 +2332,15 @@
    "process": "any",
    "remote-domains": [
     "ae88843.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ae88847.com",
+    "api.ae88847.com",
+    "www.ae88847.com"
    ]
   },
   {
@@ -7362,6 +7373,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "empire.casino",
+    "www.empire.casino"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "energybet.com"
    ]
   },
@@ -9649,6 +9668,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "api.i9bet31.com",
+    "i9bet31.com",
+    "www.i9bet31.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "i9bet333.com"
    ]
   },
@@ -11115,6 +11143,15 @@
    "remote-domains": [
     "jss77.net",
     "www.jss77.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "api.jun889.vip",
+    "jun889.vip",
+    "www.jun889.vip"
    ]
   },
   {
@@ -24653,7 +24690,6 @@
    "remote-domains": [
     "ad.mibet.com",
     "click.mibet.com",
-    "click.mibet.mobi",
     "imgservice.mibet.com",
     "m.mibet.win",
     "mibet.cc",
@@ -27025,6 +27061,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "s555.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "s99902e.com"
    ]
   },
@@ -27527,10 +27570,12 @@
     "sky88.bet",
     "sky88.com",
     "sky88.fun",
+    "sky88.in",
     "sky88.top",
     "sky88.uk",
     "sky88.win",
     "sock.sky88.fun",
+    "sock.sky88.in",
     "wp.sky88.fun",
     "www.sky88.win"
    ]
@@ -29057,12 +29102,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "play.top88.club",
     "play.top88.uk",
     "play.top88.us",
     "play.top88.vn",
-    "qc.top88.club",
-    "qc.top88.fun",
     "qc.top88.me",
     "qc.top88.uk",
     "qc.top88.us",

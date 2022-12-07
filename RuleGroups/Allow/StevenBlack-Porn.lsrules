@@ -2876,7 +2876,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "567lives.com"
+    "567live.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "567liveapp.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "567lives.com",
+    "567lives.top"
    ]
   },
   {
@@ -143602,6 +143617,14 @@
     "vnxxx.org",
     "vnxxx.pro",
     "vnxxx.sex"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chich.vnzb8.com",
+    "vnzb8.com"
    ]
   },
   {
