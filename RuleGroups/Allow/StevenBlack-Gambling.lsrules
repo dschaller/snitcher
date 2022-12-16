@@ -377,6 +377,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "123b04.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "123b06.com"
    ]
   },
@@ -392,6 +399,13 @@
    "process": "any",
    "remote-domains": [
     "123b88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "123bdy.com"
    ]
   },
   {
@@ -939,6 +953,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "3547711.com",
+    "www.3547711.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "3549900.com",
+    "www.3549900.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.3650011.com"
    ]
   },
@@ -973,6 +1003,13 @@
    "remote-domains": [
     "377bet.com",
     "www.377bet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "380099.com"
    ]
   },
   {
@@ -2789,6 +2826,14 @@
    "remote-domains": [
     "allyoubet.ag",
     "www.allyoubet.ag"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alo789.com",
+    "www.alo789.com"
    ]
   },
   {
@@ -7514,6 +7559,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ee8801.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ee8802.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ee8803.com"
    ]
   },
@@ -8130,6 +8189,14 @@
    "remote-domains": [
     "fb88cup.com",
     "www.fb88cup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fb88day.com",
+    "www.fb88day.com"
    ]
   },
   {
@@ -9429,6 +9496,34 @@
    "process": "any",
    "remote-domains": [
     "www.hi88vip0.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hi88vip1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hi88vip3.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hi88vip4.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hi88vip7.com"
    ]
   },
   {
@@ -25527,6 +25622,9 @@
    "remote-domains": [
     "nbet.club",
     "nbet.com",
+    "nbet.fun",
+    "nbet.me",
+    "nbet.site",
     "nbet.top",
     "nbet.vip",
     "nbet.win",
@@ -27460,6 +27558,13 @@
    "remote-domains": [
     "s9997.com",
     "www.s9997.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "s999d.com"
    ]
   },
   {
@@ -29694,6 +29799,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "trangchu.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "triobet.com",
     "www.triobet.com"
    ]
@@ -31231,6 +31343,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "w88kh.com",
+    "www.w88kh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "w88kub.com"
    ]
   },
@@ -31265,6 +31385,14 @@
    "remote-domains": [
     "w88u2.com",
     "www.w88u2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "w88ud2.com",
+    "www.w88ud2.com"
    ]
   },
   {
