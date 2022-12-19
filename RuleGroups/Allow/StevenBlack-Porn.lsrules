@@ -11585,6 +11585,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "anhgaixinh.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "anhlondep.xyz"
    ]
   },
@@ -12937,6 +12944,13 @@
    "process": "any",
    "remote-domains": [
     "appliveshow.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "appmmlive.com"
    ]
   },
   {
@@ -55400,6 +55414,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoisinhvien.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaigoituoi18.xyz"
    ]
   },
@@ -64197,6 +64218,7 @@
    "remote-domains": [
     "hentaivn.cc",
     "hentaivn.com",
+    "hentaivn.de",
     "hentaivn.fun",
     "hentaivn.info",
     "hentaivn.la",
@@ -85632,6 +85654,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mm1cloud.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mmcams.com",
     "www.mmcams.com"
    ]
@@ -85648,7 +85677,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "mmliveapp.club"
+    "mmlive1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mmliveapp.club",
+    "mmliveapp.top"
    ]
   },
   {
@@ -111351,6 +111388,13 @@
    "process": "any",
    "remote-domains": [
     "qq892.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qqlive.cc"
    ]
   },
   {

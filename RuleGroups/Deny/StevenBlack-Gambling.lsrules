@@ -1120,6 +1120,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "5533789.com",
+    "www.5533789.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "558kbet.com",
     "api.558kbet.com",
     "www.558kbet.com"
@@ -1153,6 +1161,14 @@
    "remote-domains": [
     "5shbet.com",
     "www.5shbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "608822.com",
+    "www.608822.com"
    ]
   },
   {
@@ -4723,6 +4739,14 @@
    "remote-domains": [
     "bk8ping.com",
     "www.bk8ping.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bk8vie.com",
+    "www.bk8vie.com"
    ]
   },
   {
@@ -8977,6 +9001,13 @@
    "remote-domains": [
     "gi8vn.vip",
     "www.gi8vn.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "giaimanhacai.com"
    ]
   },
   {
@@ -24031,6 +24062,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lodevip.us"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lodevn789.net"
    ]
   },
@@ -25778,6 +25816,13 @@
    "process": "any",
    "remote-domains": [
     "nhacaisomot.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nhacaiuytin.life"
    ]
   },
   {
@@ -30609,6 +30654,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m.vnbong88.live",
+    "vnbong88.live",
+    "www.vnbong88.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vnclub88.live"
    ]
   },
@@ -30690,6 +30744,15 @@
    "process": "any",
    "remote-domains": [
     "vnn8d.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.vnpro88.com",
+    "vnpro88.com",
+    "www.vnpro88.com"
    ]
   },
   {
@@ -31623,6 +31686,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "player.win102.com",
+    "win102.com",
+    "www.win102.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "win29.com",
     "www.win29.com"
    ]
@@ -31655,6 +31727,7 @@
     "play.win79.vip",
     "tai.win79.vip",
     "win79.app",
+    "win79.download",
     "win79.vip",
     "www.win79.vip"
    ]
@@ -31875,6 +31948,13 @@
    "process": "any",
    "remote-domains": [
     "xljs2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--hi-ji6caa.com"
    ]
   },
   {
