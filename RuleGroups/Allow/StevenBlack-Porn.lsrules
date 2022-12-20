@@ -72717,6 +72717,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "javhiv.com",
+    "javhiv.one",
     "javhiv.xyz"
    ]
   },
@@ -73297,6 +73299,7 @@
     "javsub.mobi",
     "javsub.one",
     "javsub.online",
+    "javsub.wiki",
     "javsub.xyz"
    ]
   },
@@ -85654,6 +85657,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "file.mm1cloud.com",
+    "live.mm1cloud.com",
+    "mm.mm1cloud.com",
     "mm1cloud.com"
    ]
   },
@@ -99069,6 +99075,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m.phe3x.xyz",
     "phe3x.xyz"
    ]
   },
@@ -120290,6 +120297,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sextopi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sextopvl.net"
    ]
   },
@@ -120298,6 +120312,13 @@
    "process": "any",
    "remote-domains": [
     "sextoy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sextq.xyz"
    ]
   },
   {
@@ -120744,6 +120765,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexviet1.cc",
     "sexviet1.xyz"
    ]
   },
@@ -139065,6 +139087,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "home.tuoi69vn.com",
+    "tuoi69vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tuoi69zz.com"
    ]
   },
@@ -141470,6 +141500,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m.viet69.chat",
     "viet69.app",
     "viet69.asia",
     "viet69.cam",
@@ -141498,7 +141529,8 @@
     "viet69.to",
     "viet69.us",
     "viet69.vc",
-    "viet69.video"
+    "viet69.video",
+    "vn.viet69.chat"
    ]
   },
   {
@@ -143528,6 +143560,7 @@
     "vlxx.club",
     "vlxx.cm",
     "vlxx.contact",
+    "vlxx.day",
     "vlxx.es",
     "vlxx.fun",
     "vlxx.gay",
@@ -155368,6 +155401,7 @@
    "remote-domains": [
     "yeusex.me",
     "yeusex.net",
+    "yeusex.one",
     "yeusex.org",
     "yeusex.pro"
    ]

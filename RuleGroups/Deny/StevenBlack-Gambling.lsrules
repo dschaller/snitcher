@@ -4874,6 +4874,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bong88.cam",
+    "bong88.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bong8899.com"
    ]
   },
@@ -6895,6 +6903,30 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "d9bet.cam",
+    "d9bet.store",
+    "www.d9bet.cam"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "d9bet38.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "d9bet68.com",
+    "www.d9bet68.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "d9bet88.com"
    ]
   },
@@ -8738,6 +8770,13 @@
    "remote-domains": [
     "galaxysports.com",
     "www.galaxysports.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gam88.org"
    ]
   },
   {
@@ -23799,6 +23838,17 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cfc.leto58.xyz",
+    "gql.leto58.xyz",
+    "leto58.xyz",
+    "msp2.leto58.xyz",
+    "www.leto58.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "letou8868.com",
     "www.letou8868.com"
    ]
@@ -23921,13 +23971,6 @@
    "remote-domains": [
     "lippybingo.com",
     "www.lippybingo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "lite-1x0801165.top"
    ]
   },
   {
@@ -24395,6 +24438,15 @@
    "remote-domains": [
     "lsbet690.com",
     "www.lsbet690.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gql.lt119.online",
+    "lt119.online",
+    "www.lt119.online"
    ]
   },
   {
@@ -26303,6 +26355,15 @@
    "remote-domains": [
     "onlywinners.com",
     "www.onlywinners.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "chatserverv.ooooooo2.com",
+    "ooooooo2.com",
+    "vue.ooooooo2.com"
    ]
   },
   {
@@ -29209,6 +29270,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taiwin79.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "takarakuji-official.jp",
     "www.takarakuji-official.jp"
    ]
@@ -29600,6 +29668,23 @@
    "remote-domains": [
     "tk326.com",
     "www.tk326.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tk88g.com",
+    "www.tk88g.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.to188xj.com",
+    "to188xj.com",
+    "www.to188xj.com"
    ]
   },
   {
@@ -30537,6 +30622,15 @@
    "remote-domains": [
     "vn138viet.com",
     "www.vn138viet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.vn1610.com",
+    "vn1610.com",
+    "www.vn1610.com"
    ]
   },
   {
