@@ -49,7 +49,6 @@
    "process": "any",
    "remote-domains": [
     "016665.com",
-    "api.016665.com",
     "www.016665.com"
    ]
   },
@@ -1897,6 +1896,18 @@
     "8day.com",
     "8day.online",
     "www.8day.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "8day66.com",
+    "tangl0c.8day66.com",
+    "tienlen.8day66.com",
+    "uytin.8day66.com",
+    "win.8day66.com",
+    "xidach.8day66.com"
    ]
   },
   {
@@ -8281,6 +8292,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fb88id.com",
     "www.fb88id.com"
    ]
   },
@@ -10124,6 +10136,14 @@
    "process": "any",
    "remote-domains": [
     "i9bet333.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i9bet35.com",
+    "www.i9bet35.com"
    ]
   },
   {
@@ -29368,13 +29388,6 @@
    "process": "any",
    "remote-domains": [
     "tf88792.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "m.tf88860.co"
    ]
   },
   {

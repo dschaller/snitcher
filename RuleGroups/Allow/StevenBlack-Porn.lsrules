@@ -36588,7 +36588,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "clipsex.mobi"
+    "clipsex.mobi",
+    "clipsex.video"
    ]
   },
   {
@@ -80535,6 +80536,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lovejav.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "loveleaked.com"
    ]
   },
@@ -83454,7 +83462,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "5sex.maulon.pro"
+    "5sex.maulon.pro",
+    "maulon.pro"
    ]
   },
   {
@@ -87445,7 +87454,8 @@
    "process": "any",
    "remote-domains": [
     "mphimsex.me",
-    "mphimsex.pro"
+    "mphimsex.pro",
+    "mphimsex.xyz"
    ]
   },
   {
@@ -99987,6 +99997,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsex123.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phimsex14.net"
    ]
   },
@@ -100794,8 +100811,10 @@
     "phimsexsub.online",
     "phimsexsub.plus",
     "phimsexsub.pro",
+    "phimsexsub.pw",
     "phimsexsub.sex",
     "phimsexsub.vip",
+    "x.phimsexsub.pw",
     "z.phimsexsub.co",
     "vn.phimsexsub.info"
    ]
@@ -100934,7 +100953,6 @@
    "remote-domains": [
     "phimsexviet.info",
     "phimsexviet.one",
-    "phimsexviet.to",
     "phimsexviet.xxx",
     "phimsexviet.xyz"
    ]
@@ -100978,6 +100996,7 @@
    "remote-domains": [
     "phimsexvietsub.asia",
     "phimsexvietsub.club",
+    "phimsexvietsub.site",
     "phimsexvietsub.vip"
    ]
   },
@@ -101645,7 +101664,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phym18.com"
+    "phym18.com",
+    "vn.phym18.com"
    ]
   },
   {
@@ -117587,6 +117607,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexdeptv.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexdesant.com"
    ]
   },
@@ -117608,6 +117635,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexdiaryz.pro",
     "sexdiaryz.xyz"
    ]
   },
@@ -118684,6 +118712,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexjavhd.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexjobs.nl"
    ]
   },
@@ -119548,7 +119583,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexphimhds.net"
+    "sexphimhds.net",
+    "www.sexphimhds.net"
    ]
   },
   {
@@ -120227,10 +120263,12 @@
     "sextop1.club",
     "sextop1.dev",
     "sextop1.fun",
+    "sextop1.love",
     "sextop1.news",
     "sextop1.one",
     "sextop1.sex",
     "sextop1.video",
+    "sextop1.win",
     "x.sextop1.life",
     "sextop1.net",
     "www.sextop1.net",
@@ -120379,7 +120417,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sextrung.me"
+    "sextrung.me",
+    "sextrung.top"
    ]
   },
   {
@@ -120909,6 +120948,13 @@
     "sexvietvl.com",
     "sexvietvl.net",
     "sexvietvl.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexvietx.net"
    ]
   },
   {
@@ -141501,6 +141547,8 @@
    "process": "any",
    "remote-domains": [
     "m.viet69.chat",
+    "m.viet69.tech",
+    "sex.viet69.tech",
     "viet69.app",
     "viet69.asia",
     "viet69.cam",
@@ -141526,6 +141574,7 @@
     "viet69.social",
     "viet69.store",
     "viet69.studio",
+    "viet69.tech",
     "viet69.to",
     "viet69.us",
     "viet69.vc",
@@ -143561,7 +143610,6 @@
     "vlxx.cm",
     "vlxx.contact",
     "vlxx.day",
-    "vlxx.es",
     "vlxx.fun",
     "vlxx.gay",
     "vlxx.icu",
@@ -143729,8 +143777,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vlxxtube.cc",
     "vlxxtube.com",
-    "vlxxtube.net"
+    "vlxxtube.net",
+    "vn.vlxxtube.cc"
    ]
   },
   {
@@ -148390,7 +148440,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xemsexvl.net"
+    "xemsexvl.net",
+    "xemsexvl.pro"
    ]
   },
   {
