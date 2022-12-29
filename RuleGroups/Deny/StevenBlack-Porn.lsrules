@@ -64699,6 +64699,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hhentai.net",
+    "i1.hhentai.net",
+    "i3.hhentai.net",
+    "up1.hhentai.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hhime.com"
    ]
   },

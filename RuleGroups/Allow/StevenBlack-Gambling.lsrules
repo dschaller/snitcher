@@ -10135,6 +10135,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "i9bet32.com",
+    "www.i9bet32.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "i9bet333.com"
    ]
   },
