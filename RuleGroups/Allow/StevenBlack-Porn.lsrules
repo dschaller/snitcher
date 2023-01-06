@@ -36603,6 +36603,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "clipsex3x.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "clipsex69.com"
    ]
   },
@@ -63752,6 +63759,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hentaihub.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hentaikai.com"
    ]
   },
@@ -68485,6 +68499,13 @@
     "hungshemales.net",
     "join.hungshemales.net",
     "www.hungshemales.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hungtinh.net"
    ]
   },
   {
@@ -99366,6 +99387,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phim7789.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phima1.com"
    ]
   },
@@ -99498,6 +99526,7 @@
    "remote-domains": [
     "phimhentai.biz",
     "phimhentai.cyou",
+    "phimhentai.pro",
     "phimhentai.xyz"
    ]
   },
@@ -99544,6 +99573,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimheosex.cc",
     "phimheosex.me",
     "phimheosex.net"
    ]
@@ -99569,6 +99599,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimheovn.biz",
     "phimheovn.cc",
     "phimheovn.me"
    ]
@@ -99701,6 +99732,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimmup.com",
     "phimmup.net"
    ]
   },
@@ -100246,6 +100278,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsexdam.cc",
     "phimsexdam.net",
     "phimsexdam.top"
    ]
@@ -100303,7 +100336,15 @@
    "process": "any",
    "remote-domains": [
     "phimsexdongtinh.net",
-    "phimsexdongtinh.top"
+    "phimsexdongtinh.top",
+    "phimsexdongtinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phimsexdongvat.com"
    ]
   },
   {
@@ -100449,6 +100490,7 @@
    "process": "any",
    "remote-domains": [
     "phimsexhd.club",
+    "phimsexhd.live",
     "phimsexhd.nl",
     "phimsexhd.one",
     "phimsexhd.online",
@@ -100462,7 +100504,8 @@
    "process": "any",
    "remote-domains": [
     "phimsexhentai.me",
-    "phimsexhentai.org"
+    "phimsexhentai.org",
+    "phimsexhentai.top"
    ]
   },
   {
@@ -100811,6 +100854,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsexsh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m.phimsexsub.co",
     "phimsexsub.cc",
     "phimsexsub.co",
@@ -100861,7 +100911,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phimsexthailan.com"
+    "phimsexthailan.com",
+    "phimsexthailan.net"
    ]
   },
   {
@@ -101299,7 +101350,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phimxesvn.com"
+    "phimxesvn.com",
+    "phimxesvn.pro"
    ]
   },
   {
@@ -117638,7 +117690,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexdiary.cc"
+    "sexdiary.cc",
+    "sexdiary.pro"
    ]
   },
   {
@@ -118415,6 +118468,13 @@
    "process": "any",
    "remote-domains": [
     "sexheodem.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexhi88.com"
    ]
   },
   {
@@ -120913,6 +120973,7 @@
    "process": "any",
    "remote-domains": [
     "sexvietsub.mobi",
+    "sexvietsub.today",
     "sexvietsub.vip"
    ]
   },
@@ -135790,6 +135851,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "truyenheta.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "truyenkk1.com"
    ]
   },
@@ -135869,7 +135937,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "truyensextv.com"
+    "truyensextv.com",
+    "truyensextv.me"
    ]
   },
   {
@@ -143834,6 +143903,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vlxxvn.me",
     "vlxxvn.net"
    ]
   },
@@ -148476,6 +148546,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xemsexxx.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xemsexz.pro"
    ]
   },
@@ -150478,6 +150555,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xnxxyou.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xnxxzooporn.com"
    ]
   },
@@ -150652,6 +150736,13 @@
     "xphimsex.me",
     "xphimsex.pro",
     "xphimsex.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xphimsexviet.com"
    ]
   },
   {
