@@ -36455,6 +36455,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cliphot-vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cliphot69.cc",
     "cliphot69.org"
    ]
@@ -36477,7 +36484,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "cliphotvn.com"
+    "cliphotvn.com",
+    "cliphotvn.org"
    ]
   },
   {
@@ -36645,6 +36653,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "clipsexviet.live",
     "clipsexviet.xyz"
    ]
   },
@@ -70815,6 +70824,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ishg.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ishootporn.com",
     "www.ishootporn.com"
    ]
@@ -73015,6 +73031,7 @@
    "process": "any",
    "remote-domains": [
     "javnong.cc",
+    "javnong.top",
     "javnong.xyz"
    ]
   },
@@ -75700,6 +75717,13 @@
    "process": "any",
    "remote-domains": [
     "khoailac.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "khohieu.com"
    ]
   },
   {
@@ -81765,6 +81789,13 @@
     "cdn.manhwa24hs.com",
     "manhwa24hs.com",
     "static.manhwa24hs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "manhwa24hz.com"
    ]
   },
   {
@@ -119939,6 +119970,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexsb.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexsbarrel.com",
     "www.sexsbarrel.com"
    ]
@@ -133315,7 +133353,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "tk66.app"
+    "tk66.app",
+    "tk66.tv"
    ]
   },
   {
@@ -144023,7 +144062,8 @@
    "process": "any",
    "remote-domains": [
     "chich.vnzb8.com",
-    "vnzb8.com"
+    "vnzb8.com",
+    "www.vnzb8.com"
    ]
   },
   {

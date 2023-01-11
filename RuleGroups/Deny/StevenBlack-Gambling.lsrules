@@ -910,6 +910,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "331725.com",
+    "www.331725.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "338kbet.com",
     "api.338kbet.com",
     "www.338kbet.com"
@@ -1280,7 +1288,56 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "69vip2.com"
+    "69dinhtruong.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69ducthien.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69hoanglam.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69huyhoang.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69minhduc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69nguyenhuuphuoc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69nguyenvanduc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69truonghuunguyen.com"
    ]
   },
   {
@@ -1775,6 +1832,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "888thao.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "889ae888.com",
     "www.889ae888.com"
    ]
@@ -1863,8 +1927,29 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "88quay.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "88quayclub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "88sports.com",
     "www.88sports.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "88sports88.com"
    ]
   },
   {
@@ -1874,6 +1959,13 @@
     "88thaicasinoslots.com",
     "piwik.88thaicasinoslots.com",
     "www.88thaicasinoslots.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "88thao88.com"
    ]
   },
   {
@@ -2156,6 +2248,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "8live.club",
     "8live.com",
     "8live.fun",
     "8live.net",
@@ -2180,6 +2273,13 @@
    "process": "any",
    "remote-domains": [
     "8livevn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "8thao8.com"
    ]
   },
   {
@@ -2236,52 +2336,6 @@
    "process": "any",
    "remote-domains": [
     "8xbet11.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet115.com",
-    "www.8xbet115.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet22.com",
-    "www.8xbet22.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet5.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet71.com",
-    "www.8xbet71.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet888.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "8xbet96.com",
-    "www.8xbet96.com"
    ]
   },
   {
@@ -7331,6 +7385,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hl8.daily123hl8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "daily88uu.com",
     "www.daily88uu.com"
    ]
@@ -10137,6 +10198,83 @@
    "remote-domains": [
     "bet.hkjc.com",
     "www.bet.hkjc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8atm.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8bai.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8bongda.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8casino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8club.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8hn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8lucky.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8media.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8thai8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8vi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hl8vn.fun"
    ]
   },
   {
@@ -23959,6 +24097,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "km1888866b.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "km238b.com"
    ]
   },
@@ -25232,6 +25377,14 @@
    "process": "any",
    "remote-domains": [
     "lvbet.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lxviet66.com",
+    "m.lxviet66.com"
    ]
   },
   {
@@ -30070,7 +30223,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tbr11.com"
+    "tbr.games"
    ]
   },
   {
@@ -30229,6 +30382,20 @@
    "process": "any",
    "remote-domains": [
     "thantai68.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thao88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thao888.com"
    ]
   },
   {
