@@ -64501,6 +64501,7 @@
    "process": "any",
    "remote-domains": [
     "heovl.com",
+    "heovl.fun",
     "heovl.live",
     "heovl.me",
     "heovl.net"
@@ -68265,6 +68266,13 @@
    "remote-domains": [
     "hqtgp.com",
     "www.hqtgp.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hqthaiporn.com"
    ]
   },
   {
@@ -72598,6 +72606,7 @@
    "remote-domains": [
     "javhay.club",
     "javhay.co",
+    "javhay.media",
     "javhay.one",
     "javhay.online",
     "javhay.org",
@@ -99648,6 +99657,7 @@
    "remote-domains": [
     "phimheoz.com",
     "phimheoz.org",
+    "phimheoz.pro",
     "phimheoz.tv"
    ]
   },
@@ -99917,7 +99927,8 @@
     "phimset.plus",
     "phimset.pro",
     "phimset.sex",
-    "phimset.top"
+    "phimset.top",
+    "phimset.tube"
    ]
   },
   {
@@ -100958,6 +100969,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsexthudam.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phimsextile.com"
    ]
   },
@@ -100994,6 +101012,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsextq.com",
     "phimsextq.pro"
    ]
   },
@@ -120450,7 +120469,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sextopvl.net"
+    "sextopvl.net",
+    "sextopvl.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sextot.com"
    ]
   },
   {
@@ -154938,6 +154965,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xxxvietnam.blog",
     "xxxvietnam.tv"
    ]
   },
