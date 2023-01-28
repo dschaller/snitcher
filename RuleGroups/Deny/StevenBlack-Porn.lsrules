@@ -85515,6 +85515,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ministerioagape.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mintladies.com"
    ]
   },
@@ -123775,6 +123782,13 @@
    "remote-domains": [
     "sieumup.net",
     "www.sieumup.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sieuthiphutungxenang.com"
    ]
   },
   {

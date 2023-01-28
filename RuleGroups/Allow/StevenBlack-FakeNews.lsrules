@@ -6956,6 +6956,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ministerioagape.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "minneapolisreview.com"
    ]
   },
@@ -11242,6 +11249,13 @@
    "process": "any",
    "remote-domains": [
     "www.shtfplan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sieuthiphutungxenang.com"
    ]
   },
   {
