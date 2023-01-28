@@ -2424,13 +2424,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "ministerioagape.net"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "mixch.tv"
    ]
   },
@@ -2715,13 +2708,6 @@
    "process": "any",
    "remote-domains": [
     "i.reddituploads.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "sieuthiphutungxenang.com"
    ]
   },
   {
