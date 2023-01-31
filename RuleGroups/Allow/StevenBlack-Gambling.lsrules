@@ -925,6 +925,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "331729.com",
+    "www.331729.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "338kbet.com",
     "api.338kbet.com",
     "www.338kbet.com"
@@ -1202,7 +1210,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "5shbet.com",
     "www.5shbet.com"
    ]
   },
@@ -2810,6 +2817,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aebet.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.aewin88.com"
    ]
   },
@@ -3343,9 +3357,13 @@
    "remote-domains": [
     "bayvip247.fun",
     "bayvip247.live",
+    "bayvip247.me",
     "bayvip247.page",
+    "bayvip247.win",
     "download.bayvip247.live",
-    "download.bayvip247.page"
+    "download.bayvip247.me",
+    "download.bayvip247.page",
+    "download.bayvip247.win"
    ]
   },
   {
@@ -5075,6 +5093,14 @@
    "remote-domains": [
     "bk8vnd.com",
     "www.bk8vnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bk8win.top",
+    "www.bk8win.top"
    ]
   },
   {
@@ -7558,6 +7584,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ads5.dangkybum.club",
+    "dangkybum.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dangkykubet.vip",
     "www.dangkykubet.vip"
    ]
@@ -7973,6 +8007,13 @@
    "remote-domains": [
     "dreamz.com",
     "www.dreamz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dubaivn.vip"
    ]
   },
   {
@@ -10188,6 +10229,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hb8864.com",
+    "www.hb8864.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hb8875.com"
    ]
   },
@@ -10998,6 +11047,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "i9bet49.com",
+    "www.i9bet49.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "i9bet5.com",
     "www.i9bet5.com"
    ]
@@ -11343,7 +11400,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "iwin.club"
+    "iwin.club",
+    "iwin.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "iwin6699.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "iwin68m.com"
    ]
   },
   {
@@ -27908,8 +27980,10 @@
     "choi.playiwin.uk",
     "play.playiwin.biz",
     "playiwin.biz",
+    "playiwin.club",
     "playiwin.in",
     "playiwin.site",
+    "playiwin.top",
     "playiwin.uk",
     "reg.playiwin.site"
    ]
@@ -28565,10 +28639,12 @@
    "remote-domains": [
     "rik.bet",
     "rik.club",
+    "rik.top",
     "rik.vip",
     "rik.win",
     "tai.rik.bet",
     "tai.rik.club",
+    "tai.rik.top",
     "www.rik.win"
    ]
   },
@@ -29051,14 +29127,12 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "shb11.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
+    "m.shbet.love",
     "shbet.com",
+    "shbet.love",
+    "shbet.me",
+    "shbet.news",
+    "shbet.rip",
     "shbet.site",
     "shbet.vin",
     "shbet.win"
@@ -29069,7 +29143,6 @@
    "process": "any",
    "remote-domains": [
     "api.shbet0.com",
-    "shbet0.com",
     "www.shbet0.com"
    ]
   },
@@ -29085,15 +29158,7 @@
    "process": "any",
    "remote-domains": [
     "api.shbet3.com",
-    "shbet3.com",
     "www.shbet3.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "shbetcc.com"
    ]
   },
   {
@@ -29108,7 +29173,6 @@
    "process": "any",
    "remote-domains": [
     "api.shbetvv.com",
-    "shbetvv.com",
     "www.shbetvv.com"
    ]
   },
@@ -30830,6 +30894,13 @@
    "remote-domains": [
     "thuonghieunhacai.com",
     "thuonghieunhacai.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thuongkingfun.biz"
    ]
   },
   {
@@ -33407,10 +33478,19 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "win456.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "play.win79.vip",
+    "tai.win79.pro",
     "tai.win79.vip",
     "win79.app",
     "win79.download",
+    "win79.pro",
     "win79.vip",
     "www.win79.vip"
    ]
