@@ -2079,8 +2079,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "plus.google.com",
-    "fundingchoicesmessages.google.com"
+    "plus.google.com"
    ]
   },
   {

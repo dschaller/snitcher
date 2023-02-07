@@ -365,6 +365,7 @@
     "123b.bet",
     "123b.com",
     "123b.org",
+    "123b.vn",
     "m.123b.bet",
     "www.123b.bet",
     "www.123b.com",
@@ -397,6 +398,13 @@
    "process": "any",
    "remote-domains": [
     "123b06.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "123b09.com"
    ]
   },
   {
