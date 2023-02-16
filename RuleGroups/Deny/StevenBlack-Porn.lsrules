@@ -73050,6 +73050,7 @@
     "javhd.services",
     "javhd.tech",
     "javhd.video",
+    "javhd.ws",
     "enter.javhd.com",
     "fhg.javhd.com",
     "javhd.com",
@@ -78226,6 +78227,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lenlut.info",
     "lenlut.net"
    ]
   },
