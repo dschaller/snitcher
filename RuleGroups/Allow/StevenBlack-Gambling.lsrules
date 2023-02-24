@@ -916,6 +916,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "2x3x.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.32red.com"
    ]
   },
@@ -997,6 +1004,13 @@
    "process": "any",
    "remote-domains": [
     "33win7.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "33winz.com"
    ]
   },
   {
@@ -1246,6 +1260,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "6623.support"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "666casino.com",
     "www.666casino.com"
    ]
@@ -1300,6 +1321,13 @@
    "process": "any",
    "remote-domains": [
     "68b3.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "68game2.com"
    ]
   },
   {
@@ -1735,6 +1763,14 @@
    "process": "any",
    "remote-domains": [
     "828bet.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "8559553.com",
+    "www.8559553.com"
    ]
   },
   {
@@ -2327,6 +2363,7 @@
     "8xbet.fun",
     "8xbet.games",
     "8xbet.org",
+    "8xbet.pw",
     "8xbet.tv",
     "8xbet.win",
     "8xbet.xyz",
@@ -4868,6 +4905,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "biendo.club",
+    "biendo.one",
+    "biendo.store"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "biendo1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "biendo3.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "biendo9.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "big88.one",
     "www.big88.one"
    ]
@@ -4983,6 +5050,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bk8ae.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bk8bongda.com",
     "www.bk8bongda.com"
    ]
@@ -5007,6 +5081,13 @@
    "remote-domains": [
     "bk8h.com",
     "www.bk8h.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bk8hanoi.com"
    ]
   },
   {
@@ -5479,6 +5560,13 @@
    "remote-domains": [
     "butterflybingo.com",
     "www.butterflybingo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bvthethao.com"
    ]
   },
   {
@@ -6033,13 +6121,86 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "cf68.shop"
+    "cf68.app",
+    "cf68.click",
+    "cf68.club",
+    "cf68.fun",
+    "cf68.shop",
+    "cf68.vin"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cf681.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf683.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf6838.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf6868.app",
+    "cf6868.club",
+    "cf6868.com",
+    "cf6868.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf688.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf689.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf6899.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf68club.com",
+    "cf68club.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cf68vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cfun68.app",
     "cfun68.biz"
    ]
   },
@@ -6142,6 +6303,20 @@
    "process": "any",
    "remote-domains": [
     "choang.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choi77.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choi99.com"
    ]
   },
   {
@@ -7400,6 +7575,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cwin000.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cwin01.com",
     "www.cwin01.com"
    ]
@@ -7433,6 +7615,34 @@
    "remote-domains": [
     "cwin05.com",
     "www.cwin05.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cwin06.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cwin07.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cwin08.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cwin09.com"
    ]
   },
   {
@@ -7675,6 +7885,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dangkyee88.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dangkykubet.vip",
     "www.dangkykubet.vip"
    ]
@@ -7873,6 +8090,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "diendansohoc.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "digibet.com",
     "www.digibet.com"
    ]
@@ -8014,6 +8238,13 @@
    "remote-domains": [
     "dlb.lk",
     "www.dlb.lk"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dltbr.com"
    ]
   },
   {
@@ -11130,6 +11361,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "i9bet47.com",
+    "www.i9bet47.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "i9bet49.com",
     "www.i9bet49.com"
    ]
@@ -11140,6 +11379,14 @@
    "remote-domains": [
     "i9bet5.com",
     "www.i9bet5.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i9bet59.com",
+    "www.i9bet59.com"
    ]
   },
   {
@@ -12555,6 +12802,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jiejiekan.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "jinbo989898.com"
    ]
   },
@@ -12627,6 +12881,14 @@
     "api.jun889.vip",
     "jun889.vip",
     "www.jun889.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jun88bet.biz",
+    "jun88bet.xyz"
    ]
   },
   {
@@ -25115,6 +25377,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lixi88ae.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lixi88first.com"
    ]
   },
@@ -25310,6 +25579,27 @@
     "loto.ro",
     "www.loto.mk",
     "www.loto.ro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "loto188ae.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "loto188az.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "loto188vi.com"
    ]
   },
   {
@@ -26244,6 +26534,13 @@
    "remote-domains": [
     "me88vn1.com",
     "www.me88vn1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "me88vn2.com"
    ]
   },
   {
@@ -27601,6 +27898,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "onbet3.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "onbet7.com"
    ]
   },
@@ -27696,6 +28000,13 @@
     "api.oppa88888888.com",
     "oppa88888888.com",
     "www.oppa88888888.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "oppo96.com"
    ]
   },
   {
@@ -27824,6 +28135,13 @@
    "process": "any",
    "remote-domains": [
     "p2poker.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "p38000.com"
    ]
   },
   {
@@ -28722,11 +29040,13 @@
    "remote-domains": [
     "rik.bet",
     "rik.club",
+    "rik.fun",
     "rik.top",
     "rik.vip",
     "rik.win",
     "tai.rik.bet",
     "tai.rik.club",
+    "tai.rik.fun",
     "tai.rik.top",
     "www.rik.win"
    ]
@@ -28945,6 +29265,13 @@
    "process": "any",
    "remote-domains": [
     "s555.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "s666bet.win"
    ]
   },
   {
@@ -29616,6 +29943,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "soc99.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "socalsportbook.com",
     "www.socalsportbook.com"
    ]
@@ -30268,6 +30602,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sv368.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "id.sv388.mobi",
     "sv388.biz",
     "sv388.cam",
@@ -30675,6 +31016,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tdtc.cc",
+    "tdtc.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tdtcyy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tdtczz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "templenile.com"
    ]
   },
@@ -30778,6 +31141,13 @@
     "thabet.co",
     "thabet.gg",
     "thabet.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thabet11.com"
    ]
   },
   {
@@ -30954,6 +31324,13 @@
    "process": "any",
    "remote-domains": [
     "thk8.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tho77.com"
    ]
   },
   {
@@ -31355,7 +31732,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "trangchu.app"
+    "trangchu.app",
+    "trangchu.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trangchu2a.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trangchu2b.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trangchu2c.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trangchu2d.com"
    ]
   },
   {
@@ -32122,6 +32528,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "viva88bet.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vjprok8.com"
    ]
   },
@@ -32153,6 +32566,14 @@
    "process": "any",
    "remote-domains": [
     "www.vn138138.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vn138d.com",
+    "www.vn138d.com"
    ]
   },
   {
@@ -33589,6 +34010,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "win86.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "win88.me"
    ]
   },
@@ -33615,6 +34043,14 @@
    "process": "any",
    "remote-domains": [
     "winbet.bg"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "winbet58.live",
+    "winbet58.win"
    ]
   },
   {
@@ -33667,6 +34103,13 @@
    "remote-domains": [
     "wixstars.com",
     "www.wixstars.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "wm88vn.com"
    ]
   },
   {
@@ -33835,6 +34278,20 @@
     "xo88.com",
     "xo88.fun",
     "xo88.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xoi77.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xoi99.com"
    ]
   },
   {
@@ -34035,6 +34492,13 @@
    "remote-domains": [
     "www.yule12888.com",
     "yule12888.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "z333666.com"
    ]
   },
   {
