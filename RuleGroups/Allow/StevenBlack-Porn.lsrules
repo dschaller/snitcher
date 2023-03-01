@@ -2884,7 +2884,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "567live.online"
+    "567live.online",
+    "567live.win"
    ]
   },
   {
@@ -2900,6 +2901,20 @@
    "remote-domains": [
     "567lives.com",
     "567lives.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "567livestop.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "567livewin.com"
    ]
   },
   {
@@ -3479,6 +3494,13 @@
    "remote-domains": [
     "9996666.net",
     "www.9996666.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "999live.app"
    ]
   },
   {
@@ -8054,6 +8076,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "alogai24.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alogaidep.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "alogaigoi.com"
    ]
   },
@@ -8068,11 +8104,25 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "alohang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "alohatube.com",
     "alohatube.xyz",
     "www.alohatube.com",
     "www.alohatube.xyz",
     "alohatube.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alohi.xyz"
    ]
   },
   {
@@ -11600,6 +11650,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "anhgainude.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "anhgaisexy.com"
    ]
   },
@@ -11607,7 +11664,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "anhgaixinh.us"
+    "anhgaixinh.us",
+    "anhgaixinh.vip"
    ]
   },
   {
@@ -12959,6 +13017,13 @@
    "remote-domains": [
     "applive.vn",
     "blog.applive.vn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "applives.top"
    ]
   },
   {
@@ -17004,6 +17069,13 @@
    "remote-domains": [
     "bannerout.com",
     "www.bannerout.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bantinh.xyz"
    ]
   },
   {
@@ -34572,6 +34644,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cavekiemdinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "caysex.net"
    ]
   },
@@ -35626,7 +35705,8 @@
    "process": "any",
    "remote-domains": [
     "checkgaigoi.info",
-    "checkgaigoi.us"
+    "checkgaigoi.us",
+    "checkgaigoi.xyz"
    ]
   },
   {
@@ -36067,7 +36147,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choigai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "choigaigoi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choigaingon.xyz"
    ]
   },
   {
@@ -36601,6 +36695,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "clipcave.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "clipcelebrity.com"
    ]
   },
@@ -36609,6 +36710,83 @@
    "process": "any",
    "remote-domains": [
     "clipchich.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipdit.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipfull.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgai2k.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgaicave.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgaidep.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgaigoi.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgaingon.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipgaixinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cliphang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cliphangdep.xyz"
    ]
   },
   {
@@ -36680,6 +36858,20 @@
     "www.cliphunter.com",
     "m.cliphunter.com",
     "cliphunter.global"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipkhoe.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipkhoehang.xyz"
    ]
   },
   {
@@ -36763,6 +36955,13 @@
     "clipsage.com",
     "www.clipsage.com",
     "clipsage.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipscandal.xyz"
    ]
   },
   {
@@ -36861,6 +37060,13 @@
    "remote-domains": [
     "clipsforjerkoff.com",
     "www.clipsforjerkoff.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipshowhang.xyz"
    ]
   },
   {
@@ -37533,6 +37739,13 @@
    "process": "any",
    "remote-domains": [
     "coffetubehd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cogaixinh.live"
    ]
   },
   {
@@ -43342,6 +43555,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dp568phim.com",
+    "file.dp568phim.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.dpfanatics.com"
    ]
   },
@@ -45013,6 +45234,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "emgaixinh.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "emily18.com",
     "galleries.emily18.com",
     "www.emily18.com"
@@ -45051,6 +45279,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "emmiu.art"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "emo-porn.com",
     "www.emo-porn.com"
    ]
@@ -45069,6 +45304,14 @@
    "remote-domains": [
     "emobunny.com",
     "www.emobunny.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "emodayne.live",
+    "emodayne.one"
    ]
   },
   {
@@ -45138,6 +45381,15 @@
    "process": "any",
    "remote-domains": [
     "emtien2k1.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "emxinh.art",
+    "emxinh.click",
+    "emxinh.live"
    ]
   },
   {
@@ -55586,7 +55838,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gai3s.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gai3x.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gai88.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaicaocap.link",
+    "gaicaocap.xyz"
    ]
   },
   {
@@ -55600,8 +55874,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaidam.click",
     "gaidam.host",
     "gaidam.in",
+    "gaidam.link",
     "gaidam.net",
     "gaidam.org",
     "gaidam.pro",
@@ -55619,8 +55895,31 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaidamxx.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidamxxx.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidanang.click",
+    "gaidanang.fun",
     "gaidanang.in",
     "gaidanang.link"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidanang2022.website"
    ]
   },
   {
@@ -55634,7 +55933,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaidephanoi.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaidepvietnam.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidepvip.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidepvn.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaidikhach.xyz"
    ]
   },
   {
@@ -55669,7 +55996,98 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoi33.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoi3m.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoi3mien.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaigoi9.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoialo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoiangiang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoiaz.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoibaclieu.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoibamien.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoibentre.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoibienhoadongnai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoicamau.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoicantho.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoicaocap.xyz"
    ]
   },
   {
@@ -55683,8 +56101,25 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoidalat.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoidanang.link",
     "gaigoidanang.net",
     "gaigoidanang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoidananghot.com",
+    "gaigoidananghot.net",
+    "gaigoidananghot.xyz"
    ]
   },
   {
@@ -55709,6 +56144,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoidongthap.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoigiare.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaigoihanoi.icu",
     "gaigoihanoi.info",
     "gaigoihanoi.net",
@@ -55727,6 +56176,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoihaugiang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaigoihn.com"
    ]
   },
@@ -55734,30 +56190,100 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gaigoihue.net"
+    "gaigoihue.link",
+    "gaigoihue.live",
+    "gaigoihue.net",
+    "gaigoihue.xyz"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoihuekiemdinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoikiemdinh.click",
     "gaigoikiemdinh.com",
+    "gaigoikiemdinh.fun",
     "gaigoikiemdinh.link",
-    "gaigoikiemdinh.live"
+    "gaigoikiemdinh.live",
+    "gaigoikiemdinh.net",
+    "gaigoikiemdinh.vip"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gaigoinhatrang.com"
+    "gaigoikiemdinh1.xyz"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gaigoionline.link"
+    "gaigoikiengiang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoilauxanh.us",
+    "gaigoilauxanh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoilongan.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoimientay.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoinhatrang.com",
+    "gaigoinhatrang.link",
+    "gaigoinhatrang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoionline.click",
+    "gaigoionline.info",
+    "gaigoionline.link",
+    "gaigoionline.live",
+    "gaigoionline.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoipho.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoisaigon.xyz"
    ]
   },
   {
@@ -55771,7 +56297,73 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigoisoctrang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoitayninh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoiteen.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoitelegram.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoitiengiang.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoitop.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoituoi17.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoituoi18.fun",
+    "gaigoituoi18.link",
     "gaigoituoi18.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoiviet.info",
+    "gaigoiviet.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoivinhlong.xyz"
    ]
   },
   {
@@ -55783,6 +56375,13 @@
     "gaigoivip.org",
     "gaigoivip.pro",
     "gaigoivip.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaigoivn.club"
    ]
   },
   {
@@ -55828,6 +56427,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaihongdao.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaikhoehang.com"
    ]
   },
@@ -55836,9 +56442,31 @@
    "process": "any",
    "remote-domains": [
     "gaikiemdinh.link",
+    "gaikiemdinh.live",
     "gaikiemdinh.net",
     "gaikiemdinh.org",
     "gaikiemdinh.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaikiemdinh1.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaikiemdinhx.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gailauxanh.xyz"
    ]
   },
   {
@@ -55860,7 +56488,9 @@
    "process": "any",
    "remote-domains": [
     "gaimup.click",
+    "gaimup.lol",
     "gaimup.net",
+    "gaimup.shop",
     "gaimup.site",
     "gaimup.xyz"
    ]
@@ -55870,6 +56500,20 @@
    "process": "any",
    "remote-domains": [
     "gaingon.lol"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaingonlive.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gainviewers.com"
    ]
   },
   {
@@ -55906,6 +56550,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaitop.click",
+    "gaitop.link",
     "gaitop.me"
    ]
   },
@@ -55913,7 +56559,38 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaitredep.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaituoi18.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaituyenchon.link",
+    "gaituyenchon.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaivietdo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaivip.art",
+    "gaivip.lol",
+    "gaivip.mom"
    ]
   },
   {
@@ -55950,7 +56627,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "gaixinh365.com"
+    "gaixinh2k.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinh365.com",
+    "gaixinh365.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinhanoi.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinhcaocap.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinhchandai.com"
    ]
   },
   {
@@ -55958,6 +56664,13 @@
    "process": "any",
    "remote-domains": [
     "gaixinhgiare.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinhhenho.com"
    ]
   },
   {
@@ -55972,6 +56685,13 @@
    "process": "any",
    "remote-domains": [
     "gaixinhonline.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gaixinhshowhang.online"
    ]
   },
   {
@@ -58237,6 +58957,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "girlkiemdinh.link",
+    "girlkiemdinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "girlmature.com",
     "www.girlmature.com"
    ]
@@ -59114,6 +59842,69 @@
    "process": "any",
    "remote-domains": [
     "gohairygirls.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigai18.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigai24.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigai2k.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigai3m.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigaicaocap.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigaidep.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigainhanh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigaire.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goigaisv.xyz"
    ]
   },
   {
@@ -61823,6 +62614,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hardcore3000.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hardcoredome.com"
    ]
   },
@@ -63556,6 +64354,41 @@
    "remote-domains": [
     "hen-tie.net",
     "www.hen-tie.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henho24az.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henho2k.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henho3mien.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henhoaz.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henhogai.xyz"
    ]
   },
   {
@@ -67314,6 +68147,13 @@
    "process": "any",
    "remote-domains": [
     "hotlesbianpornpics.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hotlive.win"
    ]
   },
   {
@@ -76288,7 +77128,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "kieunuvadaigia.live"
+    "kieunuvadaigia.link",
+    "kieunuvadaigia.live",
+    "kieunuvadaigia.xyz"
    ]
   },
   {
@@ -77102,7 +77944,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "kynudanang.link"
+    "kynudanang.link",
+    "kynudanang.xyz"
    ]
   },
   {
@@ -77116,7 +77959,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kynukiemdinh.fun",
+    "kynukiemdinh.link",
     "kynukiemdinh.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kynukiemdinhx.xyz"
    ]
   },
   {
@@ -77867,6 +78719,13 @@
    "remote-domains": [
     "laylasa5en.info",
     "www.laylasa5en.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "laysogaigoi.com"
    ]
   },
   {
@@ -82515,7 +83374,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "massageviet.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "massagevungtau.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "massagex.org"
    ]
   },
   {
@@ -84396,7 +85269,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "megaidep.link",
+    "megaidep.online",
     "megaidep.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "megaidep1.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "megaidepx.link"
    ]
   },
   {
@@ -86194,6 +87083,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "miuxinh.art"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mixandfun.com"
    ]
   },
@@ -86264,6 +87160,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mmlive.link",
     "mmlive.live",
     "mmlive.one"
    ]
@@ -86281,6 +87178,13 @@
    "remote-domains": [
     "mmliveapp.club",
     "mmliveapp.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mmliveapptop.com"
    ]
   },
   {
@@ -87551,6 +88455,13 @@
    "remote-domains": [
     "orientalangel.moonfruit.com",
     "www.orientalangel.moonfruit.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "moonlive.club"
    ]
   },
   {
@@ -92417,9 +93328,12 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ngamgai.click",
     "ngamgai.live",
     "ngamgai.lol",
-    "ngamgai.online"
+    "ngamgai.online",
+    "ngamgai.pics",
+    "ngamgai.xyz"
    ]
   },
   {
@@ -92455,6 +93369,13 @@
    "process": "any",
    "remote-domains": [
     "nguoilon.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nguoithuong.xyz"
    ]
   },
   {
@@ -100762,6 +101683,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phimsex21.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phimsex2k.biz",
     "phimsex2k.pro"
    ]
@@ -101124,6 +102052,7 @@
    "process": "any",
    "remote-domains": [
     "m.phimsexhay.cc",
+    "phimsexhay.asia",
     "phimsexhay.biz",
     "phimsexhay.club",
     "phimsexhay.co",
@@ -101596,7 +102525,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phimsexpro.info"
+    "phimsexpro.info",
+    "phimsexpro.me"
    ]
   },
   {
@@ -102327,7 +103257,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phodem.link"
+    "phodem.link",
+    "phodem.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phodendo.xyz"
    ]
   },
   {
@@ -102342,14 +103280,33 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phogaigoi.link"
+    "phogaigoi.link",
+    "phogaigoi.live",
+    "phogaigoi.xyz"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "phogaikiemdinh.live"
+    "phogaigoi1.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phogaikiemdinh.fun",
+    "phogaikiemdinh.link",
+    "phogaikiemdinh.live",
+    "phogaikiemdinh.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "phogaikiemdinh1.xyz"
    ]
   },
   {
@@ -112316,6 +113273,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "qh88vn.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "qombol.com"
    ]
   },
@@ -112367,6 +113331,13 @@
    "process": "any",
    "remote-domains": [
     "qqlive.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "qqlives.app"
    ]
   },
   {
@@ -124475,6 +125446,23 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "showgai.click",
+    "showgai.pics",
+    "showgai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "showgaidep.one",
+    "showgaidep.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "showhangnhanh.xyz"
    ]
   },
@@ -124521,6 +125509,13 @@
    "process": "any",
    "remote-domains": [
     "showup.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "showvip.one"
    ]
   },
   {
@@ -127928,6 +128923,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sugababy.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sugarangels.com",
     "www.sugarangels.com"
    ]
@@ -129098,7 +130100,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taiqqlive.app",
     "taiqqlive.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taiqqliveapp.com"
    ]
   },
   {
@@ -133882,6 +134892,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "thuongem.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tia-tanaka.com"
    ]
   },
@@ -134011,6 +135028,13 @@
    "process": "any",
    "remote-domains": [
     "tik-tok.porn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "timbangainhanh.com"
    ]
   },
   {
@@ -140412,6 +141436,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tuyetpham.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pornogratis.tv.br",
     "xvideos.tv.br"
    ]
@@ -140623,6 +141654,13 @@
    "remote-domains": [
     "twizporn.com",
     "www.twizporn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twtgaixinh.com"
    ]
   },
   {
@@ -141728,6 +142766,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vaoxem.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vardh.com"
    ]
   },
@@ -141750,6 +142795,13 @@
    "process": "any",
    "remote-domains": [
     "vazoudozap.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vb9.biz"
    ]
   },
   {
@@ -142140,6 +143192,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "video8x.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "videoamateurporn.com"
    ]
   },
@@ -142149,6 +143208,13 @@
    "remote-domains": [
     "videoangels.com",
     "www.videoangels.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "videoaz.xyz"
    ]
   },
   {
@@ -142185,8 +143251,29 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "videodikhach.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "videodirectory10.info",
     "www.videodirectory10.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "videogai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "videogaigoi.xyz"
    ]
   },
   {
@@ -145131,6 +146218,13 @@
    "remote-domains": [
     "vodafterdark.com",
     "www.vodafterdark.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "voday.one"
    ]
   },
   {
@@ -149674,6 +150768,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xemshow.click",
+    "xemshow.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xemsv.com"
    ]
   },
@@ -150416,6 +151518,13 @@
    "process": "any",
    "remote-domains": [
     "xinhclub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xinhxinh.one"
    ]
   },
   {
