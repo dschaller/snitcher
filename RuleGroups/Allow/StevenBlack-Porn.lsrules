@@ -3290,6 +3290,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "836mm.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "85porn.net",
     "www.85porn.net"
    ]
@@ -39041,6 +39048,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "crownlive.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cruel-furies.com"
    ]
   },
@@ -43999,6 +44013,13 @@
    "process": "any",
    "remote-domains": [
     "dualeotruyen3s.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dualeotruyenzz.com"
    ]
   },
   {
@@ -65737,8 +65758,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "heovl.cc",
     "heovl.com",
     "heovl.fun",
+    "heovl.io",
     "heovl.live",
     "heovl.me",
     "heovl.net"
@@ -70036,6 +70059,13 @@
    "remote-domains": [
     "i2px.com",
     "www.i2px.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i998.co"
    ]
   },
   {
@@ -87152,6 +87182,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mm819.me"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mmcams.com",
     "www.mmcams.com"
    ]
@@ -87162,7 +87199,8 @@
    "remote-domains": [
     "mmlive.link",
     "mmlive.live",
-    "mmlive.one"
+    "mmlive.one",
+    "mmlive.plus"
    ]
   },
   {
@@ -90370,6 +90408,13 @@
    "process": "any",
    "remote-domains": [
     "mymatureporn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mymeyeu.xyz"
    ]
   },
   {
@@ -96538,6 +96583,13 @@
     "nuvid.com",
     "www.nuvid.com",
     "nuvid.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nv89w.top"
    ]
   },
   {
@@ -117552,6 +117604,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "se69.fun",
+    "www.se69.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sea-angels.ru",
     "www.sea-angels.ru"
    ]
@@ -119560,6 +119620,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexdiaryz.fun",
     "sexdiaryz.pro",
     "sexdiaryz.xyz"
    ]

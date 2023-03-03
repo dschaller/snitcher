@@ -5308,6 +5308,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bom52.club",
+    "game.bom52.club",
+    "play.bom52.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bombaybets.eu",
     "www.bombaybets.eu"
    ]
@@ -11903,7 +11912,9 @@
    "process": "any",
    "remote-domains": [
     "iwin.club",
-    "iwin.info"
+    "iwin.info",
+    "iwin.us",
+    "www.iwin.us"
    ]
   },
   {
