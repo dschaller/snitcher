@@ -20993,6 +20993,7 @@
     "doctruyennguoilonhay.blogspot.com",
     "filmseksbaru.blogspot.com",
     "khoanhnguoinoitieng.blogspot.com",
+    "mbbg-binhduong.blogspot.com",
     "phimsexjavhd.blogspot.com",
     "taiappliveshow.blogspot.com",
     "thegioianhdephd.blogspot.com",
@@ -39259,6 +39260,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "henho.cucvui.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cuecaporno.xxx"
    ]
   },
@@ -48633,6 +48641,13 @@
    "remote-domains": [
     "fancentro.com",
     "www.fancentro.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fanpay.org"
    ]
   },
   {
@@ -64381,7 +64396,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "henho.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henho247.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "henho24az.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henho24h.com"
    ]
   },
   {
@@ -64410,6 +64446,13 @@
    "process": "any",
    "remote-domains": [
     "henhogai.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "henhozalo.com"
    ]
   },
   {
@@ -77018,6 +77061,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ketban24h.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ketdoi.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "khattinh.pro",
     "khattinh.tech"
    ]
@@ -85080,11 +85137,21 @@
    "process": "any",
    "remote-domains": [
     "mbbg.cc",
+    "mbbg.club",
+    "mbbg.info",
     "mbbg.live",
     "mbbg.org",
     "mbbg.pro",
     "mbbg.tv",
-    "mbbg.vip"
+    "mbbg.vip",
+    "mbbg.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mbbgvietnam.me"
    ]
   },
   {
@@ -103503,6 +103570,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phunucodon.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "phunuthainguyen.com"
    ]
   },
@@ -113683,6 +113757,13 @@
    "process": "any",
    "remote-domains": [
     "ragingstallion.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "raiseyourhandnow.com"
    ]
   },
   {
@@ -135095,6 +135176,27 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "timbaby.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "timban24h.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "timbanbonphuongaz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "timbangainhanh.com"
    ]
   },
@@ -135142,6 +135244,13 @@
    "remote-domains": [
     "timetoteens.com",
     "www.timetoteens.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "timmaybaybagia.net"
    ]
   },
   {
@@ -142907,6 +143016,13 @@
    "process": "any",
    "remote-domains": [
     "secure.vend-o.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "venturefestbristolandbath.com"
    ]
   },
   {
