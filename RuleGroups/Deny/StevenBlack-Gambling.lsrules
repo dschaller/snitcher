@@ -32393,6 +32393,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "v8club.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "game.v99win.app",
     "ios.v99win.app",
     "m.v99win.app",

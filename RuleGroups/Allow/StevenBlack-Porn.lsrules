@@ -1639,6 +1639,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "210vn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "21naturals.com",
     "21naturals.top",
     "lp.21naturals.com",
@@ -64396,6 +64403,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cdn.hencb.top",
+    "hencb.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "henho.us"
    ]
   },
@@ -65550,6 +65565,7 @@
     "hentaivn.life",
     "hentaivn.moe",
     "hentaivn.online",
+    "hentaivn.run",
     "hentaivn.tv",
     "i3.hentaivn.tv",
     "up2.hentaivn.tv",
@@ -65807,7 +65823,8 @@
     "heovl.io",
     "heovl.live",
     "heovl.me",
-    "heovl.net"
+    "heovl.net",
+    "heovl.tv"
    ]
   },
   {
