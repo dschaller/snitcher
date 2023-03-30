@@ -3817,7 +3817,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "betano.bg"
+    "betano.bg",
+    "betano.cz",
+    "www.betano.cz"
    ]
   },
   {
@@ -5226,6 +5228,14 @@
    "process": "any",
    "remote-domains": [
     "secure.bkbet.eu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "blancoshrimp.com",
+    "www.blancoshrimp.com"
    ]
   },
   {
@@ -11705,7 +11715,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "iforbet.pl"
+    "iforbet.cz",
+    "iforbet.pl",
+    "www.iforbet.cz"
    ]
   },
   {
