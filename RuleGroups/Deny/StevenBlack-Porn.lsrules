@@ -7343,6 +7343,7 @@
    "remote-domains": [
     "all-usanomination.com",
     "img.all-usanomination.com",
+    "makumva.all-usanomination.com",
     "www.all-usanomination.com"
    ]
   },
@@ -65161,6 +65162,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cdn3.hentaihand.com",
     "cdn.hentaihand.com",
     "hentaihand.com",
     "www.hentaihand.com"
@@ -66649,6 +66651,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ags.hobby.porn",
     "hobby.porn",
     "vid101.hobby.porn",
     "vid102.hobby.porn",
@@ -68332,6 +68335,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hazicu.hothomefuck.com",
     "hothomefuck.com",
     "www.hothomefuck.com"
    ]
@@ -97822,6 +97826,13 @@
    "process": "any",
    "remote-domains": [
     "oldgrannytube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0.oldgyhogola.com"
    ]
   },
   {

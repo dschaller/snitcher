@@ -6,6 +6,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "0000130.com",
+    "web.0000130.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "0066130.com",
+    "www.0066130.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "0077130.com",
+    "www.0077130.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "010bestk8.com"
    ]
   },
@@ -326,6 +350,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "1166130.com",
+    "www.1166130.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "118kbet.com",
     "api.118kbet.com",
     "www.118kbet.com"
@@ -454,6 +486,14 @@
     "12bet.com",
     "www.12bet.com",
     "www.12bet.uk"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "130casino.com",
+    "web.130casino.com"
    ]
   },
   {
@@ -32793,6 +32833,13 @@
    "remote-domains": [
     "vinnarum.com",
     "www.vinnarum.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vip130130.com"
    ]
   },
   {
