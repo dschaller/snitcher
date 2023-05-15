@@ -1885,6 +1885,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "868vip.mobi"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "868vip1.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "881ae888.com",
     "api.881ae888.com"
    ]
@@ -8993,6 +9007,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eu88.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "eu9vn.com"
    ]
   },
@@ -11745,6 +11766,14 @@
    "remote-domains": [
     "i9bet71.com",
     "www.i9bet71.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i9bet74.com",
+    "www.i9bet74.com"
    ]
   },
   {
@@ -26810,6 +26839,7 @@
     "img.may88.us",
     "may88.club",
     "may88.com",
+    "may88.fun",
     "may88.top",
     "may88.us",
     "may88.vip",
@@ -30059,6 +30089,7 @@
     "sin88.cc",
     "sin88.club",
     "sin88.mobi",
+    "sin88.us",
     "sin88.vip",
     "sin88.win",
     "thethao.sin88.biz",
@@ -30216,6 +30247,7 @@
     "sky88.com",
     "sky88.fun",
     "sky88.in",
+    "sky88.info",
     "sky88.top",
     "sky88.uk",
     "sky88.win",
@@ -32696,6 +32728,13 @@
    "remote-domains": [
     "vandersports.com",
     "www.vandersports.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vao789club.win"
    ]
   },
   {
