@@ -2415,6 +2415,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "8k00000.com",
+    "www.8k00000.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "8kbet.app",
     "8kbet.vn",
     "app.8kbet.vn",
@@ -30277,6 +30285,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sky88vao.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m.skybet.com",
     "skybet.com",
     "www.skybet.com"
@@ -30942,6 +30957,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sun52.bid",
     "sun52.click",
     "sun52.tv"
    ]
