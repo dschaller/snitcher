@@ -9607,6 +9607,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fb9fun.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fcb8.club",
     "fcb8.com",
     "fcb8.fun",
@@ -10447,6 +10454,7 @@
     "go88.com",
     "go88.im",
     "go88.live",
+    "go88.luxury",
     "go88.vip",
     "play.go88.club",
     "play.go88.im",
@@ -11766,6 +11774,14 @@
    "remote-domains": [
     "i9bet71.com",
     "www.i9bet71.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i9bet72.com",
+    "www.i9bet72.com"
    ]
   },
   {
@@ -30926,6 +30942,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sun52.click",
     "sun52.tv"
    ]
   },
@@ -32825,6 +32842,14 @@
    "process": "any",
    "remote-domains": [
     "vf003.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vf234.com",
+    "www.vf234.com"
    ]
   },
   {

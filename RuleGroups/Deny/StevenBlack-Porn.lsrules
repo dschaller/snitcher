@@ -75456,7 +75456,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "javhd-vn.com"
+    "javhd-vn.com",
+    "javhd-vn.xyz"
    ]
   },
   {
@@ -75811,6 +75812,13 @@
     "javnhatban.me",
     "javnhatban.net",
     "javnhatban.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "javnhe.org"
    ]
   },
   {
@@ -76398,7 +76406,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "javvn.me"
+    "javvn.me",
+    "javvn.online",
+    "javvn.org"
    ]
   },
   {
@@ -83437,6 +83447,13 @@
     "lontv.co",
     "lontv.mobi",
     "lontv.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lonxnxx.com"
    ]
   },
   {
@@ -102835,7 +102852,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "phevkl.com"
+    "phevkl.com",
+    "phevkl.me"
    ]
   },
   {
@@ -104511,6 +104529,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "phimsexhot.club",
+    "phimsexhot.info",
+    "phimsexhot.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "phimsexjapan.me"
    ]
   },
@@ -105419,6 +105446,8 @@
    "process": "any",
    "remote-domains": [
     "phimxes.cc",
+    "phimxes.click",
+    "phimxes.org",
     "phimxes.top",
     "phimxes.video"
    ]
@@ -118852,6 +118881,7 @@
    "process": "any",
    "remote-domains": [
     "rphangx.com",
+    "rphangx.me",
     "rphangx.net",
     "rphangx.tv"
    ]
@@ -121483,6 +121513,13 @@
    "process": "any",
    "remote-domains": [
     "sex2022.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sex2030.net"
    ]
   },
   {
@@ -124324,6 +124361,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sexnhat.co",
     "sexnhat.me"
    ]
   },
@@ -149577,6 +149615,7 @@
    "remote-domains": [
     "vlxx.ac",
     "vlxx.ai",
+    "vlxx.bet",
     "vlxx.buzz",
     "vlxx.cc",
     "vlxx.chat",
@@ -149584,9 +149623,12 @@
     "vlxx.club",
     "vlxx.cm",
     "vlxx.contact",
+    "vlxx.cyou",
     "vlxx.day",
+    "vlxx.fan",
     "vlxx.fun",
     "vlxx.gay",
+    "vlxx.homes",
     "vlxx.icu",
     "vlxx.info",
     "vlxx.io",
@@ -149595,6 +149637,8 @@
     "vlxx.media",
     "vlxx.men",
     "vlxx.mobi",
+    "vlxx.network",
+    "vlxx.pw",
     "vlxx.rocks",
     "vlxx.run",
     "vlxx.sbs",
@@ -149612,6 +149656,7 @@
     "vlxx.win",
     "vlxx.ws",
     "vlxx.xyz",
+    "ww1.vlxx.bio",
     "ww1.vlxx.space",
     "vlxx.casa",
     "www.vlxx.casa",
@@ -149653,6 +149698,7 @@
    "process": "any",
    "remote-domains": [
     "vlxx24h.com",
+    "vlxx24h.info",
     "vlxx24h.net"
    ]
   },
@@ -149844,6 +149890,13 @@
     "vlxyz.net",
     "vlxyz.org",
     "ww1.vlxyz.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vlzz.net"
    ]
   },
   {
