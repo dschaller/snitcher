@@ -35288,7 +35288,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "cbhentai.one"
+    "cbhentai.one",
+    "cbhentai.xyz"
    ]
   },
   {
@@ -67427,7 +67428,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "heovl1.com"
+    "heovl1.com",
+    "heovl1.net"
    ]
   },
   {
@@ -89302,6 +89304,13 @@
    "process": "any",
    "remote-domains": [
     "www.minimum-av.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "minosa68.com"
    ]
   },
   {
