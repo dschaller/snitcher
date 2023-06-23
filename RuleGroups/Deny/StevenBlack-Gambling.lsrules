@@ -1373,6 +1373,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "6686vn76.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "668dg.net"
    ]
   },
@@ -3236,6 +3243,7 @@
    "process": "any",
    "remote-domains": [
     "alo789.com",
+    "alo789.vip",
     "www.alo789.com"
    ]
   },
@@ -5805,6 +5813,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bwing88.com",
+    "www.bwing88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bwingmkt1.com",
     "m.bwingmkt1.com",
     "prod.bwingmkt1.com",
@@ -8069,7 +8085,88 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "daga.live",
+    "daga.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "daga360vn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "daga88.bet",
+    "daga88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "daga999.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagablv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagacampuchia.com",
+    "dagacampuchia.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagacuadao.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagahomqua.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagatructiep.casino",
+    "dagatructiep.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dagatructiep24h.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagatructiepthomo.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagatructuyen.com"
    ]
   },
   {
@@ -9756,6 +9853,7 @@
    "process": "any",
    "remote-domains": [
     "fcb88.com",
+    "fcb88.vip",
     "sukien.fcb88.com"
    ]
   },
@@ -10168,6 +10266,27 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ga179.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gachoic1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gachoiviet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "galacasino.com",
     "www.galacasino.com"
    ]
@@ -10407,6 +10526,20 @@
    "remote-domains": [
     "gate777.com",
     "www.gate777.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gatructiep.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gawin88.com"
    ]
   },
   {
@@ -13515,6 +13648,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "k8.cc",
     "k8.digital",
     "k8.games",
     "k8.reviews",
@@ -15179,6 +15313,56 @@
    "remote-domains": [
     "k8casino.net",
     "k8casino.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "app.k8cc.com",
+    "k8cc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc11.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc22.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc33.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc44.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc55.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8cc66.com"
    ]
   },
   {
@@ -27631,6 +27815,7 @@
     "mu9.club",
     "mu9.com",
     "mu9.fun",
+    "mu9.online",
     "mu9.vip",
     "mu9.win",
     "sock.mu9.club",
@@ -27925,7 +28110,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "new88.love"
+    "new88.love",
+    "new88.tips"
    ]
   },
   {
@@ -28330,6 +28516,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "nuoigada.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "nxb8.com"
    ]
   },
@@ -28556,6 +28749,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "onbet993.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cache.one88.com",
     "cache1.one88.com",
     "f1.one88.me",
@@ -28566,6 +28766,7 @@
     "one88.fun",
     "one88.me",
     "one88.top",
+    "one88.uk",
     "one88.us",
     "one88.vin",
     "one88.vip",
@@ -28754,6 +28955,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "oxbet.cc",
     "oxbet.club",
     "oxbet.com",
     "oxbet.net",
@@ -29628,6 +29830,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "red88e.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "redbet.com",
     "www.redbet.com"
    ]
@@ -30335,6 +30544,7 @@
     "sin88.cc",
     "sin88.club",
     "sin88.mobi",
+    "sin88.uk",
     "sin88.us",
     "sin88.vip",
     "sin88.win",
@@ -31329,8 +31539,16 @@
     "sv388.cam",
     "sv388.cloud",
     "sv388.com",
+    "sv388.kim",
     "sv388.mobi",
     "sv388.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sv388live.com"
    ]
   },
   {
@@ -31477,6 +31695,13 @@
    "process": "any",
    "remote-domains": [
     "svvv388.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "svw38.com"
    ]
   },
   {
@@ -32079,8 +32304,37 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "thomo360.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thomo888.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thomohomnay.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "thrills.com",
     "www.thrills.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thugian88.com",
+    "www.thugian88.com"
    ]
   },
   {
@@ -32165,6 +32419,13 @@
    "remote-domains": [
     "tipsport.cz",
     "www.tipsport.cz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiptoday.com"
    ]
   },
   {
@@ -32268,6 +32529,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tongga88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tonybet.com",
     "www.tonybet.com"
    ]
@@ -32299,6 +32567,13 @@
    "remote-domains": [
     "tai.top88vn.net",
     "top88vn.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "top9nhacai.top"
    ]
   },
   {
@@ -32481,6 +32756,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "traiga.vn"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "traigacam.com"
    ]
   },
@@ -32526,6 +32808,13 @@
    "remote-domains": [
     "triobet.com",
     "www.triobet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tructiepdaga.info"
    ]
   },
   {
@@ -33936,6 +34225,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.vuigiaitri.online",
+    "vuigiaitri.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vulcun.com",
     "www.vulcun.com"
    ]
@@ -35190,7 +35487,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xemdaga.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xemdaga24h.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xemdagacampuchia.com"
    ]
   },
   {

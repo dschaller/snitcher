@@ -36342,8 +36342,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "checkgaigoi.cc",
     "checkgaigoi.co",
     "checkgaigoi.info",
+    "checkgaigoi.one",
+    "checkgaigoi.tv",
     "checkgaigoi.us",
     "checkgaigoi.xyz"
    ]
@@ -67121,6 +67124,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hentaivn.autos",
     "hentaivn.cc",
     "hentaivn.com",
     "hentaivn.de",
@@ -75906,6 +75910,7 @@
     "javhd.contact",
     "javhd.im",
     "javhd.lol",
+    "javhd.moe",
     "javhd.news",
     "javhd.ninja",
     "javhd.page",
@@ -88249,6 +88254,13 @@
    "process": "any",
    "remote-domains": [
     "mhcams.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mhuu6.wiki"
    ]
   },
   {
@@ -139086,6 +139098,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "thiendia1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "thiendia88.org"
    ]
   },
@@ -150738,6 +150757,7 @@
     "vlxx.media",
     "vlxx.men",
     "vlxx.mobi",
+    "vlxx.moe",
     "vlxx.network",
     "vlxx.pw",
     "vlxx.rocks",
@@ -151730,6 +151750,13 @@
    "process": "any",
    "remote-domains": [
     "video.vxxxcdn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vznalvek.com"
    ]
   },
   {
@@ -159418,6 +159445,7 @@
    "process": "any",
    "remote-domains": [
     "www.xvideos98.xxx",
+    "xvideos98.pro",
     "xvideos98.xxx"
    ]
   },
