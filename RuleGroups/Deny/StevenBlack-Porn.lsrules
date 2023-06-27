@@ -65940,7 +65940,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "henho.us"
+    "henho.us",
+    "henho.vip"
    ]
   },
   {

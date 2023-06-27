@@ -1419,6 +1419,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "67win9.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "68b3.club"
    ]
   },
@@ -1871,6 +1878,13 @@
    "process": "any",
    "remote-domains": [
     "7kw35.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "800774.com"
    ]
   },
   {
@@ -10215,6 +10229,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fun99.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "funcasino.com",
     "www.funcasino.com"
    ]
@@ -11140,6 +11161,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hb88017.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hb8864.com",
     "www.hb8864.com"
    ]
@@ -11182,6 +11210,13 @@
     "api.hb88p.com",
     "hb88p.com",
     "www.hb88p.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hb88vn.co"
    ]
   },
   {
@@ -12014,6 +12049,13 @@
    "remote-domains": [
     "i9bet62.com",
     "www.i9bet62.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9bet63.com"
    ]
   },
   {
@@ -26371,6 +26413,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "loto66.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "loteries.lotoquebec.com",
     "lotoquebec.com",
     "portail.lotoquebec.com",
@@ -35306,6 +35355,13 @@
    "remote-domains": [
     "winbet58.live",
     "winbet58.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "winbet99.co"
    ]
   },
   {
