@@ -213,8 +213,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "10hd.xyz",
-    "10hd.fun"
+    "10hd.fun",
+    "10hd.xyz"
    ]
   },
   {
@@ -1996,8 +1996,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "2umovies.org",
-    "2umovies.lol"
+    "2umovies.lol",
+    "2umovies.org"
    ]
   },
   {
@@ -2844,8 +2844,8 @@
     "cdn1-360p-video-ht.4tube.com",
     "token.4tube.com",
     "www.4tube.com",
-    "site.img.4tube.com",
-    "4tube.monster"
+    "4tube.monster",
+    "site.img.4tube.com"
    ]
   },
   {
@@ -3796,20 +3796,20 @@
     "www.aagmaal.in",
     "www.aagmaal.live",
     "www.aagmaal.xyz",
+    "aagmaal.cc",
+    "aagmaal.club",
     "aagmaal.fun",
     "aagmaal.online",
     "aagmaal.org",
     "aagmaal.pro",
-    "aagmaal.site",
-    "aagmaal.cc",
-    "aagmaal.website",
     "aagmaal.pw",
-    "aagmaal.show",
     "aagmaal.run",
     "aagmaal.sbs",
-    "aagmaal.tel",
+    "aagmaal.show",
+    "aagmaal.site",
     "aagmaal.skin",
-    "aagmaal.club"
+    "aagmaal.tel",
+    "aagmaal.website"
    ]
   },
   {
@@ -4105,6 +4105,13 @@
    "remote-domains": [
     "actual-porn.org",
     "www.actual-porn.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "acuptube.com"
    ]
   },
   {
@@ -5533,8 +5540,8 @@
    "process": "any",
    "remote-domains": [
     "africanporn.blog",
-    "africanporn.net",
-    "africanporn.mobi"
+    "africanporn.mobi",
+    "africanporn.net"
    ]
   },
   {
@@ -7157,6 +7164,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ai-porn.ai"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "aideporno.com"
    ]
   },
@@ -7172,6 +7186,13 @@
    "process": "any",
    "remote-domains": [
     "aiohotgirl.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aipornhub.net"
    ]
   },
   {
@@ -7689,6 +7710,13 @@
    "process": "any",
    "remote-domains": [
     "www.cdn.alleliteads.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "allesporno.net"
    ]
   },
   {
@@ -8569,6 +8597,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "amadorastv.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "amadorxvideos.com"
    ]
   },
@@ -8885,6 +8920,13 @@
     "amateurest.com",
     "cdn-video.amateurest.com",
     "www.amateurest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "amateuretsexe.com"
    ]
   },
   {
@@ -9760,9 +9802,9 @@
    "remote-domains": [
     "anal.com",
     "www.anal.com",
+    "anal.chat",
     "anal.media",
     "anal.onl",
-    "anal.chat",
     "anal.sexy"
    ]
   },
@@ -13026,8 +13068,8 @@
     "www.anybunny.com",
     "www.anybunny.space",
     "www.anybunny.tv",
-    "anybunny.mobi",
     "anybunny.casa",
+    "anybunny.mobi",
     "anybunny.org"
    ]
   },
@@ -14573,12 +14615,12 @@
     "asianporn.life",
     "asianporn.link",
     "asianporn.love",
+    "asianporn.me",
     "asianporn.rest",
+    "asianporn.rip",
     "asianporn.surf",
     "asianporn.tube",
-    "asianporn.vip",
-    "asianporn.me",
-    "asianporn.rip"
+    "asianporn.vip"
    ]
   },
   {
@@ -15061,9 +15103,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "asianxxx.asia",
     "asianxxx.pro",
-    "asianxxx.tv",
-    "asianxxx.asia"
+    "asianxxx.tv"
    ]
   },
   {
@@ -17243,6 +17285,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "balancetanude.fr"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "balkantrib2017.com"
    ]
   },
@@ -18470,6 +18519,7 @@
     "www.beeg.ink",
     "www.beeg.surf",
     "www.beeg.world",
+    "beeg.day",
     "beeg.family",
     "beeg.icu",
     "beeg.kim",
@@ -18481,10 +18531,9 @@
     "beeg.sex",
     "beeg.team",
     "beeg.wtf",
+    "beeg.yachts",
     "www.beeg.icu",
-    "www.beeg.team",
-    "beeg.day",
-    "beeg.yachts"
+    "www.beeg.team"
    ]
   },
   {
@@ -19133,6 +19182,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bestgermanporn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bestgore.com",
     "www.bestgore.com"
    ]
   },
@@ -20328,8 +20385,8 @@
     "bigtits.world",
     "www.bigtits.com",
     "www.bigtits.world",
-    "www.bigtits.cool",
-    "bigtits.pics"
+    "bigtits.pics",
+    "www.bigtits.cool"
    ]
   },
   {
@@ -20896,6 +20953,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bizarr.date"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "affiliates.bizarre-mature-sex.com"
    ]
   },
@@ -21206,11 +21270,11 @@
    "remote-domains": [
     "blackporn.asia",
     "www.blackporn.asia",
-    "blackporn.pics",
     "blackporn.co",
+    "blackporn.photos",
+    "blackporn.pics",
     "blackporn.tube",
-    "blackporn.ws",
-    "blackporn.photos"
+    "blackporn.ws"
    ]
   },
   {
@@ -21413,31 +21477,31 @@
     "www.pornohd.blog.br",
     "www.xvideosporno.blog.br",
     "xvideosporno.blog.br",
+    "bandeiradois.blog.br",
     "chaturbate.blog.br",
+    "flagras.blog.br",
+    "gostosashd.blog.br",
     "gruposputaria.blog.br",
     "incesto.blog.br",
-    "porno18.blog.br",
-    "pornotube.blog.br",
-    "videosdesexoxxx.blog.br",
-    "xvideos.blog.br",
-    "xvideos10.blog.br",
-    "xvidios.blog.br",
     "nudes.blog.br",
-    "bandeiradois.blog.br",
-    "gostosashd.blog.br",
-    "sexopornogay.blog.br",
-    "testosterona.blog.br",
-    "xoxoteiros.blog.br",
-    "xxxvideo.blog.br",
-    "videosdepornografia.blog.br",
-    "flagras.blog.br",
+    "porno18.blog.br",
     "pornobrasil.blog.br",
+    "pornotube.blog.br",
     "pornozao.blog.br",
+    "sexopornogay.blog.br",
     "sexovideos.blog.br",
+    "testosterona.blog.br",
+    "videosdepornografia.blog.br",
+    "videosdesexoxxx.blog.br",
     "videosexo.blog.br",
     "xhamster.blog.br",
     "xnxx.blog.br",
-    "xvideosbuceta.blog.br"
+    "xoxoteiros.blog.br",
+    "xvideos.blog.br",
+    "xvideos10.blog.br",
+    "xvideosbuceta.blog.br",
+    "xvidios.blog.br",
+    "xxxvideo.blog.br"
    ]
   },
   {
@@ -30021,79 +30085,22 @@
     "zorritas-delivery.blogspot.com",
     "zorritasmalas.blogspot.com",
     "zune-porn-movies.blogspot.com",
-    "4desiz.blogspot.com",
-    "asmaisgatasdoinstagram.blogspot.com",
-    "avmaker12.blogspot.com",
-    "bigbootiez.blogspot.com",
-    "chrismarsan.blogspot.com",
-    "fabricadecornos.blogspot.com",
-    "famosaspeladasbrasil.blogspot.com",
-    "gkfkgkfkrnrnrn.blogspot.com",
-    "hentaisgerais.blogspot.com",
-    "instagramlivesbr.blogspot.com",
-    "joeschmo1of3.blogspot.com",
-    "lokolokolokomelo.blogspot.com",
-    "megaporn.blogspot.es",
-    "muitomachoman.blogspot.com",
-    "mulheresnofunk.blogspot.com",
-    "musasdetodosostempos.blogspot.com",
-    "narenjitube.blogspot.com",
-    "parupr0n.blogspot.com",
-    "pornmite.blogspot.com",
-    "safadahsh.blogspot.com",
-    "sandrinha-lorinha.blogspot.com",
-    "seasonhentaigallery.blogspot.com",
-    "www.4desiz.blogspot.com",
-    "www.megaporn.blogspot.es",
-    "ziunim-hinam.blogspot.com",
     "18putaria.blogspot.com",
-    "beutyhotmom.blogspot.com",
-    "bigasshq.blogspot.com",
-    "blogpornobrasil.blogspot.com",
-    "cineputaria.blogspot.com",
-    "coliriodarede.blogspot.com",
-    "diariodasgostosas.blogspot.com",
-    "famosasamadorasegps.blogspot.com",
-    "gostosasonas.blogspot.com",
-    "leticiacdzinharabuda.blogspot.com",
-    "madurostesudo.blogspot.com",
-    "putariaangolana.blogspot.com",
-    "putarianacena.blogspot.com",
-    "putarianacionalonline.blogspot.com",
-    "revistagostosanovinha.blogspot.com",
-    "safadinhosbr.blogspot.com",
-    "todasperfeitas.blogspot.com",
-    "avaliemeupaunovo.blogspot.com",
-    "bananaboyshot.blogspot.com",
-    "blog-da-porra.blogspot.com",
-    "blogsapekas.blogspot.com",
-    "boysreserve.blogspot.com",
-    "brancoquernegro.blogspot.com",
-    "cccccccddddv.blogspot.com",
-    "contosdebanana.blogspot.com",
-    "erosedionisio.blogspot.com",
-    "famousmaleexposed.blogspot.com",
-    "gaymachotube.blogspot.com",
-    "gayporncocks.blogspot.com",
-    "humoracobrar.blogspot.com",
-    "metflixgay.blogspot.com",
-    "molequeserolas.blogspot.com",
-    "mundomachogifs.blogspot.com",
-    "nacamacomrafa.blogspot.com",
-    "nahoragay.blogspot.com",
-    "nervoh.blogspot.com",
-    "new-mexile.blogspot.com",
-    "ousadasdofacee.blogspot.com",
-    "punheta-entre-amigos.blogspot.com",
-    "punhetaesexoempublico.blogspot.com",
-    "redpornworld.blogspot.com",
-    "sexosemfrescuras1.blogspot.com",
-    "verdadeiroboysnanet.blogspot.com",
+    "4desiz.blogspot.com",
     "a-putaria.blogspot.com",
     "acervo-amador.blogspot.com",
     "anal-oral-vaginal.blogspot.com",
+    "arab-videoxx-more.blogspot.com",
+    "asmaisgatasdoinstagram.blogspot.com",
+    "avaliemeupaunovo.blogspot.com",
+    "avmaker12.blogspot.com",
+    "bananaboyshot.blogspot.com",
+    "beutyhotmom.blogspot.com",
+    "bigasshq.blogspot.com",
+    "bigbootiez.blogspot.com",
     "blog-amadorasbrasileiras.blogspot.com",
     "blog-carlinha.blogspot.com",
+    "blog-da-porra.blogspot.com",
     "blog-diariodasamadoras.blogspot.com",
     "blog-escritoriodosexo.blogspot.com",
     "blog-fotosdeamadoras.blogspot.com",
@@ -30102,31 +30109,88 @@
     "blog-selminha.blogspot.com",
     "blog-sexo.blogspot.com",
     "blog-sexonabanheira.blogspot.com",
+    "blogpornobrasil.blogspot.com",
+    "blogsapekas.blogspot.com",
+    "boysreserve.blogspot.com",
+    "brancoquernegro.blogspot.com",
     "bucetinha-buceta-bucetona.blogspot.com",
+    "cccccccddddv.blogspot.com",
+    "chrismarsan.blogspot.com",
+    "cineputaria.blogspot.com",
+    "coliriodarede.blogspot.com",
+    "contosdebanana.blogspot.com",
     "cretinas.blogspot.com",
+    "diariodasgostosas.blogspot.com",
+    "erosedionisio.blogspot.com",
+    "fabricadecornos.blogspot.com",
+    "famosasamadorasegps.blogspot.com",
+    "famosaspeladasbrasil.blogspot.com",
+    "famousmaleexposed.blogspot.com",
+    "gaymachotube.blogspot.com",
+    "gayporncocks.blogspot.com",
+    "gkfkgkfkrnrnrn.blogspot.com",
+    "gostosasonas.blogspot.com",
     "gostozinha-gostosa-gostosona.blogspot.com",
+    "hentaisgerais.blogspot.com",
+    "humoracobrar.blogspot.com",
     "igsexo.blogspot.com",
+    "instagramlivesbr.blogspot.com",
+    "joeschmo1of3.blogspot.com",
+    "leticiacdzinharabuda.blogspot.com",
+    "lokolokolokomelo.blogspot.com",
+    "madurostesudo.blogspot.com",
+    "megaporn.blogspot.es",
+    "metflixgay.blogspot.com",
+    "molequeserolas.blogspot.com",
+    "muitomachoman.blogspot.com",
+    "mulheresnofunk.blogspot.com",
+    "mundodoscasaisliberais.blogspot.com",
+    "mundomachogifs.blogspot.com",
+    "musasdetodosostempos.blogspot.com",
+    "nacamacomrafa.blogspot.com",
+    "nahoragay.blogspot.com",
+    "narenjitube.blogspot.com",
+    "nervoh.blogspot.com",
+    "new-mexile.blogspot.com",
+    "ousadasdofacee.blogspot.com",
+    "parupr0n.blogspot.com",
+    "pornmite.blogspot.com",
+    "punheta-entre-amigos.blogspot.com",
+    "punhetaesexoempublico.blogspot.com",
+    "putariaangolana.blogspot.com",
+    "putarianacena.blogspot.com",
+    "putarianacionalonline.blogspot.com",
     "putas-putas-putas-putas-putas-putas.blogspot.com",
     "putinhas-putas-putonas.blogspot.com",
+    "redpornworld.blogspot.com",
+    "revistagostosanovinha.blogspot.com",
+    "safadahsh.blogspot.com",
+    "safadinhosbr.blogspot.com",
     "sandrinha-blog.blogspot.com",
+    "sandrinha-lorinha.blogspot.com",
     "sandrinhacombr.blogspot.com",
+    "seasonhentaigallery.blogspot.com",
     "sexo-anal-oral-vaginal.blogspot.com",
     "sexo-sexo-sexo-sexo-sexo-sexo-sexo.blogspot.com",
     "sexobr-com-br.blogspot.com",
+    "sexosemfrescuras1.blogspot.com",
+    "sheillaxv2.blogspot.com",
+    "singlehotpic.blogspot.com",
     "so-caseiras.blogspot.com",
     "terra-sexo.blogspot.com",
+    "todasperfeitas.blogspot.com",
+    "verdadeiroboysnanet.blogspot.com",
     "videodeorgia.blogspot.com",
     "videos-amadoras.blogspot.com",
     "videos-coroas-anal-filmes.blogspot.com",
     "videos-sexo-bucetas-gatinhas-putas.blogspot.com",
     "videosgratisz.blogspot.com",
+    "vipreddit.blogspot.com",
+    "www.4desiz.blogspot.com",
+    "www.megaporn.blogspot.es",
     "xvnudes.blogspot.com",
     "you-videos.blogspot.com",
-    "mundodoscasaisliberais.blogspot.com",
-    "singlehotpic.blogspot.com",
-    "arab-videoxx-more.blogspot.com",
-    "sheillaxv2.blogspot.com",
-    "vipreddit.blogspot.com",
+    "ziunim-hinam.blogspot.com",
     "javupdatedaily.blogspot.com"
    ]
   },
@@ -31988,10 +32052,10 @@
     "site-ma.brazzers.com",
     "www.brazzers.com",
     "www.plib.brazzers.com",
+    "brazzers.pics",
     "brazzers.xxx",
     "mlib.brazzers.com",
-    "plib.brazzers.com",
-    "brazzers.pics"
+    "plib.brazzers.com"
    ]
   },
   {
@@ -33304,7 +33368,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "caiuna.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "caiunanet.ws"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "caiunanets.com"
    ]
   },
   {
@@ -34836,6 +34914,7 @@
     "cartoonporn.games",
     "cartoonporn.pics",
     "cartoonporn.porn",
+    "cartoonporn.pro",
     "cartoonporn.sex"
    ]
   },
@@ -35092,6 +35171,13 @@
    "process": "any",
    "remote-domains": [
     "casacherda.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "casadasexibidas.com"
    ]
   },
   {
@@ -35821,8 +35907,8 @@
    "process": "any",
    "remote-domains": [
     "ceporn.net",
-    "www.ceporn.net",
-    "ceporn.org"
+    "ceporn.org",
+    "www.ceporn.net"
    ]
   },
   {
@@ -36635,8 +36721,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "chinaporn.tv",
-    "chinaporn.asia"
+    "chinaporn.asia",
+    "chinaporn.tv"
    ]
   },
   {
@@ -37335,6 +37421,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.clip2vip.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "clip31.xyz",
     "www.clip31.xyz"
    ]
@@ -37528,8 +37621,8 @@
     "h.cliphunter.com",
     "thumbcdn.cliphunter.com",
     "www.cliphunter.com",
-    "m.cliphunter.com",
-    "cliphunter.global"
+    "cliphunter.global",
+    "m.cliphunter.com"
    ]
   },
   {
@@ -37634,6 +37727,13 @@
     "clipsage.com",
     "www.clipsage.com",
     "clipsage.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "clipsbai.com"
    ]
   },
   {
@@ -38223,6 +38323,8 @@
     "mzansiporns.co.za",
     "northern-angels.co.uk",
     "openerotic.co.uk",
+    "peggingsex.co.uk",
+    "pinktoys.co.uk",
     "pornmovies.co.il",
     "pornstarslikeitbig.co.uk",
     "presidentescort.co.il",
@@ -38274,8 +38376,6 @@
     "www.yousex.co.il",
     "www.zbeng.co.il",
     "www.zesex.co.il",
-    "peggingsex.co.uk",
-    "pinktoys.co.uk",
     "en.dmm.co.jp",
     "home.uchu.co.jp",
     "ssl.ktfactory.co.jp",
@@ -38380,6 +38480,14 @@
    "remote-domains": [
     "cockyboys.com",
     "www.cockyboys.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "coco.fr",
+    "coco.gg"
    ]
   },
   {
@@ -38729,41 +38837,81 @@
     "3dporn.com.es",
     "4porno.com.br",
     "acompanhantebrasil.com.br",
+    "acompanhantesagora.com.br",
+    "acompanhantesnaweb.com.br",
+    "acompanhantesrs.com.br",
+    "agregadordelink.com.br",
+    "analsex.com.es",
+    "analtube.com.br",
     "angel.comcen.com.au",
     "angelesbuenos.com.ar",
     "angelitas.com.ar",
     "angelsscort.com.mx",
+    "atoananet.com.br",
+    "avantajadas.com.br",
     "bananasfamosas.com.br",
+    "bellacia.com.br",
+    "brunasurfistinha.com.br",
+    "bucetascabeludas.com.br",
+    "bucetasebundas.com.br",
     "bucetaspeludas.com.br",
+    "caiunanetnovinha.com.br",
     "caiunowhats.com.br",
+    "calcinhamolhada.com.br",
     "cam-girls.com.es",
     "camgirlssex.com.au",
     "camsxxx.com.es",
+    "centraldegruposwhats.com.br",
+    "cenzao.com.br",
     "chaturbate.com.br",
     "chaturbate.com.tw",
     "chicaangelical.com.ar",
     "chicasconwebcams.com.ar",
     "depositodevideos.com.br",
     "diskacompanhantes.com.br",
+    "eporner.com.es",
+    "eporno.com.br",
     "filmesporno.com.br",
     "freewebcams.com.au",
     "futurum.com.au",
+    "garotalinda.com.br",
     "gayporn.com.es",
+    "gostosasepeladas.com.br",
+    "gpvicio.com.br",
     "gsexy.com.br",
+    "hentaigay.com.br",
+    "homensquentes.com.br",
     "hotchat.com.es",
     "ilhadoprazer.com.br",
+    "kissanime.com.es",
+    "linkpremiado.com.br",
     "livejasmin.com.co",
     "livesex.com.co",
     "livesexshows.com.es",
+    "mandanudes.com.br",
+    "metendonanovinha.com.br",
+    "morenasafada.com.br",
+    "mundomais.com.br",
     "mycams.com.co",
+    "novinhashd.com.br",
+    "novinhasnudes.com.br",
     "oloxablog.com.br",
     "pecattus.com.br",
+    "picanteeproibido.com.br",
+    "planetsex.com.br",
     "playboy.com.br",
     "playboy.com.tw",
+    "pontodevistagay.com.br",
+    "pornes.com.es",
     "pornobom.com.br",
+    "pornocoroa.com.br",
     "pornogratis.com.br",
+    "pornohd.com.br",
+    "pornolgbt.com.br",
     "pornomaneiro.com.br",
+    "pornonovinha.com.br",
     "pornoonline.com.br",
+    "pornovideo.com.br",
     "portaladelaide.com.br",
     "prazer360.com.br",
     "quadrinhoseroticos.com.br",
@@ -38772,17 +38920,26 @@
     "sexocoroas.com.br",
     "sexopornogay.com.br",
     "showdewebcams.com.ar",
+    "sobeldades.com.br",
     "socaseiras.com.br",
     "solowebcams.com.ar",
+    "spencontro.com.br",
     "superhq.com.br",
     "tatarada.com.br",
+    "tesaog.com.br",
+    "themodels.com.br",
     "tiasenwebcams.com.ar",
     "tightvirgins.com.ar",
     "topdebrasilia.com.br",
     "trannyporn.com.es",
+    "transexhot.com.br",
+    "travestisvip.com.br",
+    "universitariasclub.com.br",
     "videopornosgratis.com.br",
     "videosdesexo.com.br",
+    "videosporno.com.br",
     "vipbook.com.br",
+    "vipsecret.com.br",
     "virginoff.com.ar",
     "webcamporn.com.es",
     "www.aa-club.com.cn",
@@ -38809,69 +38966,20 @@
     "www.virginoff.com.ar",
     "www.xxparceroxx.xpg.com.br",
     "xplastic.com.br",
+    "xvideonovinha.com.br",
     "xvideos.com.br",
+    "xvideos18.com.br",
+    "xvideos69.com.br",
+    "xvideosfoda.com.br",
     "xvideosgratis.com.br",
+    "xvideosmorena.com.br",
+    "xvideosprive.com.br",
+    "xvideosputinhas.com.br",
+    "xvideostube.com.br",
     "xvideosup.com.br",
     "xvideosxbr.com.br",
     "xxxbuceta.com.br",
-    "gostosasepeladas.com.br",
-    "planetsex.com.br",
-    "pornocoroa.com.br",
-    "xvideos18.com.br",
-    "bucetascabeludas.com.br",
-    "bucetasebundas.com.br",
-    "caiunanetnovinha.com.br",
-    "calcinhamolhada.com.br",
-    "centraldegruposwhats.com.br",
-    "cenzao.com.br",
-    "hentaigay.com.br",
-    "homensquentes.com.br",
-    "metendonanovinha.com.br",
-    "mundomais.com.br",
-    "novinhasnudes.com.br",
-    "picanteeproibido.com.br",
-    "pontodevistagay.com.br",
-    "tesaog.com.br",
-    "xvideos69.com.br",
-    "xvideosprive.com.br",
-    "analsex.com.es",
-    "avantajadas.com.br",
-    "garotalinda.com.br",
-    "kissanime.com.es",
-    "mandanudes.com.br",
-    "pornes.com.es",
-    "sobeldades.com.br",
-    "transexhot.com.br",
-    "travestisvip.com.br",
-    "vipsecret.com.br",
-    "acompanhantesagora.com.br",
-    "acompanhantesnaweb.com.br",
-    "acompanhantesrs.com.br",
-    "agregadordelink.com.br",
-    "atoananet.com.br",
-    "bellacia.com.br",
-    "brunasurfistinha.com.br",
-    "eporno.com.br",
-    "gpvicio.com.br",
-    "linkpremiado.com.br",
-    "morenasafada.com.br",
-    "novinhashd.com.br",
-    "pornohd.com.br",
-    "pornolgbt.com.br",
-    "pornonovinha.com.br",
-    "pornovideo.com.br",
-    "spencontro.com.br",
-    "themodels.com.br",
-    "universitariasclub.com.br",
-    "xvideonovinha.com.br",
-    "xvideosfoda.com.br",
-    "xvideosmorena.com.br",
-    "xvideosputinhas.com.br",
-    "xvideostube.com.br",
-    "xxxsex.com.br",
-    "analtube.com.br",
-    "videosporno.com.br",
-    "eporner.com.es"
+    "xxxsex.com.br"
    ]
   },
   {
@@ -40190,8 +40298,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.cumingtube.com",
-    "cumingtube.com"
+    "cumingtube.com",
+    "www.cumingtube.com"
    ]
   },
   {
@@ -41166,6 +41274,7 @@
     "www.daftsex.com",
     "www.daftsex.pro",
     "www.daftsex.tv",
+    "daftsex.app",
     "daftsex.cloud"
    ]
   },
@@ -42661,8 +42770,8 @@
    "remote-domains": [
     "desiporn.org",
     "desiporn.pro",
-    "desiporn.tube",
-    "desiporn.su"
+    "desiporn.su",
+    "desiporn.tube"
    ]
   },
   {
@@ -42877,6 +42986,13 @@
    "process": "any",
    "remote-domains": [
     "detour.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "deutsche-sex.com"
    ]
   },
   {
@@ -43465,8 +43581,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "dirtyindianporn.pro",
-    "dirtyindianporn.info"
+    "dirtyindianporn.info",
+    "dirtyindianporn.pro"
    ]
   },
   {
@@ -45247,6 +45363,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "e-kondomy.cz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "e-orgasm.org",
     "www.e-orgasm.org"
    ]
@@ -45853,8 +45976,8 @@
     "ehentai.xxx",
     "player.ehentai.xxx",
     "www.ehentai.xxx",
-    "ehentai.wiki",
-    "ehentai.to"
+    "ehentai.to",
+    "ehentai.wiki"
    ]
   },
   {
@@ -47232,8 +47355,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "erothots.com",
-    "erothots.co"
+    "erothots.co",
+    "erothots.com"
    ]
   },
   {
@@ -47793,6 +47916,13 @@
    "remote-domains": [
     "erotik-insider.net",
     "www.erotik-insider.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "erotikfilme.fun"
    ]
   },
   {
@@ -49846,14 +49976,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fap.bar",
     "fap.com",
     "fap.cool",
     "fap.fish",
     "fap.to",
     "s.fap.to",
     "videos.fap.team",
-    "x.fap.to",
-    "fap.bar"
+    "x.fap.to"
    ]
   },
   {
@@ -50477,6 +50607,13 @@
    "process": "any",
    "remote-domains": [
     "farimg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "farmhub.net"
    ]
   },
   {
@@ -51459,6 +51596,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.fick-markt.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.fickanzeiger.com"
    ]
   },
@@ -51701,6 +51845,14 @@
    "process": "any",
    "remote-domains": [
     "filmeporno3.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "filmepornoerotico.com",
+    "fr.filmepornoerotico.com"
    ]
   },
   {
@@ -53182,8 +53334,8 @@
    "process": "any",
    "remote-domains": [
     "foxtube.com",
-    "www.foxtube.com",
-    "foxtube.tv"
+    "foxtube.tv",
+    "www.foxtube.com"
    ]
   },
   {
@@ -53294,6 +53446,13 @@
    "remote-domains": [
     "frauenhasser.info",
     "www.frauenhasser.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.frauensuchen.ch"
    ]
   },
   {
@@ -53813,7 +53972,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "freeanimalporn.xyz"
+    "freeanimalporn.xyz",
+    "freeanimalporn.tv"
    ]
   },
   {
@@ -54198,8 +54358,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "freehdx.net",
-    "freehdx.io"
+    "freehdx.io",
+    "freehdx.net"
    ]
   },
   {
@@ -58283,6 +58443,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ganstagirls.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.ganzgeil.com"
    ]
   },
@@ -59518,6 +59685,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "geile-amateure.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.geile-blowjobs.com"
    ]
   },
@@ -60433,7 +60607,8 @@
     "girlscanner.cc",
     "girlscanner.com",
     "www.girlscanner.cc",
-    "www.girlscanner.com"
+    "www.girlscanner.com",
+    "girlscanner.org"
    ]
   },
   {
@@ -60695,6 +60870,14 @@
    "process": "any",
    "remote-domains": [
     "girlsteenpics.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "en.girlstop.info",
+    "girlstop.info"
    ]
   },
   {
@@ -61152,8 +61335,8 @@
     "kobsl.defensoria-nsjp.gob.mx",
     "koide3.comapatecoman.gob.mx",
     "link1.panel-laboralcj.gob.mx",
-    "machika.panel-laboralcj.gob.mx",
     "mac.panel-laboralcj.gob.mx",
+    "machika.panel-laboralcj.gob.mx",
     "miyoshi1.comapatecoman.gob.mx",
     "moriyama3.comapatecoman.gob.mx",
     "nistan.comapatecoman.gob.mx",
@@ -62816,6 +62999,13 @@
    "process": "any",
    "remote-domains": [
     "grupoputaria.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gruposputaria.com"
    ]
   },
   {
@@ -65058,6 +65248,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hdporn112.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hdporn24.org"
    ]
   },
@@ -66192,6 +66389,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hentai18.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hentai24h.org"
    ]
   },
@@ -66347,6 +66551,13 @@
    "process": "any",
    "remote-domains": [
     "www.hentaicloud.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hentaicomics.pro"
    ]
   },
   {
@@ -66978,8 +67189,8 @@
     "tube.hentaistream.com",
     "www.hentaistream.co",
     "hentaistream.tv",
-    "www.hentaistream.com",
-    "hentaistream.xxx"
+    "hentaistream.xxx",
+    "www.hentaistream.com"
    ]
   },
   {
@@ -67720,8 +67931,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "media.hiddenvoyeurspy.com",
-    "hiddenvoyeurspy.com"
+    "hiddenvoyeurspy.com",
+    "media.hiddenvoyeurspy.com"
    ]
   },
   {
@@ -67751,8 +67962,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hifiporn.fun",
-    "hifiporn.co"
+    "hifiporn.co",
+    "hifiporn.fun"
    ]
   },
   {
@@ -70360,6 +70571,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hotporn.today",
     "hotporn.us"
    ]
   },
@@ -71206,8 +71418,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hqporn.xxx",
-    "hqporn.pics"
+    "hqporn.pics",
+    "hqporn.xxx"
    ]
   },
   {
@@ -71396,8 +71608,8 @@
     "hqtube.xxx",
     "www.hqtube.xxx",
     "hqtube.com",
-    "www.hqtube.com",
-    "hqtube.org"
+    "hqtube.org",
+    "www.hqtube.com"
    ]
   },
   {
@@ -72106,6 +72318,13 @@
    "remote-domains": [
     "ichiav.com",
     "www.ichiav.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ichmussmalpipi.com"
    ]
   },
   {
@@ -74789,6 +75008,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "japanesehdvideos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "japaneselovesfuck.com"
    ]
   },
@@ -75292,6 +75518,7 @@
     "www.jav.land",
     "www.jav.watch",
     "www.jav.work",
+    "jav.casa",
     "jav.house",
     "jav.kim",
     "jav.movie",
@@ -75299,8 +75526,7 @@
     "jav.plus",
     "jav.pub",
     "jav.sex",
-    "jav.sh",
-    "jav.casa"
+    "jav.sh"
    ]
   },
   {
@@ -75501,8 +75727,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.javbangers.comj",
-    "javbangers.com"
+    "javbangers.com",
+    "www.javbangers.comj"
    ]
   },
   {
@@ -77364,8 +77590,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.jetboobs.com",
-    "jetboobs.com"
+    "jetboobs.com",
+    "www.jetboobs.com"
    ]
   },
   {
@@ -80245,8 +80471,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "lacomics.org",
-    "lacomics.net"
+    "lacomics.net",
+    "lacomics.org"
    ]
   },
   {
@@ -81010,9 +81236,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "leaked.xxx",
     "leaked.fans",
-    "leaked.fun"
+    "leaked.fun",
+    "leaked.xxx"
    ]
   },
   {
@@ -81154,6 +81380,13 @@
    "process": "any",
    "remote-domains": [
     "leakxxx.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lebon.porn"
    ]
   },
   {
@@ -81976,6 +82209,13 @@
    "process": "any",
    "remote-domains": [
     "lesbpornvids.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexy.lesdebiles.com"
    ]
   },
   {
@@ -84786,8 +85026,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.ma-ture.com",
-    "ma-ture.com"
+    "ma-ture.com",
+    "www.ma-ture.com"
    ]
   },
   {
@@ -84842,6 +85082,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.madame-ellen.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "madame-x.fr"
    ]
   },
@@ -84878,6 +85125,13 @@
    "process": "any",
    "remote-domains": [
     "www.madchensex.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "made.porn"
    ]
   },
   {
@@ -85247,6 +85501,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mallandrinhas.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "galleries.mallcom.com"
    ]
   },
@@ -85599,6 +85860,13 @@
    "remote-domains": [
     "mariemccray.com",
     "www.mariemccray.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "erotik.markt.de"
    ]
   },
   {
@@ -86014,8 +86282,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "mature-porn.top",
-    "mature-porn.irish"
+    "mature-porn.irish",
+    "mature-porn.top"
    ]
   },
   {
@@ -86735,8 +87003,8 @@
     "matureporn.one",
     "matureporn.pro",
     "matureporn.su",
-    "matureporn.wtf",
-    "matureporn.watch"
+    "matureporn.watch",
+    "matureporn.wtf"
    ]
   },
   {
@@ -89419,6 +89687,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "missav.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "missax.com",
     "www.missax.com"
    ]
@@ -89514,6 +89789,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mixputaria.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mixretro.com"
    ]
   },
@@ -89546,6 +89828,13 @@
    "remote-domains": [
     "mixxporn.com",
     "www.mixxporn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mlabstores.com"
    ]
   },
   {
@@ -89811,6 +90100,13 @@
     "cdn.moeload.com",
     "moeload.com",
     "www.moeload.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "moesensex.net"
    ]
   },
   {
@@ -90303,8 +90599,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "moms.xxx",
-    "moms.red"
+    "moms.red",
+    "moms.xxx"
    ]
   },
   {
@@ -90528,8 +90824,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "momson.webcam",
-    "momson.one"
+    "momson.one",
+    "momson.webcam"
    ]
   },
   {
@@ -91391,8 +91687,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "movstube.net",
-    "movstube.com"
+    "movstube.com",
+    "movstube.net"
    ]
   },
   {
@@ -91513,9 +91809,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mrporn.live",
     "mrporn.online",
-    "www.mrporn.com",
-    "mrporn.live"
+    "www.mrporn.com"
    ]
   },
   {
@@ -91540,6 +91836,13 @@
    "process": "any",
    "remote-domains": [
     "www.mrpornlive.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mrpornosexe.com"
    ]
   },
   {
@@ -91855,6 +92158,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.multi.xxx"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lauraangel.multimania.com"
    ]
   },
@@ -91929,7 +92239,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "musasporno.com"
+    "musasporno.com",
+    "www.musasporno.com"
    ]
   },
   {
@@ -92834,8 +93145,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "mym.fans",
-    "media.prod-v2.mym.fans"
+    "media.prod-v2.mym.fans",
+    "mym.fans"
    ]
   },
   {
@@ -94410,8 +94721,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "nakedwomen.xyz",
-    "nakedwomen.pics"
+    "nakedwomen.pics",
+    "nakedwomen.xyz"
    ]
   },
   {
@@ -95243,10 +95554,10 @@
     "angel-dana.net.tc",
     "angelfuns.net.tf",
     "filmesporno.net.br",
-    "www.angel-dana.net.tc",
-    "www.angelfuns.net.tf",
+    "hentaicomics.net.br",
     "sexogay.net.br",
-    "hentaicomics.net.br"
+    "www.angel-dana.net.tc",
+    "www.angelfuns.net.tf"
    ]
   },
   {
@@ -95433,6 +95744,13 @@
    "process": "any",
    "remote-domains": [
     "new-xxx-porn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "new-xxx-tube.com"
    ]
   },
   {
@@ -95898,6 +96216,13 @@
    "remote-domains": [
     "nfsx.com",
     "www.nfsx.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.nftpussies.com"
    ]
   },
   {
@@ -96888,8 +97213,8 @@
     "www.nsfw.exchange",
     "www.nsfw.tube",
     "www.nsfw.works",
-    "nsfw.xxx",
-    "nsfw.irish"
+    "nsfw.irish",
+    "nsfw.xxx"
    ]
   },
   {
@@ -97409,10 +97734,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nudebabes.pics",
     "nudebabes.sexy",
     "nudebabes.su",
-    "nudebabes.tube",
-    "nudebabes.pics"
+    "nudebabes.tube"
    ]
   },
   {
@@ -98624,6 +98949,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nudeuse.fr"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nudevid.eu"
    ]
   },
@@ -98993,6 +99325,13 @@
    "remote-domains": [
     "nuefliks.club",
     "nuefliks.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nuespournous.com"
    ]
   },
   {
@@ -100366,6 +100705,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "omas-suchen-sex.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "omatures.com",
     "www.omatures.com"
    ]
@@ -101045,8 +101391,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.onlynudes.org",
-    "onlynudes.tv"
+    "onlynudes.tv",
+    "www.onlynudes.org"
    ]
   },
   {
@@ -101143,6 +101489,13 @@
    "remote-domains": [
     "oohcams.com",
     "pwa.oohcams.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.oolveri.com"
    ]
   },
   {
@@ -101279,11 +101632,11 @@
     "pornforwomen.org.uk",
     "www.pornforwomen.org.uk",
     "chaturbate.org.uk",
+    "iseeindia.org.in",
     "joyourself.org.uk",
     "mycams.org.uk",
     "mytrannycams.org.uk",
-    "tranny.org.es",
-    "iseeindia.org.in"
+    "tranny.org.es"
    ]
   },
   {
@@ -102813,6 +103166,13 @@
    "remote-domains": [
     "pepsaga.com",
     "www.pepsaga.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "en.perdos.de"
    ]
   },
   {
@@ -106864,7 +107224,8 @@
    "remote-domains": [
     "pictoa.com",
     "s1.pictoa.com",
-    "www.pictoa.com"
+    "www.pictoa.com",
+    "fr.pictoa.com"
    ]
   },
   {
@@ -108554,6 +108915,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "porn112.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "porn123.xyz"
    ]
   },
@@ -109158,6 +109526,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.porncnn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "porncobra.com"
    ]
   },
@@ -109281,6 +109656,13 @@
    "remote-domains": [
     "porndabster.com",
     "www.porndabster.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "porndasi.cc"
    ]
   },
   {
@@ -109542,6 +109924,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pornego.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pornengland.com"
    ]
   },
@@ -109677,6 +110066,13 @@
     "img1.pornflip.com",
     "m.pornflip.com",
     "static-m.pornflip.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.pornflix.to"
    ]
   },
   {
@@ -110028,8 +110424,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.porngur.com",
-    "porngur.com"
+    "porngur.com",
+    "www.porngur.com"
    ]
   },
   {
@@ -110203,7 +110599,8 @@
     "pornheed.com",
     "pornheed.online",
     "www.pornheed.com",
-    "www.pornheed.online"
+    "www.pornheed.online",
+    "fr.pornheed.com"
    ]
   },
   {
@@ -110487,7 +110884,15 @@
    "process": "any",
    "remote-domains": [
     "pornid.xxx",
+    "www.pornid.name",
     "www.pornid.xxx"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornify.cc"
    ]
   },
   {
@@ -110650,6 +111055,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pornjourney.ai"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornjoy.ai"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pornjuices.com",
     "www.pornjuices.com"
    ]
@@ -110739,6 +111158,13 @@
    "process": "any",
    "remote-domains": [
     "pornl.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornlabs.net"
    ]
   },
   {
@@ -110903,6 +111329,13 @@
    "process": "any",
    "remote-domains": [
     "www.pornmail.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornmake.ai"
    ]
   },
   {
@@ -111330,6 +111763,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.porno-zona.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "porno16.com"
    ]
   },
@@ -111361,16 +111801,16 @@
    "process": "any",
    "remote-domains": [
     "porno365.sex",
-    "porno365.pw",
+    "porno365.cfd",
+    "porno365.fan",
     "porno365.garden",
     "porno365.how",
-    "porno365.rest",
-    "porno365.nz",
-    "porno365.fan",
-    "porno365.cfd",
-    "porno365.pics",
     "porno365.limo",
-    "porno365.pl"
+    "porno365.nz",
+    "porno365.pics",
+    "porno365.pl",
+    "porno365.pw",
+    "porno365.rest"
    ]
   },
   {
@@ -111423,8 +111863,8 @@
    "process": "any",
    "remote-domains": [
     "pornoaer.fan",
-    "pornoaer.ru",
-    "pornoaer.me"
+    "pornoaer.me",
+    "pornoaer.ru"
    ]
   },
   {
@@ -111530,6 +111970,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pornobengala.com",
     "www.pornobengala.com"
    ]
   },
@@ -111568,8 +112009,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pornobr.ninja",
-    "pornobr.cam"
+    "pornobr.cam",
+    "pornobr.ninja"
    ]
   },
   {
@@ -111864,8 +112305,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pornogay.lgbt",
     "pornogay.biz",
+    "pornogay.lgbt",
     "pornogay.today"
    ]
   },
@@ -112039,6 +112480,7 @@
    "process": "any",
    "remote-domains": [
     "pornohirsch.net",
+    "pornohirsch.online",
     "www.pornohirsch.net"
    ]
   },
@@ -112245,9 +112687,9 @@
    "process": "any",
    "remote-domains": [
     "pornolaba.com",
+    "pornolaba.cc",
     "pornolaba.mobi",
-    "www.pornolaba.com",
-    "pornolaba.cc"
+    "www.pornolaba.com"
    ]
   },
   {
@@ -112292,6 +112734,13 @@
    "process": "any",
    "remote-domains": [
     "pornomafiax.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornomanoir.com"
    ]
   },
   {
@@ -112429,6 +112878,13 @@
    "remote-domains": [
     "pornopin.me",
     "www.pornopin.me"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.pornopiraten.xxx"
    ]
   },
   {
@@ -113036,6 +113492,13 @@
    "process": "any",
    "remote-domains": [
     "pornpaysites.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornpen.ai"
    ]
   },
   {
@@ -114213,6 +114676,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pornvids.fr"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pornvids4k.com"
    ]
   },
@@ -114303,6 +114773,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pornwhow.ai"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pornwild.to",
     "www.pornwild.to",
     "pornwild.com"
@@ -114342,6 +114819,20 @@
    "process": "any",
    "remote-domains": [
     "pornwize.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornwoody.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornworks.ai"
    ]
   },
   {
@@ -114403,6 +114894,13 @@
    "process": "any",
    "remote-domains": [
     "cdn.pornxnxxvideos.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pornxo.xxx"
    ]
   },
   {
@@ -116545,8 +117043,8 @@
    "remote-domains": [
     "pussyspace.com",
     "www.pussyspace.com",
-    "pussyspace.net",
-    "pussyspace.lol"
+    "pussyspace.lol",
+    "pussyspace.net"
    ]
   },
   {
@@ -117140,6 +117638,7 @@
     "static.rajwap.biz",
     "rajwap.xyz",
     "www.rajwap.xyz",
+    "fr.rajwap.xyz",
     "rajwap.me",
     "rajwap.pro",
     "rajwap.tv",
@@ -118510,11 +119009,12 @@
     "www.redtube.xxx",
     "code.jquery.comembed.redtube.com",
     "piwik.redtube.com",
+    "redtube.blog",
     "redtube.ink",
     "redtube.net",
     "redtube.onl",
     "redtube.zone",
-    "redtube.blog"
+    "www.redtube.blog"
    ]
   },
   {
@@ -118613,9 +119113,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "redxxx.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "redxxxvideo.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "reelgalleries.com",
     "www.reelgalleries.com",
     "naughtypigtails.reelgalleries.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "reference-sexe.com"
    ]
   },
   {
@@ -119146,7 +119667,8 @@
     "video-147.rexporn.com",
     "video-148.rexporn.com",
     "video-149.rexporn.com",
-    "www.rexporn.com"
+    "www.rexporn.com",
+    "rexporn.sex"
    ]
   },
   {
@@ -120456,6 +120978,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.safadetes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "safadinhasdejoinville.com"
    ]
   },
@@ -120997,6 +121526,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "scheissegalien.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "creative.schjmp.com",
     "go.schjmp.com",
     "schjmp.com",
@@ -121072,6 +121608,13 @@
    "process": "any",
    "remote-domains": [
     "schooxy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.schwanzkanone.com"
    ]
   },
   {
@@ -123564,6 +124107,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexetag.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexetube.pro",
     "www.sexetube.pro"
    ]
@@ -123582,6 +124132,13 @@
    "remote-domains": [
     "sexfans.org",
     "www.sexfans.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "austria.sexfeuer.com"
    ]
   },
   {
@@ -123865,6 +124422,13 @@
    "remote-domains": [
     "sexgaz.com",
     "www.sexgaz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexgifs.me"
    ]
   },
   {
@@ -124916,8 +125480,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexmilf.net",
-    "sexmilf.me"
+    "sexmilf.me",
+    "sexmilf.net"
    ]
   },
   {
@@ -126244,6 +126808,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.sextermedia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vkldkm.sextgem.com",
     "vl-truyen-sex.sextgem.com",
     "wap3xdep.sextgem.com",
@@ -127448,6 +128019,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sexy.ai"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexy-888.com"
    ]
   },
@@ -128249,8 +128827,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sexytube.vip",
-    "sexytube.me"
+    "sexytube.me",
+    "sexytube.vip"
    ]
   },
   {
@@ -131881,6 +132459,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "spicy.porn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "spicy-amateurs.com",
     "www.spicy-amateurs.com"
    ]
@@ -134154,8 +134739,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "systems01.com",
-    "proxy.systems01.com"
+    "proxy.systems01.com",
+    "systems01.com"
    ]
   },
   {
@@ -135184,6 +135769,13 @@
    "process": "any",
    "remote-domains": [
     "teen17.pw"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "teen18hd.com"
    ]
   },
   {
@@ -137854,8 +138446,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.thaigirlswild.com",
-    "thaigirlswild.com"
+    "thaigirlswild.com",
+    "www.thaigirlswild.com"
    ]
   },
   {
@@ -139213,9 +139805,9 @@
     "thothub.is",
     "thothub.live",
     "thothub.lol",
+    "thothub.org",
     "thothub.su",
-    "thothub.vip",
-    "thothub.org"
+    "thothub.vip"
    ]
   },
   {
@@ -139513,6 +140105,13 @@
    "process": "any",
    "remote-domains": [
     "tightasspics.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tightbaldpussy.com"
    ]
   },
   {
@@ -143496,8 +144095,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.tubent.com",
-    "tubent.com"
+    "tubent.com",
+    "www.tubent.com"
    ]
   },
   {
@@ -143614,6 +144213,13 @@
    "process": "any",
    "remote-domains": [
     "tubepornlist.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tubeporno.fr"
    ]
   },
   {
@@ -143894,10 +144500,10 @@
    "remote-domains": [
     "tubev.asia",
     "www.tubev.asia",
-    "tubev.sex",
-    "www.tubev.sex",
     "tubev.pro",
-    "www.tubev.pro"
+    "tubev.sex",
+    "www.tubev.pro",
+    "www.tubev.sex"
    ]
   },
   {
@@ -144024,6 +144630,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tubixe.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tuboff.com",
     "www.tuboff.com"
    ]
@@ -144041,7 +144654,8 @@
    "process": "any",
    "remote-domains": [
     "tubxporn.com",
-    "www.tubxporn.com"
+    "www.tubxporn.com",
+    "tubxporn.xxx"
    ]
   },
   {
@@ -146207,6 +146821,7 @@
    "process": "any",
    "remote-domains": [
     "pornogratis.tv.br",
+    "www.pornogratis.tv.br",
     "xvideos.tv.br"
    ]
   },
@@ -146575,6 +147190,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.ujizz.xxx"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.uk-tgirls.com"
    ]
   },
@@ -146643,8 +147265,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "ullu.run",
-    "ullu.app"
+    "ullu.app",
+    "ullu.run"
    ]
   },
   {
@@ -146876,9 +147498,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "uncutadda.me",
     "uncutadda.app",
-    "uncutadda.in"
+    "uncutadda.in",
+    "uncutadda.me"
    ]
   },
   {
@@ -147853,6 +148475,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "veuxtube.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vibragame.net",
     "vibragame.org"
    ]
@@ -147924,6 +148553,13 @@
    "process": "any",
    "remote-domains": [
     "vidcdn.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "video-creampie.com"
    ]
   },
   {
@@ -148218,7 +148854,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "videosamadores.blog"
+    "videosamadores.blog",
+    "www.videosamadores.blog"
    ]
   },
   {
@@ -150670,10 +151307,10 @@
     "videosporno.vlog.br",
     "www.videosporno.vlog.br",
     "filmeporno.vlog.br",
+    "pornobrasileiro.vlog.br",
     "pornocaseiro.vlog.br",
     "pornogratis.vlog.br",
-    "xvideo.vlog.br",
-    "pornobrasileiro.vlog.br"
+    "xvideo.vlog.br"
    ]
   },
   {
@@ -151389,6 +152026,13 @@
     "voyeurweb.com",
     "www.voyeurweb.com",
     "voyeurweb.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.voyeurxxxsex.com"
    ]
   },
   {
@@ -152947,6 +153591,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "webtoonporn.com",
+    "webtoonporn.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.webtraffic.se"
    ]
   },
@@ -154024,6 +154676,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wildpornvideos.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "wildretroporn.com"
    ]
   },
@@ -154312,8 +154971,8 @@
     "agaslive.wordpress.com",
     "feengly.wordpress.com",
     "kartalboy1.wordpress.com",
-    "sutra.wordpress.com",
-    "movesexology.wordpress.com"
+    "movesexology.wordpress.com",
+    "sutra.wordpress.com"
    ]
   },
   {
@@ -154849,8 +155508,8 @@
     "cdn3.x-videos.su",
     "www.x-videos.su",
     "x-videos.su",
-    "x-videos.mobi",
-    "x-videos.blog"
+    "x-videos.blog",
+    "x-videos.mobi"
    ]
   },
   {
@@ -154859,6 +155518,13 @@
    "remote-domains": [
     "www.x-videoz.org",
     "x-videoz.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "x-xx.pro"
    ]
   },
   {
@@ -155346,6 +156012,13 @@
    "process": "any",
    "remote-domains": [
     "xchatz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xchica.com"
    ]
   },
   {
@@ -156170,6 +156843,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fr.xgroovy.com",
     "xgroovy.com"
    ]
   },
@@ -156397,8 +157071,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xhamster18.desi",
-    "xhamster18.com"
+    "xhamster18.com",
+    "xhamster18.desi"
    ]
   },
   {
@@ -156735,6 +157409,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cz.xhopen.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xhot.pro"
    ]
   },
@@ -157005,8 +157686,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xlecx.org",
-    "xlecx.one"
+    "xlecx.one",
+    "xlecx.org"
    ]
   },
   {
@@ -157298,6 +157979,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xmxx.click",
     "xmxx.kim"
    ]
   },
@@ -157416,6 +158098,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.xnightflight.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xnjav.com"
    ]
   },
@@ -157525,11 +158214,11 @@
     "xnxx.blue",
     "xnxx.chat",
     "xnxx.es",
+    "xnxx.health",
     "xnxx.irish",
     "xnxx.lgbt",
     "xnxx.rent",
     "xnxx.tv",
-    "xnxx.health",
     "xnxx.wales"
    ]
   },
@@ -157770,8 +158459,8 @@
    "process": "any",
    "remote-domains": [
     "www.xnxx1.net",
-    "xnxx1.net",
-    "xnxx1.biz"
+    "xnxx1.biz",
+    "xnxx1.net"
    ]
   },
   {
@@ -157826,8 +158515,8 @@
     "xnxx2.org",
     "xnxx2.pro",
     "xnxx2.vip",
-    "www.xnxx2.pro",
     "www.xnxx2.com",
+    "www.xnxx2.pro",
     "xnxx2.com"
    ]
   },
@@ -158119,8 +158808,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xnxxsex.pro",
-    "xnxxsex.net"
+    "xnxxsex.net",
+    "xnxxsex.pro"
    ]
   },
   {
@@ -158563,9 +159252,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lu.xporno.me",
     "xporno.blog",
-    "xporno.su",
-    "xporno.pt"
+    "xporno.pt",
+    "xporno.su"
    ]
   },
   {
@@ -158784,6 +159474,13 @@
    "process": "any",
    "remote-domains": [
     "xshopsex.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xspiel.com"
    ]
   },
   {
@@ -159171,8 +159868,8 @@
    "process": "any",
    "remote-domains": [
     "www.xvideoporno.tv",
-    "xvideoporno.net",
-    "xvideoporno.blog"
+    "xvideoporno.blog",
+    "xvideoporno.net"
    ]
   },
   {
@@ -159542,6 +160239,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.xvideosincesto.com",
     "xvideosincesto.com"
    ]
   },
@@ -159587,9 +160285,10 @@
    "process": "any",
    "remote-domains": [
     "www.xvideosporno.org",
+    "xvideosporno.blog",
+    "xvideosporno.me",
     "xvideosporno.net",
-    "xvideosporno.org",
-    "xvideosporno.me"
+    "xvideosporno.org"
    ]
   },
   {
@@ -159730,8 +160429,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "xvidios.xxx",
-    "xvidios.blog"
+    "xvidios.blog",
+    "xvidios.xxx"
    ]
   },
   {
@@ -160390,6 +161089,13 @@
    "remote-domains": [
     "www.xxx-porn-hd.com",
     "xxx-porn-hd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxx-porn-hub.com"
    ]
   },
   {
@@ -161239,6 +161945,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xxxgo.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxxgr.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xxxgrannypics.com"
    ]
   },
@@ -161401,6 +162121,13 @@
    "remote-domains": [
     "www.xxxhunterspider.com",
     "xxxhunterspider.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxxi.porn"
    ]
   },
   {
@@ -162221,6 +162948,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.xxxpornxxx.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.xxxpregnantmovies.com"
    ]
   },
@@ -162720,6 +163454,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.xxxtube1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xxxtube2022.com"
    ]
   },
@@ -162828,8 +163569,16 @@
    "remote-domains": [
     "www.xxxvideo.asia",
     "xxxvideo.asia",
+    "www.xxxvideo.tube",
     "xxxvideo.best",
     "xxxvideo.blog"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxxvideo247.cc"
    ]
   },
   {
@@ -162890,9 +163639,9 @@
     "cdn3.xxxvideos.su",
     "www.xxxvideos.su",
     "xxxvideos.su",
+    "xxxvideos.blog",
     "xxxvideos.cz",
-    "xxxvideos.ink",
-    "xxxvideos.blog"
+    "xxxvideos.ink"
    ]
   },
   {
@@ -162939,6 +163688,13 @@
    "process": "any",
    "remote-domains": [
     "www.xxxvideoxxx.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxxvidso.com"
    ]
   },
   {
@@ -163005,6 +163761,13 @@
    "remote-domains": [
     "www.xxxvogue.net",
     "xxxvogue.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xxxwap.mobi"
    ]
   },
   {
@@ -163645,6 +164408,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.yeuu.net",
+    "yeuu.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.yezzclips.com",
     "yezzclips.com"
    ]
@@ -163844,8 +164615,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "you-porn.com",
     "www.you-porn.net",
+    "you-porn.com",
     "you-porn.net"
    ]
   },
@@ -164080,6 +164851,13 @@
    "remote-domains": [
     "www.young-porn-movie.com",
     "young-porn-movie.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "young-pussy.com"
    ]
   },
   {
@@ -165085,8 +165863,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "youporner.red",
-    "youporner.net"
+    "youporner.net",
+    "youporner.red"
    ]
   },
   {
@@ -165523,6 +166301,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "yourxxxvideos.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.yousex.me",
     "yousex.me"
    ]
@@ -165859,8 +166644,8 @@
     "vcdn.zbporn.com",
     "www.zbporn.com",
     "zbporn.com",
-    "zbporn.tv",
-    "zbporn.net"
+    "zbporn.net",
+    "zbporn.tv"
    ]
   },
   {
