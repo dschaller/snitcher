@@ -3733,13 +3733,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "a444.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "a4rooms.eu"
    ]
   },
@@ -11961,8 +11954,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "anhgaixinh.us",
-    "anhgaixinh.vip"
+    "anhgaixinh.us"
    ]
   },
   {
@@ -13313,13 +13305,6 @@
    "process": "any",
    "remote-domains": [
     "hotbrazil.app.br"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "app-live567.com"
    ]
   },
   {
@@ -17765,7 +17750,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bblive.fun",
     "bblive.org"
    ]
   },
@@ -21611,9 +21595,7 @@
    "process": "any",
    "remote-domains": [
     "1001truyen.blogspot.com",
-    "anhgaihotnhat.blogspot.com",
     "anhjavdep.blogspot.com",
-    "checkgaigoi.blogspot.com",
     "doctruyennguoilonhay.blogspot.com",
     "filmseksbaru.blogspot.com",
     "khoanhnguoinoitieng.blogspot.com",
@@ -36421,13 +36403,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "checkgai.org"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "checkgaigoi.cc",
     "checkgaigoi.co",
     "checkgaigoi.info",
@@ -36623,7 +36598,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "chichlive.app",
     "chichlive.biz",
     "chichlive.club",
     "chichlive.com",
@@ -37652,7 +37626,6 @@
     "clipnong.me",
     "clipnong.mobi",
     "clipnong.online",
-    "clipnong.pro",
     "clipnong.video",
     "clipnong.xyz"
    ]
@@ -37834,15 +37807,13 @@
    "remote-domains": [
     "clipsexvn.me",
     "clipsexvn.net",
-    "clipsexvn.org",
-    "clipsexvn.xyz"
+    "clipsexvn.org"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "clipsexx.com",
     "clipsexx.net"
    ]
   },
@@ -43826,13 +43797,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ditcucmanh.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ditdu.com"
    ]
   },
@@ -43936,13 +43900,6 @@
    "remote-domains": [
     "ditnhauz.com",
     "ditnhauz.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ditphim.com"
    ]
   },
   {
@@ -44141,13 +44098,6 @@
    "remote-domains": [
     "doctorvoluptua.com",
     "www.doctorvoluptua.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "doctruyen.biz"
    ]
   },
   {
@@ -50569,13 +50519,6 @@
    "remote-domains": [
     "fapvidhd.com",
     "www.fapvidhd.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fapviet.com"
    ]
   },
   {
@@ -57307,13 +57250,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gai88.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gaicaocap.link",
     "gaicaocap.xyz"
    ]
@@ -57333,7 +57269,6 @@
     "gaidam.host",
     "gaidam.in",
     "gaidam.link",
-    "gaidam.net",
     "gaidam.org",
     "gaidam.pro",
     "gaidam.site"
@@ -57368,13 +57303,6 @@
     "gaidanang.fun",
     "gaidanang.in",
     "gaidanang.link"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gaidanang2022.website"
    ]
   },
   {
@@ -57424,11 +57352,9 @@
    "process": "any",
    "remote-domains": [
     "gaigoi.app",
-    "gaigoi.art",
     "gaigoi.icu",
     "gaigoi.link",
-    "gaigoi.live",
-    "gaigoi.news"
+    "gaigoi.live"
    ]
   },
   {
@@ -57436,7 +57362,6 @@
    "process": "any",
    "remote-domains": [
     "gaigoi18.biz",
-    "gaigoi18.pro",
     "gaigoi18.site"
    ]
   },
@@ -57452,20 +57377,6 @@
    "process": "any",
    "remote-domains": [
     "gaigoi33.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gaigoi3m.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gaigoi3mien.xyz"
    ]
   },
   {
@@ -57507,13 +57418,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gaigoibamien.us"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gaigoibentre.xyz"
    ]
   },
@@ -57536,13 +57440,6 @@
    "process": "any",
    "remote-domains": [
     "gaigoicantho.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gaigoicaocap.xyz"
    ]
   },
   {
@@ -57766,13 +57663,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gaigoiteen.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gaigoitelegram.xyz"
    ]
   },
@@ -57810,8 +57700,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gaigoiviet.info",
-    "gaigoiviet.us"
+    "gaigoiviet.info"
    ]
   },
   {
@@ -58185,13 +58074,6 @@
    "process": "any",
    "remote-domains": [
     "gaixinhthudam.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "gaixinhvip.com"
    ]
   },
   {
@@ -60174,13 +60056,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "giaitriviet.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "gif-porn.com",
     "gif-porn.net",
     "www.gif-porn.com",
@@ -61545,13 +61420,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "goigaidep.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "goigainhanh.xyz"
    ]
   },
@@ -61560,13 +61428,6 @@
    "process": "any",
    "remote-domains": [
     "goigaire.xyz"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "goigaisv.xyz"
    ]
   },
   {
@@ -66527,7 +66388,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cdn.hentaicb.xyz",
     "hentaicb.top",
     "hentaicb.xyz"
    ]
@@ -79446,7 +79306,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "cdn.khosex.me",
     "khosex.me",
     "khosex.net"
    ]
@@ -151765,7 +151624,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "chich.vnzb8.com",
     "vnzb8.com",
     "www.vnzb8.com"
    ]
