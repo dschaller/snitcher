@@ -4171,6 +4171,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "admlogs85.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "admost.nl"
    ]
   },
@@ -7388,6 +7395,13 @@
    "remote-domains": [
     "alfamina.com",
     "www.alfamina.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "alfasemesta.com"
    ]
   },
   {
@@ -17699,6 +17713,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "batkeys.com",
+    "www.batkeys.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bawatingbarter.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bayofpleasure.com"
    ]
   },
@@ -18266,6 +18295,13 @@
    "process": "any",
    "remote-domains": [
     "beachvoyeurclips.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "beak.in"
    ]
   },
   {
@@ -20851,6 +20887,13 @@
    "process": "any",
    "remote-domains": [
     "bisonfuck.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bit-cloud.ru"
    ]
   },
   {
@@ -30868,6 +30911,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bonificheitalia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bonnyart.com"
    ]
   },
@@ -32821,6 +32871,13 @@
    "process": "any",
    "remote-domains": [
     "bupnhau.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "burikov.com"
    ]
   },
   {
@@ -38752,6 +38809,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ask6.awt.com.pk",
+    "bearcatpumps.com.cn",
+    "omeryener.com.tr",
+    "perfumando.com.mx",
+    "wtmc.com.pk",
+    "www.atonal.com.br",
+    "www.movidoc.com.br",
     "topapp.com.vn",
     "caiunoxvideos.com.br",
     "coliriodemacho.com.br",
@@ -39528,6 +39592,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "crackload.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "affiliates.crakrevenue.com"
    ]
   },
@@ -39912,6 +39983,13 @@
    "process": "any",
    "remote-domains": [
     "www.crystal-eizou.jp"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "crystalcoin.cc"
    ]
   },
   {
@@ -41140,6 +41218,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "www.dacui.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dadcrush.com",
     "join.dadcrush.com",
     "www.dadcrush.com"
@@ -42186,6 +42271,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ddoser.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hwcdn.ddstatic.com"
    ]
   },
@@ -43220,6 +43312,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "diclegrup.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "promo.diddylicious.com"
    ]
   },
@@ -43339,6 +43438,13 @@
    "remote-domains": [
     "dillionharperexclusive.com",
     "www.dillionharperexclusive.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dimensions-tech.com"
    ]
   },
   {
@@ -44698,6 +44804,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "drcesargalvan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dream-filth.com"
    ]
   },
@@ -44738,6 +44851,13 @@
    "process": "any",
    "remote-domains": [
     "dreambdsm.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dreamerchallenger.com"
    ]
   },
   {
@@ -45038,6 +45158,14 @@
    "process": "any",
    "remote-domains": [
     "dslady.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dstreet.pl",
+    "www.dstreet.pl"
    ]
   },
   {
@@ -45422,6 +45550,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "easylinkacademy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "easypic.com",
     "www.easypic.com"
    ]
@@ -45494,7 +45629,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ebenezercartagena.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ebenporno.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ebfertility.com"
    ]
   },
   {
@@ -46006,6 +46155,13 @@
    "remote-domains": [
     "ejzbrokenangelz.com",
     "www.ejzbrokenangelz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ekhayafarm.com"
    ]
   },
   {
@@ -51472,6 +51628,13 @@
    "process": "any",
    "remote-domains": [
     "fewporn.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fexstat257.xyz"
    ]
   },
   {
@@ -60982,6 +61145,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "globalautomobileshop.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "globalebony.com",
     "www.globalebony.com"
    ]
@@ -67878,6 +68048,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hillsoft.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hindi6.com"
    ]
   },
@@ -67964,6 +68141,13 @@
    "process": "any",
    "remote-domains": [
     "hinhxes.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hinokiworld.com"
    ]
   },
   {
@@ -71781,6 +71965,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "huxblades.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "porn.huyamba.mobi",
     "ru.huyamba.mobi"
    ]
@@ -73753,6 +73944,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "inovatdigital.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "inoverse.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "inporn.com"
    ]
   },
@@ -73843,6 +74048,13 @@
    "process": "any",
    "remote-domains": [
     "inteentube.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "intellectproactive.com"
    ]
   },
   {
@@ -74290,6 +74502,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "itrevolution.in"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "its.porn",
     "www.its.porn"
    ]
@@ -74600,6 +74819,13 @@
    "process": "any",
    "remote-domains": [
     "jamesdeen.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jameslachman.com"
    ]
   },
   {
@@ -78132,6 +78358,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jskgdhjkdfhjdkjhd844.ru"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "jsmcrjmp.com"
    ]
   },
@@ -78433,6 +78666,13 @@
     "justhookup.com",
     "static.justhookup.com",
     "track.justhookup.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "justi.su"
    ]
   },
   {
@@ -79197,6 +79437,13 @@
    "process": "any",
    "remote-domains": [
     "ketdoi.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kevinburciaga.com"
    ]
   },
   {
@@ -80136,6 +80383,13 @@
    "process": "any",
    "remote-domains": [
     "ksk.moe"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kuedfy.com"
    ]
   },
   {
@@ -83400,6 +83654,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "liverpulapp.ru"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lives.net"
    ]
   },
@@ -83951,6 +84212,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "londontownlink.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "thumbs.lonely-wolf.com"
    ]
   },
@@ -84150,6 +84418,13 @@
    "remote-domains": [
     "losangelesmassage.net",
     "www.losangelesmassage.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lossofgravity.com"
    ]
   },
   {
@@ -84824,6 +85099,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "xt.lykj988.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lynxdollars.com",
     "www.lynxdollars.com"
    ]
@@ -84873,6 +85155,13 @@
    "remote-domains": [
     "buckangel.maakjestart.nl",
     "www.buckangel.maakjestart.nl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tourism.maalina-company.com"
    ]
   },
   {
@@ -85864,6 +86153,13 @@
    "remote-domains": [
     "masterfap.net",
     "www.masterfap.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "masteriwestheighs.com"
    ]
   },
   {
@@ -87637,6 +87933,13 @@
    "remote-domains": [
     "mediadetective.com",
     "www.mediadetective.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.mediakomen.com"
    ]
   },
   {
@@ -90921,6 +91224,13 @@
    "process": "any",
    "remote-domains": [
     "mongerinasia.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.moninediy.com"
    ]
   },
   {
@@ -94849,6 +95159,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nataliafrica.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nataliastarr.com",
     "www.nataliastarr.com"
    ]
@@ -94865,6 +95182,13 @@
    "process": "any",
    "remote-domains": [
     "pantybay.natsfornetworks.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "natuflorperu.com"
    ]
   },
   {
@@ -99630,6 +99954,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "officialk2spice.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.officialpreetiandpriya.com"
    ]
   },
@@ -102444,6 +102775,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "paralkemeia.eu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "parismature.com",
     "www.parismature.com"
    ]
@@ -103568,6 +103906,13 @@
    "process": "any",
    "remote-domains": [
     "petitetinyporn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "petparadise.biz"
    ]
   },
   {
@@ -108129,6 +108474,13 @@
    "process": "any",
    "remote-domains": [
     "pollofelizexpress.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "polushka.net"
    ]
   },
   {
@@ -120977,6 +121329,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "samoramertut.ru"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sancdn.net",
     "www.sancdn.net"
    ]
@@ -130366,6 +130725,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "siintec.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "i-bbs.sijex.net"
    ]
   },
@@ -130955,6 +131321,13 @@
    "process": "any",
    "remote-domains": [
     "skyhighpremium.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "edge.microsoft.skyman.cloud"
    ]
   },
   {
@@ -131784,6 +132157,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "solapurcancer.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "eroslist.solidcams.com"
    ]
   },
@@ -132251,6 +132631,13 @@
    "remote-domains": [
     "spencernicks.com",
     "www.spencernicks.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "spensoftgame.site"
    ]
   },
   {
@@ -134830,6 +135217,13 @@
    "process": "any",
    "remote-domains": [
     "tahlil.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tahtaadam.com"
    ]
   },
   {
@@ -139395,6 +139789,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "thetripsuggest.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thetulumtakeover.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "thetwinks.net"
    ]
   },
@@ -139468,6 +139876,13 @@
    "remote-domains": [
     "theyxxx.com",
     "www.theyxxx.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thezoomit.com"
    ]
   },
   {
@@ -140071,6 +140486,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "timemaintenance.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "timesofbombay.com"
    ]
   },
@@ -140434,6 +140856,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tmglawpalawan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tmohentai.com"
    ]
   },
@@ -140720,6 +141149,13 @@
    "process": "any",
    "remote-domains": [
     "tonsofcock.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tonydong.com"
    ]
   },
   {
@@ -141594,6 +142030,13 @@
    "remote-domains": [
     "toroporno.com",
     "www.toroporno.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.torq.qa"
    ]
   },
   {
@@ -142497,6 +142940,13 @@
    "process": "any",
    "remote-domains": [
     "transporno.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "transportadoramiranda.com"
    ]
   },
   {
@@ -147464,6 +147914,13 @@
    "remote-domains": [
     "unlimitedmilfs.com",
     "www.unlimitedmilfs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "unmgsf.com"
    ]
   },
   {
@@ -166583,6 +167040,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "zerophone.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "zesexy.com"
    ]
   },
@@ -166672,6 +167136,14 @@
    "remote-domains": [
     "www.zishy.com",
     "zishy.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ijko.rfc.zitoprohealth.com",
+    "ocqd.rfc.zitoprohealth.com"
    ]
   },
   {

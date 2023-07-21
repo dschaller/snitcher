@@ -1826,6 +1826,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "789v.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "78win01.com",
     "api.78win01.com",
     "www.78win01.com"
@@ -2159,6 +2166,7 @@
    "process": "any",
    "remote-domains": [
     "888b.com",
+    "888b.dev",
     "888b.in",
     "888b.moe",
     "888b.trade",
@@ -2718,6 +2726,13 @@
    "process": "any",
    "remote-domains": [
     "8xbet11.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "8xbet184.com"
    ]
   },
   {
@@ -3653,6 +3668,13 @@
    "remote-domains": [
     "b52d.club",
     "game.b52d.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "b52k.club"
    ]
   },
   {
@@ -5345,6 +5367,20 @@
    "remote-domains": [
     "bigbetworld.com",
     "www.bigbetworld.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bigboss23.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bigboss93.com"
    ]
   },
   {
@@ -9650,6 +9686,7 @@
    "process": "any",
    "remote-domains": [
     "f8bet.com",
+    "f8bet.games",
     "f8bet.homes",
     "f8bet.site",
     "f8bet.win",
@@ -11463,6 +11500,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hb88032.com",
+    "www.hb88032.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hb8864.com",
     "www.hb8864.com"
    ]
@@ -11656,6 +11701,21 @@
    "process": "any",
    "remote-domains": [
     "hit1.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hit32.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hit68.net",
+    "play.hit68.net"
    ]
   },
   {
@@ -11962,6 +12022,13 @@
     "i9bet.net",
     "i9bet.poker",
     "i9bet.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9bet07.com"
    ]
   },
   {
@@ -12952,6 +13019,13 @@
     "iwin.info",
     "iwin.us",
     "www.iwin.us"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "iwin10.club"
    ]
   },
   {
@@ -24082,6 +24156,7 @@
    "remote-domains": [
     "gamebai.manclub.us",
     "gamebai.manclub.vin",
+    "manclub.fun",
     "manclub.live",
     "manclub.us",
     "manclub.vin",
@@ -24300,7 +24375,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mb88.com"
+    "mb88.bet",
+    "mb88.com",
+    "www.mb88.bet"
    ]
   },
   {
@@ -25351,6 +25428,13 @@
     "qc.nhat.bet",
     "qc.nhat.game",
     "qc.nhat.it"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nhat1.club"
    ]
   },
   {
@@ -27028,6 +27112,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rik6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "rikbet789.club"
    ]
   },
@@ -28619,6 +28710,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sun13.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sun52.bid",
     "sun52.click",
     "sun52.tv"
@@ -29456,6 +29554,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "thaifastpay.top",
+    "www.thaifastpay.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "thaik8.net"
    ]
   },
@@ -30101,6 +30207,13 @@
    "process": "any",
    "remote-domains": [
     "topigri.bg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "topnhacaihot.com"
    ]
   },
   {
@@ -31071,6 +31184,13 @@
    "process": "any",
    "remote-domains": [
     "vin68.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vin777.work"
    ]
   },
   {
@@ -32807,6 +32927,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "win79a.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "win79play.me"
    ]
   },
@@ -33525,6 +33652,13 @@
    "remote-domains": [
     "lp.zo1.win",
     "zo1.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "zo2.win"
    ]
   },
   {
