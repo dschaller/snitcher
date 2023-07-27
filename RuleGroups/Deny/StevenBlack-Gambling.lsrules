@@ -3681,6 +3681,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b52vn.org",
+    "play.b52vn.org",
     "tai.b52vn.fun"
    ]
   },
@@ -27817,6 +27819,14 @@
    "process": "any",
    "remote-domains": [
     "sin88vao.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sinbet.vip",
+    "www.sinbet.vip"
    ]
   },
   {
