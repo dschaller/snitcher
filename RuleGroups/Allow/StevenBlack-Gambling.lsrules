@@ -1033,6 +1033,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "333.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "333666.buzz",
     "app.333666.buzz"
    ]
@@ -23141,6 +23148,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "listnhacai.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "lite-1x6603199.top"
    ]
   },
@@ -26426,6 +26440,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ads.playmay88.top",
+    "playmay88.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "playojo.com",
     "www.playojo.com"
    ]
@@ -28166,6 +28188,14 @@
    "process": "any",
    "remote-domains": [
     "sodo103.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sodo107.com",
+    "www.sodo107.com"
    ]
   },
   {
@@ -30918,6 +30948,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "play.vaob52.click",
+    "vaob52.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vaoku.net"
    ]
   },
@@ -32260,6 +32298,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vz293.com",
+    "www.vz293.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vz681.com",
     "www.vz681.com"
    ]
@@ -32278,6 +32324,20 @@
     "m.vz79.com",
     "vz79.com",
     "www.vz79.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vz99.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vz99vietnam.com"
    ]
   },
   {
