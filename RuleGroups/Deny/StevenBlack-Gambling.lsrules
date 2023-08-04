@@ -1508,6 +1508,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "68iwin.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "68rich.com",
     "web.68rich.com",
     "www.68rich.com",
@@ -11438,6 +11445,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "h51.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hajper.com",
     "www.hajper.com"
    ]
@@ -11871,8 +11885,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hot51.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hotlinecsgo.com",
     "www.hotlinecsgo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hotlive.in"
    ]
   },
   {
@@ -27352,6 +27380,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rw8800.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "s0kn5.com"
    ]
   },
@@ -28759,6 +28794,7 @@
    "remote-domains": [
     "sun52.bid",
     "sun52.click",
+    "sun52.fun",
     "sun52.tv"
    ]
   },

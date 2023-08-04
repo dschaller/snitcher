@@ -61349,20 +61349,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "goigai18.xyz"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "goigai24.xyz"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "goigai2k.xyz"
    ]
   },
@@ -61378,13 +61364,6 @@
    "process": "any",
    "remote-domains": [
     "goigaicaocap.xyz"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "goigaire.xyz"
    ]
   },
   {
