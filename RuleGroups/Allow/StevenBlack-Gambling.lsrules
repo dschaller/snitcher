@@ -1149,6 +1149,42 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "360bet1.com",
+    "www.360bet1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "360bet2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "360bet3.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "360bet4.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "360bet5.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.3650011.com"
    ]
   },
@@ -5858,6 +5894,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bongbet1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bongbet2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bongda2022.info"
    ]
   },
@@ -6841,6 +6891,14 @@
    "process": "any",
    "remote-domains": [
     "choiiwin79.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choilawin.net",
+    "cuoc.choilawin.net"
    ]
   },
   {
@@ -28795,6 +28853,7 @@
     "sun52.bid",
     "sun52.click",
     "sun52.fun",
+    "sun52.live",
     "sun52.tv"
    ]
   },
@@ -29382,6 +29441,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taisun52.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taiuk88.net",
+    "wc.taiuk88.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "f1.taiv8.com",
     "f1.taiv8.top",
     "f2.taiv8.com",
@@ -29399,6 +29473,13 @@
    "process": "any",
    "remote-domains": [
     "taiwin79.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taix1.club"
    ]
   },
   {
@@ -29743,6 +29824,14 @@
    "process": "any",
    "remote-domains": [
     "thethao80k.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "km.thethaob52.org",
+    "thethaob52.org"
    ]
   },
   {
