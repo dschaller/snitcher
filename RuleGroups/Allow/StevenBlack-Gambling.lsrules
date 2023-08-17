@@ -846,6 +846,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "20betvnd.com",
+    "www.20betvnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "21bet.com",
     "www.21bet.com"
    ]
@@ -2719,6 +2727,14 @@
    "process": "any",
    "remote-domains": [
     "8thao8.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "8vnd.club",
+    "www.8vnd.club"
    ]
   },
   {
@@ -11272,6 +11288,14 @@
    "remote-domains": [
     "gobetgo.com",
     "www.gobetgo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "god55viet.com",
+    "www.god55viet.com"
    ]
   },
   {
@@ -27628,6 +27652,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sbc2888.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "access.sbc31.com",
     "sbc31.com",
     "www.sbc31.com"
@@ -28503,6 +28534,13 @@
    "remote-domains": [
     "sport-gewin.com",
     "www.sport-gewin.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sport9.info"
    ]
   },
   {
@@ -29532,6 +29570,13 @@
    "process": "any",
    "remote-domains": [
     "vn.tbab556.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tbab595.com"
    ]
   },
   {
@@ -31408,6 +31453,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vipclub.makeup",
     "vipclub.so"
    ]
   },
