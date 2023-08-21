@@ -415,6 +415,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "12388.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "123b.bet",
     "123b.com",
     "123b.org",
@@ -3741,6 +3748,14 @@
    "process": "any",
    "remote-domains": [
     "b52k.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b52m.club",
+    "play.b52m.club"
    ]
   },
   {
@@ -8142,6 +8157,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cuocb52.me",
+    "ip.cuocb52.me"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cuocba.com",
     "m.cuocba.com"
    ]
@@ -11230,6 +11253,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "go88x.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "goal123.com",
     "prod.goal123.com",
     "www.goal123.com"
@@ -11805,7 +11835,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hit1.club"
+    "api4.hit1.co",
+    "api6.hit1.co",
+    "hit1.club",
+    "hit1.co",
+    "play.hit1.co"
    ]
   },
   {
@@ -11914,6 +11948,13 @@
    "process": "any",
    "remote-domains": [
     "hl8vn.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hoahao.vip"
    ]
   },
   {
@@ -27629,6 +27670,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sanos.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sasa889.com"
    ]
   },
@@ -28136,6 +28184,13 @@
    "remote-domains": [
     "skybook.ag",
     "www.skybook.ag"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "skyclub.city"
    ]
   },
   {
@@ -29472,6 +29527,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taiskyclub.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "taisum.co"
    ]
   },
@@ -29480,6 +29542,15 @@
    "process": "any",
    "remote-domains": [
     "taisun52.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "api4.taitx1.club",
+    "api6.taitx1.club",
+    "taitx1.club"
    ]
   },
   {
@@ -30689,6 +30760,13 @@
    "process": "any",
    "remote-domains": [
     "twin868.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tx1.vip"
    ]
   },
   {
