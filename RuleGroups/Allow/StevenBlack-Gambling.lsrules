@@ -27801,6 +27801,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sdjlbg.xyz",
+    "wcdn.sdjlbg.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "seabet.com",
     "www.seabet.com"
    ]
@@ -28927,6 +28935,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "play.sum5.club",
+    "sum5.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sun.to",
     "sun.win",
     "www.sun.win"
@@ -29534,7 +29550,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "taisum.co"
+    "taisum.ac",
+    "taisum.co",
+    "taisum.io"
    ]
   },
   {
@@ -31602,6 +31620,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vn123.me",
+    "www.vn123.me"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vn138.net"
    ]
   },
@@ -32168,7 +32194,9 @@
    "process": "any",
    "remote-domains": [
     "play.vuigiaitri.online",
-    "vuigiaitri.online"
+    "pro.vuigiaitri.org",
+    "vuigiaitri.online",
+    "vuigiaitri.org"
    ]
   },
   {
@@ -33351,6 +33379,15 @@
    "process": "any",
    "remote-domains": [
     "winbetaffiliates.bg"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cdn.winclub.net",
+    "winclub.net",
+    "www.winclub.net"
    ]
   },
   {
