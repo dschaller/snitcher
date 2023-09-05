@@ -163015,6 +163015,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "topg88.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "topgaigoi.us"
    ]
   },
@@ -174840,6 +174847,15 @@
    "process": "any",
    "remote-domains": [
     "vnshow.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "2089.vntopg88.live",
+    "vntopg88.live",
+    "vntopg88.vip"
    ]
   },
   {

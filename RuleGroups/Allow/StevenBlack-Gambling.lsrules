@@ -485,6 +485,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "123bdly.com",
+    "www.123bdly.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "123bdy.com"
    ]
   },
@@ -2859,6 +2867,48 @@
    "remote-domains": [
     "988bet.info",
     "www.988bet.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet5.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet6.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet7.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet8.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "989bet9.com"
    ]
   },
   {
@@ -5342,6 +5392,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "betwayvietnam88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "betwinner.ng"
    ]
   },
@@ -5624,6 +5681,14 @@
    "remote-domains": [
     "bk8i.com",
     "www.bk8i.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bk8mys68.asia",
+    "www.bk8mys68.asia"
    ]
   },
   {
@@ -6134,6 +6199,13 @@
    "process": "any",
    "remote-domains": [
     "bvthethao.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vn.bway88vietnam.com"
    ]
   },
   {
@@ -6930,6 +7002,14 @@
    "remote-domains": [
     "choilawin.net",
     "cuoc.choilawin.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ad.choingay11b.mobi",
+    "choingay11b.mobi"
    ]
   },
   {
@@ -9055,6 +9135,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "do99.site",
+    "tai.do99.site"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dobet.com"
    ]
   },
@@ -10968,6 +11056,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choi.gamingsoc88.org",
+    "gamingsoc88.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gate777.com",
     "www.gate777.com"
    ]
@@ -11029,6 +11125,13 @@
     "gentingcasino.com",
     "sports.gentingcasino.com",
     "www.gentingcasino.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "genvipios.com"
    ]
   },
   {
@@ -23885,6 +23988,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "luciu.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "luck6.com"
    ]
   },
@@ -24082,6 +24192,13 @@
    "remote-domains": [
     "luxbet.com",
     "www.luxbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "luxvip.pro"
    ]
   },
   {
@@ -24745,6 +24862,24 @@
    "remote-domains": [
     "m.mig8vn.com",
     "mig8vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "api.minicasino.io",
+    "minicasino.io",
+    "www.minicasino.io"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "api.minivn.com",
+    "minivn.com",
+    "www.minivn.com"
    ]
   },
   {
@@ -28963,6 +29098,7 @@
     "sun52.click",
     "sun52.fun",
     "sun52.live",
+    "sun52.site",
     "sun52.tv"
    ]
   },
@@ -28979,6 +29115,13 @@
    "process": "any",
    "remote-domains": [
     "sun88.online"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sungame.store"
    ]
   },
   {
@@ -29141,7 +29284,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "sv66qc9.com"
+    "sv66qc9.com",
+    "www.sv66qc9.com"
    ]
   },
   {
@@ -29430,6 +29574,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taido99.net",
     "taido99.win"
    ]
   },
@@ -29537,6 +29682,13 @@
    "process": "any",
    "remote-domains": [
     "taiok88.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taiqqlive.pro"
    ]
   },
   {
@@ -31512,6 +31664,29 @@
    "process": "any",
    "remote-domains": [
     "vinalottery.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinb00.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinbet1001.com",
+    "vn96check.vinbet1001.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pc.vinbet1005.com",
+    "vinbet1005.com"
    ]
   },
   {
@@ -33494,6 +33669,13 @@
     "wwin.ba",
     "wwin.com",
     "www.wwin.ba"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www-989bet.com"
    ]
   },
   {
