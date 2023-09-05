@@ -9716,7 +9716,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "eu99kh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "eu9vietnam.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "eu9vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "eu9vn1.com"
    ]
   },
   {
@@ -14397,6 +14418,13 @@
    "remote-domains": [
     "jinglebingo.com",
     "www.jinglebingo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jjfungame.com"
    ]
   },
   {

@@ -72318,7 +72318,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "happy-porn.com",
     "www.happy-porn.com"
    ]
   },
@@ -87827,13 +87826,6 @@
    "process": "any",
    "remote-domains": [
     "jerk-porn.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "jerk24.com"
    ]
   },
   {
