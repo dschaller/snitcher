@@ -14341,8 +14341,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "mu.anwap.tube",
-    "mu.anwap.tube/films/r33"
+    "mu.anwap.tube"
    ]
   },
   {
@@ -15219,19 +15218,6 @@
    "remote-domains": [
     "archertube.com",
     "www.archertube.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "archive.ph/gkmcr",
-    "archive.ph/gouze",
-    "archive.ph/nwwio",
-    "archive.ph/rhjht",
-    "archive.ph/tyeyc",
-    "archive.vn/6hof5",
-    "archive.vn/kjxo1"
    ]
   },
   {
@@ -51822,13 +51808,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "erenoiba.fun/"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "eretroporn.com"
    ]
   },
@@ -54662,13 +54641,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "exsite.pl/erotyka-18"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "extasycams.com",
     "new.extasycams.com",
     "www.extasycams.com"
@@ -55670,17 +55642,6 @@
     "s.fap.to",
     "videos.fap.team",
     "x.fap.to"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "fap-nation.com/dating-my-daughter",
-    "fap-nation.com/incest-adventure",
-    "fap-nation.com/lust-and-power",
-    "fap-nation.com/rack-2",
-    "fap-nation.com/snow-daze-the-music-of-winter"
    ]
   },
   {
@@ -62364,7 +62325,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "freexxxporn.fun/",
     "freexxxporn.org"
    ]
   },
@@ -64121,8 +64081,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "funkeln.eu",
-    "funkeln.eu/tag"
+    "funkeln.eu"
    ]
   },
   {
@@ -83971,8 +83930,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "insane-day.com",
-    "insane-day.com/"
+    "insane-day.com"
    ]
   },
   {
@@ -107475,8 +107433,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nakedparty.top",
-    "nakedparty.top/"
+    "nakedparty.top"
    ]
   },
   {
@@ -107485,13 +107442,6 @@
    "remote-domains": [
     "nakedpics.ca",
     "nakedpics.fun"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nakedpicstop.top/"
    ]
   },
   {
@@ -107544,8 +107494,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nakedpussyteen.fun",
-    "nakedpussyteen.fun/"
+    "nakedpussyteen.fun"
    ]
   },
   {
@@ -111093,13 +111042,6 @@
    "remote-domains": [
     "nudeandhairy.com",
     "www.nudeandhairy.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "nudeangels.top/"
    ]
   },
   {
@@ -121622,9 +121564,7 @@
    "remote-domains": [
     "best.picsvirgin.top",
     "junior.picsvirgin.top",
-    "naked.picsvirgin.top/",
     "nn.picsvirgin.top",
-    "shocking.picsvirgin.top/",
     "teen.picsvirgin.top",
     "youngmodels.picsvirgin.top",
     "yummy.picsvirgin.top"
@@ -127560,8 +127500,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "porno-xxx.top",
-    "porno-xxx.top/"
+    "porno-xxx.top"
    ]
   },
   {
@@ -127791,13 +127730,6 @@
    "process": "any",
    "remote-domains": [
     "www.pornoaktuelle.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pornoalfa.com/"
    ]
   },
   {
@@ -129239,7 +129171,6 @@
    "remote-domains": [
     "best.pornomania.org",
     "pornomania.org",
-    "pornomania.org/",
     "top.pornomania.org"
    ]
   },
@@ -132564,13 +132495,6 @@
     "porzo.com",
     "porzo.tv",
     "www.porzo.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "posefamily.com/"
    ]
   },
   {
@@ -148766,8 +148690,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "shavedpussys.click",
-    "shavedpussys.click/"
+    "shavedpussys.click"
    ]
   },
   {
@@ -151698,13 +151621,6 @@
    "process": "any",
    "remote-domains": [
     "socoroas.net"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "socutegirls.top/"
    ]
   },
   {
@@ -161855,8 +161771,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tinynude.fun",
-    "tinynude.fun/"
+    "tinynude.fun"
    ]
   },
   {
@@ -163593,13 +163508,6 @@
    "process": "any",
    "remote-domains": [
     "totalgals.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "totallpuss.in/"
    ]
   },
   {
@@ -181349,8 +181257,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xhdnude.com",
-    "xhdnude.com/"
+    "xhdnude.com"
    ]
   },
   {
@@ -188459,8 +188366,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xxxsex8.fun",
-    "xxxsex8.fun/"
+    "xxxsex8.fun"
    ]
   },
   {
@@ -191197,8 +191103,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "youngnudism.eu",
-    "youngnudism.eu/"
+    "youngnudism.eu"
    ]
   },
   {
