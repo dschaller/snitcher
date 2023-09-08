@@ -6993,6 +6993,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choihitclub.run",
+    "rg.choihitclub.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choiiwin79.fun"
    ]
   },
@@ -11752,7 +11760,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hb88031.com"
+    "hb88031.com",
+    "www.hb88031.com"
    ]
   },
   {
@@ -11971,6 +11980,14 @@
    "process": "any",
    "remote-domains": [
     "hit32.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hit38.club",
+    "play.hit38.club"
    ]
   },
   {
@@ -27687,6 +27704,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m.s26bet01.com",
+    "s26bet01.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "s555.com"
    ]
   },
@@ -31516,6 +31541,14 @@
    "remote-domains": [
     "vf456.com",
     "www.vf456.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.vf678.com",
+    "vf678.com"
    ]
   },
   {

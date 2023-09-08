@@ -4290,20 +4290,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "Ehentai.to"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "Nhentai.to"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "a-hadaka.jp"
    ]
   },
@@ -15239,13 +15225,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "archive.ph/gKMcR",
-    "archive.ph/goUZE",
-    "archive.ph/nWwIO",
-    "archive.ph/RHJht",
-    "archive.ph/tYeYc",
-    "archive.vn/6hOf5",
-    "archive.vn/KJxo1"
+    "archive.ph/gkmcr",
+    "archive.ph/gouze",
+    "archive.ph/nwwio",
+    "archive.ph/rhjht",
+    "archive.ph/tyeyc",
+    "archive.vn/6hof5",
+    "archive.vn/kjxo1"
    ]
   },
   {
@@ -50859,6 +50845,7 @@
     "ehentai.xxx",
     "player.ehentai.xxx",
     "www.ehentai.xxx",
+    "ehentai.to",
     "ehentai.wiki"
    ]
   },
@@ -91372,6 +91359,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ktv.bio"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kudosporn.com"
    ]
   },
@@ -105244,13 +105238,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "mySubs.cc"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "myadultguide.net",
     "www.myadultguide.net"
    ]
@@ -106500,6 +106487,13 @@
    "remote-domains": [
     "mystarlets.com",
     "www.mystarlets.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "mysubs.cc"
    ]
   },
   {
@@ -109590,6 +109584,7 @@
     "www.nhentai.net",
     "nhentai.io",
     "nhentai.pro",
+    "nhentai.to",
     "nhentai.uk",
     "nhentai.website",
     "nhentai.xxx"
