@@ -415,7 +415,17 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "12388.club"
+    "12388.club",
+    "12388.store",
+    "www.12388.store"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "12388bet.co",
+    "www.12388bet.co"
    ]
   },
   {
@@ -2272,6 +2282,15 @@
    "process": "any",
    "remote-domains": [
     "888k8vn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "888loc.io",
+    "cdn.888loc.io",
+    "www.888loc.io"
    ]
   },
   {
@@ -7032,6 +7051,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ads.choingayiwin.top",
+    "choingayiwin.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choingayone88.win"
    ]
   },
@@ -10159,7 +10186,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "fb88affvn.com"
+    "fb88affvn.com",
+    "www.fb88affvn.com"
    ]
   },
   {
@@ -10318,6 +10346,14 @@
    "remote-domains": [
     "fb88viet.com",
     "www.fb88viet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fb88wow.com",
+    "www.fb88wow.com"
    ]
   },
   {
@@ -10902,6 +10938,13 @@
    "process": "any",
    "remote-domains": [
     "game69.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "game69club.win"
    ]
   },
   {
@@ -27683,6 +27726,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m.rvbet005.com",
+    "rvbet005.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "rw8800.com"
    ]
   },
@@ -29666,6 +29717,13 @@
    "remote-domains": [
     "taigenvip88.club",
     "taigenvip88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taigenvipios.fun"
    ]
   },
   {
