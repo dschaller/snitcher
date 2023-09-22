@@ -7091,8 +7091,10 @@
    "remote-domains": [
     "choiwin79.com",
     "choiwin79.net",
+    "choiwin79.pro",
     "dk.choiwin79.net",
-    "play.choiwin79.net"
+    "play.choiwin79.net",
+    "rg.choiwin79.pro"
    ]
   },
   {
@@ -11203,7 +11205,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "genvip88.com",
+    "tai.genvip88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "genvipios.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "genvipweb2023.com"
    ]
   },
   {
@@ -11796,6 +11813,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hay8822.com",
+    "www.hay8822.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hb88017.com"
    ]
   },
@@ -11813,6 +11838,14 @@
    "remote-domains": [
     "hb88032.com",
     "www.hb88032.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hb88038.com",
+    "www.hb88038.com"
    ]
   },
   {
@@ -12552,6 +12585,14 @@
    "process": "any",
    "remote-domains": [
     "i9bet120.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9bet124.com",
+    "www.i9bet124.com"
    ]
   },
   {
@@ -24023,6 +24064,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lpe7c.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lsbet.com",
     "www.lsbet.com"
    ]
@@ -25673,6 +25721,14 @@
    "process": "any",
    "remote-domains": [
     "newk8.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nex8vn.com",
+    "www.nex8vn.com"
    ]
   },
   {
@@ -27877,6 +27933,7 @@
    "process": "any",
    "remote-domains": [
     "sam86vip.org",
+    "sam86vip.pro",
     "sam86vip.tv",
     "sam86vip.vin"
    ]
@@ -29730,6 +29787,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigo88.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taigo88vn.com",
     "taigo88vn.pro"
    ]
@@ -31471,6 +31535,13 @@
    "process": "any",
    "remote-domains": [
     "vao789club.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vao78win.xyz"
    ]
   },
   {
@@ -33575,6 +33646,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.win79d.com",
+    "win79d.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "win79play.me"
    ]
   },
@@ -33956,6 +34035,13 @@
     "xo88.fun",
     "xo88.info",
     "xo88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xo88moi.com"
    ]
   },
   {
