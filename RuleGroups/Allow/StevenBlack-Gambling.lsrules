@@ -30,6 +30,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "009.casino",
+    "www.009.casino"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "009songbai.com",
+    "www.009songbai.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "010bestk8.com"
    ]
   },
@@ -1916,6 +1932,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "789x.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "78win01.com",
     "api.78win01.com",
     "www.78win01.com"
@@ -3795,9 +3818,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b52.me",
     "b52.vip",
     "b52.win",
     "bo.b52.win",
+    "game.b52.me",
     "game.b52.win",
     "play.b52.win",
     "qc.b52.win",
@@ -11131,7 +11156,9 @@
    "process": "any",
    "remote-domains": [
     "choi.gamingsoc88.org",
-    "gamingsoc88.org"
+    "gamingsoc88.one",
+    "gamingsoc88.org",
+    "km.gamingsoc88.one"
    ]
   },
   {
@@ -11175,6 +11202,13 @@
    "process": "any",
    "remote-domains": [
     "gdwviet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gem1.win"
    ]
   },
   {
@@ -11361,6 +11395,7 @@
    "remote-domains": [
     "api2-gateway.go88.com",
     "dangky.go88.com",
+    "go88.cam",
     "go88.club",
     "go88.com",
     "go88.im",
@@ -11414,6 +11449,13 @@
    "remote-domains": [
     "go88f.com",
     "tai.go88f.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "go88p.com"
    ]
   },
   {
@@ -12049,6 +12091,13 @@
     "hit1.club",
     "hit1.co",
     "play.hit1.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hit21.club"
    ]
   },
   {
@@ -13411,6 +13460,13 @@
    "process": "any",
    "remote-domains": [
     "iwin10.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "iwin12.club"
    ]
   },
   {
@@ -24574,6 +24630,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "man1.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gamebai.manclub.us",
     "gamebai.manclub.vin",
     "manclub.fun",
@@ -26334,6 +26397,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "onbet863.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "onbet993.com"
    ]
   },
@@ -27614,6 +27684,7 @@
     "ad.rikvip.uk",
     "lp.rikvip.tv",
     "play.rikvip.tv",
+    "rikvip.fun",
     "rikvip.tv",
     "rikvip.uk",
     "rikvip.us",
@@ -29255,6 +29326,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sun14win.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sun15.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sun52.bid",
     "sun52.click",
     "sun52.fun",
@@ -29887,6 +29972,13 @@
    "process": "any",
    "remote-domains": [
     "taisun52.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taisunwin.live"
    ]
   },
   {
@@ -33022,6 +33114,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "w698.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.w69top.com"
    ]
   },
@@ -33630,7 +33729,9 @@
     "tai.win79.vip",
     "win79.app",
     "win79.download",
+    "win79.live",
     "win79.pro",
+    "win79.site",
     "win79.vip",
     "www.win79.vip"
    ]
@@ -33820,6 +33921,14 @@
    "process": "any",
    "remote-domains": [
     "wm88vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "play.wo88.ac",
+    "wo88.ac"
    ]
   },
   {

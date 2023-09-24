@@ -3061,6 +3061,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "4affiliate.net",
     "www.4affiliate.net"
    ]
   },
@@ -42282,7 +42283,6 @@
    "remote-domains": [
     "topapp.com.vn",
     "caiunoxvideos.com.br",
-    "cast.porngo.com.",
     "coliriodemacho.com.br",
     "gatapop.com.br",
     "hqhentai.com.br",
@@ -43222,6 +43222,13 @@
    "process": "any",
    "remote-domains": [
     "crackedgirls.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "crakmedia.com"
    ]
   },
   {
@@ -125531,6 +125538,7 @@
     "cast13.porngo.com",
     "cast14.porngo.com",
     "cast15.porngo.com",
+    "cast.porngo.com",
     "img2.porngo.com",
     "img3.porngo.com",
     "img4.porngo.com",
@@ -162811,6 +162819,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "topbucks.com",
     "www.cluster-03.topbucks.com",
     "www.mainstream.topbucks.com",
     "www.rainbow.topbucks.com",
