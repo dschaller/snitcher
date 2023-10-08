@@ -2116,6 +2116,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "7bet.lt",
+    "www.7bet.lt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "7bmnf.com"
    ]
   },
@@ -5214,8 +5222,10 @@
    "process": "any",
    "remote-domains": [
     "betsafe.com",
+    "betsafe.lt",
     "promotions.betsafe.com",
-    "www.betsafe.com"
+    "www.betsafe.com",
+    "www.betsafe.lt"
    ]
   },
   {
@@ -6828,6 +6838,16 @@
    "remote-domains": [
     "casumo.com",
     "www.casumo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "cbet.lt",
+    "en.cbet.lt",
+    "ru.cbet.lt",
+    "www.cbet.lt"
    ]
   },
   {
@@ -24096,8 +24116,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "loto.lt",
     "loto.mk",
     "loto.ro",
+    "www.loto.lt",
     "www.loto.mk",
     "www.loto.ro"
    ]
@@ -26614,8 +26636,11 @@
    "remote-domains": [
     "olybet.com",
     "olybet.eu",
+    "olybet.lt",
+    "welcome.olybet.lt",
     "www.olybet.com",
-    "www.olybet.eu"
+    "www.olybet.eu",
+    "www.olybet.lt"
    ]
   },
   {
@@ -26783,7 +26808,9 @@
    "process": "any",
    "remote-domains": [
     "optibet.com",
-    "www.optibet.com"
+    "optibet.lt",
+    "www.optibet.com",
+    "www.optibet.lt"
    ]
   },
   {
@@ -27010,6 +27037,14 @@
    "process": "any",
    "remote-domains": [
     "www.parimatchplay1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "partycasino.lt",
+    "www.partycasino.lt"
    ]
   },
   {
@@ -30330,6 +30365,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tatkazino.lt",
+    "www.tatkazino.lt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tatts.com"
    ]
   },
@@ -31232,6 +31275,16 @@
    "remote-domains": [
     "topplay.cc",
     "www.topplay.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "en.topsport.lt",
+    "ru.topsport.lt",
+    "topsport.lt",
+    "www.topsport.lt"
    ]
   },
   {
