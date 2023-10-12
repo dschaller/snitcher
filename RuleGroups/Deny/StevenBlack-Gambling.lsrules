@@ -9075,6 +9075,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dibongda777.com",
+    "m.dibongda777.com",
+    "mobi.dibongda777.com",
+    "www.dibongda777.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dicestrike.com",
     "www.dicestrike.com"
    ]
@@ -27245,7 +27255,9 @@
    "process": "any",
    "remote-domains": [
     "ads.playmay88.top",
-    "playmay88.top"
+    "playmay88.top",
+    "playmay88.vin",
+    "win.playmay88.vin"
    ]
   },
   {
@@ -28546,6 +28558,7 @@
    "remote-domains": [
     "m.shbet.love",
     "shbet.com",
+    "shbet.id",
     "shbet.love",
     "shbet.me",
     "shbet.news",
