@@ -11333,6 +11333,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gem79.win",
+    "tai.gem79.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gembanca.com"
    ]
   },
@@ -30167,6 +30175,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigem79.net",
     "taigem79.win"
    ]
   },
@@ -30189,6 +30198,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigenvipios.club",
     "taigenvipios.fun"
    ]
   },
