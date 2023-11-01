@@ -28564,6 +28564,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "shb3939.vn",
+    "www.shb3939.vn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m.shbet.love",
     "shbet.com",
     "shbet.id",
@@ -31740,7 +31748,35 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "uw88vnn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "uw88vnn1.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uw88vnn2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uw88vnn3.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "uw88vnn4.com"
    ]
   },
   {
