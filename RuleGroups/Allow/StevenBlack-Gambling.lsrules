@@ -1060,6 +1060,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "30winvn.com",
+    "www.30winvn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.32red.com"
    ]
   },
@@ -12298,6 +12306,14 @@
    "remote-domains": [
     "highroller.com",
     "www.highroller.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hipoker123.com",
+    "landpage.hipoker123.com"
    ]
   },
   {
@@ -30906,6 +30922,14 @@
    "process": "any",
    "remote-domains": [
     "thvwbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "landpage.tienlen2022.com",
+    "tienlen2022.com"
    ]
   },
   {
