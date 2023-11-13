@@ -2222,6 +2222,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "85vnd.com",
+    "www.85vnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "868vip.asia",
     "868vip.live",
     "868vip.mobi",
@@ -34379,6 +34387,14 @@
    "process": "any",
    "remote-domains": [
     "winvn.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "winvn13.com",
+    "www.winvn13.com"
    ]
   },
   {
