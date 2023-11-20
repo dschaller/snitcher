@@ -896,6 +896,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "1xlite-564950.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "20betvnd.com",
     "www.20betvnd.com"
    ]
@@ -998,6 +1005,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "23winvn.com",
+    "www.23winvn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "24bettle.com",
     "www.24bettle.com"
    ]
@@ -1093,6 +1108,13 @@
    "remote-domains": [
     "331729.com",
     "www.331729.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "331731.com"
    ]
   },
   {
@@ -1692,6 +1714,13 @@
    "process": "any",
    "remote-domains": [
     "69truonghuunguyen.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "69vip.pro"
    ]
   },
   {
@@ -2848,6 +2877,14 @@
    "remote-domains": [
     "8vnd.club",
     "www.8vnd.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "8vnd7.com",
+    "www.8vnd7.com"
    ]
   },
   {
@@ -6867,6 +6904,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "caygame2023.com",
+    "landpage.caygame2023.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cbet.lt",
     "en.cbet.lt",
     "ru.cbet.lt",
@@ -7279,6 +7324,14 @@
    "process": "any",
    "remote-domains": [
     "www.cloudbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "club2win.com",
+    "landpage.club2win.com"
    ]
   },
   {
@@ -12048,6 +12101,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hb88020.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hb88021.com"
    ]
   },
@@ -12913,6 +12973,14 @@
    "process": "any",
    "remote-domains": [
     "i9bet14.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9bet145.com",
+    "www.i9bet145.com"
    ]
   },
   {
@@ -25269,6 +25337,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "landpage.megawin99x.com",
+    "megawin99x.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mekinglove.com"
    ]
   },
@@ -27761,6 +27837,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "quangcaosanvip.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "quatanthu.club",
     "quatanthu.group"
    ]
@@ -28162,6 +28245,14 @@
    "remote-domains": [
     "royal77vn.com",
     "www.royal77vn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "landpage.royalclub11.com",
+    "royalclub11.com"
    ]
   },
   {
@@ -30180,6 +30271,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tai9606.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tai99vin.net"
    ]
   },
@@ -30427,6 +30525,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "landpage.taixiugame777.com",
+    "taixiugame777.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taixiusunwin.games"
    ]
   },
@@ -30436,6 +30542,22 @@
    "remote-domains": [
     "takarakuji-official.jp",
     "www.takarakuji-official.jp"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "landpage.talaphom.com",
+    "talaphom.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "landpage.talaphom123.com",
+    "talaphom123.com"
    ]
   },
   {
@@ -32690,6 +32812,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.vn357.bet",
+    "vn357.bet",
+    "www.vn357.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.vn500.com"
    ]
   },
@@ -32698,6 +32829,15 @@
    "process": "any",
    "remote-domains": [
     "vn5858.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.vn666.bet",
+    "vn666.bet",
+    "www.vn666.bet"
    ]
   },
   {
@@ -34401,6 +34541,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "winvn15.com",
+    "www.winvn15.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "winvn17.com",
+    "www.winvn17.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "winvn18.com",
     "www.winvn18.com"
    ]
@@ -34623,6 +34779,14 @@
    "remote-domains": [
     "www.xengtructuyen.com",
     "xengtructuyen.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "landpage.xidachplay.com",
+    "xidachplay.com"
    ]
   },
   {
