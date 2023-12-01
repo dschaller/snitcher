@@ -415,6 +415,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "11betvnd.com",
+    "www.11betvnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "11wickets.com"
    ]
   },
@@ -564,6 +572,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "12betvnd.com",
+    "www.12betvnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "12fifa2018.com",
     "go.12fifa2018.com"
    ]
@@ -591,6 +607,49 @@
     "138.com",
     "global.138.com",
     "www.138.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388.com",
+    "www.1388.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388a8.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388aws.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388web.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388ymjs.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "1388yn.com"
    ]
   },
   {
@@ -2020,6 +2079,14 @@
    "process": "any",
    "remote-domains": [
     "78win09.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "799999.cc",
+    "www.799999.cc"
    ]
   },
   {
@@ -3911,6 +3978,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b1388.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "b29.bet"
    ]
   },
@@ -3973,6 +4047,16 @@
    "process": "any",
    "remote-domains": [
     "b69.city"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b77.fun",
+    "b77.life",
+    "www.b77.fun",
+    "www.b77.life"
    ]
   },
   {
@@ -6017,6 +6101,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "boc8.fun",
+    "tai.boc8.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bodog.eu"
    ]
   },
@@ -6441,6 +6533,13 @@
    "process": "any",
    "remote-domains": [
     "bwingthethao.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "c1388.com"
    ]
   },
   {
@@ -7187,6 +7286,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choihitclub.fun",
     "choihitclub.run",
     "rg.choihitclub.run"
    ]
@@ -7227,6 +7327,7 @@
    "process": "any",
    "remote-domains": [
     "ads.choingayiwin.top",
+    "choingayiwin.cc",
     "choingayiwin.top"
    ]
   },
@@ -8618,6 +8719,13 @@
     "cwin999.com",
     "m.cwin999.com",
     "www.cwin999.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "d1388.com"
    ]
   },
   {
@@ -11077,6 +11185,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "g1388.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "g9vip.com"
    ]
   },
@@ -11665,6 +11780,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "go88l.top",
+    "play.go88l.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "go88p.com"
    ]
   },
@@ -11698,6 +11821,14 @@
    "process": "any",
    "remote-domains": [
     "go88x.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "go8vui.info",
+    "lp.go8vui.info"
    ]
   },
   {
@@ -12422,7 +12553,9 @@
    "process": "any",
    "remote-domains": [
     "hit38.club",
-    "play.hit38.club"
+    "hit38.co",
+    "play.hit38.club",
+    "play.hit38.co"
    ]
   },
   {
@@ -14677,6 +14810,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jackpot12x.com",
+    "landpage.jackpot12x.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "jackpotcity.com",
     "www.jackpotcity.com"
    ]
@@ -14877,6 +15018,14 @@
    "process": "any",
    "remote-domains": [
     "jiejiekan.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jili919.com",
+    "www.jili919.com"
    ]
   },
   {
@@ -23686,6 +23835,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lambada-tx1app.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "langvuichoi.net"
    ]
   },
@@ -25174,6 +25330,14 @@
    "remote-domains": [
     "matchbook.com",
     "www.matchbook.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "max10.pro",
+    "max10.vin"
    ]
   },
   {
@@ -29066,6 +29230,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "landpage.slotsclub123.com",
+    "slotsclub123.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "slotsheaven.com",
     "www.slotsheaven.com"
    ]
@@ -30297,6 +30469,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taiboc.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "taibum.tv"
    ]
   },
@@ -30458,6 +30637,28 @@
     "taisum.ac",
     "taisum.co",
     "taisum.io"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taisum1.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "chat.taisum2.com",
+    "event.taisum2.com",
+    "fishapi.taisum2.com",
+    "portal.taisum2.com",
+    "tai.taisum2.com",
+    "taisum2.com",
+    "taixiu.taisum2.com",
+    "taixiumd5.taisum2.com",
+    "taixiumd5dg.taisum2.com"
    ]
   },
   {
@@ -31060,6 +31261,22 @@
    "remote-domains": [
     "landpage.tienlen2022.com",
     "tienlen2022.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "landpage.tienlenmega.com",
+    "tienlenmega.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "landpage.tienlenzo.com",
+    "tienlenzo.com"
    ]
   },
   {
@@ -32305,6 +32522,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "landpage.velogame789.com",
+    "velogame789.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "verajohn.com",
     "www.verajohn.com"
    ]
@@ -32815,6 +33040,14 @@
     "api.vn357.bet",
     "vn357.bet",
     "www.vn357.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vn369lyds.com",
+    "www.vn369lyds.com"
    ]
   },
   {
@@ -34549,6 +34782,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "winvn16.com",
+    "www.winvn16.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "winvn17.com",
     "www.winvn17.com"
    ]
@@ -34801,6 +35042,17 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "event.xinloiduocchua.co",
+    "fishapi.xinloiduocchua.co",
+    "portal.xinloiduocchua.co",
+    "taixiu.xinloiduocchua.co",
+    "xinloiduocchua.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.xinweide.com",
     "xinweide.com"
    ]
@@ -34848,6 +35100,22 @@
    "process": "any",
    "remote-domains": [
     "xo88moi.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "landpage.xocdia778.com",
+    "xocdia778.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "landpage.xocdiawin.com",
+    "xocdiawin.com"
    ]
   },
   {
@@ -34998,6 +35266,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "landpage.yallogame.com",
+    "yallogame.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ybbbet.com"
    ]
   },
@@ -35014,6 +35290,27 @@
    "remote-domains": [
     "www.yeticasino.com",
     "yeticasino.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ynpaaa.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ynpbbb.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ynpccc.com"
    ]
   },
   {
