@@ -2401,6 +2401,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "888.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "8888.bg"
    ]
   },
@@ -4077,6 +4084,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bacanaplay.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ballebaazi.com"
    ]
   },
@@ -4562,6 +4576,7 @@
    "remote-domains": [
     "betano.bg",
     "betano.cz",
+    "betano.pt",
     "www.betano.cz"
    ]
   },
@@ -4689,6 +4704,7 @@
    "process": "any",
    "remote-domains": [
     "betclic.pl",
+    "betclic.pt",
     "en.betclic.com",
     "www.betclic.com"
    ]
@@ -5623,6 +5639,7 @@
    "remote-domains": [
     "betway.bg",
     "betway.com",
+    "betway.pt",
     "casino.betway.com",
     "livecasino.betway.com",
     "plus.betway.com",
@@ -5684,6 +5701,13 @@
    "remote-domains": [
     "bgo.com",
     "www.bgo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bidluck.pt"
    ]
   },
   {
@@ -6480,6 +6504,7 @@
    "process": "any",
    "remote-domains": [
     "bwin.com",
+    "bwin.pt",
     "livebetting.bwin.com",
     "sports.bwin.com",
     "www.bwin.com"
@@ -6936,6 +6961,13 @@
    "remote-domains": [
     "casinopop.com",
     "www.casinopop.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "casinoportugal.pt"
    ]
   },
   {
@@ -8997,6 +9029,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dailynet88.com",
+    "dangky.dailynet88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dailysbobetz.me"
    ]
   },
@@ -10035,6 +10075,13 @@
    "remote-domains": [
     "esportscasino.com",
     "www.esportscasino.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "estorilsolcasinos.pt"
    ]
   },
   {
@@ -11940,6 +11987,13 @@
    "remote-domains": [
     "goldenbetsng.com",
     "www.goldenbetsng.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "goldenpark.pt"
    ]
   },
   {
@@ -23917,6 +23971,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lebull.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "legendsportsbook.com",
     "www.legendsportsbook.com"
    ]
@@ -24743,6 +24804,13 @@
    "process": "any",
    "remote-domains": [
     "luck8882.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "luckia.pt"
    ]
   },
   {
@@ -25745,6 +25813,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "moosh.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "morganbet.eu",
     "www.morganbet.eu"
    ]
@@ -26704,6 +26779,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "nossaaposta.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nostrabet.com",
     "www.nostrabet.com"
    ]
@@ -27445,6 +27527,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "placard.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "planetofbets.com",
     "www.planetofbets.com"
    ]
@@ -27704,7 +27793,8 @@
     "pokerstars.eu",
     "www.pokerstars.cz",
     "www.pokerstars.eu",
-    "www.pokerstars.uk"
+    "www.pokerstars.uk",
+    "www.pokerstars.pt"
    ]
   },
   {
@@ -29518,6 +29608,13 @@
     "solbet88.com",
     "vn.solbet88.com",
     "www.solbet88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "solverde.pt"
    ]
   },
   {
