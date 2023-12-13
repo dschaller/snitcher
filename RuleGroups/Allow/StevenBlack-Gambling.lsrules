@@ -671,6 +671,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "165337.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "168kbet.com",
     "www.168kbet.com"
    ]
@@ -1002,13 +1009,6 @@
    "process": "any",
    "remote-domains": [
     "2222039.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "ee88-viet.227290wss.com"
    ]
   },
   {
@@ -2294,6 +2294,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "82vnd.com",
+    "www.82vnd.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "8559553.com",
     "www.8559553.com"
    ]
@@ -2338,6 +2346,14 @@
    "process": "any",
    "remote-domains": [
     "868vip1.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "87vnd.com",
+    "www.87vnd.com"
    ]
   },
   {
@@ -2892,6 +2908,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "8jbet.vin"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "8k00000.com",
     "www.8k00000.com"
    ]
@@ -2951,6 +2974,14 @@
    "remote-domains": [
     "8vnd.club",
     "www.8vnd.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "8vnd6.com",
+    "www.8vnd6.com"
    ]
   },
   {
@@ -6564,6 +6595,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "a100.by88.one",
+    "by88.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "c1388.com"
    ]
   },
@@ -7035,14 +7074,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "caygame2023.com",
-    "landpage.caygame2023.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "cbet.lt",
     "en.cbet.lt",
     "ru.cbet.lt",
@@ -7457,14 +7488,6 @@
    "process": "any",
    "remote-domains": [
     "www.cloudbet.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "club2win.com",
-    "landpage.club2win.com"
    ]
   },
   {
@@ -11394,6 +11417,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gamebay365.us"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gamebookers.com",
     "sports.gamebookers.com",
     "www.gamebookers.com"
@@ -11412,6 +11442,14 @@
    "process": "any",
    "remote-domains": [
     "gamedoithuong69.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gamehot88.fun",
+    "xo68.gamehot88.fun"
    ]
   },
   {
@@ -11552,6 +11590,22 @@
    "process": "any",
    "remote-domains": [
     "www.gaznbike.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gd55id.com",
+    "www.gd55id.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "gd55m.org",
+    "www.gd55m.org"
    ]
   },
   {
@@ -12250,6 +12304,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hay8811.com",
+    "www.hay8811.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "hay8822.com",
     "www.hay8822.com"
    ]
@@ -12565,16 +12627,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hipoker123.com",
-    "landpage.hipoker123.com"
+    "hippobingo.com",
+    "www.hippobingo.com"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hippobingo.com",
-    "www.hippobingo.com"
+    "hit.club",
+    "play.hit.club"
    ]
   },
   {
@@ -13788,6 +13850,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "host.im99.com",
+    "im99.com",
+    "play.im99.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "inbet.com"
    ]
   },
@@ -14858,14 +14929,6 @@
    "remote-domains": [
     "ja77.net",
     "www.ja77.net"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "jackpot12x.com",
-    "landpage.jackpot12x.com"
    ]
   },
   {
@@ -25569,14 +25632,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "landpage.megawin99x.com",
-    "megawin99x.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "mekinglove.com"
    ]
   },
@@ -26393,6 +26448,14 @@
     "new88.ai",
     "new88.love",
     "new88.tips"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "new88011.com",
+    "www.new88011.com"
    ]
   },
   {
@@ -27611,6 +27674,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ad.playhit.biz",
+    "playhit.biz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ads.playiwin.in",
     "choi.playiwin.uk",
     "play.playiwin.biz",
@@ -28395,8 +28466,10 @@
     "rikvip.tv",
     "rikvip.uk",
     "rikvip.us",
+    "rikvip.vip",
     "tai.rikvip.tv",
     "tai.rikvip.us",
+    "tai.rikvip.vip",
     "wp.rikvip.tv",
     "www.rikvip.uk"
    ]
@@ -28499,14 +28572,6 @@
    "remote-domains": [
     "royal77vn.com",
     "www.royal77vn.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.royalclub11.com",
-    "royalclub11.com"
    ]
   },
   {
@@ -29314,14 +29379,6 @@
    "remote-domains": [
     "slotplanet.com",
     "www.slotplanet.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.slotsclub123.com",
-    "slotsclub123.com"
    ]
   },
   {
@@ -30275,8 +30332,36 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sv66.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "s.sv66c.com",
     "sv66c.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sv66e.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sv66k.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sv66n.com"
    ]
   },
   {
@@ -30388,6 +30473,13 @@
    "remote-domains": [
     "sverigekronan.com",
     "www.sverigekronan.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "svip66.com"
    ]
   },
   {
@@ -30596,6 +30688,13 @@
    "process": "any",
    "remote-domains": [
     "taigame789.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taigamehot.pro"
    ]
   },
   {
@@ -30823,14 +30922,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "landpage.taixiugame777.com",
-    "taixiugame777.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "taixiusunwin.games"
    ]
   },
@@ -30840,22 +30931,6 @@
    "remote-domains": [
     "takarakuji-official.jp",
     "www.takarakuji-official.jp"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.talaphom.com",
-    "talaphom.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.talaphom123.com",
-    "talaphom123.com"
    ]
   },
   {
@@ -31350,30 +31425,6 @@
    "process": "any",
    "remote-domains": [
     "thvwbet.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.tienlen2022.com",
-    "tienlen2022.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.tienlenmega.com",
-    "tienlenmega.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.tienlenzo.com",
-    "tienlenzo.com"
    ]
   },
   {
@@ -32589,6 +32640,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cdn.vbet88.fun",
+    "vbet88.fun",
+    "wcdn.vbet88.fun",
+    "www.vbet88.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vebo.bet"
    ]
   },
@@ -32613,14 +32674,6 @@
    "remote-domains": [
     "veikkaus.fi",
     "www.veikkaus.fi"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.velogame789.com",
-    "velogame789.com"
    ]
   },
   {
@@ -32727,6 +32780,13 @@
    "remote-domains": [
     "vg99.com",
     "www.vg99.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vgame365.com"
    ]
   },
   {
@@ -32847,7 +32907,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vin777.work"
+    "vao.vin777.blog",
+    "vin777.blog",
+    "vin777.co",
+    "vin777.work",
+    "www.vin777.co"
    ]
   },
   {
@@ -32931,6 +32995,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vipclub.homes",
     "vipclub.makeup",
     "vipclub.so"
    ]
@@ -35123,14 +35188,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "landpage.xidachplay.com",
-    "xidachplay.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "www.xingtou888.com",
     "xingtou888.com"
    ]
@@ -35197,22 +35254,6 @@
    "process": "any",
    "remote-domains": [
     "xo88moi.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.xocdia778.com",
-    "xocdia778.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.xocdiawin.com",
-    "xocdiawin.com"
    ]
   },
   {
@@ -35357,14 +35398,6 @@
    "remote-domains": [
     "www.yakocasino.com",
     "yakocasino.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "landpage.yallogame.com",
-    "yallogame.com"
    ]
   },
   {
