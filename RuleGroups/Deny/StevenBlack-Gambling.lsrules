@@ -33075,6 +33075,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vn123ab.com",
+    "www.vn123ab.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vn138.net"
    ]
   },
