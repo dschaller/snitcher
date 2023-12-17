@@ -88590,13 +88590,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "www.instagram.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "instantchat.com"
    ]
   },
@@ -95367,13 +95360,6 @@
    "process": "any",
    "remote-domains": [
     "ketdoi.net"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "www.keyforsteam.de"
    ]
   },
   {
@@ -170598,6 +170584,13 @@
    "process": "any",
    "remote-domains": [
     "thotleaks.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thotmax.com"
    ]
   },
   {

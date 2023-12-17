@@ -11680,6 +11680,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "genvipios2023.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "genvipweb2023.com"
    ]
   },
@@ -11750,6 +11757,14 @@
    "remote-domains": [
     "giaitri.fun",
     "giaitri.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "giaitrinet88.live",
+    "play.giaitrinet88.live"
    ]
   },
   {
@@ -25323,6 +25338,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "game.man79.org",
+    "man79.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gamebai.manclub.us",
     "gamebai.manclub.vin",
     "manclub.fun",
@@ -30688,6 +30711,13 @@
    "process": "any",
    "remote-domains": [
     "taigame789.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taigamehay.site"
    ]
   },
   {
