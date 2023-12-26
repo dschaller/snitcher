@@ -3004,6 +3004,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "8xbe52.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "8xbet.cc",
     "8xbet.com",
     "8xbet.fun",
@@ -32844,6 +32851,15 @@
     "qc.vic.win",
     "vic.fun",
     "vic.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cdn.vicplay.io",
+    "vicplay.io",
+    "web.vicplay.io"
    ]
   },
   {
