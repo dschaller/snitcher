@@ -7868,6 +7868,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choi.conggamehot.fun",
+    "conggamehot.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "contorabet.com",
     "www.contorabet.com"
    ]
@@ -9560,6 +9568,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "do99.pro",
     "do99.site",
     "tai.do99.site"
    ]
@@ -30710,6 +30719,7 @@
    "process": "any",
    "remote-domains": [
     "taido99.net",
+    "taido99.online",
     "taido99.win"
    ]
   },
