@@ -458,6 +458,7 @@
    "remote-domains": [
     "123b.bet",
     "123b.com",
+    "123b.net",
     "123b.org",
     "123b.vn",
     "m.123b.bet",
@@ -1685,7 +1686,35 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "68gamebai.tel"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "68gamebai4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "68gamebaix.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "68gb.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "68gb2025.com"
    ]
   },
   {
@@ -4194,7 +4223,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "bay789.vin"
+    "bay789.io",
+    "bay789.vin",
+    "play.bay789.io"
    ]
   },
   {
@@ -10966,6 +10997,7 @@
     "five88.biz",
     "five88.com",
     "five88.me",
+    "five88.net",
     "five88.win",
     "m.five88.com",
     "m.five88.me",
@@ -24406,6 +24438,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lo88.live",
+    "lo88.vin",
+    "play.lo88.live",
+    "play.lo88.vin"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "loadsabingo.com",
     "www.loadsabingo.com"
    ]
@@ -25655,6 +25697,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mec68.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "megalotto.pl",
     "www.megalotto.pl"
    ]
@@ -26088,6 +26137,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mu88.game",
+    "mu88.id",
     "mu88.uk",
     "www.mu88.uk"
    ]
@@ -28329,6 +28380,7 @@
     "img.red88.vip",
     "m.red88.com",
     "red88.com",
+    "red88.top",
     "red88.uk",
     "red88.us",
     "red88.vin",
@@ -32168,6 +32220,13 @@
    "process": "any",
    "remote-domains": [
     "tx1.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tydo88.com"
    ]
   },
   {

@@ -88,6 +88,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "1000fapvids.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "100200film.com",
     "media.100200film.com",
     "www.100200film.com"
@@ -329,7 +336,24 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "1377x.to",
+    "www.1377x.to"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "150teengalleries.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "16honeys.com",
+    "cdn.16honeys.com",
+    "cdn-img2.16honeys.com"
    ]
   },
   {
@@ -2060,6 +2084,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "28363.one"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "2adultflashgames.com",
     "www.2adultflashgames.com"
    ]
@@ -2678,7 +2709,8 @@
    "process": "any",
    "remote-domains": [
     "3gpjizz.mobi",
-    "3gpjizz.pro"
+    "3gpjizz.pro",
+    "cdn.3gpjizz.info"
    ]
   },
   {
@@ -2819,6 +2851,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "3tab.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cdn.static.3tech.xyz"
    ]
   },
@@ -2851,6 +2890,14 @@
    "process": "any",
    "remote-domains": [
     "3wayfuck.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "3wishes.com",
+    "www.3wishes.com"
    ]
   },
   {
@@ -3155,7 +3202,8 @@
     "4chan.com",
     "www.4chan.com",
     "4chan.org",
-    "boards.4chan.org"
+    "boards.4chan.org",
+    "www.4chan.org"
    ]
   },
   {
@@ -4061,6 +4109,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "89.com",
+    "www.89.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "8animal.com"
    ]
   },
@@ -4323,6 +4379,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "9hab.net",
+    "www.9hab.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "9hentai.com",
     "cdn.9hentai.com",
     "9hentai.uk",
@@ -4412,6 +4476,14 @@
    "process": "any",
    "remote-domains": [
     "www.a-shemaletube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "a3erf.com",
+    "a3.a3erf.com"
    ]
   },
   {
@@ -6452,7 +6524,8 @@
    "process": "any",
    "remote-domains": [
     "aflamk1.net",
-    "www.aflamk1.net"
+    "www.aflamk1.net",
+    "cd2.aflamk1.net"
    ]
   },
   {
@@ -6625,6 +6698,13 @@
     "agaysex.com",
     "tube.agaysex.com",
     "www.agaysex.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ageb.net"
    ]
   },
   {
@@ -8260,6 +8340,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.aiohotzgirl.com",
+    "aiohotzgirl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.aiporn.net"
    ]
   },
@@ -8317,6 +8405,13 @@
    "process": "any",
    "remote-domains": [
     "www.airpornsite.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "airportxh.life"
    ]
   },
   {
@@ -8448,7 +8543,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "alarbda.com"
+    "alarbda.com",
+    "cdn2.alarbda.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.alashraf.ws",
+    "alashraf.ws"
    ]
   },
   {
@@ -8662,6 +8766,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "aljaras.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "alkux.com"
    ]
   },
@@ -8710,6 +8821,13 @@
    "process": "any",
    "remote-domains": [
     "oascentral.alladultchannel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allaena.com"
    ]
   },
   {
@@ -11013,6 +11131,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "amazingcontent.site",
+    "eawj.twogirls.amazingcontent.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "amazingsexx.com",
     "www.amazingsexx.com"
    ]
@@ -11052,6 +11178,14 @@
    "process": "any",
    "remote-domains": [
     "american-pornstar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "americannaziparty.com",
+    "www.americannaziparty.com"
    ]
   },
   {
@@ -11105,6 +11239,14 @@
    "process": "any",
    "remote-domains": [
     "amirapics.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ammannests.com",
+    "ut.ammannests.com"
    ]
   },
   {
@@ -11424,6 +11566,14 @@
    "process": "any",
    "remote-domains": [
     "analbitching.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.analcam.tv",
+    "analcam.tv"
    ]
   },
   {
@@ -14970,7 +15120,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "anyxan.com"
+    "anyxan.com",
+    "pic.anyxan.com"
    ]
   },
   {
@@ -15272,10 +15423,25 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "appzplanet.com",
+    "www.appzplanet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "expo2.ranks1.apserver.net",
     "kyobibbs.ranks1.apserver.net",
     "surebbs.ranks1.apserver.net",
     "toujyuku.ranks1.apserver.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aptxh.site"
    ]
   },
   {
@@ -15331,6 +15497,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ar1ab.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "arab-sex-pics.com"
    ]
   },
@@ -15339,14 +15512,16 @@
    "process": "any",
    "remote-domains": [
     "arab2love.com",
-    "www.arab2love.com"
+    "www.arab2love.com",
+    "pcdn.arab2love.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "arab2up.com"
+    "arab2up.com",
+    "photos.arab2up.com"
    ]
   },
   {
@@ -15371,6 +15546,13 @@
    "remote-domains": [
     "arabaxn.com",
     "www.arabaxn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arabeng.org"
    ]
   },
   {
@@ -15402,6 +15584,20 @@
    "remote-domains": [
     "arabgog.com",
     "www.arabgog.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arabgy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arabgyruby.com"
    ]
   },
   {
@@ -15559,6 +15755,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "arabtnt.com",
+    "www.arabtnt.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "arabvideo.top"
    ]
   },
@@ -15622,6 +15826,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "arabxforum.com",
+    "cdn.tube.arabxforum.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "arabxl.com"
    ]
   },
@@ -15638,7 +15850,8 @@
    "process": "any",
    "remote-domains": [
     "arabxn.com",
-    "www.arabxn.com"
+    "www.arabxn.com",
+    "arabxn.org"
    ]
   },
   {
@@ -18017,6 +18230,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "atlanticxh.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "atlasescorts.com"
    ]
   },
@@ -18954,7 +19174,9 @@
     "user-uploads.aznude.com",
     "www.aznude.com",
     "aznude.yachts",
-    "men.aznude.com"
+    "men.aznude.com",
+    "cdn2.aznude.com",
+    "cdn.aznude.com"
    ]
   },
   {
@@ -19595,6 +19817,13 @@
    "process": "any",
    "remote-domains": [
     "babysittertube.sexy"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "babyy.cc"
    ]
   },
   {
@@ -20474,6 +20703,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "barelylegal.com",
+    "secure.barelylegal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "barepass.com"
    ]
   },
@@ -20520,6 +20757,14 @@
    "remote-domains": [
     "basal.ca",
     "www.basal.ca"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "basarabeni.net",
+    "www.basarabeni.net"
    ]
   },
   {
@@ -21219,6 +21464,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bdsmvilla.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bdsmxxxmovies.com",
     "www.bdsmxxxmovies.com"
    ]
@@ -21405,6 +21657,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "beautifull.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "beautifulteens.eu"
    ]
   },
@@ -21430,6 +21689,13 @@
    "process": "any",
    "remote-domains": [
     "www.beauty-av.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "beauty-images.net"
    ]
   },
   {
@@ -22033,6 +22299,14 @@
    "process": "any",
    "remote-domains": [
     "best-girl-gifs.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "best-mobile-app.club",
+    "www.best-mobile-app.club"
    ]
   },
   {
@@ -23347,6 +23621,14 @@
    "remote-domains": [
     "bgclive.com",
     "www.bgclive.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bglad.com",
+    "www.bglad.com"
    ]
   },
   {
@@ -33983,6 +34265,132 @@
     "xmoviesneek.blogspot.com",
     "japonvskorean.blogspot.com",
     "sharegirl43.blogspot.com",
+    "fqvllrgjzb.blogspot.com",
+    "elwossol.blogspot.com",
+    "anime360d.blogspot.com",
+    "best1girls.blogspot.com",
+    "soft-sta.blogspot.com",
+    "dmenwuenwbuenwun.blogspot.com",
+    "3almkalyoum.blogspot.com",
+    "z7awaj.blogspot.com",
+    "ridyryad.blogspot.com",
+    "ajmalsowarbanat.blogspot.com",
+    "wbwaqwovhr.blogspot.com",
+    "hjhgjjhgkuykigmhjmkhjuikliu.blogspot.com",
+    "arabcyberspace.blogspot.com",
+    "hwanamsry.blogspot.com",
+    "sibiltala.blogspot.com",
+    "ryredredydhgfdh.blogspot.com",
+    "jasongoomed.blogspot.com",
+    "banatinsta.blogspot.com",
+    "njomcool.blogspot.com",
+    "arbjav.blogspot.com",
+    "helwawmotira.blogspot.com",
+    "yredredydhgfdh.blogspot.com",
+    "story-neswangy.blogspot.com",
+    "thhe-realitytruth.blogspot.com",
+    "kisasjans.blogspot.com",
+    "hanti4arbic.blogspot.com",
+    "arfeetlovers.blogspot.com",
+    "fanun4u.blogspot.com",
+    "musicana1.blogspot.com",
+    "arabgirlpic.blogspot.com",
+    "uyiyukukhykyjhhhhhhhhhhhhhhlhjl.blogspot.com",
+    "aprilliko.blogspot.com",
+    "bnat-libya.blogspot.com",
+    "jjhkhgkhg.blogspot.com",
+    "j3tests.blogspot.com",
+    "a77a77.blogspot.com",
+    "gareaa2.blogspot.com",
+    "alhbyda.blogspot.com",
+    "boysand69girls.blogspot.com",
+    "fokakmane.blogspot.com",
+    "rhdhrdhfhfdhhvcnrtr.blogspot.com",
+    "7for5.blogspot.com",
+    "delossantosscound.blogspot.com",
+    "cobert60279.blogspot.com",
+    "qe3trugjk.blogspot.com",
+    "dslkdoeowdl.blogspot.com",
+    "shelibra.blogspot.com",
+    "alhab1anta.blogspot.com",
+    "abdounizar.blogspot.com",
+    "girlsofthebay.blogspot.com",
+    "newstlcthai.blogspot.com",
+    "lesbichearab.blogspot.com",
+    "donldprogram.blogspot.com",
+    "picsandvideos1111.blogspot.com",
+    "kwalis.blogspot.com",
+    "umafechadurasemchave.blogspot.com",
+    "ask-2018.blogspot.com",
+    "jmalsowarbanat.blogspot.com",
+    "mdviobmwnreiogbneriuonhberoiuh.blogspot.com",
+    "saiphin2973.blogspot.com",
+    "maroc-soufiane.blogspot.com",
+    "annucia777annucia.blogspot.com",
+    "fem-arabe.blogspot.com",
+    "banat60.blogspot.com",
+    "moviesneek.blogspot.com",
+    "moviestreamnet17.blogspot.com",
+    "publicisforcemajeure.blogspot.com",
+    "srhgdgsgdsg.blogspot.com",
+    "qubeeelmo.blogspot.com",
+    "wwfgdiuuytbveddtytrgtr.blogspot.com",
+    "blog-photos-girls.blogspot.com",
+    "karlinews.blogspot.com",
+    "raxsona.blogspot.com",
+    "dhfjdjgfj.blogspot.com",
+    "arabnik.blogspot.com",
+    "fashionvirginia.blogspot.com",
+    "elsiec-putty.blogspot.com",
+    "unjustified-mydreamland.blogspot.com",
+    "fanfrienu.blogspot.com",
+    "h-tunisianews.blogspot.com",
+    "41109-love.blogspot.com",
+    "smart-alpha-team.blogspot.com",
+    "for-womans.blogspot.com",
+    "zawjmisyar.blogspot.com",
+    "yasmen1212.blogspot.com",
+    "sorawsora.blogspot.com",
+    "jeffreyincescre1973.blogspot.com",
+    "arabhostman2.blogspot.com",
+    "nasmasreg.blogspot.com",
+    "brittnim-leggy.blogspot.com",
+    "office-restart.blogspot.com",
+    "ramdanyaat.blogspot.com",
+    "photos2girls.blogspot.com",
+    "arab-foru.blogspot.com",
+    "drhryyrhdhr.blogspot.com",
+    "demetratwoulonat.blogspot.com",
+    "fatayatx.blogspot.com",
+    "soswr.blogspot.com",
+    "sondosy942.blogspot.com",
+    "lisbian-libya.blogspot.com",
+    "misrboysand69girls12.blogspot.com",
+    "japanar18.blogspot.com",
+    "cxgewsfaqf.blogspot.com",
+    "wsaqrfds.blogspot.com",
+    "aabbccddffg.blogspot.com",
+    "download-photos.blogspot.com",
+    "neswan-stories.blogspot.com",
+    "ferdoss9xsanjarzai.blogspot.com",
+    "asaaqaafiyah.blogspot.com",
+    "girls2dating.blogspot.com",
+    "srkvpidnkdcdn.blogspot.com",
+    "outone1.blogspot.com",
+    "waqreqwaas.blogspot.com",
+    "dfsfsgfcfed.blogspot.com",
+    "whatsapp69girls.blogspot.com",
+    "aflamboxoffice.blogspot.com",
+    "kikolinezz.blogspot.com",
+    "yhjdyjtf.blogspot.com",
+    "nasseer111.blogspot.com",
+    "arabfeetdivas.blogspot.com",
+    "geisermilesmiles.blogspot.com",
+    "askaladdin2.blogspot.com",
+    "radio-nagham-fm.blogspot.com",
+    "3cima.blogspot.com",
+    "dhfdhfdhdshhf.blogspot.com",
+    "a-for-arab.blogspot.com",
     "javupdatedaily.blogspot.com"
    ]
   },
@@ -34031,6 +34439,14 @@
    "remote-domains": [
     "blondangels.de",
     "www.blondangels.de"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "blonde-core.com",
+    "www.blonde-core.com"
    ]
   },
   {
@@ -34241,6 +34657,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bme.com",
+    "www.bme.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bngpt.com"
    ]
   },
@@ -34372,6 +34796,13 @@
    "process": "any",
    "remote-domains": [
     "bokephub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bokepid.bond"
    ]
   },
   {
@@ -34641,6 +35072,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "milaf7.bondageworld.tv",
+    "www.bondageworld.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bondanime.com",
     "members.bondanime.com",
     "www.bondanime.com"
@@ -34891,6 +35330,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "boobliks.pro",
+    "girls.boobliks.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "boobpedia.com",
     "www.boobpedia.com"
    ]
@@ -35003,6 +35450,13 @@
    "process": "any",
    "remote-domains": [
     "boobspicshunter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boobsradar.com"
    ]
   },
   {
@@ -35153,7 +35607,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "boombo.biz"
+    "boombo.biz",
+    "hot.boombo.biz"
    ]
   },
   {
@@ -35406,7 +35861,8 @@
     "www.borwap.com",
     "borwap.pro",
     "www.borwap.pro",
-    "www.borwap.vip"
+    "www.borwap.vip",
+    "cdn.borwap.pro"
    ]
   },
   {
@@ -35482,6 +35938,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "astalavista.box.sk",
+    "box.sk"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "box066.com"
    ]
   },
@@ -35518,7 +35982,9 @@
    "process": "any",
    "remote-domains": [
     "boy18tube.com",
-    "www.boy18tube.com"
+    "www.boy18tube.com",
+    "icdn05.boy18tube.com",
+    "vcdn03.boy18tube.com"
    ]
   },
   {
@@ -35562,6 +36028,13 @@
    "process": "any",
    "remote-domains": [
     "boycollector.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boyemen.com"
    ]
   },
   {
@@ -36148,6 +36621,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "brayezz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "brazeres.ru"
    ]
   },
@@ -36201,7 +36681,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "brazzer.click"
+    "brazzer.click",
+    "brazzer.su",
+    "www.brazzer.su"
    ]
   },
   {
@@ -36341,6 +36823,13 @@
    "remote-domains": [
     "brdteengal.com",
     "www.brdteengal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "breached.vc"
    ]
   },
   {
@@ -37188,6 +37677,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "buomtv.tv",
+    "www.buomtv.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "buomxinh.org"
    ]
   },
@@ -37656,6 +38153,13 @@
    "process": "any",
    "remote-domains": [
     "www.buzzgays.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "buzzly.info"
    ]
   },
   {
@@ -39289,6 +39793,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cannaweed.com",
+    "www.cannaweed.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cannonclam.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "enter.canshetakeit.com"
    ]
   },
@@ -40564,6 +41083,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "celebuncut.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "celebuzz.com",
     "www.celebuzz.com"
    ]
@@ -40618,6 +41144,13 @@
    "process": "any",
    "remote-domains": [
     "my-gay.cepchile.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cephalokal.com"
    ]
   },
   {
@@ -40701,7 +41234,8 @@
    "process": "any",
    "remote-domains": [
     "cfake.com",
-    "www.cfake.com"
+    "www.cfake.com",
+    "m.cfake.com"
    ]
   },
   {
@@ -42080,6 +42614,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "citrustube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "poisonangel.citymax.com",
     "www.poisonangel.citymax.com"
    ]
@@ -42420,7 +42961,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.clip2vip.com"
+    "www.clip2vip.com",
+    "clip2vip.com",
+    "photo.clip2vip.com"
    ]
   },
   {
@@ -43329,6 +43872,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cnxx.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "adultbanners.co.uk",
     "angel-companions.co.uk",
     "angels4you.co.uk",
@@ -43509,6 +44059,9 @@
     "freeones.co.uk",
     "www.freepornflix.co.uk",
     "www.fmforums.co.uk",
+    "cc3001.dmm.co.jp",
+    "delicates.co.uk",
+    "www.delicates.co.uk",
     "en.dmm.co.jp",
     "home.uchu.co.jp",
     "ssl.ktfactory.co.jp",
@@ -43909,6 +44462,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "collegerulesvideos.com",
+    "www.collegerulesvideos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "collegesexpartyvideos.com",
     "www.collegesexpartyvideos.com"
    ]
@@ -43978,6 +44539,7 @@
    "process": "any",
    "remote-domains": [
     "topapp.com.vn",
+    "vlxx.com.co",
     "caiunoxvideos.com.br",
     "coliriodemacho.com.br",
     "gatapop.com.br",
@@ -44272,6 +44834,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "comicarab.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "kitnkayboodle.comicgenesis.com",
     "www.kitnkayboodle.comicgenesis.com"
    ]
@@ -44469,6 +45038,14 @@
    "process": "any",
    "remote-domains": [
     "www.commonsensual.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "comparte.digital",
+    "imgs.comparte.digital"
    ]
   },
   {
@@ -45595,6 +46172,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cuckhq.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cuckhunter.com"
    ]
   },
@@ -46430,6 +47014,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cutee.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cuteerotica.com"
    ]
   },
@@ -46591,6 +47182,13 @@
    "remote-domains": [
     "cuteteenvideo.com",
     "www.cuteteenvideo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cutetube.online"
    ]
   },
   {
@@ -46829,6 +47427,14 @@
    "remote-domains": [
     "czechhd.net",
     "www.czechhd.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "czechhitchhikers.com",
+    "www.czechhitchhikers.com"
    ]
   },
   {
@@ -47194,6 +47800,14 @@
    "remote-domains": [
     "daisynudes.com",
     "www.daisynudes.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.daja.cafe",
+    "daja.cafe"
    ]
   },
   {
@@ -47958,6 +48572,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "amsterdam.davidxh.site",
+    "collector.davidxh.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dayerotica.com",
     "img.dayerotica.com",
     "www.dayerotica.com"
@@ -48151,6 +48773,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ddreams.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hwcdn.ddstatic.com"
    ]
   },
@@ -48167,6 +48796,13 @@
    "remote-domains": [
     "angelika-l.de.nr",
     "cam4.de.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "deadfix.com"
    ]
   },
   {
@@ -48769,6 +49405,14 @@
    "remote-domains": [
     "desifuckvain.com",
     "www.desifuckvain.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "desigirl.cc",
+    "www.desigirl.cc"
    ]
   },
   {
@@ -49554,6 +50198,13 @@
    "process": "any",
    "remote-domains": [
     "dgmillano.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dhalam.xyz"
    ]
   },
   {
@@ -50629,7 +51280,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dndnha.mx"
+    "dndnha.mx",
+    "dndnha.mobi"
    ]
   },
   {
@@ -51065,6 +51717,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "donlot.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cdn.donmai.us",
     "danbooru.donmai.us",
     "isshiki.donmai.us",
@@ -51126,6 +51785,14 @@
    "process": "any",
    "remote-domains": [
     "dood.yt"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "doodcdn.co",
+    "img.doodcdn.co"
    ]
   },
   {
@@ -51581,6 +52248,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dreampirates.in",
+    "www.dreampirates.in"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dreams-hd.com"
    ]
   },
@@ -51762,7 +52437,9 @@
     "p6.drtst.com",
     "p7.drtst.com",
     "p8.drtst.com",
-    "p9.drtst.com"
+    "p9.drtst.com",
+    "drtst.com",
+    "e0.drtst.com"
    ]
   },
   {
@@ -51860,6 +52537,13 @@
    "process": "any",
    "remote-domains": [
     "www.ds0002.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ds2play.com"
    ]
   },
   {
@@ -52879,6 +53563,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "eegmp3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "efagion.com"
    ]
   },
@@ -53784,6 +54475,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.entyhelwa.com",
+    "entyhelwa.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "angelusagi.envy.nu"
    ]
   },
@@ -54448,7 +55147,8 @@
     "s1.erome.com",
     "s2.erome.com",
     "s3.erome.com",
-    "www.erome.com"
+    "www.erome.com",
+    "s20.erome.com"
    ]
   },
   {
@@ -55860,6 +56560,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "esthe-ranking.jp",
+    "www.esthe-ranking.jp"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "estortenok.ru"
    ]
   },
@@ -57224,6 +57932,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "f-list.net",
+    "www.f-list.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "f1ix.com"
    ]
   },
@@ -58286,7 +59002,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "faphouse.com"
+    "faphouse.com",
+    "gold.faphouse.com"
    ]
   },
   {
@@ -58754,7 +59471,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "i111.fastpic.org"
+    "i111.fastpic.org",
+    "fastpic.ru",
+    "i112.fastpic.ru"
    ]
   },
   {
@@ -59141,6 +59860,7 @@
     "adult.contents.fc2.com",
     "video.fc2.com",
     "blog-imgs-63.fc2.com",
+    "personalxls.web.fc2.com",
     "babarooba.x.fc2.com",
     "dennou2.x.fc2.com",
     "hiyoko0.x.fc2.com",
@@ -59350,6 +60070,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "femalemms.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "femaleshaved.com"
    ]
   },
@@ -59411,6 +60138,13 @@
     "femdomcc.com",
     "www.femdomcc.com",
     "femdomcc.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "femdomdestiny.com"
    ]
   },
   {
@@ -65251,6 +65985,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "frenvis.com",
+    "www.frenvis.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "fresh-n-tender.com",
     "www.fresh-n-tender.com"
    ]
@@ -65486,7 +66228,8 @@
    "remote-domains": [
     "www.adserver.friendfinder.com",
     "www.openads.friendfinder.com",
-    "graphics.friendfinder.com"
+    "graphics.friendfinder.com",
+    "friendfinder.com"
    ]
   },
   {
@@ -65509,6 +66252,13 @@
    "remote-domains": [
     "dating.friendsearch.com",
     "www.dating.friendsearch.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "friendss.net"
    ]
   },
   {
@@ -65965,7 +66715,16 @@
     "www.fuckbook.com",
     "www.fuckbook.cm",
     "www.fuckbook.tv",
-    "hello.fuckbook.tv"
+    "hello.fuckbook.tv",
+    "stream.fuckbook.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fuckbookflirt.com",
+    "www.fuckbookflirt.com"
    ]
   },
   {
@@ -66193,6 +66952,14 @@
    "remote-domains": [
     "banners.fuckingdrunks.com",
     "galleries.fuckingdrunks.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fuckingfreemovies.com",
+    "www.fuckingfreemovies.com"
    ]
   },
   {
@@ -67278,6 +68045,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ar.futaigratis.com",
+    "futaigratis.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "futanari.xxx"
    ]
   },
@@ -67352,6 +68127,13 @@
    "remote-domains": [
     "fuxybabes.com",
     "www.fuxybabes.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fuzzarts.com"
    ]
   },
   {
@@ -69190,6 +69972,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gayegypt.com",
+    "www.gayegypt.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gayel.com"
    ]
   },
@@ -69483,6 +70273,13 @@
    "process": "any",
    "remote-domains": [
     "gaymobile.fr"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gaymovies24.com"
    ]
   },
   {
@@ -69837,6 +70634,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gayscape.com",
+    "www.gayscape.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gayscattube.com"
    ]
   },
@@ -69988,6 +70793,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gaystarnews.com",
+    "www.gaystarnews.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gaystream.pw"
    ]
   },
@@ -70057,6 +70870,13 @@
    "process": "any",
    "remote-domains": [
     "www.gayties.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gaytoday.com"
    ]
   },
   {
@@ -70496,7 +71316,8 @@
     "gekso.org",
     "www.gekso.org",
     "gekso.mobi",
-    "www.gekso.mobi"
+    "www.gekso.mobi",
+    "gekso.com"
    ]
   },
   {
@@ -72934,7 +73755,15 @@
    "process": "any",
    "remote-domains": [
     "good-gay.com",
-    "good-gay.tv"
+    "good-gay.tv",
+    "www.good-gay.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "good-morning.cc"
    ]
   },
   {
@@ -74576,7 +75405,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "app.gumroad.com",
     "gayeti.gumroad.com"
    ]
   },
@@ -77032,6 +77860,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hdlivemovies.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hdlove.at"
    ]
   },
@@ -78106,7 +78941,8 @@
    "remote-domains": [
     "hdzog.com",
     "www.hdzog.com",
-    "hdzog.tube"
+    "hdzog.tube",
+    "tn.hdzog.com"
    ]
   },
   {
@@ -79757,6 +80593,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hentaithai.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hentaitk.net"
    ]
   },
@@ -80493,7 +81336,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hi-wife.com"
+    "hi-wife.com",
+    "jkl.hi-wife.com"
    ]
   },
   {
@@ -80501,6 +81345,13 @@
    "process": "any",
    "remote-domains": [
     "hib6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hibamusic.com"
    ]
   },
   {
@@ -80645,6 +81496,13 @@
     "hihisex.biz",
     "hihisex.pro",
     "hihisex.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hihitube.com"
    ]
   },
   {
@@ -81002,6 +81860,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hmmade.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.hmp.jp"
    ]
   },
@@ -81072,6 +81937,13 @@
    "process": "any",
    "remote-domains": [
     "hobbyladies.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hobe.cc"
    ]
   },
   {
@@ -83470,7 +84342,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "hotmoza.tv"
+    "hotmoza.tv",
+    "cdn1.hotmoza.tv"
    ]
   },
   {
@@ -84172,6 +85045,15 @@
    "process": "any",
    "remote-domains": [
     "hottrannyporn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hottv.am",
+    "ih.hottv.am",
+    "www.hottv.am"
    ]
   },
   {
@@ -85056,7 +85938,8 @@
     "www.hqtube.xxx",
     "hqtube.com",
     "hqtube.org",
-    "www.hqtube.com"
+    "www.hqtube.com",
+    "pics.hqtube.org"
    ]
   },
   {
@@ -85376,6 +86259,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hubzter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hugeboobsgalore.com",
     "www.hugeboobsgalore.com"
    ]
@@ -85638,6 +86528,13 @@
    "remote-domains": [
     "hushaccess.com",
     "www.hushaccess.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tours.hushlove.com"
    ]
   },
   {
@@ -86513,6 +87410,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "iimgz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ijavhd.com"
    ]
   },
@@ -86747,7 +87651,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "imagetwist.com"
+    "imagetwist.com",
+    "img202.imagetwist.com"
    ]
   },
   {
@@ -87508,6 +88413,13 @@
     "tour.indianhiddencams.com",
     "indianhiddencams.com",
     "www.indianhiddencams.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "indianhotpics.com"
    ]
   },
   {
@@ -91062,6 +91974,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "javagv.biz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vn.javbabe.net",
     "javbabe.net"
    ]
@@ -91479,6 +92398,7 @@
     "javhay.co",
     "javhay.cyou",
     "javhay.media",
+    "javhay.movie",
     "javhay.one",
     "javhay.online",
     "javhay.org",
@@ -91626,7 +92546,8 @@
    "process": "any",
    "remote-domains": [
     "javhdhayz.com",
-    "javhdhayz.net"
+    "javhdhayz.net",
+    "javhdhayz.pro"
    ]
   },
   {
@@ -92925,7 +93846,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "jennymovies.com"
+    "jennymovies.com",
+    "cdn.jennymovies.com"
    ]
   },
   {
@@ -93247,6 +94169,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "jewwatch.com",
+    "www.jewwatch.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "jgalz.net",
     "www.jgalz.net"
    ]
@@ -93370,6 +94300,13 @@
    "process": "any",
    "remote-domains": [
     "jizzex.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jizzfarm.com"
    ]
   },
   {
@@ -94269,6 +95206,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "junglexh.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "junior.wang"
    ]
   },
@@ -95040,6 +95984,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "katcr.to"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "katefrost.com",
     "www.katefrost.com"
    ]
@@ -95331,6 +96282,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "kentaweb.com",
+    "t.kentaweb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "kenxxx.com"
    ]
   },
@@ -95499,6 +96458,13 @@
    "process": "any",
    "remote-domains": [
     "www.kichu.jp"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kickasstorrents.to"
    ]
   },
   {
@@ -95981,6 +96947,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "kisss.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "kissteenclub.com",
     "www.kissteenclub.com",
     "static.kissteenclub.com"
@@ -96157,6 +97130,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "knowledge-street.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "knownhentai.com"
    ]
   },
@@ -96165,6 +97145,13 @@
    "process": "any",
    "remote-domains": [
     "knowporn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "knoww.cc"
    ]
   },
   {
@@ -96615,7 +97602,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "kowalskypage.pro"
+    "kowalskypage.pro",
+    "kowalskypage.club",
+    "www.kowalskypage.club"
    ]
   },
   {
@@ -96708,7 +97697,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "krx18.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.ks-p.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ar.ksaksaksa.com"
    ]
   },
   {
@@ -98916,6 +99919,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lesbiansubmission.com",
+    "www.lesbiansubmission.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lesbianthumbs.org"
    ]
   },
@@ -99081,6 +100092,13 @@
    "process": "any",
    "remote-domains": [
     "leslez.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lespompeurs.com"
    ]
   },
   {
@@ -99706,6 +100724,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "limetorrents.lol",
+    "www.limetorrents.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lina777.com"
    ]
   },
@@ -99814,6 +100840,13 @@
    "process": "any",
    "remote-domains": [
     "link4game.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "link77.site"
    ]
   },
   {
@@ -100565,7 +101598,8 @@
     "wiki.livejasmin.com",
     "www.livejasmin.net",
     "www.livejasmin.tv",
-    "static.creatives.livejasmin.com"
+    "static.creatives.livejasmin.com",
+    "vast.livejasmin.com"
    ]
   },
   {
@@ -102072,6 +103106,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "a.lulucdn.com",
+    "lulucdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "img.luluvdo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lumestudio.ru"
    ]
   },
@@ -102445,6 +103494,13 @@
    "remote-domains": [
     "lynxdollars.com",
     "www.lynxdollars.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lyricss.cc"
    ]
   },
   {
@@ -103353,6 +104409,13 @@
    "remote-domains": [
     "mangaporno.pro",
     "mangaporno.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mangapuma.com"
    ]
   },
   {
@@ -106407,6 +107470,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "messycumshots.ws",
+    "www.messycumshots.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "messyfun.com"
    ]
   },
@@ -106714,7 +107785,8 @@
     "meyzo.mobi",
     "www.meyzo.mobi",
     "meyzo.org",
-    "www.meyzo.org"
+    "www.meyzo.org",
+    "th.meyzo.pro"
    ]
   },
   {
@@ -106807,6 +107879,13 @@
    "process": "any",
    "remote-domains": [
     "midwestsewers.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mightyxh.life"
    ]
   },
   {
@@ -108340,6 +109419,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mmoxh.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mmpnetwork.com"
    ]
   },
@@ -109861,6 +110947,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mood-pictures.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.moodyz.com"
    ]
   },
@@ -109988,6 +111081,13 @@
    "remote-domains": [
     "morewebcams.com",
     "www.morewebcams.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "morningg.cc"
    ]
   },
   {
@@ -110384,6 +111484,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "movieplaces.tv",
+    "thumbs.movieplaces.tv",
+    "www.movieplaces.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "movies-porno.ru"
    ]
   },
@@ -110588,7 +111697,9 @@
    "process": "any",
    "remote-domains": [
     "mrdeepfakes.com",
-    "www.mrdeepfakes.com"
+    "www.mrdeepfakes.com",
+    "cdn1.mrdeepfakes.com",
+    "cdn2.mrdeepfakes.com"
    ]
   },
   {
@@ -114332,6 +115443,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "napgp.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "napisex.hu"
    ]
   },
@@ -114356,6 +115474,14 @@
    "process": "any",
    "remote-domains": [
     "narutohentaidb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nashdom76.ru",
+    "video.nashdom76.ru"
    ]
   },
   {
@@ -115129,6 +116255,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "neswaangy.com",
+    "www.neswaangy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "neswan.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "neswangy.net",
     "forums.neswangy.net",
     "www.neswangy.net"
@@ -115201,7 +116342,8 @@
    "process": "any",
    "remote-domains": [
     "sbupgrade.netlify.app",
-    "www.sbupgrade.netlify.app"
+    "www.sbupgrade.netlify.app",
+    "kutlay-victoraou.netlify.app"
    ]
   },
   {
@@ -115731,6 +116873,14 @@
    "remote-domains": [
     "newshemaletube.com",
     "www.newshemaletube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "als.newsone.ws",
+    "newsone.ws"
    ]
   },
   {
@@ -116748,6 +117898,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "nog.nogomi.ru",
+    "nogomi.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "landing.noirmale.com",
     "noirmale.com",
     "www.noirmale.com"
@@ -116765,6 +117923,13 @@
    "process": "any",
    "remote-domains": [
     "no.nolo.ai"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nomorepecans.com"
    ]
   },
   {
@@ -119199,7 +120364,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.nudezz.com"
+    "www.nudezz.com",
+    "nudezz.com",
+    "stream.nudezz.com"
    ]
   },
   {
@@ -121338,6 +122505,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m.onenightfriend.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "onepornlist.com"
    ]
   },
@@ -121890,7 +123064,9 @@
    "process": "any",
    "remote-domains": [
     "onlyindianx.com",
-    "vcdn.onlyindianx.com"
+    "vcdn.onlyindianx.com",
+    "cdn.onlyindianx.cc",
+    "onlyindianx.cc"
    ]
   },
   {
@@ -122235,6 +123411,13 @@
    "process": "any",
    "remote-domains": [
     "opensharing.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "opentor.org"
    ]
   },
   {
@@ -122951,7 +124134,11 @@
    "remote-domains": [
     "oxtube.tv",
     "www.oxtube.tv",
-    "en.oxtube.tv"
+    "en.oxtube.tv",
+    "en.oxtube.me",
+    "oxtube.me",
+    "en.oxtube.cc",
+    "oxtube.cc"
    ]
   },
   {
@@ -123981,6 +125168,14 @@
    "process": "any",
    "remote-domains": [
     "pdcams.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "peacefire.org",
+    "www.peacefire.org"
    ]
   },
   {
@@ -128580,6 +129775,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pacific.picturedent.org",
+    "picturedent.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "picturesmix.com",
+    "www.picturesmix.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "picxx.net",
     "www.picxx.net"
    ]
@@ -129390,6 +130601,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "planetromeo.com",
+    "www.planetromeo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "planetsexblogs.com",
     "www.planetsexblogs.com"
    ]
@@ -129559,6 +130778,13 @@
    "process": "any",
    "remote-domains": [
     "sexalarab.playcima.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "playerxh.xyz"
    ]
   },
   {
@@ -129900,6 +131126,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ga.poebushki.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.poepsextube.com"
    ]
   },
@@ -129955,6 +131188,14 @@
    "process": "any",
    "remote-domains": [
     "polonez-tour.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "polprog.com",
+    "www.polprog.com"
    ]
   },
   {
@@ -141621,7 +142862,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pro-ipcamera.ru"
+    "pro-ipcamera.ru",
+    "m.pro-ipcamera.ru"
    ]
   },
   {
@@ -143100,6 +144342,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "qfilm.tv",
+    "w1.qfilm.tv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "qh88vn.live"
    ]
   },
@@ -143822,7 +145072,9 @@
    "remote-domains": [
     "rarbg.com",
     "static.rarbg.com",
-    "www.rarbg.com"
+    "www.rarbg.com",
+    "rarbg.to",
+    "www.rarbg.to"
    ]
   },
   {
@@ -143877,6 +145129,13 @@
    "remote-domains": [
     "rareteenporn.com",
     "www.rareteenporn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rargb.to"
    ]
   },
   {
@@ -144604,6 +145863,13 @@
     "enter.realslutparty.com",
     "realslutparty.com",
     "www.realslutparty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "a.realsrv.com"
    ]
   },
   {
@@ -145343,6 +146609,14 @@
     "redwap.pro",
     "redwap.xyz",
     "redwap.website"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "img.redwap-cdn.com",
+    "redwap-cdn.com"
    ]
   },
   {
@@ -146106,6 +147380,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "login.riadanda.com",
+    "riadanda.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ribaysteak.ru"
    ]
   },
@@ -146712,6 +147994,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rphang.cc",
     "rphang.online"
    ]
   },
@@ -148563,6 +149846,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "se.video"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "se69.fun",
     "www.se69.fun"
    ]
@@ -148969,6 +150259,55 @@
    "process": "any",
    "remote-domains": [
     "seex.cz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "seexh6.com"
    ]
   },
   {
@@ -150668,6 +152007,13 @@
    "process": "any",
    "remote-domains": [
     "sexavidols.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sexawynet.cam"
    ]
   },
   {
@@ -154818,6 +156164,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sexthailan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sexthu.top"
    ]
   },
@@ -154943,6 +156296,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sextop1jav.info",
     "sextop1jav.net"
    ]
   },
@@ -157286,6 +158640,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sfsi.org",
+    "www.sfsi.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sfstories.com"
    ]
   },
@@ -158843,6 +160205,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "shrmha.online",
+    "shrmha.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "shrmharuby.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "shtorm333.ru"
    ]
   },
@@ -159199,7 +160576,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "simontok.autos"
+    "simontok.autos",
+    "simontok.lat"
    ]
   },
   {
@@ -160258,6 +161636,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "blog.sm3na.ws",
+    "sm3na.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "small-kitty.top"
    ]
   },
@@ -160347,6 +161733,13 @@
     "tube.smoder.com",
     "www.old.smoder.com",
     "www.tube.smoder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "smokefreerussia.ru"
    ]
   },
   {
@@ -160864,6 +162257,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "amsterdam.soloxh.site",
+    "brick.soloxh.site",
+    "collector.soloxh.site",
+    "eu-west-2.soloxh.site",
+    "recoil.soloxh.site",
+    "soloxh.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "somaturemovies.com"
    ]
   },
@@ -161032,6 +162437,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.sosiano.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sosixxx.com"
    ]
   },
@@ -161120,6 +162532,14 @@
    "process": "any",
    "remote-domains": [
     "webcam-sex.soup.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "source-material.us",
+    "login.source-material.us"
    ]
   },
   {
@@ -161245,7 +162665,8 @@
     "www.spankbang.porn",
     "www.spankbang.surf",
     "spankbang.hu",
-    "spankbang.party"
+    "spankbang.party",
+    "th.spankbang.com"
    ]
   },
   {
@@ -161346,6 +162767,14 @@
    "process": "any",
    "remote-domains": [
     "spearteenpussy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "specia1.com",
+    "tours.specia1.com"
    ]
   },
   {
@@ -162004,6 +163433,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ar.starsze.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sex.start.bg"
    ]
   },
@@ -162507,6 +163943,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "storyy.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.str8hell.com"
    ]
   },
@@ -162723,6 +164166,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "streamruby.com",
+    "img.streamruby.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "streamsex.com",
     "www.streamsex.com"
    ]
@@ -162831,6 +164282,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "go.stripchatlive.com",
+    "stripchatlive.com",
+    "zh.stripchatlive.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "stripgalleries.net",
     "www.stripgalleries.net"
    ]
@@ -162899,7 +164359,9 @@
     "cdn.strpst.com",
     "img.strpst.com",
     "strpst.com",
-    "www.strpst.com"
+    "www.strpst.com",
+    "assets.strpst.com",
+    "static-cdn.strpst.com"
    ]
   },
   {
@@ -163450,6 +164912,14 @@
    "process": "any",
    "remote-domains": [
     "superchatlive.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pix.supercumtube.com",
+    "supercumtube.com"
    ]
   },
   {
@@ -164668,6 +166138,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "t9h.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tableterotica.com",
     "tableterotica.mobi"
    ]
@@ -165321,6 +166798,14 @@
    "remote-domains": [
     "tatagirls.com",
     "www.tatagirls.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tatalueat.tatalueat.com",
+    "tatalueat.com"
    ]
   },
   {
@@ -167574,6 +169059,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "teens-tube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.teens24h.com"
    ]
   },
@@ -168293,6 +169785,13 @@
    "process": "any",
    "remote-domains": [
     "teentubecam.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.teentubeonline.com"
    ]
   },
   {
@@ -169373,6 +170872,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "thecuckold.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "thecuckoldporn.com"
    ]
   },
@@ -170087,6 +171593,48 @@
    "remote-domains": [
     "therealworkout.com",
     "www.therealworkout.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "therealxh6.com"
    ]
   },
   {
@@ -171409,7 +172957,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "titis.org"
+    "titis.org",
+    "naked.titis.org"
    ]
   },
   {
@@ -171676,7 +173225,8 @@
     "tnaflix.world",
     "webstats.tnaflix.com",
     "www.tnaflix.com",
-    "www.tnaflix.world"
+    "www.tnaflix.world",
+    "player.tnaflix.com"
    ]
   },
   {
@@ -172168,6 +173718,13 @@
    "process": "any",
    "remote-domains": [
     "angelicabridges.too.it"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "toomics.com"
    ]
   },
   {
@@ -173865,6 +175422,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "trannymovies.ws",
+    "www.trannymovies.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "trannyones.com"
    ]
   },
@@ -174429,7 +175994,8 @@
    "process": "any",
    "remote-domains": [
     "trend-arabic.com",
-    "www.trend-arabic.com"
+    "www.trend-arabic.com",
+    "fotos.trend-arabic.com"
    ]
   },
   {
@@ -175513,7 +177079,9 @@
    "remote-domains": [
     "tube.ac",
     "www.tube.ac",
-    "tube.bz"
+    "tube.bz",
+    "cdn.tube.nu",
+    "tube.nu"
    ]
   },
   {
@@ -175808,6 +177376,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tubecorporate.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "events.tubecup.org",
     "native.tubecup.org",
     "st.tubecup.org",
@@ -175835,7 +177410,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tubedna.com"
+    "tubedna.com",
+    "img.tubedna.com"
    ]
   },
   {
@@ -176090,7 +177666,8 @@
    "process": "any",
    "remote-domains": [
     "tubepatrol.cc",
-    "tubepatrol.porn"
+    "tubepatrol.porn",
+    "tubepatrol.pro"
    ]
   },
   {
@@ -179846,6 +181423,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "umahaty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ru.umavirgem.com"
    ]
   },
@@ -180105,6 +181689,13 @@
    "remote-domains": [
     "unlimitedmilfs.com",
     "www.unlimitedmilfs.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "unlimitedxh.site"
    ]
   },
   {
@@ -181628,6 +183219,13 @@
    "process": "any",
    "remote-domains": [
     "www.videoincest.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "videoindirxa.net"
    ]
   },
   {
@@ -184869,6 +186467,7 @@
     "vlxx.ai",
     "vlxx.bet",
     "vlxx.bio",
+    "vlxx.blue",
     "vlxx.buzz",
     "vlxx.cc",
     "vlxx.chat",
@@ -184881,11 +186480,14 @@
     "vlxx.fan",
     "vlxx.fun",
     "vlxx.gay",
+    "vlxx.group",
     "vlxx.homes",
     "vlxx.icu",
     "vlxx.info",
     "vlxx.io",
     "vlxx.kim",
+    "vlxx.la",
+    "vlxx.lat",
     "vlxx.live",
     "vlxx.me",
     "vlxx.media",
@@ -184898,6 +186500,7 @@
     "vlxx.run",
     "vlxx.sbs",
     "vlxx.sex",
+    "vlxx.social",
     "vlxx.space",
     "vlxx.store",
     "vlxx.studio",
@@ -184905,6 +186508,8 @@
     "vlxx.today",
     "vlxx.tube",
     "vlxx.tv",
+    "vlxx.tw",
+    "vlxx.uk",
     "vlxx.uno",
     "vlxx.vip",
     "vlxx.wiki",
@@ -185034,7 +186639,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vlxxsex.com"
+    "vlxxsex.com",
+    "vlxxsex.vip"
    ]
   },
   {
@@ -185395,6 +187001,14 @@
    "process": "any",
    "remote-domains": [
     "www.vomittube.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ar.voproom.com",
+    "voproom.com"
    ]
   },
   {
@@ -186789,6 +188403,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "watchvideo.us"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "watchxxxfree.com",
     "www.watchxxxfree.com"
    ]
@@ -186856,6 +188477,14 @@
    "process": "any",
    "remote-domains": [
     "weareshemale.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "maerid-alsuwar.web.app",
+    "talkieless.web.app"
    ]
   },
   {
@@ -187441,6 +189070,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vn.websex.tube",
     "websex.info",
     "websex.me",
     "websex.mx",
@@ -187783,6 +189413,14 @@
    "process": "any",
    "remote-domains": [
     "wetgrannypics.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.wethunt.com",
+    "wethunt.com"
    ]
   },
   {
@@ -189130,6 +190768,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "wordss.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "world3d.biz",
     "www.world3d.biz"
    ]
@@ -189750,7 +191395,8 @@
    "process": "any",
    "remote-domains": [
     "www.x-arab.com",
-    "x-arab.com"
+    "x-arab.com",
+    "th.x-arab.com"
    ]
   },
   {
@@ -189950,7 +191596,8 @@
    "process": "any",
    "remote-domains": [
     "www.x-videoz.org",
-    "x-videoz.org"
+    "x-videoz.org",
+    "x-videoz.com"
    ]
   },
   {
@@ -189971,7 +191618,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "x-xx.pro"
+    "x-xx.pro",
+    "pics.x-xx.pro"
    ]
   },
   {
@@ -190558,6 +192206,14 @@
    "process": "any",
    "remote-domains": [
     "xchica.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "en.xchina.co",
+    "xchina.co"
    ]
   },
   {
@@ -191152,6 +192808,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xemvl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xemvlxx.me"
    ]
   },
@@ -191590,6 +193253,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhalways.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.xhammer.net"
    ]
   },
@@ -191840,7 +193510,22 @@
    "process": "any",
    "remote-domains": [
     "www.xhamster4.desi",
-    "xhamster4.desi"
+    "xhamster4.desi",
+    "xhamster4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhamster40.desi"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhamster41.desi"
    ]
   },
   {
@@ -191887,6 +193572,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhamstercreators.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.xhamsterde.com"
    ]
   },
@@ -191913,7 +193605,8 @@
     "go.xhamsterlive.com",
     "m.xhamsterlive.com",
     "www.xhamsterlive.com",
-    "xhamsterlive.com"
+    "xhamsterlive.com",
+    "ar.xhamsterlive.com"
    ]
   },
   {
@@ -191975,7 +193668,57 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhamstreet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhamstreet1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhamstreet2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhamstreet3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xhand.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "brick.xhawards.world",
+    "collector.xhawards.world"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhbabe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhbig.com"
    ]
   },
   {
@@ -192004,6 +193747,27 @@
    "process": "any",
    "remote-domains": [
     "xhbranch10.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhbranch11.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhbranch12.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhbranch13.com"
    ]
   },
   {
@@ -192066,6 +193830,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhbuyer.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "static-lvlt.xhcdn.com",
     "thumb-lvlt.xhcdn.com",
     "thumb-v0.xhcdn.com",
@@ -192088,6 +193859,69 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhchannel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhchannel2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhchannel3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhchannel4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhchick.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhday.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhday1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhday2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhday3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xhdnude.com"
    ]
   },
@@ -192096,6 +193930,13 @@
    "process": "any",
    "remote-domains": [
     "xhdporno.plus"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhdvd.world"
    ]
   },
   {
@@ -192117,8 +193958,57 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xheve.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xheve1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xheve2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xheve3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhfish.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhfuck.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "amp.xhgeo.com",
     "xhgeo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhgo.site"
    ]
   },
   {
@@ -192134,6 +194024,49 @@
    "remote-domains": [
     "www.xhit.com",
     "xhit.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "go.xhlive.org",
+    "ar.xhlive.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhmoon2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhmoon3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhmoon4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhmoon5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhocean.com"
    ]
   },
   {
@@ -192196,7 +194129,56 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhphoenix.world"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xhplanet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet7.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhplanet9.com"
    ]
   },
   {
@@ -192225,7 +194207,252 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhreal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal10.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal7.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhreal9.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhsi.world"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xhstream.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtab6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime10.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime7.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtime9.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree10.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree7.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree8.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtree9.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhtron.site"
    ]
   },
   {
@@ -192254,8 +194481,37 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhvictory.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vi.xhvid.com",
-    "xhvid.live"
+    "xhvid.live",
+    "xhvid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhvid1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhvid2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhvid3.com"
    ]
   },
   {
@@ -192271,7 +194527,77 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xhwebsite1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwebsite2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwebsite3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwebsite4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwebsite5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwide.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwide1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xhwide2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwide3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwide4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xhwide5.com"
    ]
   },
   {
@@ -192717,6 +195043,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xlxx1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.xlxx69.com",
+    "xlxx69.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xlxxporn.ru"
    ]
   },
@@ -192934,7 +195275,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xn----ztbcbceder.tv"
+    "xn----ztbcbceder.tv",
+    "xn----ztbcbceder.net"
    ]
   },
   {
@@ -192956,6 +195298,27 @@
    "process": "any",
    "remote-domains": [
     "xn--72c9abh1f8ad1lzc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--72c9aha4c5a2bbd5ood.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--72ca2bsl7gxbd4m7c.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--72czbawn3i1b1dydua7dub.com"
    ]
   },
   {
@@ -193018,7 +195381,24 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xn--ngbcrg3b.com"
+    "xn--mgbcvg3b0d2b.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--mgbpa5gbg.com",
+    "www.xn--mgbpa5gbg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--ngbcrg3b.com",
+    "cdn.xn--ngbcrg3b.com",
+    "xn--ngbcrg3b.net"
    ]
   },
   {
@@ -193026,6 +195406,13 @@
    "process": "any",
    "remote-domains": [
     "xn--ngbd3gbhc.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xn--ngbs7dg.net"
    ]
   },
   {
@@ -195262,7 +197649,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xvedio.fun"
+    "xvedio.fun",
+    "www.xvedio.com",
+    "xvedio.com"
    ]
   },
   {
@@ -195555,6 +197944,13 @@
    "process": "any",
    "remote-domains": [
     "xvideos-tv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xvideos-vlxx.com"
    ]
   },
   {
@@ -196040,6 +198436,7 @@
     "xvideoz.hu",
     "xvideoz.win",
     "www.xvideoz.charity",
+    "www.xvideoz.life",
     "xvideoz.green",
     "xvideoz.rest",
     "xvideoz.zone"
@@ -196293,6 +198690,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xxcmh.com",
+    "www.xxcmh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xxdam.net"
    ]
   },
@@ -196425,6 +198830,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.xxnl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "xxntube.com"
    ]
   },
@@ -196523,6 +198935,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xxphim.cam",
     "xxphim.club",
     "xxphim.co",
     "xxphim.live",
@@ -200867,7 +203280,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www.yaeby.pro"
+    "www.yaeby.pro",
+    "yaeby.art"
    ]
   },
   {
@@ -201044,6 +203458,13 @@
    "process": "any",
    "remote-domains": [
     "ua.yasexme1.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "st.yatarab.com"
    ]
   },
   {
@@ -201596,6 +204017,13 @@
     "hs1.yongfucknaked.com",
     "www.yongfucknaked.com",
     "yongfucknaked.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "okegy.yoo7.com"
    ]
   },
   {
@@ -204878,7 +207306,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "www-xvideos-com.zproxy.org"
+    "www-xvideos-com.zproxy.org",
+    "mrdeepfakes-com.zproxy.org",
+    "zproxy.org"
    ]
   },
   {

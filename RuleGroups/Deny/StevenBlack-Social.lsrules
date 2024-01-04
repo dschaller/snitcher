@@ -2985,6 +2985,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "threads.net",
+    "www.threads.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tiktok.com",
     "tiktok.org",
     "www.tiktok.com"
@@ -3309,6 +3317,14 @@
     "www-cdn.whatsapp.net",
     "www.whatsapp.com",
     "wwwl.whatsapp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.x.com",
+    "x.com"
    ]
   },
   {
