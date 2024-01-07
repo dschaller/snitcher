@@ -403,6 +403,7 @@
     "11bet.mobi",
     "11bet.net",
     "11bet.online",
+    "11bet.org",
     "11bet.us",
     "11bet.vin",
     "11bet.win",
@@ -2075,6 +2076,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "789winchan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "789x.club"
    ]
   },
@@ -2620,6 +2628,7 @@
    "remote-domains": [
     "88online.live",
     "88online.me",
+    "88online.moe",
     "www.88online.me"
    ]
   },
@@ -3402,6 +3411,7 @@
    "process": "any",
    "remote-domains": [
     "ae888.com",
+    "ae888.men",
     "ae888.mobi",
     "ae888.net",
     "api.ae888.com",
@@ -9913,7 +9923,9 @@
     "ee88.club",
     "ee88.com",
     "ee88.in",
+    "ee88.law",
     "ee88.plus",
+    "ee88.tips",
     "www.ee88.club",
     "www.ee88.com"
    ]
@@ -11399,6 +11411,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "game365.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "game69.top"
    ]
   },
@@ -11696,6 +11715,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gemwin.page"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "genesiscasino.com",
     "www.genesiscasino.com"
    ]
@@ -11888,15 +11914,20 @@
     "go88.club",
     "go88.com",
     "go88.im",
+    "go88.info",
     "go88.live",
     "go88.luxury",
+    "go88.study",
+    "go88.tv",
     "go88.vip",
     "play.go88.club",
     "play.go88.im",
+    "play.go88.tv",
     "play.go88.vip",
     "pm.go88.com",
     "tai.go88.club",
     "tai.go88.com",
+    "tai.go88.info",
     "tai.go88.live",
     "www.go88.com"
    ]
@@ -14161,6 +14192,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "iwinclub.onl",
     "iwinclub.win"
    ]
   },
@@ -15314,6 +15346,14 @@
    "process": "any",
    "remote-domains": [
     "jun88k.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jun88w.com",
+    "www.jun88w.com"
    ]
   },
   {
@@ -16998,7 +17038,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "k8betno1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "k8betting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8betvn.club"
    ]
   },
   {
@@ -20683,6 +20737,13 @@
    "process": "any",
    "remote-domains": [
     "k8vin.fun"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k8vina1.net"
    ]
   },
   {
@@ -25265,6 +25326,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "macao99.bid",
+    "macao99.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "f1.macau.club",
     "f2.macau.club",
     "f3.macau.club",
@@ -26129,8 +26198,24 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "msrcxx.com",
+    "www.msrcxx.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lotto.mthai.com",
     "www.lotto.mthai.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mu111.vip",
+    "www.mu111.vip"
    ]
   },
   {
@@ -30097,6 +30182,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "st666yet.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "stake.com"
    ]
   },
@@ -30793,6 +30885,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigamehayvip.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taigamehot.pro"
    ]
   },
@@ -30880,6 +30979,21 @@
    "remote-domains": [
     "taikufun.com",
     "www.taikufun.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taimacao.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taimacao99.club",
+    "taimacao99.shop"
    ]
   },
   {
@@ -33040,6 +33154,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vina88.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vinalottery.com"
    ]
   },
@@ -33477,6 +33598,13 @@
     "m.vnbong88.live",
     "vnbong88.live",
     "www.vnbong88.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnbongvip.net"
    ]
   },
   {

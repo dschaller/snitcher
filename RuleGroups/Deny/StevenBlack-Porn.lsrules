@@ -41727,7 +41727,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "checkerviet.bet",
     "checkerviet.bid",
+    "checkerviet.bz",
+    "checkerviet.fan",
     "checkerviet.fun",
     "checkerviet.one"
    ]
