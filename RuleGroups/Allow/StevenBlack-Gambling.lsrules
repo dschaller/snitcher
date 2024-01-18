@@ -1667,6 +1667,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "67777.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "679king.com",
     "www.679king.com"
    ]
@@ -1925,6 +1932,7 @@
     "789.fun",
     "789.mobi",
     "789.moi",
+    "789.win",
     "game.789.club",
     "qc.789.mobi",
     "www.789.club"
@@ -4003,6 +4011,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "at99.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "atashows.com"
    ]
   },
@@ -4093,7 +4108,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "b29.bet"
+    "b29.bet",
+    "b29.cafe"
    ]
   },
   {
@@ -4108,11 +4124,13 @@
    "process": "any",
    "remote-domains": [
     "b52.me",
+    "b52.mobi",
     "b52.vip",
     "b52.win",
     "bo.b52.win",
     "game.b52.me",
     "game.b52.win",
+    "play.b52.mobi",
     "play.b52.win",
     "qc.b52.win",
     "www.b52.win"
@@ -4154,6 +4172,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b69.cafe",
     "b69.city"
    ]
   },
@@ -4186,6 +4205,13 @@
    "process": "any",
    "remote-domains": [
     "bacanaplay.pt"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bacty88.com"
    ]
   },
   {
@@ -5990,6 +6016,34 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bj288.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bj39.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bj88vietnam.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bj88vn.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bk368.com"
    ]
   },
@@ -6359,6 +6413,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bong99.cc",
     "bong99.com",
     "bong99.fun",
     "bong99.in",
@@ -8685,6 +8740,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cstga.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cuoc88.com",
     "cuoc88.net"
    ]
@@ -8935,6 +8997,7 @@
     "dabet.fun",
     "dabet.me",
     "dabet.top",
+    "dabet.uk",
     "dabet.us",
     "dabet.win",
     "sock.dabet.club"
@@ -10572,6 +10635,7 @@
     "fabet.tv",
     "fabet.us",
     "fabet.vip",
+    "fabet.win",
     "hm.fabet.vip",
     "hplay.fabet.me",
     "hplay.fabet.us",
@@ -10904,6 +10968,7 @@
     "fcb8.club",
     "fcb8.com",
     "fcb8.fun",
+    "fcb8.mobi",
     "fcb8.top",
     "fcb8.vin",
     "fcb8.vip",
@@ -11374,6 +11439,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ga98.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gachoic1.com"
    ]
   },
@@ -11501,6 +11573,7 @@
    "process": "any",
    "remote-domains": [
     "gamebai.club",
+    "gamebai.vin",
     "www.gamebai.club"
    ]
   },
@@ -11869,6 +11942,13 @@
    "remote-domains": [
     "giaitri.fun",
     "giaitri.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "giaitrimu88.com"
    ]
   },
   {
@@ -12812,6 +12892,13 @@
    "remote-domains": [
     "hit68.net",
     "play.hit68.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hitclub.win"
    ]
   },
   {
@@ -14174,7 +14261,9 @@
    "remote-domains": [
     "iwin.club",
     "iwin.info",
+    "iwin.net",
     "iwin.us",
+    "play.iwin.net",
     "www.iwin.us"
    ]
   },
@@ -23881,8 +23970,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "ku6107.net",
-    "nv.ku6107.net"
+    "ku6107.net"
    ]
   },
   {
@@ -25357,6 +25445,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m8u8.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m8winvip.com",
     "www.m8winvip.com"
    ]
@@ -25519,7 +25614,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "man.club"
+    "man.club",
+    "man.vip"
    ]
   },
   {
@@ -26297,9 +26393,21 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "api.mu88.ag",
+    "api.mu88.mu",
+    "mu88.ae",
+    "mu88.ag",
+    "mu88.black",
+    "mu88.com",
     "mu88.game",
     "mu88.id",
+    "mu88.mu",
+    "mu88.ooo",
     "mu88.uk",
+    "mu88.ws",
+    "www.mu88.ae",
+    "www.mu88.ag",
+    "www.mu88.mu",
     "www.mu88.uk"
    ]
   },
@@ -26420,7 +26528,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "mu929.com"
+    "mu929.com",
+    "www.mu929.com"
    ]
   },
   {
@@ -26609,6 +26718,7 @@
     "nbet.com",
     "nbet.fun",
     "nbet.me",
+    "nbet.net",
     "nbet.site",
     "nbet.top",
     "nbet.tv",
@@ -28733,6 +28843,7 @@
     "rikvip.uk",
     "rikvip.us",
     "rikvip.vip",
+    "rikvip.win",
     "tai.rikvip.tv",
     "tai.rikvip.us",
     "tai.rikvip.vip",
@@ -30362,6 +30473,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "stby.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "stoloto.ru",
     "www.stoloto.ru"
    ]
@@ -30967,12 +31085,26 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taib29.cafe"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "game.taib52.com",
     "play.taib52.com",
     "taib52.club",
     "taib52.com",
     "taib52.vin",
     "www.taib52.vin"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taib69.cafe"
    ]
   },
   {
@@ -31340,8 +31472,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "tbab953.com",
-    "vn.tbab953.com"
+    "tbab953.com"
    ]
   },
   {
@@ -33938,15 +34069,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "api.vnxoso66.net",
-    "vnxoso66.net",
-    "www.vnxoso66.net"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "voltbet.com",
     "www.voltbet.com"
    ]
@@ -35156,6 +35278,7 @@
     "tai.win79.pro",
     "tai.win79.vip",
     "win79.app",
+    "win79.com",
     "win79.download",
     "win79.live",
     "win79.pro",
@@ -35970,7 +36093,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "yylive.top"
+    "yylive.top",
+    "yylive.tv"
    ]
   },
   {
