@@ -31052,6 +31052,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tai-sumvip.city"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tai567live.vip"
    ]
   },
@@ -31231,7 +31238,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "taiiwin.club"
+    "taiiwin.club",
+    "taiiwin.vin"
    ]
   },
   {
