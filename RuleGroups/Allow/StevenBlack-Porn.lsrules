@@ -144447,6 +144447,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "qq887.live"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "qq892.live"
    ]
   },
