@@ -153474,6 +153474,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "phim1.sexhaydi.com",
+    "sexhaydi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sexhayhanquoc.com"
    ]
   },
@@ -153706,6 +153714,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sexhdz.org",
+    "vn1.sexhdz.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sexhentai.pro"
    ]
   },
@@ -153728,7 +153744,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "sexheodem.com"
+    "sexheodem.com",
+    "sexheodem.info"
    ]
   },
   {
@@ -154907,7 +154924,8 @@
    "remote-domains": [
     "sexnhanh.co",
     "vn.sexnhanh.co",
-    "web.sexnhanh.co"
+    "web.sexnhanh.co",
+    "webx.sexnhanh.co"
    ]
   },
   {
@@ -156263,6 +156281,7 @@
     "sextop1.news",
     "sextop1.one",
     "sextop1.sex",
+    "sextop1.uk",
     "sextop1.video",
     "sextop1.win",
     "w1.sextop1.life",
@@ -184051,6 +184070,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hd.viet69.click",
     "m.viet69.chat",
     "m.viet69.tech",
     "sex.viet69.tech",
@@ -184058,16 +184078,22 @@
     "viet69.asia",
     "viet69.cam",
     "viet69.cc",
+    "viet69.click",
     "viet69.co",
     "viet69.com",
+    "viet69.cyou",
     "viet69.day",
     "viet69.de",
     "viet69.dev",
+    "viet69.fan",
     "viet69.fun",
     "viet69.gg",
     "viet69.io",
+    "viet69.li",
+    "viet69.life",
     "viet69.link",
     "viet69.love",
+    "viet69.ltd",
     "viet69.me",
     "viet69.net",
     "viet69.news",
@@ -184084,17 +184110,51 @@
     "viet69.studio",
     "viet69.tech",
     "viet69.to",
+    "viet69.tube",
     "viet69.us",
     "viet69.vc",
     "viet69.video",
-    "vn.viet69.chat"
+    "vip2.viet69.studio",
+    "vn.viet69.chat",
+    "x10.viet69.life"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "viet69x.com"
+    "viet69az.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hd.viet69b.com",
+    "viet69b.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "viet69m.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.viet69s.com",
+    "viet69s.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "viet69x.com",
+    "viet69x.pro"
    ]
   },
   {
@@ -186334,6 +186394,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vklxx.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vkonche.com"
    ]
   },
@@ -186615,6 +186682,13 @@
    "process": "any",
    "remote-domains": [
     "vlxxhd.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vlxxhot.com"
    ]
   },
   {

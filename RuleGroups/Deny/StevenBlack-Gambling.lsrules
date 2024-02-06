@@ -666,6 +666,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "14winvn.com",
+    "www.14winvn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "157win.com",
     "www.157win.com"
    ]
@@ -1922,6 +1930,14 @@
    "process": "any",
    "remote-domains": [
     "77ae888.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "77king88.com",
+    "www.77king88.com"
    ]
   },
   {
@@ -7468,7 +7484,43 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choidon.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choidonclub.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choigamedonclub.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choigamedons.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choigamevua.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ad.choigem.fun",
+    "choigem.fun"
    ]
   },
   {
@@ -9403,13 +9455,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "debet1.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "debet88.win"
    ]
   },
@@ -9749,6 +9794,20 @@
    "process": "any",
    "remote-domains": [
     "domixi1gom.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "don1.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "donclub.city"
    ]
   },
   {
@@ -11194,6 +11253,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fpbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "frankcasino.com",
     "www.frankcasino.com"
    ]
@@ -11813,6 +11879,14 @@
    "remote-domains": [
     "gem79.win",
     "tai.gem79.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ad.gem88.win",
+    "gem88.win"
    ]
   },
   {
@@ -28537,6 +28611,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "quangcaosanvip.com",
     "quangcaosanvip.win"
    ]
   },
@@ -29208,6 +29283,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ios.sanvip.club",
+    "sanvip.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sasa889.com"
    ]
   },
@@ -29738,6 +29821,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "skyclub.bid",
     "skyclub.city"
    ]
   },
@@ -30100,6 +30184,17 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.son.club",
+    "play1.son.club",
+    "son.club",
+    "tai.son.club",
+    "taigame.son.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "speedybet.com",
     "www.speedybet.com"
    ]
@@ -30118,6 +30213,14 @@
    "remote-domains": [
     "spindipity.com",
     "www.spindipity.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sping369.club",
+    "www.sping369.club"
    ]
   },
   {
@@ -31328,7 +31431,77 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taisanvip.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taiskyclub.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison1.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison2.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison3.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison4.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison5.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison6.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison7.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison8.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taison9.club"
    ]
   },
   {
