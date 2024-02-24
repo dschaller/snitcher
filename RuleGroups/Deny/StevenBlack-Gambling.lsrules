@@ -3359,6 +3359,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.aat99game.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "abcislands.ag",
     "www.abcislands.ag"
    ]
@@ -4299,9 +4306,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bay789.club",
     "bay789.io",
+    "bay789.life",
     "bay789.vin",
-    "play.bay789.io"
+    "play.bay789.io",
+    "play.bay789.life"
    ]
   },
   {
@@ -6060,6 +6070,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bj988.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bk368.com"
    ]
   },
@@ -6329,6 +6346,13 @@
    "remote-domains": [
     "bodugi.com",
     "www.bodugi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bogac1.com"
    ]
   },
   {
@@ -7615,6 +7639,15 @@
    "remote-domains": [
     "choita88.club",
     "pc.choita88.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choitet.vip",
+    "dk.choitet.vip",
+    "lp.choitet.vip"
    ]
   },
   {
@@ -9059,6 +9092,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ads.dabetvip.vin",
+    "dabetvip.vin"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "daddyskins.com"
    ]
   },
@@ -9808,6 +9849,14 @@
    "process": "any",
    "remote-domains": [
     "donclub.city"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dontetcodex2.fun",
+    "www.dontetcodex2.fun"
    ]
   },
   {
@@ -10972,6 +11021,14 @@
    "remote-domains": [
     "fb88viet.com",
     "www.fb88viet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fb88vin.com",
+    "www.fb88vin.com"
    ]
   },
   {
@@ -24925,6 +24982,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "loto678.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "loteries.lotoquebec.com",
     "lotoquebec.com",
     "portail.lotoquebec.com",
@@ -29069,6 +29133,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rs88.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "rubet.com",
     "www.rubet.com"
    ]
@@ -29534,6 +29605,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "shbet40.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "shbet88.page"
    ]
   },
@@ -29550,6 +29628,20 @@
    "remote-domains": [
     "api.shbetvv.com",
     "www.shbetvv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.shsieuhot.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.shtotnhat.online"
    ]
   },
   {
@@ -30636,6 +30728,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sukiensh.online",
+    "www.sukiensh.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "play.sum4.club",
     "sum4.club"
    ]
@@ -30927,6 +31027,14 @@
    "remote-domains": [
     "sv66s.com",
     "www.sv66s.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sv66vip6.com",
+    "www.sv66vip6.com"
    ]
   },
   {
@@ -31594,6 +31702,13 @@
    "process": "any",
    "remote-domains": [
     "taix1.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taixhu.gg"
    ]
   },
   {
@@ -32883,6 +32998,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "uer5.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.uk-k8.com"
    ]
   },
@@ -34164,6 +34286,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vngame123.com",
+    "www.vngame123.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vngame66.com"
    ]
   },
@@ -34366,6 +34496,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vuabai9vn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.vuabet88.org",
     "vuabet88.org"
    ]
@@ -34399,6 +34536,14 @@
     "pro.vuigiaitri.org",
     "vuigiaitri.online",
     "vuigiaitri.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lp.vuiuk88.club",
+    "vuiuk88.club"
    ]
   },
   {
@@ -35615,6 +35760,14 @@
     "cdn.winclub.net",
     "winclub.net",
     "www.winclub.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wingame1688.com",
+    "www.wingame1688.com"
    ]
   },
   {
