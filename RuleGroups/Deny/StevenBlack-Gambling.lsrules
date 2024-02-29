@@ -9377,7 +9377,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dangkyrikvip.org",
     "dangkyrikvip.tv",
+    "login.dangkyrikvip.org",
     "vip.dangkyrikvip.tv"
    ]
   },
