@@ -2178,6 +2178,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "likee.video"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "addtoprofile.linkedin.com",
     "ae.linkedin.com",
     "ajuda.linkedin.com",

@@ -9505,6 +9505,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "deca88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.depositbetplace88.com",
     "www.depositbetplace88.net"
    ]
@@ -26100,6 +26107,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cdn.megawin88.mobi",
+    "megawin88.mobi",
+    "wcdn.megawin88.mobi",
+    "www.megawin88.mobi"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mekinglove.com"
    ]
   },
@@ -28508,6 +28525,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ad.qc789.vip",
+    "qc789.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "qh205.com",
     "www.qh205.com"
    ]
@@ -28995,6 +29020,7 @@
     "tai.rikvip.tv",
     "tai.rikvip.us",
     "tai.rikvip.vip",
+    "tai.rikvip.win",
     "wp.rikvip.tv",
     "www.rikvip.uk"
    ]
@@ -31696,6 +31722,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taivip52.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taiwin79.win"
    ]
   },
@@ -31799,7 +31832,8 @@
    "process": "any",
    "remote-domains": [
     "tdtc.cc",
-    "tdtc.fun"
+    "tdtc.fun",
+    "tdtc.vn"
    ]
   },
   {
