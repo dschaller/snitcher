@@ -4625,6 +4625,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bet88.systems"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bet88010.com"
    ]
   },
@@ -4668,6 +4675,13 @@
    "process": "any",
    "remote-domains": [
     "bet885678.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bet88biz.com"
    ]
   },
   {
