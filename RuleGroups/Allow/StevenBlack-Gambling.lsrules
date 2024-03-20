@@ -11104,6 +11104,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fbking33.com",
+    "m.fbking33.com",
+    "www.fbking33.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "fcb8.club",
     "fcb8.com",
     "fcb8.fun",
@@ -11463,6 +11472,13 @@
    "process": "any",
    "remote-domains": [
     "fun789.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "fun88.green"
    ]
   },
   {
