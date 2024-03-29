@@ -28449,6 +28449,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pp88.dev",
+    "pp88.icu",
+    "www.pp88.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pridmorebookmakers.com",
     "www.pridmorebookmakers.com"
    ]
