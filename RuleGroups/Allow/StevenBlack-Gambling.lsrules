@@ -3944,6 +3944,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aoays.xyz"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "apollobet.com",
     "www.apollobet.com"
    ]
@@ -29239,6 +29246,13 @@
    "process": "any",
    "remote-domains": [
     "rw8800.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "s0106.com"
    ]
   },
   {
