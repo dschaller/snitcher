@@ -6281,6 +6281,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bk8vninternal.com",
+    "www.bk8vninternal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bk8win.top",
     "www.bk8win.top"
    ]
@@ -10020,6 +10028,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "duongdenkhungthanh.com",
+    "www.duongdenkhungthanh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dutapoker.co"
    ]
   },
@@ -12325,6 +12341,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "go99.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "goal123.com",
     "prod.goal123.com",
     "www.goal123.com"
@@ -14506,6 +14529,13 @@
    "remote-domains": [
     "iwinclub.onl",
     "iwinclub.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "iwinclubvn.com"
    ]
   },
   {
@@ -28253,6 +28283,13 @@
     "playiwin.top",
     "playiwin.uk",
     "reg.playiwin.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "playiwinclub.pro"
    ]
   },
   {

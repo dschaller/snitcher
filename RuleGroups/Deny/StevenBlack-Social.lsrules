@@ -101,6 +101,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tiktokcdn-us.com.atomile.com",
+    "tiktokcdn.com.atomile.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "badoo.com"
    ]
   },
@@ -122,11 +130,67 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tiktokcdn.com.c.bytefcdn-oversea.com",
+    "tiktokv.com.c.bytefcdn-oversea.com",
+    "ttlivecdn.com.c.bytefcdn-oversea.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.c.bytefcdn-ttpeu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "byteglb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "p1-tt-ipv6.byteimg.com",
+    "p1-tt.byteimg.com",
+    "p26-tt.byteimg.com",
+    "p3-tt-ipv6.byteimg.com",
+    "p9-tt.byteimg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "abtest-sg-tiktok.byteoversea.com",
     "abtest-va-tiktok.byteoversea.com",
     "dm-maliva16.byteoversea.com",
+    "gts.byteoversea.net",
+    "quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net",
+    "quic-tiktok-proxy-i18n-gcpva.byteoversea.net",
     "sgali3.l.byteoversea.net",
+    "tiktok-lb-alisg.byteoversea.net",
+    "tiktok-lb-maliva.byteoversea.net",
+    "tiktok-platform-lb-alisg.byteoversea.net",
+    "tiktok-platform-lb-maliva.byteoversea.net",
     "verification-va.byteoversea.com",
     "xlog-va.byteoversea.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.c.bytetcdn.com"
    ]
   },
   {
@@ -183,6 +247,7 @@
     "scontent-a-yyz.cdninstagram.com",
     "scontent-a.cdninstagram.com",
     "scontent-ams.cdninstagram.com",
+    "scontent-ams2-1.cdninstagram.com",
     "scontent-ams3-1.cdninstagram.com",
     "scontent-ams4-1.cdninstagram.com",
     "scontent-amt2-1.cdninstagram.com",
@@ -191,6 +256,7 @@
     "scontent-arn2-2.cdninstagram.com",
     "scontent-atl.cdninstagram.com",
     "scontent-atl3-1.cdninstagram.com",
+    "scontent-atl3-2.cdninstagram.com",
     "scontent-b-ams.cdninstagram.com",
     "scontent-b-amt.cdninstagram.com",
     "scontent-b-arn.cdninstagram.com",
@@ -235,17 +301,22 @@
     "scontent-bog1-1.cdninstagram.com",
     "scontent-bom1-1.cdninstagram.com",
     "scontent-bos3-1.cdninstagram.com",
+    "scontent-bos5-1.cdninstagram.com",
     "scontent-bru.cdninstagram.com",
     "scontent-bru2-1.cdninstagram.com",
     "scontent-cai1-1.cdninstagram.com",
     "scontent-cdg.cdninstagram.com",
     "scontent-cdg2-1.cdninstagram.com",
+    "scontent-cdg4-1.cdninstagram.com",
+    "scontent-cdg4-2.cdninstagram.com",
+    "scontent-cdg4-3.cdninstagram.com",
     "scontent-cdt.cdninstagram.com",
     "scontent-cdt1-1.cdninstagram.com",
     "scontent-cgk.cdninstagram.com",
     "scontent-cgk1-1.cdninstagram.com",
     "scontent-cph2-1.cdninstagram.com",
     "scontent-del1-1.cdninstagram.com",
+    "scontent-den2-1.cdninstagram.com",
     "scontent-den4-1.cdninstagram.com",
     "scontent-dft4-1.cdninstagram.com",
     "scontent-dft4-2.cdninstagram.com",
@@ -263,6 +334,9 @@
     "scontent-fml2-1.cdninstagram.com",
     "scontent-for1-1.cdninstagram.com",
     "scontent-fra3-1.cdninstagram.com",
+    "scontent-fra3-2.cdninstagram.com",
+    "scontent-fra5-1.cdninstagram.com",
+    "scontent-fra5-2.cdninstagram.com",
     "scontent-frt.cdninstagram.com",
     "scontent-frt3-1.cdninstagram.com",
     "scontent-frt3-2.cdninstagram.com",
@@ -281,8 +355,10 @@
     "scontent-hkg3-1.cdninstagram.com",
     "scontent-hkg3-2.cdninstagram.com",
     "scontent-hkt1-1.cdninstagram.com",
+    "scontent-hou1-1.cdninstagram.com",
     "scontent-iad.cdninstagram.com",
     "scontent-iad3-1.cdninstagram.com",
+    "scontent-iad3-2.cdninstagram.com",
     "scontent-icn1-1.cdninstagram.com",
     "scontent-itm1-1.cdninstagram.com",
     "scontent-jnb1-1.cdninstagram.com",
@@ -294,9 +370,13 @@
     "scontent-lax3-2.cdninstagram.com",
     "scontent-lga.cdninstagram.com",
     "scontent-lga3-1.cdninstagram.com",
+    "scontent-lga3-2.cdninstagram.com",
     "scontent-lhr.cdninstagram.com",
     "scontent-lhr3-1.cdninstagram.com",
+    "scontent-lhr6-1.cdninstagram.com",
+    "scontent-lhr6-2.cdninstagram.com",
     "scontent-lhr8-1.cdninstagram.com",
+    "scontent-lhr8-2.cdninstagram.com",
     "scontent-lht6-1.cdninstagram.com",
     "scontent-lim1-1.cdninstagram.com",
     "scontent-lis1-1.cdninstagram.com",
@@ -321,6 +401,8 @@
     "scontent-nrt1-1.cdninstagram.com",
     "scontent-ord.cdninstagram.com",
     "scontent-ord1-1.cdninstagram.com",
+    "scontent-ord5-1.cdninstagram.com",
+    "scontent-ord5-2.cdninstagram.com",
     "scontent-ort2-1.cdninstagram.com",
     "scontent-ort2-2.cdninstagram.com",
     "scontent-otp1-1.cdninstagram.com",
@@ -463,6 +545,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "facebook.co.za"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "coffeemeetsbagel.com"
    ]
   },
@@ -470,6 +559,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "facebook.com.au",
+    "facebook.com.br",
+    "facebook.com.es",
+    "facebook.com.mx",
+    "facebook.com.vn",
+    "instagram.com.br",
     "www.pinterest.com.au"
    ]
   },
@@ -511,7 +606,8 @@
     "i.pinimg.com.edgekey.net",
     "s.pinimg.com.edgekey.net",
     "v.pinimg.com.edgekey.net",
-    "www.pinterest.com.edgekey.net"
+    "www.pinterest.com.edgekey.net",
+    "log-va.tiktokv.com.edgekey.net"
    ]
   },
   {
@@ -520,7 +616,12 @@
    "remote-domains": [
     "profile.ak.facebook.com.edgesuite.net",
     "static.ak.facebook.com.edgesuite.net",
-    "instagramstatic-a.akamaihd.net.edgesuite.net"
+    "instagramstatic-a.akamaihd.net.edgesuite.net",
+    "gecko-va.tiktokv.com.edgesuite.net",
+    "log.tiktokv.com.edgesuite.net",
+    "mon-va.tiktokv.com.edgesuite.net",
+    "mon.tiktokv.com.edgesuite.net",
+    "xlog.tiktokv.com.edgesuite.net"
    ]
   },
   {
@@ -550,6 +651,7 @@
     "act.facebook.com",
     "actcorp.m.facebook.com",
     "ads.facebook.com",
+    "adsmanager.facebook.com",
     "airasia.m.facebook.com",
     "ak.facebook.com",
     "algar.m.facebook.com",
@@ -636,23 +738,19 @@
     "code.facebook.com",
     "com0.facebook.com",
     "comfytrade.m.facebook.com",
-    "conectadosbancogalicia.m.facebook.com",
     "connect.facebook.com",
     "connect.facebook.net",
+    "creators.facebook.com",
     "cs-cz.facebook.com",
     "csf.facebook.com",
     "d.facebook.com",
     "d.vvv.facebook.com",
     "da-dk.facebook.com",
     "da-dk.facebook.dk",
-    "danone.m.facebook.com",
-    "davivienda.m.facebook.com",
     "de-de.facebook.com",
     "de-de.facebook.de",
-    "deloitte.m.facebook.com",
     "dev.vvv.facebook.com",
     "developers.facebook.com",
-    "dixonscarphone.m.facebook.com",
     "dm.m.facebook.com",
     "dns.facebook.com",
     "ed.facebook.com",
@@ -852,6 +950,7 @@
     "edge-snaptu-tunnel-shv-01-syd1.facebook.com",
     "edge-snaptu-tunnel-shv-02-cai1.facebook.com",
     "edge-star-shv-12-frc3.facebook.com",
+    "edge-stun.facebook.com",
     "edgeray-origin-shv-05-prn2.facebook.com",
     "edgeray-origin-shv-07-lla1.facebook.com",
     "edgeray-origin-shv-09-frc3.facebook.com",
@@ -891,10 +990,14 @@
     "es.facebook.com",
     "et-ee.facebook.com",
     "fa-ir.facebook.com",
+    "facebook.at",
     "facebook.be",
+    "facebook.ca",
+    "facebook.co",
     "facebook.com",
     "facebook.com.facebook.com",
     "facebook.de",
+    "facebook.design",
     "facebook.dk",
     "facebook.es",
     "facebook.fr",
@@ -902,13 +1005,18 @@
     "facebook.it",
     "facebook.jp",
     "facebook.mx",
+    "facebook.net",
     "facebook.nl",
     "facebook.no",
+    "facebook.org",
+    "facebook.pl",
+    "facebook.ru",
     "facebook.se",
     "facebook.us",
     "fb-lt.facebook.com",
     "fb.m.facebook.com",
     "fbjs.facebook.com",
+    "fblite-p1.c10r.facebook.com",
     "fi-fi.facebook.com",
     "flex.m.facebook.com",
     "flynorra.m.facebook.com",
@@ -968,6 +1076,7 @@
     "lntinfotech.m.facebook.com",
     "login.facebook.com",
     "lookaside.facebook.com",
+    "lt-lt.facebook.com",
     "lv-lv.facebook.com",
     "m.facebook.com",
     "mahindra.m.facebook.com",
@@ -981,6 +1090,7 @@
     "mobile.facebook.com",
     "moelven.m.facebook.com",
     "mqtt-ig-p4.facebook.com",
+    "mqtt-mini.c10r.facebook.com",
     "mqtt-mini.facebook.com",
     "mqtt-p4.facebook.com",
     "mqtt.c10r.facebook.com",
@@ -1000,6 +1110,7 @@
     "norcap.m.facebook.com",
     "noroestecom.m.facebook.com",
     "nova.facebook.com",
+    "ns.facebook.com",
     "ns1.facebook.com",
     "ns2.facebook.com",
     "ns3.facebook.com",
@@ -1013,7 +1124,11 @@
     "orcart.facebook.com",
     "origincache-starfacebook-ai-01-05-ash3.facebook.com",
     "ouch.facebook.com",
+    "p-upload.facebook.com",
+    "p.facebook.com",
     "pacific.facebook.com",
+    "pages.facebook.com",
+    "pay.facebook.com",
     "pernambucanas.m.facebook.com",
     "pl-pl.facebook.com",
     "postmaster.facebook.com",
@@ -1040,11 +1155,14 @@
     "sitel.m.facebook.com",
     "sk-sk.facebook.com",
     "ski.m.facebook.com",
+    "sl-si.facebook.com",
     "snaptu-d-shv-05-frc3.facebook.com",
     "snaptu-d-shv-10-frc1.facebook.com",
+    "snaptu-d.facebook.com",
     "snaptu-mini.facebook.com",
     "snaptu-p1.facebook.com",
     "snaptu-p2.facebook.com",
+    "snaptu-z.facebook.com",
     "softtech.m.facebook.com",
     "sok.m.facebook.com",
     "sr-rs.facebook.com",
@@ -1072,6 +1190,7 @@
     "tr-tr.facebook.com",
     "tr.facebook.com",
     "trocglobal.m.facebook.com",
+    "uk-ua.facebook.com",
     "uk2group.m.facebook.com",
     "unicreativearts.m.facebook.com",
     "upload.facebook.com",
@@ -1082,6 +1201,8 @@
     "vupload.facebook.com",
     "vupload2.vvv.facebook.com",
     "w.facebook.com",
+    "web-chat-e2ee.facebook.com",
+    "web-fallback.facebook.com",
     "web.beta.facebook.com",
     "web.facebook.com",
     "webdav.facebook.com",
@@ -1114,6 +1235,7 @@
     "z-1.c10r.facebook.com",
     "z-1.facebook.com",
     "z-m-api.facebook.com",
+    "z-m-gateway.facebook.com",
     "z-m-graph.facebook.com",
     "z-m-www.facebook.com",
     "z-m.c10r.facebook.com",
@@ -1153,6 +1275,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dualstack.twimg.twitter.map.fastly.net",
+    "dualstack.video.twitter.map.fastly.net",
+    "platform.twitter.map.fastly.net",
+    "twimg.twitter.map.fastly.net",
+    "twitter.map.fastly.net",
+    "video.twitter.map.fastly.net",
     "dualstack.pinterest.map.fastly.net",
     "prod.pinterest.global.map.fastly.net",
     "reddit.map.fastly.net"
@@ -2079,13 +2207,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "plus.google.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "happn.com"
    ]
   },
@@ -2115,6 +2236,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "p16-ad-sg.ibyteimg.com",
+    "p16-tiktok-sg.ibyteimg.com",
+    "p16-tiktok-sign-va-h2.ibyteimg.com",
+    "p16-tiktok-va-h2.ibyteimg.com",
+    "p16-tiktok-va.ibyteimg.com",
+    "p16-va-tiktok.ibyteimg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "instagr.am",
     "www.instagr.am"
    ]
@@ -2130,10 +2263,22 @@
     "engineering.instagram.com",
     "help.instagram.com",
     "i.instagram.com",
+    "images.ak.instagram.com",
     "images.instagram.com",
+    "instagram.c10r.instagram.com",
+    "instagram.co",
     "instagram.com",
+    "instagram.de",
+    "instagram.fr",
+    "instagram.net",
     "l.instagram.com",
     "logger.instagram.com",
+    "photos-a.ak.instagram.com",
+    "photos-b.ak.instagram.com",
+    "photos-d.ak.instagram.com",
+    "photos-e.ak.instagram.com",
+    "photos-f.ak.instagram.com",
+    "photos-h.ak.instagram.com",
     "platform.instagram.com",
     "telegraph-ash.instagram.com",
     "white.ish.instagram.com",
@@ -2155,6 +2300,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sf16-ttcdn-tos.ipstatp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "isnssdk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "joinclubhouse.com",
     "www.joinclubhouse.com",
     "welcome.joinclubhouse.com",
@@ -2169,7 +2328,17 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dms-akam.licdn.com",
+    "dms.licdn.com",
+    "media-akam.licdn.com",
+    "media-ecst.licdn.com",
+    "media-exp1.licdn.com",
+    "media-exp3.licdn.com",
     "media.licdn.com",
+    "static-akam.licdn.com",
+    "static-azur.licdn.com",
+    "static-ecst.licdn.com",
+    "static-od.licdn.com",
     "static.licdn.com",
     "www.licdn.com"
    ]
@@ -2187,6 +2356,7 @@
    "remote-domains": [
     "addtoprofile.linkedin.com",
     "ae.linkedin.com",
+    "afd.perf.linkedin.com",
     "ajuda.linkedin.com",
     "ap.linkedin.com",
     "api.linkedin.com",
@@ -2205,6 +2375,7 @@
     "business.linkedin.com",
     "ca.linkedin.com",
     "certification.linkedin.com",
+    "cf.perf.linkedin.com",
     "ch.linkedin.com",
     "cms.linkedin.com",
     "co.linkedin.com",
@@ -2231,6 +2402,9 @@
     "es.linkedin.com",
     "eu-west-1.dc.ads.linkedin.com",
     "events.linkedin.com",
+    "exp1.www.linkedin.com",
+    "exp2.www.linkedin.com",
+    "exp3.www.linkedin.com",
     "fi.linkedin.com",
     "financeconnect.linkedin.com",
     "forms.linkedin.com",
@@ -2268,6 +2442,7 @@
     "jp.linkedin.com",
     "ke.linkedin.com",
     "kr.linkedin.com",
+    "lan.sdk.linkedin.com",
     "learning.linkedin.com",
     "lifg.linkedin.com",
     "linkedin.com",
@@ -2278,6 +2453,7 @@
     "lms.linkedin.com",
     "lu.linkedin.com",
     "m.linkedin.com",
+    "mail-d.linkedin.com",
     "mail-test.linkedin.com",
     "mail.linkedin.com",
     "mail01.linkedin.com",
@@ -2288,6 +2464,9 @@
     "me.linkedin.com",
     "members.linkedin.com",
     "mentor.linkedin.com",
+    "merchantpool1.linkedin.com",
+    "mid4.linkedin.com",
+    "mix.linkedin.com",
     "mobile.linkedin.com",
     "ms.bantuan.linkedin.com",
     "mx.linkedin.com",
@@ -2309,9 +2488,13 @@
     "opportunity.linkedin.com",
     "ourstory.linkedin.com",
     "pl.linkedin.com",
+    "platform-akam.linkedin.com",
+    "platform-azur.linkedin.com",
+    "platform-ecst.linkedin.com",
     "platform.linkedin.com",
     "polls.linkedin.com",
     "pomoc.linkedin.com",
+    "ponf.linkedin.com",
     "premium.linkedin.com",
     "press.linkedin.com",
     "pt.linkedin.com",
@@ -2354,6 +2537,7 @@
     "volunteer.linkedin.com",
     "volunteers.linkedin.com",
     "ws.linkedin.com",
+    "www-src.linkedin.com",
     "www.brand.linkedin.com",
     "www.bringinyourparents.linkedin.com",
     "www.business.linkedin.com",
@@ -2451,7 +2635,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "musical.ly"
+    "musemuse.cn"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "musical.ly",
+    "www.musical.ly"
    ]
   },
   {
@@ -2604,6 +2796,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lf1-ttcdn-tos.pstatp.com",
+    "pull-f3-hs.pstatp.com",
+    "pull-f5-hs.flive.pstatp.com",
+    "pull-f5-hs.pstatp.com",
+    "pull-f5-mus.pstatp.com",
+    "pull-flv-f1-hs.pstatp.com",
+    "pull-flv-f6-hs.pstatp.com",
+    "pull-flv-l1-hs.pstatp.com",
+    "pull-flv-l1-mus.pstatp.com",
+    "pull-flv-l6-hs.pstatp.com",
+    "pull-hls-l1-mus.pstatp.com",
+    "pull-l3-hs.pstatp.com",
+    "pull-rtmp-f1-hs.pstatp.com",
+    "pull-rtmp-f6-hs.pstatp.com",
+    "pull-rtmp-l1-hs.pstatp.com",
+    "pull-rtmp-l1-mus.pstatp.com",
+    "pull-rtmp-l6-hs.pstatp.com",
+    "sf1-ttcdn-tos.pstatp.com",
+    "sf6-ttcdn-tos.pstatp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.qlivecdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "external-preview.redd.it",
     "i.redd.it",
     "preview.redd.it",
@@ -2616,13 +2840,17 @@
    "process": "any",
    "remote-domains": [
     "about.reddit.com",
+    "accounts.reddit.com",
     "alb.reddit.com",
     "e.reddit.com",
+    "embed.reddit.com",
     "en.reddit.com",
     "events.reddit.com",
     "fr.reddit.com",
     "gateway.reddit.com",
     "gp.reddit.com",
+    "gql-fed.reddit.com",
+    "gql-realtime.reddit.com",
     "gql.reddit.com",
     "hw.reddit.com",
     "i.reddit.com",
@@ -2643,6 +2871,9 @@
     "ssl.reddit.com",
     "strapi.reddit.com",
     "us.reddit.com",
+    "w3-reporting-csp.reddit.com",
+    "w3-reporting-nel.reddit.com",
+    "w3-reporting.reddit.com",
     "wh.reddit.com",
     "www.np.reddit.com",
     "www.reddit.com"
@@ -2714,6 +2945,20 @@
    "process": "any",
    "remote-domains": [
     "i.reddituploads.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.rocket-cdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sgsnssdk.com"
    ]
   },
   {
@@ -2985,7 +3230,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "static.thefacebook.com"
+    "static.thefacebook.com",
+    "tableau.thefacebook.com",
+    "thefacebook.com"
    ]
   },
   {
@@ -3000,24 +3247,140 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "test-ads.tiktok.com",
     "tiktok.com",
+    "tiktok.in",
     "tiktok.org",
-    "www.tiktok.com"
+    "www.tiktok.com",
+    "www.tiktok.in"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "p16-sign-sg.tiktokcdn.com",
+    "p16-sign-va.tiktokcdn.com",
+    "p77-va.tiktokcdn.com",
+    "p77-webcast.tiktokcdn.com",
     "s16.tiktokcdn.com",
-    "tiktokcdn.com"
+    "s20.tiktokcdn.com",
+    "sf53-sg.tiktokcdn.com",
+    "sf53-va.tiktokcdn.com",
+    "sf77-sg.tiktokcdn.com",
+    "sf77-va.tiktokcdn.com",
+    "sf77-webcast.tiktokcdn.com",
+    "tiktokcdn.com",
+    "v19.tiktokcdn.com",
+    "v51.tiktokcdn.com",
+    "v53.tiktokcdn.com",
+    "v77.tiktokcdn.com"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "tiktokv.com"
+    "tiktokcdn-eu.com",
+    "tiktokcdn-eu.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn-in.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn-us.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokd.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokglobalshop.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokglobalshopv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokmusic.app"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokshop.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokstaticb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.tiktokv.com",
+    "api16.tiktokv.com",
+    "applog.tiktokv.com",
+    "dm16-alisg.tiktokv.com",
+    "dm16-useast1a.tiktokv.com",
+    "dm16-useast2a.tiktokv.com",
+    "dm16-va.tiktokv.com",
+    "dm16.tiktokv.com",
+    "frontier-va.tiktokv.com",
+    "frontier.tiktokv.com",
+    "gecko-sg.tiktokv.com",
+    "gecko-va.tiktokv.com",
+    "gecko16-normal-c-useast1a.tiktokv.com",
+    "gecko16-normal-c-useast2a.tiktokv.com",
+    "ib.tiktokv.com",
+    "jsb-va.tiktokv.com",
+    "log.tiktokv.com",
+    "log16-normal-c-useast1a.tiktokv.com",
+    "log16-normal-c-useast2a.tiktokv.com",
+    "mcs-sg.tiktokv.com",
+    "mcs-va-useast2a.tiktokv.com",
+    "rtlog.tiktokv.com",
+    "sdfp-va.tiktokv.com",
+    "tiktokv.com",
+    "tiktokv.eu",
+    "tiktokv.us",
+    "verification-va.tiktokv.com",
+    "xlog-va.tiktokv.com",
+    "xlog.tiktokv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokw.us"
    ]
   },
   {
@@ -3025,6 +3388,62 @@
    "process": "any",
    "remote-domains": [
     "tinder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tlivecdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.tlivepush.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttapis.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttdns2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttlivecdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttoversea.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttoverseaus.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ttwstatic.com"
    ]
   },
   {
@@ -3102,8 +3521,44 @@
     "2012.twitter.com",
     "2013.twitter.com",
     "2014.twitter.com",
+    "2015.twitter.com",
     "about.twitter.com",
     "access.twitter.com",
+    "api-0-4-0.twitter.com",
+    "api-0-4-2.twitter.com",
+    "api-0-4-3.twitter.com",
+    "api-0-4-4.twitter.com",
+    "api-0-4-5.twitter.com",
+    "api-0-4-6.twitter.com",
+    "api-0-4-7.twitter.com",
+    "api-0-4-8.twitter.com",
+    "api-0-5-0.twitter.com",
+    "api-1-0-0.twitter.com",
+    "api-2-0-0.twitter.com",
+    "api-20-0-0.twitter.com",
+    "api-21-0-0.twitter.com",
+    "api-23-0-0.twitter.com",
+    "api-24-0-0.twitter.com",
+    "api-26-0-0.twitter.com",
+    "api-28-0-0.twitter.com",
+    "api-3-0-0.twitter.com",
+    "api-30-0-0.twitter.com",
+    "api-31-0-0.twitter.com",
+    "api-32-0-0.twitter.com",
+    "api-33-0-0.twitter.com",
+    "api-34-0-0.twitter.com",
+    "api-36-0-0.twitter.com",
+    "api-37-0-0.twitter.com",
+    "api-38-0-0.twitter.com",
+    "api-39-0-0.twitter.com",
+    "api-40-0-0.twitter.com",
+    "api-41-0-0.twitter.com",
+    "api-42-0-0.twitter.com",
+    "api-43-0-0.twitter.com",
+    "api-44-0-0.twitter.com",
+    "api-45-0-0.twitter.com",
+    "api-46-0-0.twitter.com",
+    "api-stream.twitter.com",
     "api-test.twitter.com",
     "api.twitter.com",
     "api2.twitter.com",
@@ -3114,11 +3569,13 @@
     "brand.twitter.com",
     "business.twitter.com",
     "calendar.twitter.com",
+    "caps.twitter.com",
     "cards-dev.twitter.com",
     "cards.twitter.com",
     "cdn.syndication.twitter.com",
     "click.e.twitter.com",
     "content.twitter.com",
+    "dc-api.twitter.com",
     "dev-about.twitter.com",
     "dev-blog.twitter.com",
     "dev-brand.twitter.com",
@@ -3127,12 +3584,14 @@
     "dev-jobs.twitter.com",
     "dev-marketing.twitter.com",
     "dev.twitter.com",
+    "developer.twitter.com",
     "download.twitter.com",
     "election.twitter.com",
     "eng.twitter.com",
     "engineering.twitter.com",
     "events.twitter.com",
     "firefox.twitter.com",
+    "help.twitter.com",
     "horizon.twitter.com",
     "images.tweet.twitter.com",
     "info.twitter.com",
@@ -3154,6 +3613,9 @@
     "pay.twitter.com",
     "pic.twitter.com",
     "platform.twitter.com",
+    "pro.twitter.com",
+    "probe.twitter.com",
+    "publish.twitter.com",
     "pulse.twitter.com",
     "s.twitter.com",
     "search.twitter.com",
@@ -3164,11 +3626,15 @@
     "static.twitter.com",
     "status.twitter.com",
     "stream.twitter.com",
+    "studio.twitter.com",
     "support.twitter.com",
     "syndication.twitter.com",
     "td.twitter.com",
+    "tpop-api.twitter.com",
     "transparency.twitter.com",
+    "twitter.co",
     "twitter.com",
+    "twitter.de",
     "upload.twitter.com",
     "userstream.twitter.com",
     "video.twitter.com",
@@ -3203,9 +3669,12 @@
     "beta.whatsapp.com",
     "betablog.whatsapp.com",
     "blog.whatsapp.com",
+    "cdn.whatsapp.net",
+    "chat.cdn.whatsapp.net",
     "chat.whatsapp.com",
     "crashlogs.whatsapp.net",
     "dev-web.whatsapp.com",
+    "dit.whatsapp.net",
     "dyn.web.whatsapp.com",
     "e1.whatsapp.net",
     "e10.whatsapp.net",
@@ -3228,34 +3697,55 @@
     "gamma.whatsapp.com",
     "graph.whatsapp.net",
     "m.whatsapp.com",
+    "media-ams2-1.cdn.whatsapp.net",
     "media-ams3-1.cdn.whatsapp.net",
+    "media-ams4-1.cdn.whatsapp.net",
     "media-amt2-1.cdn.whatsapp.net",
     "media-arn2-1.cdn.whatsapp.net",
+    "media-atl3-1.cdn.whatsapp.net",
     "media-ber1-1.cdn.whatsapp.net",
+    "media-bog2-1.cdn.whatsapp.net",
     "media-bru2-1.cdn.whatsapp.net",
     "media-cdt1-1.cdn.whatsapp.net",
     "media-dfw5-1.cdn.whatsapp.net",
+    "media-dfw5-2.cdn.whatsapp.net",
+    "media-dus1-1.cdn.whatsapp.net",
+    "media-fra3-1.cdn.whatsapp.net",
+    "media-fra3-2.cdn.whatsapp.net",
+    "media-fra5-1.cdn.whatsapp.net",
     "media-frt3-1.cdn.whatsapp.net",
     "media-frt3-2.cdn.whatsapp.net",
     "media-frx5-1.cdn.whatsapp.net",
     "media-iad3-1.cdn.whatsapp.net",
+    "media-iad3-2.cdn.whatsapp.net",
     "media-lax3-1.cdn.whatsapp.net",
     "media-lax3-2.cdn.whatsapp.net",
     "media-lga3-1.cdn.whatsapp.net",
+    "media-lga3-2.cdn.whatsapp.net",
     "media-lhr3-1.cdn.whatsapp.net",
+    "media-lhr6-1.cdn.whatsapp.net",
+    "media-lhr6-2.cdn.whatsapp.net",
+    "media-lhr8-1.cdn.whatsapp.net",
+    "media-lhr8-2.cdn.whatsapp.net",
     "media-lht6-1.cdn.whatsapp.net",
     "media-mad1-1.cdn.whatsapp.net",
     "media-mia3-1.cdn.whatsapp.net",
+    "media-mia3-2.cdn.whatsapp.net",
     "media-mxp1-1.cdn.whatsapp.net",
+    "media-ord5-1.cdn.whatsapp.net",
+    "media-ord5-2.cdn.whatsapp.net",
     "media-ort2-1.cdn.whatsapp.net",
     "media-ort2-2.cdn.whatsapp.net",
     "media-otp1-1.cdn.whatsapp.net",
+    "media-qro1-1.cdn.whatsapp.net",
+    "media-qro1-2.cdn.whatsapp.net",
     "media-sea1-1.cdn.whatsapp.net",
     "media-sin6-1.cdn.whatsapp.net",
     "media-sjc3-1.cdn.whatsapp.net",
     "media-sof1-1.cdn.whatsapp.net",
     "media-vie1-1.cdn.whatsapp.net",
     "media-waw1-1.cdn.whatsapp.net",
+    "media-xsp1-1.cdn.whatsapp.net",
     "media-yyz1-1-cdn.whatsapp.net",
     "media.fabj2-1.fna.whatsapp.net",
     "media.fada1-2.fna.whatsapp.net",
@@ -3303,8 +3793,11 @@
     "mmi701.whatsapp.net",
     "mmi731.whatsapp.net",
     "mms.whatsapp.net",
+    "mmx-ds.cdn.whatsapp.net",
     "pps.whatsapp.net",
     "ratings.whatsapp.com",
+    "scontent.whatsapp.net",
+    "static.whatsapp.net",
     "translate-dev.whatsapp.com",
     "translate.whatsapp.com",
     "up.web.whatsapp.com",
@@ -3321,9 +3814,34 @@
     "w9.web.whatsapp.com",
     "web.whatsapp.com",
     "whatsapp.com",
+    "whatsapp.net",
     "www-cdn.whatsapp.net",
     "www.whatsapp.com",
     "wwwl.whatsapp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn.com.c.worldfcdn.com",
+    "tiktokv.com.c.worldfcdn.com",
+    "ttlivecdn.com.c.worldfcdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiktokcdn-us.com.c.worldfcdn2.com",
+    "tiktokv.com.c.worldfcdn2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wwwfacebook.com"
    ]
   },
   {
