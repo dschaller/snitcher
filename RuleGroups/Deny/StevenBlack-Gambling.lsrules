@@ -2010,6 +2010,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "789bet.com",
     "789bet.run"
    ]
   },
@@ -10552,6 +10553,13 @@
    "process": "any",
    "remote-domains": [
     "eurowin.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ev88.com"
    ]
   },
   {
@@ -25434,8 +25442,10 @@
     "lucky88.cc",
     "lucky88.club",
     "lucky88.com",
+    "lucky88.fun",
     "lucky88.live",
     "lucky88.net",
+    "lucky88.online",
     "lucky88.org",
     "lucky88.top",
     "lucky88.tv",
@@ -25450,6 +25460,13 @@
     "static3.lucky88.com",
     "www.lucky88.com",
     "www.lucky88.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lucky88vn.com"
    ]
   },
   {
@@ -26945,6 +26962,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.nbet.vin",
+    "img.nbet.vin",
     "nbet.club",
     "nbet.com",
     "nbet.fun",
@@ -26953,8 +26972,11 @@
     "nbet.site",
     "nbet.top",
     "nbet.tv",
+    "nbet.vin",
     "nbet.vip",
     "nbet.win",
+    "sock.nbet.vin",
+    "wp.nbet.vin",
     "www.nbet.com"
    ]
   },
@@ -31380,8 +31402,10 @@
    "process": "any",
    "remote-domains": [
     "t1.ta88.com",
+    "t1.ta88.vip",
     "t2.ta88.com",
-    "ta88.com"
+    "ta88.com",
+    "ta88.vip"
    ]
   },
   {
@@ -33927,6 +33951,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lp.vip79.com",
+    "play.vip79.com",
+    "vip79.com",
+    "vip79.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.vipbet001.org",
     "vipbet001.org",
     "www.vipbet001.org"
@@ -36364,6 +36398,13 @@
    "process": "any",
    "remote-domains": [
     "xoso788.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xoso8811.com"
    ]
   },
   {
