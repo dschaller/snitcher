@@ -943,6 +943,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "1x.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "1x2plus.com",
     "www.1x2plus.com"
    ]
@@ -7652,6 +7659,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choiriikvip.today",
+    "lp.choiriikvip.today"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choisport.com",
     "play.choisport.com"
    ]
@@ -9112,6 +9127,7 @@
     "dabet.fun",
     "dabet.me",
     "dabet.top",
+    "dabet.tv",
     "dabet.uk",
     "dabet.us",
     "dabet.win",
@@ -9407,9 +9423,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dangkyrikvip.live",
+    "dangkyrikvip.me",
     "dangkyrikvip.org",
     "dangkyrikvip.tv",
     "login.dangkyrikvip.org",
+    "vip.dangkyrikvip.me",
     "vip.dangkyrikvip.tv"
    ]
   },
@@ -9516,6 +9535,7 @@
     "debet.club",
     "debet.com",
     "debet.info",
+    "debet.net",
     "debet.top",
     "debet.win",
     "mkt.debet.com",
@@ -10794,6 +10814,7 @@
     "fabet.live",
     "fabet.me",
     "fabet.net",
+    "fabet.to",
     "fabet.tv",
     "fabet.us",
     "fabet.vip",
@@ -10805,6 +10826,7 @@
     "img.fabet.me",
     "img.fabet.us",
     "img.fabet.vip",
+    "pt1.fabet.win",
     "static.fabet.cc",
     "static.fabet.com",
     "static.fabet.us",
@@ -27067,14 +27089,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "new88011.com",
-    "www.new88011.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "new8803.com"
    ]
   },
@@ -29453,6 +29467,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "saigonbet.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sam86vip.org",
     "sam86vip.pro",
     "sam86vip.tv",
@@ -29846,6 +29867,7 @@
     "sin88.cc",
     "sin88.club",
     "sin88.mobi",
+    "sin88.mx",
     "sin88.uk",
     "sin88.us",
     "sin88.vip",
@@ -33164,6 +33186,7 @@
    "remote-domains": [
     "k1.uk88.top",
     "k2.uk88.top",
+    "uk88.com",
     "uk88.top"
    ]
   },
@@ -33613,7 +33636,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vegas79.casino"
+    "vegas79.casino",
+    "vegas79.group"
    ]
   },
   {
@@ -33980,6 +34004,14 @@
     "vipclub.homes",
     "vipclub.makeup",
     "vipclub.so"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "viprik.pro",
+    "wp.viprik.pro"
    ]
   },
   {
