@@ -4292,6 +4292,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bancakings.com",
+    "www.bancakings.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bancalucky88.com"
    ]
   },
@@ -12371,7 +12379,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "go99.pro"
+    "go99.pro",
+    "go99.red"
    ]
   },
   {
@@ -24440,7 +24449,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "kuwin.bet"
+    "kuwin.bet",
+    "kuwin.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "kuwinvip.com"
    ]
   },
   {

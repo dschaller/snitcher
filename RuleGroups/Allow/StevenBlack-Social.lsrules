@@ -2965,7 +2965,63 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "t.co",
+    "accounts.snapchat.com",
+    "api-kit.snapchat.com",
+    "app.snapchat.com",
+    "asia-southeast1-gcp.api.snapchat.com",
+    "aws.api.snapchat.com",
+    "aws-cf.api.snapchat.com",
+    "aws.duplex.snapchat.com",
+    "aws-proxy-gcp.api.snapchat.com",
+    "bitmoji.api.snapchat.com",
+    "chat-gateway-prod.chat.snapchat.com",
+    "click.snapchat.com",
+    "direct-response-gcp.api.snapchat.com",
+    "europe-west1-gcp.api.snapchat.com",
+    "gcp.api.snapchat.com",
+    "help.snapchat.com",
+    "hoops.games.snapchat.com",
+    "intg.snapchat.com",
+    "jaguar-prod.snapchat.com",
+    "lens.games.snapchat.com",
+    "lens.snapchat.com",
+    "link.snapchat.com",
+    "mvm.snapchat.com",
+    "premium-stories.snapchat.com",
+    "pro-accounts.snapchat.com",
+    "pro-stories.snapchat.com",
+    "share.snapchat.com",
+    "shows.snapchat.com",
+    "sks.snapchat.com",
+    "snapchat.com",
+    "staging-us-east1-aws.api.snapchat.com",
+    "static.snapchat.com",
+    "story.snapchat.com",
+    "support.snapchat.com",
+    "topic-sticker-vending.snapchat.com",
+    "t.snapchat.com",
+    "usc1-gcp-v61.api.snapchat.com",
+    "usc1-gcp-v62.api.snapchat.com",
+    "us-central1-gcp.api.snapchat.com",
+    "use4-gcp-v4.api.snapchat.com",
+    "use4-gcp-v6.api.snapchat.com",
+    "us-east1-aws-acc.api.snapchat.com",
+    "us-east1-aws-acc-test.api.snapchat.com",
+    "us-east1-aws.api.snapchat.com",
+    "us-east1-aws-cf.api.snapchat.com",
+    "us-east1-aws.gateway.snapchat.com",
+    "us-east-1-bitmoji.api.snapchat.com",
+    "us-east4-gcp.api.snapchat.com",
+    "us-east4-gcp-ineg.api.snapchat.com",
+    "webattachments.snapchat.com",
+    "web.snapchat.com",
+    "www.snapchat.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "www.t.co"
    ]
   },
@@ -3281,8 +3337,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "p16-pu-sign-ie.tiktokcdn-eu.com",
+    "p19-pu-ie.tiktokcdn-eu.com",
     "tiktokcdn-eu.com",
-    "tiktokcdn-eu.net"
+    "tiktokcdn-eu.net",
+    "v16m.tiktokcdn-eu.com",
+    "v39.tiktokcdn-eu.com",
+    "v58.tiktokcdn-eu.com"
    ]
   },
   {
@@ -3296,6 +3357,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "p16-sign.tiktokcdn-us.com",
+    "p16.tiktokcdn-us.com",
+    "p19-sign.tiktokcdn-us.com",
     "tiktokcdn-us.com"
    ]
   },
@@ -3367,11 +3431,13 @@
     "mcs-sg.tiktokv.com",
     "mcs-va-useast2a.tiktokv.com",
     "rtlog.tiktokv.com",
+    "search16-normal-useast2a.tiktokv.com",
     "sdfp-va.tiktokv.com",
     "tiktokv.com",
     "tiktokv.eu",
     "tiktokv.us",
     "verification-va.tiktokv.com",
+    "webcast16-normal-c-useast2a.tiktokv.com",
     "xlog-va.tiktokv.com",
     "xlog.tiktokv.com"
    ]
