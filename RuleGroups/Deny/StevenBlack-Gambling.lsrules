@@ -24951,6 +24951,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lode555.co",
     "lode555.com",
     "www.lode555.com"
    ]
@@ -33861,6 +33862,13 @@
     "wager.vietbet.eu",
     "webdev.vietbet.eu",
     "www.vietbet.eu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vietlott66.com"
    ]
   },
   {
