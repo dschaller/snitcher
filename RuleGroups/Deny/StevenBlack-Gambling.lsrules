@@ -400,11 +400,16 @@
    "remote-domains": [
     "11bet.club",
     "11bet.com",
+    "11bet.fun",
+    "11bet.in",
     "11bet.life",
     "11bet.mobi",
+    "11bet.mx",
     "11bet.net",
     "11bet.online",
     "11bet.org",
+    "11bet.pro",
+    "11bet.uk",
     "11bet.us",
     "11bet.vin",
     "11bet.win",
@@ -3031,6 +3036,7 @@
     "8live.club",
     "8live.com",
     "8live.fun",
+    "8live.mobi",
     "8live.net",
     "8live.top",
     "8live.us",
@@ -6567,6 +6573,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bons.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "book247.eu",
     "www.book247.eu"
    ]
@@ -6927,6 +6940,15 @@
    "remote-domains": [
     "cadomienphi.com",
     "cadomienphi.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cadovn.biz",
+    "cadovn.com",
+    "cadovn.pro"
    ]
   },
   {
@@ -7313,6 +7335,13 @@
    "remote-domains": [
     "cc898.com",
     "www.cc898.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cdvn.vip"
    ]
   },
   {
@@ -8158,6 +8187,13 @@
    "remote-domains": [
     "coolbet.com",
     "www.coolbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "coopbet.com"
    ]
   },
   {
@@ -9261,6 +9297,13 @@
    "remote-domains": [
     "dagacampuchia.com",
     "dagacampuchia.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagachoi.tv"
    ]
   },
   {
@@ -10790,9 +10833,11 @@
    "process": "any",
    "remote-domains": [
     "dl.fa88.win",
+    "fa88.tv",
     "fa88.win",
     "play.fa88.win",
-    "tai.fa88.win"
+    "tai.fa88.win",
+    "v.fa88.tv"
    ]
   },
   {
@@ -11322,6 +11367,8 @@
     "five88.com",
     "five88.me",
     "five88.net",
+    "five88.top",
+    "five88.vin",
     "five88.win",
     "m.five88.com",
     "m.five88.me",
@@ -12266,9 +12313,11 @@
     "go88.info",
     "go88.live",
     "go88.luxury",
+    "go88.org",
     "go88.study",
     "go88.tv",
     "go88.vip",
+    "i.go88.org",
     "play.go88.club",
     "play.go88.im",
     "play.go88.tv",
@@ -12949,6 +12998,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hcm66.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "heavenbet.com",
     "www.heavenbet.com"
    ]
@@ -13411,6 +13467,13 @@
     "api.i8bet.org",
     "i8bet.org",
     "www.i8bet.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9.bet"
    ]
   },
   {
@@ -14223,6 +14286,13 @@
    "process": "any",
    "remote-domains": [
     "i9i9bet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i9vn.com"
    ]
   },
   {
@@ -23754,6 +23824,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "kc8.link"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "kc99.vin"
    ]
   },
@@ -24480,6 +24557,13 @@
    "process": "any",
    "remote-domains": [
     "lambada-tx1app.fun"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lamgiau99.club"
    ]
   },
   {
@@ -26097,11 +26181,13 @@
    "remote-domains": [
     "img.may88.club",
     "img.may88.com",
+    "img.may88.game",
     "img.may88.top",
     "img.may88.us",
     "may88.club",
     "may88.com",
     "may88.fun",
+    "may88.game",
     "may88.top",
     "may88.us",
     "may88.vip",
@@ -26955,6 +27041,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "na99.city",
+    "na99.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "naapptbwf.com"
    ]
   },
@@ -27075,6 +27169,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "net88.vip",
     "origin.net88.asia"
    ]
   },
@@ -27803,6 +27898,7 @@
     "f1.one88.me",
     "f1.one88.vin",
     "f1.one88.win",
+    "one88.cc",
     "one88.club",
     "one88.com",
     "one88.fun",
@@ -28003,6 +28099,7 @@
     "oxbet.cc",
     "oxbet.club",
     "oxbet.com",
+    "oxbet.in",
     "oxbet.net",
     "oxbet.top",
     "oxbet.us",
@@ -28303,6 +28400,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dk.playgem.club",
+    "playgem.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "playgo88.asia",
     "playgo88.top"
    ]
@@ -28550,6 +28655,13 @@
     "pp88.dev",
     "pp88.icu",
     "www.pp88.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "prettygame666.com"
    ]
   },
   {
@@ -28969,6 +29081,7 @@
     "m.red88.com",
     "red88.com",
     "red88.top",
+    "red88.tv",
     "red88.uk",
     "red88.us",
     "red88.vin",
@@ -29101,6 +29214,14 @@
    "process": "any",
    "remote-domains": [
     "rik6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "play.rik88.life",
+    "rik88.life"
    ]
   },
   {
@@ -31445,6 +31566,7 @@
     "t1.ta88.vip",
     "t2.ta88.com",
     "ta88.com",
+    "ta88.org",
     "ta88.vip"
    ]
   },
@@ -34301,6 +34423,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vn86.shop",
+    "www.vn86.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "affiliate.vn88.com",
     "m.vn88.com",
     "upanh.vn88.com",
@@ -35171,7 +35301,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vz99.app"
+    "vz99.app",
+    "vz99.ws"
    ]
   },
   {
@@ -36433,7 +36564,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "xoso66.io"
+    "xoso66.com",
+    "xoso66.info",
+    "xoso66.io",
+    "xoso66.life",
+    "xoso66.me",
+    "xoso66.men",
+    "xoso66.one",
+    "xoso66.org"
    ]
   },
   {
@@ -36699,6 +36837,7 @@
     "z3.zbet.com",
     "z3.zbet.vn",
     "zbet.com",
+    "zbet.fun",
     "zbet.me",
     "zbet.vn",
     "zbet.win"
