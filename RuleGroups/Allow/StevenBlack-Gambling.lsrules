@@ -4169,6 +4169,7 @@
    "remote-domains": [
     "b52.me",
     "b52.mobi",
+    "b52.vin",
     "b52.vip",
     "b52.win",
     "bo.b52.win",
@@ -7633,6 +7634,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ad.choigo88.run",
+    "choigo88.run"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "choihay.vip"
    ]
   },
@@ -7665,7 +7674,9 @@
    "process": "any",
    "remote-domains": [
     "ad.choingay11b.mobi",
-    "choingay11b.mobi"
+    "ad.choingay11b.vin",
+    "choingay11b.mobi",
+    "choingay11b.vin"
    ]
   },
   {
@@ -8171,6 +8182,14 @@
    "remote-domains": [
     "choi.conggamehot.fun",
     "conggamehot.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "conggiaitri.com",
+    "qc.conggiaitri.com"
    ]
   },
   {
@@ -9481,6 +9500,13 @@
     "login.dangkyrikvip.org",
     "vip.dangkyrikvip.me",
     "vip.dangkyrikvip.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dangkysanvip.site"
    ]
   },
   {
@@ -12315,9 +12341,11 @@
     "go88.luxury",
     "go88.org",
     "go88.study",
+    "go88.top",
     "go88.tv",
     "go88.vip",
     "i.go88.org",
+    "i.go88.top",
     "play.go88.club",
     "play.go88.im",
     "play.go88.tv",
@@ -13542,7 +13570,9 @@
     "i9bet.llc",
     "i9bet.net",
     "i9bet.poker",
-    "i9bet.vip"
+    "i9bet.tw",
+    "i9bet.vip",
+    "m.i9bet.tw"
    ]
   },
   {
@@ -15605,6 +15635,13 @@
    "remote-domains": [
     "jbo806.com",
     "www.jbo806.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jbodangki.com"
    ]
   },
   {
@@ -26279,21 +26316,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "me88vn1.com",
-    "www.me88vn1.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "me88vn2.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "mec68.com"
    ]
   },
@@ -27225,13 +27247,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "new88111.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "api.new8884.com",
     "new8884.com"
    ]
@@ -27498,6 +27513,13 @@
    "process": "any",
    "remote-domains": [
     "noblebet.pl"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nohu.band"
    ]
   },
   {
@@ -28401,7 +28423,9 @@
    "process": "any",
    "remote-domains": [
     "dk.playgem.club",
-    "playgem.club"
+    "dk.playgem.me",
+    "playgem.club",
+    "playgem.me"
    ]
   },
   {
@@ -30891,6 +30915,7 @@
    "remote-domains": [
     "api.st666.win",
     "st666.bid",
+    "st666.solutions",
     "st666.tv",
     "st666.win",
     "www.st666.win"
@@ -31566,6 +31591,7 @@
     "t1.ta88.vip",
     "t2.ta88.com",
     "ta88.com",
+    "ta88.me",
     "ta88.org",
     "ta88.vip"
    ]
@@ -31699,6 +31725,13 @@
    "process": "any",
    "remote-domains": [
     "taigamehot.pro"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taigamengay.click"
    ]
   },
   {
@@ -32027,6 +32060,13 @@
    "process": "any",
    "remote-domains": [
     "taixiusunwin.games"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taizom1.fun"
    ]
   },
   {
@@ -34123,8 +34163,10 @@
    "process": "any",
    "remote-domains": [
     "lp.vip79.com",
+    "lp.vip79.uk",
     "play.vip79.com",
     "vip79.com",
+    "vip79.uk",
     "vip79.win"
    ]
   },
@@ -35962,12 +36004,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "i.win79.fun",
     "play.win79.vip",
     "tai.win79.pro",
     "tai.win79.vip",
     "win79.app",
     "win79.com",
     "win79.download",
+    "win79.fun",
     "win79.live",
     "win79.pro",
     "win79.site",
@@ -36920,6 +36964,14 @@
    "remote-domains": [
     "www.zodiacu.com",
     "zodiacu.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "play.zom8.club",
+    "zom8.club"
    ]
   },
   {
