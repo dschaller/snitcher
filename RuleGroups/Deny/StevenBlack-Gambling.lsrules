@@ -1723,6 +1723,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "68gamebai.social",
     "68gamebai.tel"
    ]
   },
@@ -1921,6 +1922,14 @@
    "process": "any",
    "remote-domains": [
     "777balls.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "777vnd.vip",
+    "m.777vnd.vip"
    ]
   },
   {
@@ -7715,7 +7724,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "choison.club"
+    "choison.club",
+    "choison.online"
    ]
   },
   {
@@ -7748,6 +7758,20 @@
     "choitet.vip",
     "dk.choitet.vip",
     "lp.choitet.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choithomo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choivuaclub55k.info"
    ]
   },
   {
@@ -31711,6 +31735,7 @@
    "remote-domains": [
     "taido99.net",
     "taido99.online",
+    "taido99.site",
     "taido99.win"
    ]
   },
@@ -31746,7 +31771,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "taigamengay.click"
+    "ad.taigamengay.digital",
+    "taigamengay.click",
+    "taigamengay.digital"
    ]
   },
   {
