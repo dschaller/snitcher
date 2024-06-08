@@ -4785,7 +4785,8 @@
     "betano.bg",
     "betano.cz",
     "betano.pt",
-    "www.betano.cz"
+    "www.betano.cz",
+    "www.betano.bg"
    ]
   },
   {
@@ -10694,6 +10695,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "everbet.bg"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "evobet.com",
     "www.evobet.com"
    ]
@@ -15552,6 +15560,13 @@
    "remote-domains": [
     "jackpotcity.com",
     "www.jackpotcity.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "jackpotpiraten.de"
    ]
   },
   {
@@ -28242,7 +28257,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "palmsbet.com"
+    "palmsbet.com",
+    "www.palmsbet.com"
    ]
   },
   {
@@ -28677,7 +28693,8 @@
     "www.pokerstars.cz",
     "www.pokerstars.eu",
     "www.pokerstars.uk",
-    "www.pokerstars.pt"
+    "www.pokerstars.pt",
+    "www.pokerstars.bg"
    ]
   },
   {
@@ -30287,6 +30304,13 @@
    "remote-domains": [
     "slbet.com",
     "www.slbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "slotino.bg"
    ]
   },
   {
@@ -32342,6 +32366,13 @@
     "www.thabet88.co",
     "www.thabet88.info",
     "www.thabet88.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "thaicasinosonline.net"
    ]
   },
   {
@@ -35977,7 +36008,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "wildz.com"
+    "wildz.com",
+    "wildz.de"
    ]
   },
   {
