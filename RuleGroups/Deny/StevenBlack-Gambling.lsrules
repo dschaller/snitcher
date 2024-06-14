@@ -6663,6 +6663,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bravo188.com",
+    "www.bravo188.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "browncowbingo.com",
     "www.browncowbingo.com"
    ]
@@ -9529,7 +9537,9 @@
     "dangkyrikvip.me",
     "dangkyrikvip.org",
     "dangkyrikvip.tv",
+    "dangkyrikvip.win",
     "login.dangkyrikvip.org",
+    "login.dangkyrikvip.win",
     "vip.dangkyrikvip.me",
     "vip.dangkyrikvip.tv"
    ]
@@ -9651,6 +9661,14 @@
     "socket.debet.win",
     "www.debet.com",
     "www.debet.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "debet79.info",
+    "wp.debet79.info"
    ]
   },
   {
@@ -12300,6 +12318,14 @@
    "remote-domains": [
     "giaitrinet88.live",
     "play.giaitrinet88.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ad.giaitriwin79.club",
+    "giaitriwin79.club"
    ]
   },
   {
@@ -29268,6 +29294,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "i.rik.vip",
     "rik.bet",
     "rik.club",
     "rik.fun",
@@ -34279,6 +34306,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ad.viprik.click",
+    "viprik.click",
     "viprik.pro",
     "wp.viprik.pro"
    ]
