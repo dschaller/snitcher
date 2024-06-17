@@ -7601,6 +7601,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choidabanh.com",
+    "qc.choidabanh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "choidon.club"
    ]
   },
@@ -9489,6 +9497,13 @@
    "process": "any",
    "remote-domains": [
     "daman2.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dangky789.link"
    ]
   },
   {
@@ -12593,6 +12608,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "god55.zone",
+    "www.god55.zone"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "god55viet.com",
     "www.god55viet.com"
    ]
@@ -13380,6 +13403,13 @@
    "process": "any",
    "remote-domains": [
     "hl8vn.fun"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hn8.link"
    ]
   },
   {
@@ -23961,6 +23991,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "keonhacai-fun88.com",
+    "www.keonhacai-fun88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "keonhacai3.com",
     "www.keonhacai3.com"
    ]
@@ -31823,6 +31861,8 @@
    "process": "any",
    "remote-domains": [
     "ad.taigamengay.digital",
+    "ads.taigamengay.biz",
+    "taigamengay.biz",
     "taigamengay.click",
     "taigamengay.digital"
    ]
@@ -34281,6 +34321,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lp.vip79gamebai.vip",
+    "vip79gamebai.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "m.vipbet001.org",
     "vipbet001.org",
     "www.vipbet001.org"
@@ -34651,6 +34699,13 @@
    "process": "any",
    "remote-domains": [
     "vn969.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vn999.club"
    ]
   },
   {
