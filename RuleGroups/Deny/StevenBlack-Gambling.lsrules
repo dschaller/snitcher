@@ -12920,6 +12920,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hay88.net",
+    "www.hay88.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hay8811.com",
     "www.hay8811.com"
    ]
@@ -24785,6 +24793,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ldp-sum.com",
+    "lobby.ldp-sum.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "leaguex.com"
    ]
   },
@@ -31871,6 +31887,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigameslotsumvip50k.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taigamesunwin.vin",
     "taigamesunwin.vip"
    ]
@@ -32622,6 +32645,14 @@
    "process": "any",
    "remote-domains": [
     "thethaovip.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dk.thethaovua.co",
+    "thethaovua.co"
    ]
   },
   {
