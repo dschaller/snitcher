@@ -7807,6 +7807,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ad.choiyo88.co",
+    "choiyo88.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "circlebet.com",
     "www.circlebet.com"
    ]
@@ -13317,7 +13325,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "hitclub.win"
+    "hitclub.top",
+    "hitclub.win",
+    "web.hitclub.top"
    ]
   },
   {
@@ -13326,6 +13336,14 @@
    "remote-domains": [
     "hititbet.com",
     "www.hititbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hitpro.run",
+    "qc.hitpro.run"
    ]
   },
   {
@@ -32588,6 +32606,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "qc.thethao88.vin",
+    "thethao88.vin"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "km.thethaob52.org",
     "thethaob52.org"
    ]
@@ -36820,6 +36846,14 @@
    "process": "any",
    "remote-domains": [
     "xoso6600.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "www.xoso66bongda.cyou",
+    "xoso66bongda.cyou"
    ]
   },
   {
