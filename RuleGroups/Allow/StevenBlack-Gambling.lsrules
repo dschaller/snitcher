@@ -4217,7 +4217,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b52vn.info",
     "b52vn.org",
+    "lp.b52vn.info",
     "play.b52vn.org",
     "tai.b52vn.fun"
    ]
