@@ -9513,7 +9513,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dangky789.link"
+    "ads.dangky789.sbs",
+    "dangky789.link",
+    "dangky789.sbs"
    ]
   },
   {
@@ -11529,6 +11531,13 @@
    "remote-domains": [
     "footballpools.com",
     "www.footballpools.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "for88.com"
    ]
   },
   {
@@ -29651,7 +29660,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "s26bet.bet"
+    "m.s26.lol",
+    "s26.lol",
+    "www.s26.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "s26bet.bet",
+    "s26bet.ltd",
+    "s26bet.org"
    ]
   },
   {
@@ -32681,6 +32701,14 @@
    "remote-domains": [
     "dk.thethaovua.co",
     "thethaovua.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bong.thethaowin.net",
+    "thethaowin.net"
    ]
   },
   {
