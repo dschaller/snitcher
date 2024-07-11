@@ -7143,6 +7143,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "casinoadmiral.lt",
+    "online.casinoadmiral.lt",
+    "www.casinoadmiral.lt"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "casinoae888.com"
    ]
   },
@@ -26225,6 +26234,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "manoloto.lt",
+    "www.manoloto.lt"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.mansion66.com",
     "mansion66.com",
     "www.mansion66.com"
@@ -33491,6 +33508,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "twinsbet.lt",
+    "www.twinsbet.lt"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tx1.vip"
    ]
   },
@@ -33625,6 +33650,17 @@
    "process": "any",
    "remote-domains": [
     "unibet-42.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "en.uniclub.lt",
+    "ru.uniclub.lt",
+    "sports2.uniclub.lt",
+    "uniclub.lt",
+    "www.uniclub.lt"
    ]
   },
   {
