@@ -401,6 +401,7 @@
     "11bet.club",
     "11bet.com",
     "11bet.fun",
+    "11bet.gg",
     "11bet.in",
     "11bet.life",
     "11bet.mobi",
@@ -1561,14 +1562,6 @@
     "558kbet.com",
     "api.558kbet.com",
     "www.558kbet.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "55qh88.com",
-    "www.55qh88.com"
    ]
   },
   {
@@ -2768,6 +2761,13 @@
    "process": "any",
    "remote-domains": [
     "88vin.zone"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "88vn.com"
    ]
   },
   {
@@ -6579,7 +6579,8 @@
    "process": "any",
    "remote-domains": [
     "bntv.bongvip.com",
-    "bongvip.com"
+    "bongvip.com",
+    "bongvip.onl"
    ]
   },
   {
@@ -9248,6 +9249,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "da88.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "api.dabet.club",
     "d1.dabet.club",
     "d2.dabet.me",
@@ -9687,6 +9695,7 @@
     "d1.debet.win",
     "d3.debet.info",
     "d3.debet.win",
+    "debet.bet",
     "debet.club",
     "debet.com",
     "debet.info",
@@ -16426,6 +16435,13 @@
    "process": "any",
    "remote-domains": [
     "k88019.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "k89bet.com"
    ]
   },
   {
@@ -25255,6 +25271,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lodegoc.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "lodevip.us"
    ]
   },
@@ -25768,6 +25791,7 @@
     "lucky88.club",
     "lucky88.com",
     "lucky88.fun",
+    "lucky88.in",
     "lucky88.live",
     "lucky88.net",
     "lucky88.online",
@@ -27300,6 +27324,7 @@
     "nbet.site",
     "nbet.top",
     "nbet.tv",
+    "nbet.uk",
     "nbet.vin",
     "nbet.vip",
     "nbet.win",
@@ -27937,6 +27962,16 @@
    "remote-domains": [
     "okcado.com",
     "okcado.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "okvip.life",
+    "okvip.pro",
+    "okvip.today",
+    "okvip.win"
    ]
   },
   {
@@ -29038,14 +29073,6 @@
    "remote-domains": [
     "qh235.com",
     "www.qh235.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "qh236.com",
-    "www.qh236.com"
    ]
   },
   {
@@ -30215,6 +30242,7 @@
     "sin88.biz",
     "sin88.cc",
     "sin88.club",
+    "sin88.mn",
     "sin88.mobi",
     "sin88.mx",
     "sin88.uk",
@@ -31791,6 +31819,7 @@
     "t1.ta88.com",
     "t1.ta88.vip",
     "t2.ta88.com",
+    "ta88.club",
     "ta88.com",
     "ta88.me",
     "ta88.org",
@@ -33140,6 +33169,7 @@
     "top88.me",
     "top88.uk",
     "top88.us",
+    "top88.vip",
     "top88.vn",
     "www.top88.club",
     "www.top88.fun"
@@ -33618,6 +33648,7 @@
    "remote-domains": [
     "k1.uk88.top",
     "k2.uk88.top",
+    "uk88.club",
     "uk88.com",
     "uk88.top"
    ]
@@ -34477,6 +34508,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vipgame.cloud"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ad.viprik.click",
     "viprik.click",
     "viprik.pro",
@@ -35040,6 +35078,17 @@
    "process": "any",
    "remote-domains": [
     "vnrg5269.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnsodo.fun",
+    "vnsodo.live",
+    "vnsodo.me",
+    "vnsodo.mobi",
+    "vnsodo.us"
    ]
   },
   {
@@ -36207,6 +36256,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "wi88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "wildjackpots.com",
     "www.wildjackpots.com"
    ]
@@ -36688,7 +36744,9 @@
    "remote-domains": [
     "play.x8.club",
     "qc.x8.club",
+    "qc.x8.games",
     "x8.club",
+    "x8.games",
     "x8.vin"
    ]
   },
@@ -37180,6 +37238,7 @@
     "zbet.com",
     "zbet.fun",
     "zbet.me",
+    "zbet.tv",
     "zbet.vn",
     "zbet.win"
    ]
