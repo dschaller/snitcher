@@ -6580,7 +6580,9 @@
    "remote-domains": [
     "bntv.bongvip.com",
     "bongvip.com",
-    "bongvip.onl"
+    "bongvip.onl",
+    "bongvip.website",
+    "dk.bongvip.website"
    ]
   },
   {
@@ -11396,7 +11398,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fi88.app",
     "fi88.club",
+    "fi88.com",
     "fi88.vip"
    ]
   },
@@ -11678,6 +11682,14 @@
    "remote-domains": [
     "fun-bet.com",
     "www.fun-bet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fun-dangki.com",
+    "www.fun-dangki.com"
    ]
   },
   {
@@ -13526,6 +13538,15 @@
    "remote-domains": [
     "horizonsports.es",
     "www.horizonsports.es"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "horse79.live",
+    "play.horse79.live",
+    "tai.horse79.live"
    ]
   },
   {
@@ -31934,6 +31955,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taidonclub4.city"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taigame789.club"
    ]
   },
@@ -32220,6 +32248,13 @@
     "taixiu.taisum2.com",
     "taixiumd5.taisum2.com",
     "taixiumd5dg.taisum2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taisumvip6.city"
    ]
   },
   {
@@ -33171,6 +33206,7 @@
     "top88.us",
     "top88.vip",
     "top88.vn",
+    "web.top88.vip",
     "www.top88.club",
     "www.top88.fun"
    ]
@@ -33647,10 +33683,12 @@
    "process": "any",
    "remote-domains": [
     "k1.uk88.top",
+    "k1.uk88.vip",
     "k2.uk88.top",
     "uk88.club",
     "uk88.com",
-    "uk88.top"
+    "uk88.top",
+    "uk88.vip"
    ]
   },
   {
