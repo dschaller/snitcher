@@ -7623,6 +7623,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choidebet.biz",
+    "play.choidebet.biz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "choidon.club"
    ]
   },
@@ -13739,6 +13747,7 @@
     "i9bet.bet",
     "i9bet.com",
     "i9bet.llc",
+    "i9bet.me",
     "i9bet.net",
     "i9bet.poker",
     "i9bet.tw",
@@ -32883,6 +32892,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tienlenpoker.fun"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tin010.com",
     "www.tin010.com"
    ]
@@ -34116,7 +34132,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vb777.co"
+    "vb777.co",
+    "vb777.top"
    ]
   },
   {
