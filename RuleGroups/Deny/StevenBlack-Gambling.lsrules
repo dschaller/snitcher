@@ -4176,6 +4176,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b52.game",
     "b52.me",
     "b52.mobi",
     "b52.vin",
