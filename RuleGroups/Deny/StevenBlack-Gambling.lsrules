@@ -34108,6 +34108,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "qc.vaobet.club",
+    "vaobet.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vaoku.net"
    ]
   },
