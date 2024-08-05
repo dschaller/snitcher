@@ -9541,6 +9541,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dangky388bet.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ads.dangky789.sbs",
     "dangky789.link",
     "dangky789.sbs"
@@ -29881,6 +29888,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sam86.zone",
+    "tai.sam86.zone"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sam86vip.org",
     "sam86vip.pro",
     "sam86vip.tv",
@@ -31322,6 +31337,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sum.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "play.sum27.club",
+    "sum27.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "play.sum4.club",
     "sum4.club"
    ]
@@ -31332,6 +31362,13 @@
    "remote-domains": [
     "play.sum5.club",
     "sum5.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sumclub1.xyz"
    ]
   },
   {
@@ -34529,9 +34566,12 @@
    "remote-domains": [
     "lp.vip79.com",
     "lp.vip79.uk",
+    "lp.vip79.vip",
     "play.vip79.com",
+    "play.vip79.vip",
     "vip79.com",
     "vip79.uk",
+    "vip79.vip",
     "vip79.win"
    ]
   },
