@@ -4229,8 +4229,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b69.bar",
     "b69.cafe",
-    "b69.city"
+    "b69.city",
+    "tai.b69.bar"
    ]
   },
   {
@@ -6113,6 +6115,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bj88.games"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bj88vietnam.com"
    ]
   },
@@ -7589,6 +7598,14 @@
    "process": "any",
    "remote-domains": [
     "choi77.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "choi789.link",
+    "km.choi789.link"
    ]
   },
   {
@@ -12571,6 +12588,13 @@
    "remote-domains": [
     "go88s.tv",
     "play.go88s.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "go88tv.win"
    ]
   },
   {
@@ -27839,6 +27863,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "appstore.nosap.win",
+    "nosap.win",
+    "play.nosap.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "nossaaposta.pt"
    ]
   },
@@ -27992,6 +28025,13 @@
    "process": "any",
    "remote-domains": [
     "ojr6n.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ok388.tv"
    ]
   },
   {
@@ -29532,8 +29572,11 @@
    "remote-domains": [
     "ad.rikvip.uk",
     "lp.rikvip.tv",
+    "play.rikvip.services",
     "play.rikvip.tv",
     "rikvip.fun",
+    "rikvip.property",
+    "rikvip.services",
     "rikvip.tv",
     "rikvip.uk",
     "rikvip.us",
@@ -29939,6 +29982,14 @@
    "remote-domains": [
     "ios.sanvip.club",
     "sanvip.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "saowin.ink",
+    "saowin.plus"
    ]
   },
   {
@@ -31407,7 +31458,9 @@
    "remote-domains": [
     "sun52.bid",
     "sun52.click",
+    "sun52.cloud",
     "sun52.fun",
+    "sun52.link",
     "sun52.live",
     "sun52.site",
     "sun52.tv"
@@ -31947,8 +32000,10 @@
    "remote-domains": [
     "game.taib52.com",
     "play.taib52.com",
+    "taib52.bet",
     "taib52.club",
     "taib52.com",
+    "taib52.dev",
     "taib52.vin",
     "www.taib52.vin"
    ]
@@ -32165,7 +32220,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taimanclub.app",
     "taimanclub.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "taimanvip.vip"
    ]
   },
   {
@@ -32308,6 +32371,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "taisun52.fun",
     "taisun52.live"
    ]
   },
@@ -37432,6 +37496,14 @@
    "remote-domains": [
     "play.zom8.club",
     "zom8.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dk.zoplay.top",
+    "zoplay.top"
    ]
   },
   {
