@@ -4162,7 +4162,9 @@
    "process": "any",
    "remote-domains": [
     "b29.bet",
-    "b29.cafe"
+    "b29.cafe",
+    "b29.pub",
+    "tai.b29.pub"
    ]
   },
   {
@@ -4270,6 +4272,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "api.bachhoa88.com",
+    "bachhoa88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "bacty88.com"
    ]
   },
@@ -4299,6 +4309,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "banca.cc"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "banca-red88.top"
    ]
   },
@@ -4322,6 +4339,13 @@
    "process": "any",
    "remote-domains": [
     "bancalucky88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "bancarongdoi.com"
    ]
   },
   {
@@ -9446,6 +9470,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dagaok88.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dagatructiep.casino",
     "dagatructiep.io"
    ]
@@ -9756,6 +9787,13 @@
    "process": "any",
    "remote-domains": [
     "debet88.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "deca.bet"
    ]
   },
   {
@@ -24466,6 +24504,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ko66vip.casino",
+    "ko66vip.club",
+    "site.ko66vip.casino",
+    "site.ko66vip.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "krugerbets.com",
     "www.krugerbets.com"
    ]
@@ -25327,6 +25375,14 @@
     "lode88.vip",
     "m.lode88.vip",
     "smartpay.lode88.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lode88j.cc",
+    "reg.lode88j.cc"
    ]
   },
   {
@@ -28795,6 +28851,14 @@
    "remote-domains": [
     "playolg.ca",
     "www.playolg.ca"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lp.playrik79.site",
+    "playrik79.site"
    ]
   },
   {
@@ -32747,6 +32811,18 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ads1.thangto.one",
+    "ads2.thangto.one",
+    "ads3.thangto.one",
+    "ads4.thangto.one",
+    "ads5.thangto.one",
+    "thangto.one"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "thantai68.com"
    ]
   },
@@ -34497,6 +34573,13 @@
    "process": "any",
    "remote-domains": [
     "vietlott66.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vietnam35.com"
    ]
   },
   {
