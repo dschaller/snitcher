@@ -4178,6 +4178,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b369.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "b52.game",
     "b52.me",
     "b52.mobi",
@@ -26004,6 +26011,14 @@
    "process": "any",
    "remote-domains": [
     "luckyxoso.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "luky88.me",
+    "vao.luky88.me"
    ]
   },
   {
