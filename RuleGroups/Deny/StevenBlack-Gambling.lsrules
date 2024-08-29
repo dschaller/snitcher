@@ -11945,6 +11945,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ga939.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ga98.net"
    ]
   },
@@ -12478,6 +12485,7 @@
    "process": "any",
    "remote-domains": [
     "ad.giaitriwin79.club",
+    "fb.giaitriwin79.club",
     "giaitriwin79.club"
    ]
   },
@@ -33578,6 +33586,15 @@
    "remote-domains": [
     "topwin.cc",
     "www.topwin.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "topzo.com",
+    "topzo.vip",
+    "web.topzo.com"
    ]
   },
   {

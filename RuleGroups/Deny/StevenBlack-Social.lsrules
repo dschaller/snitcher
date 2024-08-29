@@ -3022,6 +3022,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "t.co",
     "www.t.co"
    ]
   },
