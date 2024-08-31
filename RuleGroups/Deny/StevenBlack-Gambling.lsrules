@@ -4471,6 +4471,21 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ben.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "benbet.app",
+    "benbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bepe88.website"
    ]
   },
@@ -7765,7 +7780,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "choiiwin79.fun"
+    "choiiwin79.fun",
+    "choiiwin79.vip",
+    "dk.choiiwin79.vip"
    ]
   },
   {
@@ -11939,6 +11956,13 @@
    "process": "any",
    "remote-domains": [
     "ga179.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ga836.com"
    ]
   },
   {
@@ -29848,6 +29872,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rr88.link",
+    "rr88.live",
+    "www.rr88.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "rs88.online"
    ]
   },
@@ -33592,7 +33625,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "s.topzo.club",
+    "topzo.club",
     "topzo.com",
+    "topzo.top",
     "topzo.vip",
     "web.topzo.com"
    ]
@@ -36666,6 +36702,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "i.win79.com",
     "i.win79.fun",
     "play.win79.vip",
     "tai.win79.pro",
