@@ -24571,6 +24571,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ko66.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ko66vip.casino",
     "ko66vip.club",
     "site.ko66vip.casino",
@@ -26907,6 +26914,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mk.support"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mlnnssapi.com"
    ]
   },
@@ -29143,6 +29157,14 @@
    "remote-domains": [
     "primeslots.com",
     "www.primeslots.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bk8.pro.vn",
+    "www.bk8.pro.vn"
    ]
   },
   {
@@ -31739,6 +31761,14 @@
    "remote-domains": [
     "superusacasino.com",
     "www.superusacasino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m.sure168.asia",
+    "sure168.asia"
    ]
   },
   {
@@ -37253,6 +37283,16 @@
    "process": "any",
    "remote-domains": [
     "xo88moi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "play.xocdia88.video",
+    "xocdia88.click",
+    "xocdia88.es",
+    "xocdia88.video"
    ]
   },
   {
