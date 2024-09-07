@@ -33816,6 +33816,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tructiepketqua.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "trungso.vip"
    ]
   },
@@ -37613,7 +37620,9 @@
    "process": "any",
    "remote-domains": [
     "yylive.top",
-    "yylive.tv"
+    "yylive.tv",
+    "yylive.vip",
+    "yylive.xyz"
    ]
   },
   {
