@@ -1652,6 +1652,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "6686.vn"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "6686vn76.com"
    ]
   },
@@ -6576,6 +6583,9 @@
    "remote-domains": [
     "affiliate.bong90.bet",
     "bong90.bet",
+    "bong90.com",
+    "bong90.life",
+    "bong90.tech",
     "resources.bong90.bet"
    ]
   },
@@ -9797,11 +9807,13 @@
     "d3.debet.info",
     "d3.debet.win",
     "debet.bet",
+    "debet.cc",
     "debet.club",
     "debet.com",
     "debet.info",
     "debet.net",
     "debet.top",
+    "debet.uk",
     "debet.win",
     "mkt.debet.com",
     "socket.debet.win",
@@ -12207,6 +12219,14 @@
    "remote-domains": [
     "gamerjackpot.com",
     "www.gamerjackpot.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gameta88.me",
+    "reg.gameta88.me"
    ]
   },
   {
@@ -32427,6 +32447,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.taingayking52.fun",
+    "taingayking52.fun"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "taiok88.app"
    ]
   },
@@ -34979,6 +35007,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vn.app"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vn123.me",
     "www.vn123.me"
    ]
@@ -35436,6 +35471,13 @@
    "process": "any",
    "remote-domains": [
     "vnn8d.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnon.app"
    ]
   },
   {
