@@ -398,6 +398,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "11bet.bz",
     "11bet.club",
     "11bet.com",
     "11bet.fun",
@@ -4202,6 +4203,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b52.club",
     "b52.game",
     "b52.me",
     "b52.mobi",
@@ -4981,9 +4983,9 @@
    "process": "any",
    "remote-domains": [
     "betclic.pl",
-    "betclic.pt",
     "en.betclic.com",
-    "www.betclic.com"
+    "www.betclic.com",
+    "betclic.pt"
    ]
   },
   {
@@ -5659,9 +5661,9 @@
    "process": "any",
    "remote-domains": [
     "betsafe.com",
-    "betsafe.lt",
     "promotions.betsafe.com",
     "www.betsafe.com",
+    "betsafe.lt",
     "www.betsafe.lt"
    ]
   },
@@ -5923,14 +5925,14 @@
    "remote-domains": [
     "betway.bg",
     "betway.com",
-    "betway.pt",
     "casino.betway.com",
     "livecasino.betway.com",
     "plus.betway.com",
     "poker.betway.com",
     "sports.betway.com",
     "vegas.betway.com",
-    "www.betway.com"
+    "www.betway.com",
+    "betway.pt"
    ]
   },
   {
@@ -6867,10 +6869,10 @@
    "process": "any",
    "remote-domains": [
     "bwin.com",
-    "bwin.pt",
     "livebetting.bwin.com",
     "sports.bwin.com",
-    "www.bwin.com"
+    "www.bwin.com",
+    "bwin.pt"
    ]
   },
   {
@@ -7737,6 +7739,14 @@
    "process": "any",
    "remote-domains": [
     "choigamedons.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choigametip.org",
+    "qc.choigametip.org"
    ]
   },
   {
@@ -9472,6 +9482,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "daga88z.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "daga999.live"
    ]
   },
@@ -9516,6 +9533,13 @@
    "process": "any",
    "remote-domains": [
     "dagaok88.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dagathomovn.info"
    ]
   },
   {
@@ -9814,6 +9838,7 @@
     "debet.net",
     "debet.top",
     "debet.uk",
+    "debet.us",
     "debet.win",
     "mkt.debet.com",
     "socket.debet.win",
@@ -12361,6 +12386,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gem.win",
+    "qc.gem.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gem1.win"
    ]
   },
@@ -14718,8 +14751,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "iforbet.cz",
     "iforbet.pl",
+    "iforbet.cz",
     "www.iforbet.cz"
    ]
   },
@@ -25586,12 +25619,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "loto.lt",
     "loto.mk",
     "loto.ro",
-    "www.loto.lt",
     "www.loto.mk",
-    "www.loto.ro"
+    "www.loto.ro",
+    "loto.lt",
+    "www.loto.lt"
    ]
   },
   {
@@ -28304,10 +28337,10 @@
    "remote-domains": [
     "olybet.com",
     "olybet.eu",
-    "olybet.lt",
-    "welcome.olybet.lt",
     "www.olybet.com",
     "www.olybet.eu",
+    "olybet.lt",
+    "welcome.olybet.lt",
     "www.olybet.lt"
    ]
   },
@@ -28477,8 +28510,8 @@
    "process": "any",
    "remote-domains": [
     "optibet.com",
-    "optibet.lt",
     "www.optibet.com",
+    "optibet.lt",
     "www.optibet.lt"
    ]
   },
@@ -28792,6 +28825,13 @@
    "remote-domains": [
     "piratespin.com",
     "www.piratespin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pixabay.com"
    ]
   },
   {
@@ -29783,6 +29823,14 @@
    "process": "any",
    "remote-domains": [
     "rikvip2.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rikvip8.win",
+    "vip.rikvip8.win"
    ]
   },
   {
@@ -32301,7 +32349,8 @@
     "ads.taigamengay.biz",
     "taigamengay.biz",
     "taigamengay.click",
-    "taigamengay.digital"
+    "taigamengay.digital",
+    "taigamengay.pw"
    ]
   },
   {
@@ -33228,6 +33277,13 @@
    "remote-domains": [
     "tin010.com",
     "www.tin010.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tip.club"
    ]
   },
   {
@@ -36689,6 +36745,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "wi88.top",
     "wi88.win"
    ]
   },
