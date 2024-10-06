@@ -6180,7 +6180,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "bj88.games"
+    "bj88.estate",
+    "bj88.games",
+    "bj88.vision"
    ]
   },
   {
@@ -12774,6 +12776,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "go99.green",
     "go99.pro",
     "go99.red"
    ]
@@ -13415,6 +13418,13 @@
    "remote-domains": [
     "heyspin.com",
     "www.heyspin.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hi88.gd"
    ]
   },
   {
@@ -16203,6 +16213,7 @@
    "process": "any",
    "remote-domains": [
     "api.jun88.tv",
+    "jun88.com",
     "jun88.tv"
    ]
   },
@@ -25191,6 +25202,20 @@
    "process": "any",
    "remote-domains": [
     "lgl9p.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lienhe22.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lienhe44.com"
    ]
   },
   {
