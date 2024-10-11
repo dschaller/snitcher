@@ -4983,9 +4983,9 @@
    "process": "any",
    "remote-domains": [
     "betclic.pl",
+    "betclic.pt",
     "en.betclic.com",
-    "www.betclic.com",
-    "betclic.pt"
+    "www.betclic.com"
    ]
   },
   {
@@ -5661,9 +5661,9 @@
    "process": "any",
    "remote-domains": [
     "betsafe.com",
+    "betsafe.lt",
     "promotions.betsafe.com",
     "www.betsafe.com",
-    "betsafe.lt",
     "www.betsafe.lt"
    ]
   },
@@ -5925,14 +5925,14 @@
    "remote-domains": [
     "betway.bg",
     "betway.com",
+    "betway.pt",
     "casino.betway.com",
     "livecasino.betway.com",
     "plus.betway.com",
     "poker.betway.com",
     "sports.betway.com",
     "vegas.betway.com",
-    "www.betway.com",
-    "betway.pt"
+    "www.betway.com"
    ]
   },
   {
@@ -6871,10 +6871,10 @@
    "process": "any",
    "remote-domains": [
     "bwin.com",
+    "bwin.pt",
     "livebetting.bwin.com",
     "sports.bwin.com",
-    "www.bwin.com",
-    "bwin.pt"
+    "www.bwin.com"
    ]
   },
   {
@@ -14770,8 +14770,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "iforbet.pl",
     "iforbet.cz",
+    "iforbet.pl",
     "www.iforbet.cz"
    ]
   },
@@ -25653,12 +25653,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "loto.lt",
     "loto.mk",
     "loto.ro",
+    "www.loto.lt",
     "www.loto.mk",
-    "www.loto.ro",
-    "loto.lt",
-    "www.loto.lt"
+    "www.loto.ro"
    ]
   },
   {
@@ -28371,10 +28371,10 @@
    "remote-domains": [
     "olybet.com",
     "olybet.eu",
-    "www.olybet.com",
-    "www.olybet.eu",
     "olybet.lt",
     "welcome.olybet.lt",
+    "www.olybet.com",
+    "www.olybet.eu",
     "www.olybet.lt"
    ]
   },
@@ -28544,8 +28544,8 @@
    "process": "any",
    "remote-domains": [
     "optibet.com",
-    "www.optibet.com",
     "optibet.lt",
+    "www.optibet.com",
     "www.optibet.lt"
    ]
   },
@@ -28859,13 +28859,6 @@
    "remote-domains": [
     "piratespin.com",
     "www.piratespin.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pixabay.com"
    ]
   },
   {
