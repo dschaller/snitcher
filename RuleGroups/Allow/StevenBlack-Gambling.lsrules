@@ -1293,6 +1293,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "33win.to"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "33win7.com"
    ]
   },
@@ -6182,6 +6189,7 @@
    "remote-domains": [
     "bj88.estate",
     "bj88.games",
+    "bj88.im",
     "bj88.vision"
    ]
   },
@@ -13408,6 +13416,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "i9.hethongxacthuc.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "heypoker.com",
     "www.heypoker.com"
    ]
@@ -13424,6 +13439,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hi88.chat",
     "hi88.gd"
    ]
   },
@@ -13889,7 +13905,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "i9.bet"
+    "i9.bet",
+    "i9.pro"
    ]
   },
   {
@@ -13897,14 +13914,6 @@
    "process": "any",
    "remote-domains": [
     "i9-bet.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "i99902.com",
-    "www.i99902.com"
    ]
   },
   {
@@ -24669,6 +24678,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ks.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ksbingo.com",
     "www.ksbingo.com"
    ]
@@ -26678,6 +26694,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "max88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "blog.maxbet.rs",
     "maxbet.one",
     "maxbet.website",
@@ -27689,6 +27712,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "net88.ac",
+    "net88.tv",
     "net88.vip",
     "origin.net88.asia"
    ]
@@ -27714,8 +27739,10 @@
    "process": "any",
    "remote-domains": [
     "new88.ai",
+    "new88.fo",
     "new88.love",
-    "new88.tips"
+    "new88.tips",
+    "new88.today"
    ]
   },
   {
@@ -29450,6 +29477,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "qh99.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "qq101.com"
    ]
   },
@@ -30951,6 +30985,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "soc88.com",
     "soc88.uk",
     "sport.soc88.uk"
    ]
@@ -37671,11 +37706,14 @@
    "process": "any",
    "remote-domains": [
     "ad.yo88.net",
+    "ad.yo88.tv",
     "ad.yo88.win",
     "play.yo88.net",
     "play.yo88.win",
+    "web.yo88.tv",
     "www.yo88.net",
     "yo88.net",
+    "yo88.tv",
     "yo88.win"
    ]
   },
