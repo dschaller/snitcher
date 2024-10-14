@@ -26000,6 +26000,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "lu88.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "luciu.shop"
    ]
   },
@@ -37412,14 +37419,6 @@
    "remote-domains": [
     "www.xinweide.com",
     "xinweide.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "888b.xkiosx.xyz",
-    "xkiosx.xyz"
    ]
   },
   {
