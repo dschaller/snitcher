@@ -1154,6 +1154,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "2q.team"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "2winbet.gr",
     "www.2winbet.gr"
    ]
@@ -24334,6 +24341,14 @@
    "remote-domains": [
     "keyarena.gg",
     "www.keyarena.gg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "khamphasampham.cc",
+    "thanhnien.khamphasampham.cc"
    ]
   },
   {
