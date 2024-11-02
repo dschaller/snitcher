@@ -4227,6 +4227,7 @@
     "bo.b52.win",
     "game.b52.me",
     "game.b52.win",
+    "i.b52.club",
     "play.b52.mobi",
     "play.b52.win",
     "qc.b52.win",
@@ -7763,7 +7764,8 @@
    "process": "any",
    "remote-domains": [
     "choigametip.org",
-    "qc.choigametip.org"
+    "qc.choigametip.org",
+    "web.choigametip.org"
    ]
   },
   {
@@ -9381,6 +9383,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ad.da88vn.win",
     "da88vn.win",
     "lp.da88vn.win"
    ]
@@ -27993,6 +27996,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "nhat9.vip",
+    "v.nhat9.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "nhatvip.mobi",
     "nhatvip.org",
     "nhatvip.us",
@@ -29101,6 +29112,13 @@
    "remote-domains": [
     "lp.playrik79.site",
     "playrik79.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "playson.link"
    ]
   },
   {
@@ -30634,6 +30652,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "lp.sieub52.vip",
+    "sieub52.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sieubomtan.com"
    ]
   },
@@ -31277,6 +31303,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.son8.club",
+    "son8.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "speedybet.com",
     "www.speedybet.com"
    ]
@@ -31736,6 +31770,13 @@
    "remote-domains": [
     "play.sum27.club",
     "sum27.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sum30.club"
    ]
   },
   {
