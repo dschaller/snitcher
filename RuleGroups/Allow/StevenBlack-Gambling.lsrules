@@ -27702,6 +27702,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ne88.bet",
+    "news.ne88.bet"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mmwin.nearom.com",
     "nearom.com"
    ]
@@ -27747,6 +27755,8 @@
    "process": "any",
    "remote-domains": [
     "net88.ac",
+    "net88.men",
+    "net88.run",
     "net88.tv",
     "net88.vip",
     "origin.net88.asia"
