@@ -9863,6 +9863,7 @@
     "debet.cc",
     "debet.club",
     "debet.com",
+    "debet.fun",
     "debet.info",
     "debet.net",
     "debet.top",
@@ -13451,7 +13452,9 @@
    "process": "any",
    "remote-domains": [
     "hi88.chat",
-    "hi88.gd"
+    "hi88.de",
+    "hi88.gd",
+    "static.hi88.de"
    ]
   },
   {
@@ -24890,6 +24893,7 @@
     "kubet.ac",
     "kubet.ai",
     "kubet.biz",
+    "kubet.fo",
     "kubet.gg",
     "kubet.kim",
     "kubet.life",
@@ -27106,6 +27110,15 @@
    "remote-domains": [
     "mobocasino.com",
     "www.mobocasino.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "api.mocbai.cc",
+    "mocbai.cc",
+    "www.mocbai.cc"
    ]
   },
   {
@@ -34710,6 +34723,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vb88.com",
+    "vb88.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vbet.com",
     "www.vbet.com"
    ]
@@ -35441,6 +35462,7 @@
     "vn88.casino",
     "vn88.club",
     "vn88.com",
+    "vn88.fun",
     "vn88.io",
     "vn88.mobi",
     "www.vn88.bet",
