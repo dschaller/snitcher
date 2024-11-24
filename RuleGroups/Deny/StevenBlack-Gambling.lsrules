@@ -756,6 +756,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "188bet.pro",
     "188bet.com",
     "www.188bet.com"
    ]
@@ -2066,7 +2067,8 @@
    "process": "any",
    "remote-domains": [
     "789bet.com",
-    "789bet.run"
+    "789bet.run",
+    "789bet.vip"
    ]
   },
   {
@@ -2180,6 +2182,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "789vg.net",
+    "789vg.pro",
+    "789vg.today",
+    "789vg.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "789winchan.com"
    ]
   },
@@ -2228,6 +2240,13 @@
    "remote-domains": [
     "799999.cc",
     "www.799999.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "79king.wtf"
    ]
   },
   {
@@ -3384,6 +3403,13 @@
    "process": "any",
    "remote-domains": [
     "9b992.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "9bet.net"
    ]
   },
   {
@@ -8274,6 +8300,7 @@
    "process": "any",
    "remote-domains": [
     "gamebaidoithuong.com.mx",
+    "miso88.com.ph",
     "acttab.com.au",
     "betezy.com.au",
     "betfair.com.au",
@@ -9740,7 +9767,8 @@
    "remote-domains": [
     "ads.dangky789.sbs",
     "dangky789.link",
-    "dangky789.sbs"
+    "dangky789.sbs",
+    "dangky789.vin"
    ]
   },
   {
@@ -12347,6 +12375,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gameiwin68.app",
+    "gameiwin68.link"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gamek8club.com"
    ]
   },
@@ -12708,6 +12744,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gk88.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "glimmercasino.com",
     "www.glimmercasino.com"
    ]
@@ -12769,6 +12812,7 @@
     "go88.cam",
     "go88.club",
     "go88.com",
+    "go88.contractors",
     "go88.im",
     "go88.info",
     "go88.live",
@@ -13707,12 +13751,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hitclub.blue",
     "hitclub.cafe",
     "hitclub.com",
     "hitclub.salon",
     "hitclub.top",
     "hitclub.vin",
     "hitclub.win",
+    "play.hitclub.blue",
     "web.hitclub.top"
    ]
   },
@@ -14028,6 +14074,13 @@
     "api.i8bet.org",
     "i8bet.org",
     "www.i8bet.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i8fun.cc"
    ]
   },
   {
@@ -15194,6 +15247,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "iwinclub.agency",
     "iwinclub.onl",
     "iwinclub.win"
    ]
@@ -16352,6 +16406,7 @@
    "process": "any",
    "remote-domains": [
     "api.jun88.tv",
+    "jun88.buzz",
     "jun88.com",
     "jun88.tv"
    ]
@@ -16378,6 +16433,13 @@
    "process": "any",
    "remote-domains": [
     "jun88k.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jun88trangchu.net"
    ]
   },
   {
@@ -25003,6 +25065,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ku88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ku888.one"
    ]
   },
@@ -26162,7 +26231,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "lu88.co"
+    "image.lu88.co",
+    "lu88.co",
+    "lu88.com",
+    "static.lu88.com"
    ]
   },
   {
@@ -26943,6 +27015,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mb66.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "mb88.bet",
     "mb88.com",
     "www.mb88.bet",
@@ -27173,11 +27252,41 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "miso88.bet",
+    "miso88.boats",
+    "miso88.bz",
+    "miso88.cam",
+    "miso88.center",
     "miso88.com",
+    "miso88.cool",
+    "miso88.de",
+    "miso88.email",
+    "miso88.fit",
+    "miso88.homes",
+    "miso88.ink",
+    "miso88.io",
+    "miso88.life",
+    "miso88.love",
+    "miso88.ltd",
+    "miso88.my",
     "miso88.net",
+    "miso88.nl",
     "miso88.org",
+    "miso88.pics",
     "miso88.red",
-    "miso88.site"
+    "miso88.review",
+    "miso88.site",
+    "miso88.store",
+    "miso88.watch",
+    "miso88.work",
+    "miso88.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "miso88e.com"
    ]
   },
   {
@@ -27897,6 +28006,15 @@
     "play.nemo.vin",
     "web.nemo.vin",
     "www.nemo.vin"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "neo79.org",
+    "neo79.space",
+    "neo79.us"
    ]
   },
   {
@@ -30436,6 +30554,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sa88.fans",
+    "sa88.ltd",
+    "sa88.my"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "saartoto.de",
     "www.saartoto.de"
    ]
@@ -31290,6 +31417,7 @@
    "process": "any",
    "remote-domains": [
     "api.sodo.host",
+    "sodo.bond",
     "sodo.host",
     "www.sodo.host"
    ]
@@ -31373,6 +31501,8 @@
    "remote-domains": [
     "sodo66.app",
     "sodo66.com",
+    "sodo66.game",
+    "sodo66.tours",
     "www.sodo66.app"
    ]
   },
@@ -32673,6 +32803,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "taigameiwin68.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ad.taigamengay.digital",
     "ads.taigamengay.biz",
     "taigamengay.biz",
@@ -32694,6 +32831,13 @@
    "remote-domains": [
     "taigamesunwin.vin",
     "taigamesunwin.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taigameviet.mobi"
    ]
   },
   {
@@ -33756,6 +33900,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tk88.family",
+    "tk88.game",
     "tk88.in",
     "tk88.la",
     "tk88.rocks",
@@ -35262,6 +35408,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vin88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vin999.fun"
    ]
   },
@@ -35396,6 +35549,14 @@
     "viprik.click",
     "viprik.pro",
     "wp.viprik.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vipsodo.info",
+    "vipsodo.top"
    ]
   },
   {
@@ -36120,8 +36281,25 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vuabet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.vuabet88.org",
-    "vuabet88.org"
+    "vuabet88.agency",
+    "vuabet88.app",
+    "vuabet88.cloud",
+    "vuabet88.cx",
+    "vuabet88.dev",
+    "vuabet88.gold",
+    "vuabet88.ist",
+    "vuabet88.name",
+    "vuabet88.org",
+    "vuabet88.pro",
+    "vuabet88.shop"
    ]
   },
   {
@@ -37449,6 +37627,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "winvn.app",
+    "winvn.bet",
+    "winvn.club",
     "winvn.vip"
    ]
   },
@@ -37466,14 +37647,6 @@
    "remote-domains": [
     "winvn15.com",
     "www.winvn15.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "winvn16.com",
-    "www.winvn16.com"
    ]
   },
   {
