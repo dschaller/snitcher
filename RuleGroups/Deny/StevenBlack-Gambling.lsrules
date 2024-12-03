@@ -6898,6 +6898,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bumvip.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bustabit.com"
    ]
   },
@@ -7974,6 +7981,14 @@
    "process": "any",
    "remote-domains": [
     "choithomo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choivin88.us",
+    "km.choivin88.us"
    ]
   },
   {
@@ -30101,6 +30116,13 @@
    "process": "any",
    "remote-domains": [
     "www.registerigkbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rehonnua.org"
    ]
   },
   {
