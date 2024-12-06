@@ -9462,7 +9462,8 @@
    "process": "any",
    "remote-domains": [
     "da88.com",
-    "da88.pro"
+    "da88.pro",
+    "da88.win"
    ]
   },
   {
@@ -28038,6 +28039,7 @@
    "process": "any",
    "remote-domains": [
     "net88.ac",
+    "net88.day",
     "net88.men",
     "net88.run",
     "net88.tv",
@@ -37921,6 +37923,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "xibet.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.xingtou888.com",
     "xingtou888.com"
    ]
@@ -37982,6 +37991,13 @@
     "xo88.info",
     "xo88.us",
     "xo88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "xo88bet.com"
    ]
   },
   {
