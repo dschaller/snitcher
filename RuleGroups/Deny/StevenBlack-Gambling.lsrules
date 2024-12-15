@@ -554,6 +554,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "123phim.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "123win.pro",
     "www.123win.pro"
    ]
@@ -11030,7 +11037,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ev88.com"
+    "ev88.com",
+    "ev88.fun",
+    "ev88.vip"
    ]
   },
   {
@@ -25540,6 +25549,14 @@
    "process": "any",
    "remote-domains": [
     "linkbong88moinhat.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.linkchuanon.com",
+    "linkchuanon.com"
    ]
   },
   {
