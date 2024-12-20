@@ -1316,14 +1316,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "33win.com",
     "33win.to"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "33win7.com"
    ]
   },
   {
