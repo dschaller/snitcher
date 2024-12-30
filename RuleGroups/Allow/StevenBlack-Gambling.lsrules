@@ -8477,6 +8477,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "connhangheo.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "contorabet.com",
     "www.contorabet.com"
    ]
@@ -11375,7 +11382,9 @@
    "remote-domains": [
     "affiliate.fb88.com",
     "fb88.com",
+    "fb88.delivery",
     "fb88.link",
+    "fb88.top",
     "www.fb88.link"
    ]
   },
@@ -24911,6 +24920,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kong88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "krugerbets.com",
     "www.krugerbets.com"
    ]
@@ -27335,6 +27351,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mk.com",
     "mk.support"
    ]
   },
@@ -28671,6 +28688,13 @@
     "okvip.pro",
     "okvip.today",
     "okvip.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "okvv.co"
    ]
   },
   {
@@ -33813,6 +33837,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m.tinbongdaw88.com",
+    "tinbongdaw88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tip.club"
    ]
   },
@@ -33923,6 +33955,13 @@
    "remote-domains": [
     "tk326.com",
     "www.tk326.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tk66.com"
    ]
   },
   {
@@ -34353,6 +34392,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tourghepmienbac.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "toxicjackpot.com",
     "www.toxicjackpot.com"
    ]
@@ -34397,6 +34443,7 @@
    "process": "any",
    "remote-domains": [
     "trangchu.app",
+    "trangchu.life",
     "trangchu.vip"
    ]
   },
@@ -37772,6 +37819,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ww88.club"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ww88club.com",
     "www.ww88club.com"
    ]
@@ -38359,6 +38413,13 @@
    "process": "any",
    "remote-domains": [
     "z333666.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "zalomomo.com"
    ]
   },
   {
