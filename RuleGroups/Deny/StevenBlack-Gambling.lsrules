@@ -9964,6 +9964,7 @@
     "d3.debet.info",
     "d3.debet.win",
     "debet.bet",
+    "debet.bot",
     "debet.cc",
     "debet.club",
     "debet.com",
@@ -9976,6 +9977,7 @@
     "debet.us",
     "debet.win",
     "mkt.debet.com",
+    "socket.debet.uk",
     "socket.debet.win",
     "www.debet.com",
     "www.debet.info"
@@ -34608,6 +34610,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tx88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tydo88.com"
    ]
   },
@@ -35159,6 +35168,8 @@
    "process": "any",
    "remote-domains": [
     "vb777.co",
+    "vb777.com",
+    "vb777.pw",
     "vb777.top"
    ]
   },
@@ -35275,6 +35286,14 @@
    "remote-domains": [
     "m.vf678.com",
     "vf678.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tai.vf88.win",
+    "vf88.win"
    ]
   },
   {
@@ -38054,6 +38073,7 @@
     "xo88.com",
     "xo88.fun",
     "xo88.info",
+    "xo88.pro",
     "xo88.us",
     "xo88.win"
    ]
