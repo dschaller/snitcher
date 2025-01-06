@@ -7826,6 +7826,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ad.choigametip.org",
     "choigametip.org",
     "qc.choigametip.org",
     "web.choigametip.org"
