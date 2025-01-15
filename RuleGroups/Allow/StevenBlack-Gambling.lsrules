@@ -15210,11 +15210,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dangky.iwin.bio",
+    "iwin.bio",
     "iwin.club",
     "iwin.info",
     "iwin.net",
     "iwin.uk",
     "iwin.us",
+    "play.iwin.bio",
     "play.iwin.net",
     "www.iwin.us"
    ]
