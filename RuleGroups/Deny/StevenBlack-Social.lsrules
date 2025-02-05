@@ -6,8 +6,356 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "0-lx.0322131.xyz",
+    "0322131.xyz",
+    "www.0-lx.0322131.xyz",
+    "www.0322131.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ollx.07938473.xyz",
+    "www.ollx.07938473.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0-lx.090535422.xyz",
+    "www.0-lx.090535422.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted-cz.0rld3r-explover.biz",
+    "www.vinted-cz.0rld3r-explover.biz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "1websearch.com",
+    "www.1websearch.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "o-lx.2132173.xyz",
+    "www.o-lx.2132173.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0ix.2312568.xyz",
+    "2312568.xyz",
+    "www.0ix.2312568.xyz",
+    "www.2312568.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0lx.26736563.xyz",
+    "www.0lx.26736563.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "2found.com",
+    "www.2found.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oix.3211654.xyz",
+    "www.oix.3211654.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "343533.com",
+    "www.343533.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "iinpost.37938473.xyz",
+    "www.iinpost.37938473.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "37coaching.com",
+    "www.37coaching.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.391139.rest",
+    "www.allegrolokalnie.391139.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "452640.com",
+    "pekalowerifkcj2025.452640.com",
+    "www.452640.com",
+    "www.pekalowerifkcj2025.452640.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "4676846.cfd",
+    "www.4676846.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.48c.rest",
+    "www.allegrolokalnie.48c.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "4lilie.com",
+    "www.4lilie.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "01x.5001611.xyz",
+    "www.01x.5001611.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0-1-x.514415482.xyz",
+    "www.0-1-x.514415482.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0-1-x.514484648.xyz",
+    "www.0-1-x.514484648.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "84-ojx.518410251.xyz",
+    "www.84-ojx.518410251.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oix.5700216.xyz",
+    "www.oix.5700216.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "5bpro.com",
+    "www.5bpro.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "j-npo0st.6154982.xyz",
+    "www.j-npo0st.6154982.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0-1-x.659520851.xyz",
+    "www.0-1-x.659520851.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oolz.69045242.xyz",
+    "www.oolz.69045242.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0lx.690535422.xyz",
+    "www.0lx.690535422.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allorwerfkc2025.699445.com",
+    "www.allorwerfkc2025.699445.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "345-oix.7481482.xyz",
+    "www.345-oix.7481482.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "748369521.xyz",
+    "www.748369521.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "7girlsclub.com",
+    "www.7girlsclub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "90983478.xyz",
+    "www.90983478.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.92743.cfd",
+    "www.allegrolokalnie.92743.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0lx.98093883.xyz",
+    "www.0lx.98093883.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "a1nails-baytown.online",
+    "www.a1nails-baytown.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "acct.abbpl-global.com",
+    "www.acct.abbpl-global.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "adf6.adf6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "s.ads-twitter.com",
     "www.ads-twitter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "afolmaprolibe.com",
+    "www.afolmaprolibe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "agnes-ruaux.com",
+    "www.agnes-ruaux.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ai-accountquality1220223232.top",
+    "www.ai-accountquality1220223232.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "api.aide-coinbase.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aiethereumsynergy.com",
+    "www.aiethereumsynergy.com"
    ]
   },
   {
@@ -63,6 +411,54 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "alebilet.store",
+    "www.alebilet.store"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alessandrophoenix.com",
+    "www.alessandrophoenix.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alexdansvan.com",
+    "www.alexdansvan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aliored.pro",
+    "www.aliored.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alkhibrahfinancing.com",
+    "www.alkhibrahfinancing.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "app.allegrob.shop",
+    "www.app.allegrob.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "allotalk.com"
    ]
   },
@@ -70,7 +466,63 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "allstoreshop.com",
+    "www.allstoreshop.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "almarlatour.com",
+    "www.almarlatour.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alnahyangpt.com",
+    "www.alnahyangpt.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alonsecurities.com",
+    "www.alonsecurities.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alphainvesta.com",
+    "www.alphainvesta.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "altoofaltoo.com",
+    "www.altoofaltoo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pinpages.alwaysdata.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "amazingandalone.com",
+    "www.amazingandalone.com"
    ]
   },
   {
@@ -87,6 +539,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ambrasaffiliatelifestyle.com",
+    "www.ambrasaffiliatelifestyle.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "amp-reddit-com.cdn.ampproject.org"
    ]
   },
@@ -94,7 +554,208 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "anatemacacao.com",
+    "www.anatemacacao.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "anizom.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "annabateson.com",
+    "www.annabateson.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "annalissalenceria.com",
+    "www.annalissalenceria.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "antbotsv3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "antlb0tv2.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "antoniolettieri.com",
+    "www.antoniolettieri.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aovemarr.com",
+    "www.aovemarr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "apartamentosconencantovalencia.com",
+    "www.apartamentosconencantovalencia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mmeta.apeweae.top",
+    "smet.apeweae.top",
+    "swn.apeweae.top",
+    "www.mmeta.apeweae.top",
+    "www.smet.apeweae.top",
+    "www.swn.apeweae.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "appkeyweb.com",
+    "www.appkeyweb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "facebook-web-clients.appspot.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "configmanagesystemupdatenewbillrecoverypanelipaccount.aquagenius.org",
+    "www.configmanagesystemupdatenewbillrecoverypanelipaccount.aquagenius.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aquejugam.com",
+    "www.aquejugam.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arab-korea.org",
+    "www.arab-korea.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arbiquant.pl",
+    "www.arbiquant.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "archsan.com",
+    "www.archsan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ardarazbeauty.com",
+    "www.ardarazbeauty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arenapolskasklep.com",
+    "www.arenapolskasklep.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "argent-cn.com",
+    "www.argent-cn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arinois.com",
+    "www.arinois.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "arquitecturanomada.com",
+    "www.arquitecturanomada.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "assisspiri.com",
+    "www.assisspiri.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "atgkita.com",
+    "www.atgkita.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "athomemaking.com",
+    "www.athomemaking.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "atkgrosir.com",
+    "www.atkgrosir.com"
    ]
   },
   {
@@ -109,6 +770,53 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "authentications-safeguard.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "autoaccidentally.com",
+    "www.autoaccidentally.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "autostrada-live.pl",
+    "www.autostrada-live.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "autostrada-zagrozenie24.pl",
+    "www.autostrada-zagrozenie24.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "avvercaucu.com",
+    "www.avvercaucu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "azpkt.com",
+    "www.azpkt.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "badoo.com"
    ]
   },
@@ -116,7 +824,379 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "booking.badpartnerfeedback.com",
+    "www.booking.badpartnerfeedback.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "baktipu.com",
+    "www.baktipu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "barrygalvin.com",
+    "www.barrygalvin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "base01.info",
+    "ns1.base01.info",
+    "ns2.base01.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "batikmexico.com",
+    "www.batikmexico.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bavukyu.autos",
+    "www.bavukyu.autos"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bdstudynews.com",
+    "www.bdstudynews.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "beincolu.com",
+    "www.beincolu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bekirkarsli.com",
+    "www.bekirkarsli.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "belajarnlp.com",
+    "www.belajarnlp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "belanjamebel.com",
+    "www.belanjamebel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bellibanni.com",
+    "www.bellibanni.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bespokeshirtsmail.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bestfunplaces.com",
+    "www.bestfunplaces.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.bi-pay.pl",
+    "www.alebilet.bi-pay.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bi-softnet.com",
+    "www.bi-softnet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted.billing069.life",
+    "www.vinted.billing069.life"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "billscoolfriends.com",
+    "www.billscoolfriends.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "binbishr.com",
+    "www.binbishr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "binbishrgroup.com",
+    "www.binbishrgroup.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bintaroplazaresidences.com",
+    "www.bintaroplazaresidences.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "biospatna.com",
+    "www.biospatna.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "birunimedia.com",
+    "www.birunimedia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "webappsecurenewintlmangesverifyng.lodonawunsk.biz.id",
+    "www.webappsecurenewintlmangesverifyng.lodonawunsk.biz.id"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bizmadewithlove.com",
+    "www.bizmadewithlove.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "blackshelter.org",
+    "www.blackshelter.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "blizaura.com",
+    "www.blizaura.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "budda--77--0fficial25.blogspot.com",
+    "claimnowgetmnycsh.blogspot.com",
+    "go-cpv.blogspot.com",
+    "www.budda--77--0fficial25.blogspot.com",
+    "www.claimnowgetmnycsh.blogspot.com",
+    "www.go-cpv.blogspot.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bluefountain360.com",
+    "www.bluefountain360.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bluegodwit.com",
+    "www.bluegodwit.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bodafestival.com",
+    "www.bodafestival.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bolsasserigrafia.com",
+    "www.bolsasserigrafia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bomberoforestal.com",
+    "www.bomberoforestal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bonavalcar.com",
+    "www.bonavalcar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bonchefgroup.com",
+    "www.bonchefgroup.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bookmysmiles.com",
+    "www.bookmysmiles.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "borbotorpe.com",
+    "www.borbotorpe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "borneogreenland.com",
+    "www.borneogreenland.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bourbonroyal.com",
+    "www.bourbonroyal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boxeguarifguastanis.com",
+    "www.boxeguarifguastanis.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boxesaruisgusta.com",
+    "www.boxesaruisgusta.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "brewskiebros.com",
+    "www.brewskiebros.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bt-phamaceutical.com",
+    "www.bt-phamaceutical.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bumble.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "business2.community",
+    "www.business2.community"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted.buy771.net",
+    "www.vinted.buy771.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "buzohay3.pro",
+    "www.buzohay3.pro"
    ]
   },
   {
@@ -191,6 +1271,61 @@
    "process": "any",
    "remote-domains": [
     "tiktokcdn.com.c.bytetcdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cabcabin.net",
+    "www.cabcabin.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "m2-plagg.cadai.site",
+    "www.m2-plagg.cadai.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cadstandardparts.com",
+    "www.cadstandardparts.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "candyraffle.com",
+    "www.candyraffle.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "capcut.media"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "capistraro.com",
+    "www.capistraro.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "carritechnusantara.com",
+    "www.carritechnusantara.com"
    ]
   },
   {
@@ -531,7 +1666,83 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cf-unstable.media"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "esmucpfokg.cfolks.pl",
+    "neftlix-pl28939.cfolks.pl",
+    "stjmqqlxju.cfolks.pl",
+    "vctrrzedbd.cfolks.pl",
+    "www.esmucpfokg.cfolks.pl",
+    "www.neftlix-pl28939.cfolks.pl",
+    "www.stjmqqlxju.cfolks.pl",
+    "www.vctrrzedbd.cfolks.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "olx-pl.check-buy1402.shop",
+    "www.olx-pl.check-buy1402.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "chiargalus.com",
+    "www.chiargalus.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "chronicpainrecoverycornwall.com",
+    "www.chronicpainrecoverycornwall.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cirengtarjo.com",
+    "www.cirengtarjo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "clickbeautee.com",
+    "www.clickbeautee.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "app-6756eac2c1ac181374d51411.closte.com",
+    "www.app-6756eac2c1ac181374d51411.closte.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "d2rdfnizen5apl.cloudfront.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cloudnexo.org"
    ]
   },
   {
@@ -545,7 +1756,42 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "support.clz.kr"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cmkrdv.com",
+    "www.cmkrdv.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boyer.charuzwobesto.co.in",
+    "lendloaninvest.co.uk",
+    "www.boyer.charuzwobesto.co.in",
+    "www.lendloaninvest.co.uk",
     "facebook.co.za"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "codeztra.com",
+    "www.codeztra.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "codlyx.website",
+    "www.codlyx.website"
    ]
   },
   {
@@ -559,6 +1805,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cojuxao6.pro",
+    "www.cojuxao6.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "colegiosinclair.com",
+    "www.colegiosinclair.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "colorfulexpressions.pro",
+    "www.colorfulexpressions.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pedronoguera.com.br",
+    "vinted.vint-vint.com.de",
+    "www.pedronoguera.com.br",
+    "www.vinted.vint-vint.com.de",
+    "grupobramam.com.br",
+    "hasll.com.my",
+    "portaal.com.my",
+    "www.flechabusretiro.com.ar",
     "facebook.com.au",
     "facebook.com.br",
     "facebook.com.es",
@@ -566,6 +1844,174 @@
     "facebook.com.vn",
     "instagram.com.br",
     "www.pinterest.com.au"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "communitymotosports.com",
+    "www.communitymotosports.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "communityunions.com",
+    "www.communityunions.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "consuelorosales.com",
+    "www.consuelorosales.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cookingasyik.com",
+    "www.cookingasyik.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "coretide.run",
+    "www.coretide.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cositc.com",
+    "www.cositc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "covapark.com",
+    "www.covapark.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cozymaximalist.com",
+    "www.cozymaximalist.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "crftier.org",
+    "www.crftier.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cricccephu.com",
+    "www.cricccephu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cripplecreekcolorado.com",
+    "www.cripplecreekcolorado.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "crmconsultingllc.com",
+    "www.crmconsultingllc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "crt-eu.org",
+    "www.crt-eu.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cryptoevent.io",
+    "www.cryptoevent.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "csharptricks.com",
+    "www.csharptricks.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cuanpoint.com",
+    "www.cuanpoint.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cyluvie2.pro",
+    "www.cyluvie2.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dadcompetitions.com",
+    "www.dadcompetitions.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dailyhealthaid.com",
+    "www.dailyhealthaid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "datamansolutions.com",
+    "www.datamansolutions.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dataspherecourse.com",
+    "www.dataspherecourse.com"
    ]
   },
   {
@@ -600,6 +2046,303 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dd214lifecontracting.com",
+    "www.dd214lifecontracting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "de-ats.net",
+    "www.de-ats.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "deepsek.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "check.dejh.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dekksonsanitarysurabaya.com",
+    "www.dekksonsanitarysurabaya.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "derriinexp.com",
+    "www.derriinexp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "desass.com",
+    "www.desass.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "designermugstore.com",
+    "www.designermugstore.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "devflake.com",
+    "www.devflake.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "devsforsupport.com",
+    "www.devsforsupport.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dhlinfo.world",
+    "www.dhlinfo.world"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dieselgroen.com",
+    "www.dieselgroen.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "digilabx.com",
+    "www.digilabx.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "digital-skill-connect.com",
+    "www.digital-skill-connect.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "digitalnmedia.com",
+    "www.digitalnmedia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dirazstamb.com",
+    "www.dirazstamb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "disfrutacontuluz.com",
+    "www.disfrutacontuluz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "divissmezz.com",
+    "www.divissmezz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dkdconcerts.com",
+    "www.dkdconcerts.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "docshare.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "doimotrescantos.com",
+    "www.doimotrescantos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "doktersaluranmampet.com",
+    "www.doktersaluranmampet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "olx.drofak.cfd",
+    "www.olx.drofak.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "drsarahrizk.com",
+    "www.drsarahrizk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "drunkonfunk.com",
+    "www.drunkonfunk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dsavjqncxogz.info",
+    "www.dsavjqncxogz.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dstwa.online",
+    "info.dstwa.online",
+    "www.dstwa.online",
+    "www.info.dstwa.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bafkreigzu2lviimykex3t7j6v7g7rr2limyaqlj2rbtm3ws2grooxkj6iq.ipfs.dweb.link",
+    "bafybeif5awb5kjeavxhzrdzdi2t7a2kqsn3d3kemforfvdv6lxejhldlau.ipfs.dweb.link",
+    "bafybeifeq7anercyhjcvs2dpyh4pwcnmzniamfeckrqe5fwsz56gfuhave.ipfs.dweb.link",
+    "www.bafkreigzu2lviimykex3t7j6v7g7rr2limyaqlj2rbtm3ws2grooxkj6iq.ipfs.dweb.link",
+    "www.bafybeif5awb5kjeavxhzrdzdi2t7a2kqsn3d3kemforfvdv6lxejhldlau.ipfs.dweb.link",
+    "www.bafybeifeq7anercyhjcvs2dpyh4pwcnmzniamfeckrqe5fwsz56gfuhave.ipfs.dweb.link"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dycuroe.com",
+    "www.dycuroe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ease-ups.com",
+    "www.ease-ups.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "eavatarmaker.com",
+    "www.eavatarmaker.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ebulientlanguage.pro",
+    "www.ebulientlanguage.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "echorain.pro",
+    "www.echorain.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mef.ecmx.top",
+    "mit.ecmx.top",
+    "mon.ecmx.top",
+    "pli.ecmx.top",
+    "plit.ecmx.top",
+    "plu.ecmx.top",
+    "try.ecmx.top",
+    "tur.ecmx.top",
+    "www.mef.ecmx.top",
+    "www.mit.ecmx.top",
+    "www.mon.ecmx.top",
+    "www.pli.ecmx.top",
+    "www.plit.ecmx.top",
+    "www.plu.ecmx.top",
+    "www.try.ecmx.top",
+    "www.tur.ecmx.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "econosphere.buzz",
+    "www.econosphere.buzz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "connect.facebook.net.edgekey.net",
     "s-static.ak.facebook.com.edgekey.net",
     "ssl2.twitter.com.edgekey.net",
@@ -622,6 +2365,174 @@
     "mon-va.tiktokv.com.edgesuite.net",
     "mon.tiktokv.com.edgesuite.net",
     "xlog.tiktokv.com.edgesuite.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "elbuhomanitas.com",
+    "www.elbuhomanitas.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "elenswheels.com",
+    "www.elenswheels.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "elite-generaltrading.com",
+    "www.elite-generaltrading.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "empiricgrowth.com",
+    "www.empiricgrowth.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "emprendedoresencamino.com",
+    "www.emprendedoresencamino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "enerfloe.com",
+    "www.enerfloe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "energiczneporanki.pl",
+    "www.energiczneporanki.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "enfellowship.com",
+    "www.enfellowship.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "englishgamer.com",
+    "www.englishgamer.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "epaedobaptist.info",
+    "www.epaedobaptist.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ernies-music.com",
+    "www.ernies-music.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "errunz.com",
+    "www.errunz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ertc4yourbusiness.com",
+    "www.ertc4yourbusiness.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "eshaflora.com",
+    "www.eshaflora.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "przelewy.especiariasgourmet.com",
+    "www.przelewy.especiariasgourmet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "essentialwellnessplusmedicalweightlossandpeptides.com",
+    "www.essentialwellnessplusmedicalweightlossandpeptides.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "etarions.com",
+    "www.etarions.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "eunurse.com",
+    "www.eunurse.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "europharmaiind.com",
+    "www.europharmaiind.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "expertinnothing.com",
+    "www.expertinnothing.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "exploringkyoto.com",
+    "www.exploringkyoto.com"
    ]
   },
   {
@@ -1269,6 +3180,36 @@
    "process": "any",
    "remote-domains": [
     "facebook-studio.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "aiproj.facepl.com",
+    "fctrai.facepl.com",
+    "metai.facepl.com",
+    "metprogai.facepl.com",
+    "www.aiproj.facepl.com",
+    "www.fctrai.facepl.com",
+    "www.metai.facepl.com",
+    "www.metprogai.facepl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "faksup.org",
+    "www.faksup.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "farmaformacion.com",
+    "www.farmaformacion.com"
    ]
   },
   {
@@ -2175,6 +4116,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fbl-headoffice.com",
+    "www.fbl-headoffice.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "attachment.fbsbx.com",
     "ct-m-fbx.fbsbx.com",
     "fbsbx.com"
@@ -2191,7 +4140,135 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "feeft.com",
+    "www.feeft.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "feriaapicola.com",
+    "www.feriaapicola.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "festibalazos.com",
+    "www.festibalazos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ficoqyu.com",
+    "www.ficoqyu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ablayebarbz-wixsite-com.filesusr.com",
+    "salevazghidag-wixsite-com.filesusr.com",
+    "www.ablayebarbz-wixsite-com.filesusr.com",
+    "www.salevazghidag-wixsite-com.filesusr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fireandicefbgtx.com",
+    "www.fireandicefbgtx.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fishingfar.com",
+    "www.fishingfar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fitfocusbyandres.com",
+    "www.fitfocusbyandres.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pid.fly160.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.fola.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "footballyouthclub.com",
+    "www.footballyouthclub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "foresinfie.pro",
+    "www.foresinfie.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "foresource.xyz",
+    "www.foresource.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "formyaccounting.com",
+    "www.formyaccounting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "platform.foursquare.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "frationalityyf.ru",
+    "www.frationalityyf.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dxbo.free.hr",
+    "www.dxbo.free.hr"
    ]
   },
   {
@@ -2207,6 +4284,244 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ben.freetheme.top",
+    "bonz.freetheme.top",
+    "dro.freetheme.top",
+    "high.freetheme.top",
+    "kio.freetheme.top",
+    "lopa.freetheme.top",
+    "ofi.freetheme.top",
+    "spo.freetheme.top",
+    "www.ben.freetheme.top",
+    "www.bonz.freetheme.top",
+    "www.dro.freetheme.top",
+    "www.high.freetheme.top",
+    "www.kio.freetheme.top",
+    "www.lopa.freetheme.top",
+    "www.ofi.freetheme.top",
+    "www.spo.freetheme.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "attention-processing.freewebhostmost.com",
+    "updates-support.freewebhostmost.com",
+    "www.attention-processing.freewebhostmost.com",
+    "www.updates-support.freewebhostmost.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fudmonkeyz.com",
+    "www.fudmonkeyz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "funky-nemo.com",
+    "www.funky-nemo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "funkyvino.com",
+    "www.funkyvino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "funkyvinobali.com",
+    "www.funkyvinobali.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fy-nraig.net",
+    "www.fy-nraig.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ganesha17.com",
+    "www.ganesha17.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "garasijamtangan.com",
+    "www.garasijamtangan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "garowu-dahizu.pro",
+    "www.garowu-dahizu.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted.gate169.shop",
+    "www.vinted.gate169.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gatesbfoundation.org",
+    "www.gatesbfoundation.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "genericfixer.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "genesiswriters.com",
+    "www.genesiswriters.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "georgekamau.com",
+    "www.georgekamau.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gesnosc.com",
+    "www.gesnosc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gestorialatinaenisrael.com",
+    "www.gestorialatinaenisrael.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.gesz.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gmmsolutions.org",
+    "www.gmmsolutions.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gongsumba.com",
+    "www.gongsumba.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "greenyardv.ru",
+    "www.greenyardv.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "greycellsproject.com",
+    "www.greycellsproject.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "greystonesuccesszone.com",
+    "www.greystonesuccesszone.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "guardhaplo.pro",
+    "www.guardhaplo.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "guidesinmachupicchu.com",
+    "www.guidesinmachupicchu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "habitazoneinmobiliaria.com",
+    "www.habitazoneinmobiliaria.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hablarchino.com",
+    "www.hablarchino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hamstersgasmotor.com",
+    "www.hamstersgasmotor.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "happn.com"
    ]
   },
@@ -2214,7 +4529,157 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "harmonicaspain.com",
+    "www.harmonicaspain.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "harukabaenola.com",
+    "www.harukabaenola.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "haubla.com",
+    "www.haubla.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hazizhazi.com",
+    "www.hazizhazi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "helikon-eu.com",
+    "helikon-eu.shop",
+    "www.helikon-eu.com",
+    "www.helikon-eu.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hillviewpropertiesgh.com",
+    "www.hillviewpropertiesgh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hinge.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hirubide.com",
+    "www.hirubide.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hobbieshack.com",
+    "www.hobbieshack.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "caxs.holcom.top",
+    "fbd.holcom.top",
+    "fghio.holcom.top",
+    "hinjo.holcom.top",
+    "rgtvefcds.holcom.top",
+    "scza.holcom.top",
+    "vdac.holcom.top",
+    "www.caxs.holcom.top",
+    "www.fbd.holcom.top",
+    "www.fghio.holcom.top",
+    "www.hinjo.holcom.top",
+    "www.rgtvefcds.holcom.top",
+    "www.scza.holcom.top",
+    "www.vdac.holcom.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "serwer2526573.home.pl",
+    "www.serwer2526573.home.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "homemartworld.com",
+    "www.homemartworld.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "homespunfiberarts.com",
+    "www.homespunfiberarts.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hondacivicturbo.com",
+    "www.hondacivicturbo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "howtohelpbirds.com",
+    "www.howtohelpbirds.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "howtoworklessandearnmore.com",
+    "www.howtoworklessandearnmore.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "snookie-ltd-49119075.hubspotpagebuilder.com",
+    "www.snookie-ltd-49119075.hubspotpagebuilder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hypnoconsi.com",
+    "www.hypnoconsi.com"
    ]
   },
   {
@@ -2242,6 +4707,190 @@
     "p16-tiktok-va-h2.ibyteimg.com",
     "p16-tiktok-va.ibyteimg.com",
     "p16-va-tiktok.ibyteimg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lw.idealnalfigura.com",
+    "www.lw.idealnalfigura.com",
+    "www.wx.idealnalfigura.com",
+    "wx.idealnalfigura.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "idrisiyyah.com",
+    "www.idrisiyyah.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "raw.igxhost.ru"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "iii-indonesia.com",
+    "www.iii-indonesia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ilfornobalii.com",
+    "www.ilfornobalii.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "imac-community.com",
+    "www.imac-community.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediate-lotemax.net",
+    "www.immediate-lotemax.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediatebitwave.app",
+    "www.immediatebitwave.app"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediatehiprex.com",
+    "www.immediatehiprex.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediatehiprexai.com",
+    "www.immediatehiprexai.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediatehiprexplatform.com",
+    "www.immediatehiprexplatform.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "immediatelotemax8000.com",
+    "www.immediatelotemax8000.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "improvementnext.com",
+    "www.improvementnext.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "inbpzosxt.top",
+    "www.inbpzosxt.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "incajunglereservations.com",
+    "www.incajunglereservations.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "incepsquac.com",
+    "www.incepsquac.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "indianrestauranttimessquare.com",
+    "www.indianrestauranttimessquare.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "indpiosxt.top",
+    "www.indpiosxt.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "indusvtech.com",
+    "www.indusvtech.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "infobookingcenter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "infoiavicu.com",
+    "www.infoiavicu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "inipoost.top",
+    "www.inipoost.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "inspiredvision.life",
+    "www.inspiredvision.life"
    ]
   },
   {
@@ -2289,11 +4938,62 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mta179.insuretn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "interiorsolo.com",
+    "www.interiorsolo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "free.internet.org",
     "info.internet.org",
     "internet.org",
     "o.internet.org",
     "zero.internet.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bitcoinup-pl.investbankis.com",
+    "www.bitcoinup-pl.investbankis.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bitcoin-prime-pl-aivix.investmentinsiights.com",
+    "profimax-pl-aivix.investmentinsiights.com",
+    "smartbit-pl-aivix.investmentinsiights.com",
+    "www.bitcoin-prime-pl-aivix.investmentinsiights.com",
+    "www.profimax-pl-aivix.investmentinsiights.com",
+    "www.smartbit-pl-aivix.investmentinsiights.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "invizarmoi.com",
+    "www.invizarmoi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "przelewy.ipcync.com",
+    "www.przelewy.ipcync.com"
    ]
   },
   {
@@ -2307,7 +5007,117 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "islewsquar.com",
+    "www.islewsquar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "isnssdk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "isvtron.com",
+    "www.isvtron.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "itmune.pics",
+    "www.itmune.pics"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "itqlix.com",
+    "www.itqlix.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ivkins.com",
+    "www.ivkins.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "iyxac.pro",
+    "www.iyxac.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ghas.izite.top",
+    "hfhjkf.izite.top",
+    "www.ghas.izite.top",
+    "www.hfhjkf.izite.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jewylye.com",
+    "www.jewylye.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jhgku.com",
+    "www.jhgku.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jilbabanak.com",
+    "www.jilbabanak.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "caxsc.jinmap.top",
+    "rbvsc.jinmap.top",
+    "rgdf.jinmap.top",
+    "www.caxsc.jinmap.top",
+    "www.rbvsc.jinmap.top",
+    "www.rgdf.jinmap.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jirajei5.pro",
+    "www.jirajei5.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "johoroe6.pro",
+    "www.johoroe6.pro"
    ]
   },
   {
@@ -2322,6 +5132,369 @@
     "admin-staging.joinclubhouse.com",
     "ios.joinclubhouse.com",
     "testflight.joinclubhouse.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jomharta.com",
+    "www.jomharta.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jomtree.com",
+    "www.jomtree.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "joyfulchatter.pro",
+    "www.joyfulchatter.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "juqap.fun",
+    "www.juqap.fun"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "quanly.jxmienphi.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dld.jxwan.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kacatimbal.com",
+    "www.kacatimbal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kaha-umroh.com",
+    "www.kaha-umroh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kahaumroh.com",
+    "www.kahaumroh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kampanja-spankkifi.com",
+    "www.kampanja-spankkifi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kapashati.com",
+    "www.kapashati.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "karer.by"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kartu-stok-pt-cressindo-kusuma.com",
+    "www.kartu-stok-pt-cressindo-kusuma.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kazakinskiy.online",
+    "www.kazakinskiy.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "key-pl.info",
+    "www.key-pl.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kitsunesustainable.com",
+    "www.kitsunesustainable.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nemoc.kliplygah.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "deren.klorey.top",
+    "truses.klorey.top",
+    "tskri.klorey.top",
+    "www.deren.klorey.top",
+    "www.truses.klorey.top",
+    "www.tskri.klorey.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kolaborasiusaha.com",
+    "www.kolaborasiusaha.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kolothtech.com",
+    "www.kolothtech.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "komasnulaundry.com",
+    "www.komasnulaundry.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "konacoffeeinc.com",
+    "www.konacoffeeinc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "redirect.konfig-xo4e.online",
+    "www.redirect.konfig-xo4e.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "konto-poczta.top",
+    "onet.konto-poczta.top",
+    "www.konto-poczta.top",
+    "www.onet.konto-poczta.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "konto-weryfikacja.top",
+    "pomoc.konto-weryfikacja.top",
+    "www.konto-weryfikacja.top",
+    "www.pomoc.konto-weryfikacja.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cnc.kotomari-vn.dev"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kredytbanki.pl",
+    "www.kredytbanki.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kristaganelon.com",
+    "www.kristaganelon.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kuhnhermano.cfd",
+    "www.kuhnhermano.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kuldeepconnects.com",
+    "www.kuldeepconnects.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kurukahvecimuratefendi.com",
+    "www.kurukahvecimuratefendi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oljx.kx5bde.lat",
+    "www.oljx.kx5bde.lat"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kykyniu7.pro",
+    "www.kykyniu7.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kyotoitinerary.com",
+    "www.kyotoitinerary.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oljx.l6fbdy.hair",
+    "www.oljx.l6fbdy.hair"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ladodue.pro",
+    "www.ladodue.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lalaley.com",
+    "www.lalaley.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "landingtor.com",
+    "www.landingtor.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lantaihosting.com",
+    "www.lantaihosting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lasyreo.com",
+    "www.lasyreo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lauervveaponry.com",
+    "www.lauervveaponry.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lawevio.com",
+    "www.lawevio.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "learnwealthae.com",
+    "www.learnwealthae.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "leohorsfield.com",
+    "www.leohorsfield.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "liannegray.com",
+    "www.liannegray.com"
    ]
   },
   {
@@ -2572,6 +5745,85 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "littlemtlogistics.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lizasabila.com",
+    "www.lizasabila.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.lnww.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "roundcubesharepoint-login.localto.net",
+    "www.roundcubesharepoint-login.localto.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "loginuniversity.com",
+    "www.loginuniversity.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "logowaniiealegrro2025.com",
+    "pl.logowaniiealegrro2025.com",
+    "www.logowaniiealegrro2025.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lollipopcontrast.com",
+    "www.lollipopcontrast.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "loopconstruct.com",
+    "www.loopconstruct.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lovejenifer.com",
+    "www.lovejenifer.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lycipaa.info",
+    "www.lycipaa.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "m.me"
    ]
   },
@@ -2579,7 +5831,214 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "magickallymanaged.com",
+    "www.magickallymanaged.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mahilashram.com",
+    "www.mahilashram.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mail4woodstock.com",
+    "www.mail4woodstock.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "makecbd.com",
+    "www.makecbd.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "makehomeschoolsimple.com",
+    "www.makehomeschoolsimple.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "makingtheirhome.com",
+    "www.makingtheirhome.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mangalagiriweavers.com",
+    "www.mangalagiriweavers.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "marcaspedi.com",
+    "www.marcaspedi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "marianacarles.com",
+    "www.marianacarles.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "marisukakoifarm.com",
+    "www.marisukakoifarm.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "markditec.com",
+    "www.markditec.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "marketnexus.buzz",
+    "www.marketnexus.buzz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "marketscan.me"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "martinmediaai.com",
+    "www.martinmediaai.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "masaua.com",
+    "www.masaua.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mastersepuh.com",
+    "www.mastersepuh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "match.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "matigol.com",
+    "www.matigol.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mawaddirachman.com",
+    "www.mawaddirachman.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "maxbeautytips.com",
+    "www.maxbeautytips.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mcdermottstokes.cfd",
+    "www.mcdermottstokes.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mediavoix.website",
+    "www.mediavoix.website"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "medicallbox.com",
+    "www.medicallbox.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "medlightcr.com",
+    "www.medlightcr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "megreeny.com",
+    "www.megreeny.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "merokhushi.com",
+    "www.merokhushi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "17219ad30c.mertv.pl",
+    "www.17219ad30c.mertv.pl"
    ]
   },
   {
@@ -2594,6 +6053,220 @@
    "process": "any",
    "remote-domains": [
     "messenger.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "metaaiofficial.com",
+    "www.metaaiofficial.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "appmet.metfrpl.com",
+    "www.appmet.metfrpl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "boxen.metplxx.com",
+    "marcreo.metplxx.com",
+    "metal.metplxx.com",
+    "metger.metplxx.com",
+    "metl.metplxx.com",
+    "www.boxen.metplxx.com",
+    "www.marcreo.metplxx.com",
+    "www.metal.metplxx.com",
+    "www.metger.metplxx.com",
+    "www.metl.metplxx.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jamehill03.mfs.gg",
+    "www.jamehill03.mfs.gg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mikevandeweijer.com",
+    "www.mikevandeweijer.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mimpicantik.com",
+    "www.mimpicantik.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tera.minncon.top",
+    "tilda-teslax3.minncon.top",
+    "wh-ai.minncon.top",
+    "wh-b0t.minncon.top",
+    "wh-fik.minncon.top",
+    "wh-jod.minncon.top",
+    "wh-jok.minncon.top",
+    "wh-pra.minncon.top",
+    "wh-vaw.minncon.top",
+    "www.tera.minncon.top",
+    "www.tilda-teslax3.minncon.top",
+    "www.wh-ai.minncon.top",
+    "www.wh-b0t.minncon.top",
+    "www.wh-fik.minncon.top",
+    "www.wh-jod.minncon.top",
+    "www.wh-jok.minncon.top",
+    "www.wh-pra.minncon.top",
+    "www.wh-vaw.minncon.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mobilephonewallpaper.com",
+    "www.mobilephonewallpaper.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mobillepayla-portal.com",
+    "www.mobillepayla-portal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mobillepaylaportall.com",
+    "www.mobillepaylaportall.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mobyvatel.info",
+    "www.mobyvatel.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bonus.mobywatel-s.rest",
+    "www.bonus.mobywatel-s.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mokemediaco.com",
+    "www.mokemediaco.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "moretticompactroma.com",
+    "www.moretticompactroma.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "moriika.fr",
+    "www.moriika.fr"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mosahee.store",
+    "www.mosahee.store"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "motphimqq.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "moviewatchsite.com",
+    "www.moviewatchsite.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mpccindia.com",
+    "www.mpccindia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mtogrow.com",
+    "www.mtogrow.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mubawaba.com",
+    "www.mubawaba.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "muddyvine.com",
+    "www.muddyvine.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "check.mujf.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "munalmedical.com",
+    "www.munalmedical.com"
    ]
   },
   {
@@ -2622,7 +6295,125 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "musicalinstrumentnews.com",
+    "www.musicalinstrumentnews.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "musically.ly"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "musingsbymola.com",
+    "www.musingsbymola.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "muzlove.com",
+    "www.muzlove.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mvrhub.com",
+    "www.mvrhub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "my-flirty.xyz",
+    "www.my-flirty.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myaisecrets.com",
+    "www.myaisecrets.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mycurrentvibe.com",
+    "www.mycurrentvibe.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mydegeneration.com",
+    "www.mydegeneration.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myfileview1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myflowprojects.com",
+    "www.myflowprojects.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myguyapp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mykonoscarpediem.com",
+    "www.mykonoscarpediem.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mymadob.store",
+    "www.mymadob.store"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myocase.com",
+    "www.myocase.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "myonlinemedstore.com",
+    "www.myonlinemedstore.com"
    ]
   },
   {
@@ -2696,7 +6487,376 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "mythosmeld.com",
+    "www.mythosmeld.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "napworthy.com",
+    "www.napworthy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "narodni-radio-dijaspora.com",
+    "www.narodni-radio-dijaspora.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nataliatreasurechest.com",
+    "www.nataliatreasurechest.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nathaincav.media",
+    "www.nathaincav.media"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nativebrooktrout.com",
+    "www.nativebrooktrout.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "neetworkhosting1.com",
+    "www.neetworkhosting1.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "neonkatana.com",
+    "www.neonkatana.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nepastovus.net",
+    "www.nepastovus.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "netfxsub.help",
+    "www.netfxsub.help"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nettakallappa.com",
+    "www.nettakallappa.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nevhost.com",
+    "www.nevhost.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "newrochellerent.com",
+    "www.newrochellerent.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "newscrafts.com",
+    "www.newscrafts.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "newtechengg.com",
+    "www.newtechengg.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nextstepbiz.site",
+    "www.nextstepbiz.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "niaspedia.com",
+    "www.niaspedia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "niggabutt.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.nohz.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "noret-fabricant.xyz",
+    "www.noret-fabricant.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "notaria1rosarito.com",
+    "www.notaria1rosarito.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nowawarszawka.pl",
+    "www.nowawarszawka.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ntflxsubs.help",
+    "www.ntflxsubs.help"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ntfx-pomoc.com",
+    "www.ntfx-pomoc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "nufitravel.com",
+    "www.nufitravel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "captcha.nxgengames.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oljx.o2vuvh.lat",
+    "www.oljx.o2vuvh.lat"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oakcarrental.com",
+    "www.oakcarrental.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oatbiscuit.com",
+    "www.oatbiscuit.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oceanainnhotel.com",
+    "www.oceanainnhotel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oceanainnrosarito.com",
+    "www.oceanainnrosarito.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ochunainbaja.com",
+    "www.ochunainbaja.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "odoo-odoo.com",
+    "www.odoo-odoo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.oferta-945734.icu",
+    "www.allegrolokalnie.oferta-945734.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.oferta-9721759.cfd",
+    "www.allegrolokalnie.oferta-9721759.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "officialkdppublishers.com",
+    "www.officialkdppublishers.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "offrezleweb.com",
+    "www.offrezleweb.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "g-ev1.ofla.top",
+    "www.g-ev1.ofla.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "namecheap-com-15e79f1c.id-1.ok-nowo.pl",
+    "namecheap-com-2660e781.id-1.ok-nowo.pl",
+    "namecheap-com-ae1f907e.id-1.ok-nowo.pl",
+    "www.namecheap-com-15e79f1c.id-1.ok-nowo.pl",
+    "www.namecheap-com-2660e781.id-1.ok-nowo.pl",
+    "www.namecheap-com-ae1f907e.id-1.ok-nowo.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "okcupid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oligoparna.com",
+    "www.oligoparna.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oliveoilpgicrete.com",
+    "www.oliveoilpgicrete.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "omalfadil.com",
+    "www.omalfadil.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "omiconholdings.com",
+    "www.omiconholdings.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "omuly.com",
+    "www.omuly.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "on-callbar.com",
+    "www.on-callbar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "one-foryou.xyz",
+    "www.one-foryou.xyz"
    ]
   },
   {
@@ -2705,6 +6865,224 @@
    "remote-domains": [
     "h-ct-m-fbx.fbsbx.com.online-metrix.net",
     "sac-h-ct-m-fbx.fbsbx.com.online-metrix.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cloudbeam.openm.ist"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bod.opnlibreu.com",
+    "gerboxer.opnlibreu.com",
+    "jencre.opnlibreu.com",
+    "www.bod.opnlibreu.com",
+    "www.gerboxer.opnlibreu.com",
+    "www.jencre.opnlibreu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "orchiacute.com",
+    "www.orchiacute.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oreprc.com",
+    "www.oreprc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "originofmovement.com",
+    "www.originofmovement.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "orlen-trust.pl",
+    "www.orlen-trust.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "orlen-zysk.pl",
+    "www.orlen-zysk.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ortodonciadrasanchez.com",
+    "www.ortodonciadrasanchez.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ortopediayparafarmacia.com",
+    "www.ortopediayparafarmacia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "osoponso.com",
+    "www.osoponso.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "osvswnn.shop",
+    "www.osvswnn.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "otoldlkke.space",
+    "www.otoldlkke.space"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "otopfornecedor.com",
+    "www.otopfornecedor.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ovejeroabogados.com",
+    "www.ovejeroabogados.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "p3hub.net",
+    "www.p3hub.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "padberghudson.cfd",
+    "www.padberghudson.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gffd-5ru.pages.dev",
+    "kljhgftyfgniuytrrtyujk.pages.dev",
+    "www.gffd-5ru.pages.dev",
+    "www.kljhgftyfgniuytrrtyujk.pages.dev"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "palaciocondesdebracamonte.com",
+    "www.palaciocondesdebracamonte.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "palamdisco.com",
+    "www.palamdisco.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "l1nxx.para.rip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "parkside-polska.com",
+    "www.parkside-polska.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pawtucketrent.com",
+    "www.pawtucketrent.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "paypursue.com",
+    "www.paypursue.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pbs-acheminement.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "peaktofloor.com",
+    "www.peaktofloor.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.pesa.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "phantomrubber.com",
+    "www.phantomrubber.com"
    ]
   },
   {
@@ -2761,7 +7139,685 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pixiedreams.pro",
+    "www.pixiedreams.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-1239.cfd",
+    "olx.pl-1239.cfd",
+    "pl-1239.cfd",
+    "www.allegrolokalnie.pl-1239.cfd",
+    "www.olx.pl-1239.cfd",
+    "www.pl-1239.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokainie.pl-2381.sbs",
+    "www.allegrolokainie.pl-2381.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-453g645f67.icu",
+    "olx.pl-453g645f67.icu",
+    "pl-453g645f67.icu",
+    "www.allegrolokalnie.pl-453g645f67.icu",
+    "www.olx.pl-453g645f67.icu",
+    "www.pl-453g645f67.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-4637347.icu",
+    "olx.pl-4637347.icu",
+    "pl-4637347.icu",
+    "www.allegrolokalnie.pl-4637347.icu",
+    "www.olx.pl-4637347.icu",
+    "www.pl-4637347.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-4765.cfd",
+    "olx.pl-4765.cfd",
+    "pl-4765.cfd",
+    "www.allegrolokalnie.pl-4765.cfd",
+    "www.olx.pl-4765.cfd",
+    "www.pl-4765.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-5233.icu",
+    "pl-5233.icu",
+    "www.allegrolokalnie.pl-5233.icu",
+    "www.pl-5233.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-5632462.icu",
+    "olx.pl-5632462.icu",
+    "pl-5632462.icu",
+    "www.allegrolokalnie.pl-5632462.icu",
+    "www.olx.pl-5632462.icu",
+    "www.pl-5632462.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-5fe6r.cfd",
+    "olx.pl-5fe6r.cfd",
+    "pl-5fe6r.cfd",
+    "www.allegrolokalnie.pl-5fe6r.cfd",
+    "www.olx.pl-5fe6r.cfd",
+    "www.pl-5fe6r.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-6172934.rest",
+    "www.allegrolokalnie.pl-6172934.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokainie.pl-6324.sbs",
+    "www.allegrolokainie.pl-6324.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-64363.icu",
+    "olx.pl-64363.icu",
+    "pl-64363.icu",
+    "www.allegrolokalnie.pl-64363.icu",
+    "www.olx.pl-64363.icu",
+    "www.pl-64363.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-71241.icu",
+    "www.allegrolokalnie.pl-71241.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-73547347.icu",
+    "olx.pl-73547347.icu",
+    "pl-73547347.icu",
+    "www.allegrolokalnie.pl-73547347.icu",
+    "www.olx.pl-73547347.icu",
+    "www.pl-73547347.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-7573.icu",
+    "olx.pl-7573.icu",
+    "pl-7573.icu",
+    "www.allegrolokalnie.pl-7573.icu",
+    "www.olx.pl-7573.icu",
+    "www.pl-7573.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-7829.cfd",
+    "olx.pl-7829.cfd",
+    "pl-7829.cfd",
+    "www.allegrolokalnie.pl-7829.cfd",
+    "www.olx.pl-7829.cfd",
+    "www.pl-7829.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-79362.icu",
+    "olx.pl-79362.icu",
+    "pl-79362.icu",
+    "www.allegrolokalnie.pl-79362.icu",
+    "www.olx.pl-79362.icu",
+    "www.pl-79362.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-98421.rest",
+    "www.allegrolokalnie.pl-98421.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-dwxe4.icu",
+    "olx.pl-dwxe4.icu",
+    "pl-dwxe4.icu",
+    "www.allegrolokalnie.pl-dwxe4.icu",
+    "www.olx.pl-dwxe4.icu",
+    "www.pl-dwxe4.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-ezakupy-24h.shop",
+    "www.allegrolokalnie.pl-ezakupy-24h.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-kategorie-inne-8173.icu",
+    "www.allegrolokalnie.pl-kategorie-inne-8173.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta2490148.cfd",
+    "allegro.pl-oferta2490148.cfd",
+    "allegrolokalnie.pl-oferta2490148.cfd",
+    "olx.pl-oferta2490148.cfd",
+    "pl-oferta2490148.cfd",
+    "www.alebilet.pl-oferta2490148.cfd",
+    "www.allegro.pl-oferta2490148.cfd",
+    "www.allegrolokalnie.pl-oferta2490148.cfd",
+    "www.olx.pl-oferta2490148.cfd",
+    "www.pl-oferta2490148.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta2630212.icu",
+    "allegro.pl-oferta2630212.icu",
+    "allegrolokalnie.pl-oferta2630212.icu",
+    "olx.pl-oferta2630212.icu",
+    "pl-oferta2630212.icu",
+    "www.alebilet.pl-oferta2630212.icu",
+    "www.allegro.pl-oferta2630212.icu",
+    "www.allegrolokalnie.pl-oferta2630212.icu",
+    "www.olx.pl-oferta2630212.icu",
+    "www.pl-oferta2630212.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta2654501.cfd",
+    "allegro.pl-oferta2654501.cfd",
+    "allegrolokalnie.pl-oferta2654501.cfd",
+    "olx.pl-oferta2654501.cfd",
+    "pl-oferta2654501.cfd",
+    "www.alebilet.pl-oferta2654501.cfd",
+    "www.allegro.pl-oferta2654501.cfd",
+    "www.allegrolokalnie.pl-oferta2654501.cfd",
+    "www.olx.pl-oferta2654501.cfd",
+    "www.pl-oferta2654501.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta6101720.cfd",
+    "allegro.pl-oferta6101720.cfd",
+    "allegrolokalnie.pl-oferta6101720.cfd",
+    "olx.pl-oferta6101720.cfd",
+    "pl-oferta6101720.cfd",
+    "www.alebilet.pl-oferta6101720.cfd",
+    "www.allegro.pl-oferta6101720.cfd",
+    "www.allegrolokalnie.pl-oferta6101720.cfd",
+    "www.olx.pl-oferta6101720.cfd",
+    "www.pl-oferta6101720.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-oferta746829.com",
+    "www.allegrolokalnie.pl-oferta746829.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta78310.cfd",
+    "allegro.pl-oferta78310.cfd",
+    "allegrolokalnie.pl-oferta78310.cfd",
+    "olx.pl-oferta78310.cfd",
+    "pl-oferta78310.cfd",
+    "www.alebilet.pl-oferta78310.cfd",
+    "www.allegro.pl-oferta78310.cfd",
+    "www.allegrolokalnie.pl-oferta78310.cfd",
+    "www.olx.pl-oferta78310.cfd",
+    "www.pl-oferta78310.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-oferta81962.sbs",
+    "www.allegrolokalnie.pl-oferta81962.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.pl-oferta9755023.cfd",
+    "allegro.pl-oferta9755023.cfd",
+    "allegrolokalnie.pl-oferta9755023.cfd",
+    "olx.pl-oferta9755023.cfd",
+    "pl-oferta9755023.cfd",
+    "www.alebilet.pl-oferta9755023.cfd",
+    "www.allegro.pl-oferta9755023.cfd",
+    "www.allegrolokalnie.pl-oferta9755023.cfd",
+    "www.olx.pl-oferta9755023.cfd",
+    "www.pl-oferta9755023.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ofertaid891822100392.top",
+    "www.pl-ofertaid891822100392.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-ogloszenie2251.sbs",
+    "www.allegrolokalnie.pl-ogloszenie2251.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl-yju98nb.cfd",
+    "olx.pl-yju98nb.cfd",
+    "pl-yju98nb.cfd",
+    "www.allegrolokalnie.pl-yju98nb.cfd",
+    "www.olx.pl-yju98nb.cfd",
+    "www.pl-yju98nb.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-zapla.info",
+    "poczta-polska-pl.pl-zapla.info",
+    "www.pl-zapla.info",
+    "www.poczta-polska-pl.pl-zapla.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokainie.pl2349.cfd",
+    "www.allegrolokainie.pl2349.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokainie.pl3922.cfd",
+    "www.allegrolokainie.pl3922.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.pl9898.cfd",
+    "pl9898.cfd",
+    "www.allegrolokalnie.pl9898.cfd",
+    "www.pl9898.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "plataformaacuario.com",
+    "www.plataformaacuario.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "mileproj1.plawax.com",
+    "mileproj.plawax.com",
+    "www.mileproj1.plawax.com",
+    "www.mileproj.plawax.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "plinkpad.com",
+    "www.plinkpad.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "plnews.lol",
+    "www.plnews.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "domena-ssl.poczta-p939.xyz",
+    "www.domena-ssl.poczta-p939.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zenbox-ssl.poczta-p941.space",
+    "zenbox-ssl.poczta-p941.space"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dpoczta-serwer.poczta-p943.site",
+    "www.dpoczta-serwer.poczta-p943.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zenbox.poczta-p945.online",
+    "zenbox.poczta-p945.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pof.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "polgovn.org",
+    "www.polgovn.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "politicalweaponry.com",
+    "www.politicalweaponry.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "facebook.pomoc-konta.top",
+    "pomoc-konta.top",
+    "www.facebook.pomoc-konta.top",
+    "www.pomoc-konta.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "portal-detektywistyczny.pl",
+    "www.portal-detektywistyczny.pl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "posyandubayibalita.com",
+    "www.posyandubayibalita.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "inpost-pl.powrk.sbs",
+    "www.inpost-pl.powrk.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "poxyqey.com",
+    "www.poxyqey.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alebilet.ppl-oferta-firmowa819342.icu",
+    "olx.ppl-oferta-firmowa819342.icu",
+    "www.alebilet.ppl-oferta-firmowa819342.icu",
+    "www.olx.ppl-oferta-firmowa819342.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "olx.ppl-oferta-firmowa829341.icu",
+    "www.olx.ppl-oferta-firmowa829341.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "preciseconstructionky.com",
+    "www.preciseconstructionky.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "prehubzz.com",
+    "www.prehubzz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "premieroutdoorstructures.com",
+    "www.premieroutdoorstructures.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "presmun.com",
+    "www.presmun.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "prestazi.com",
+    "www.prestazi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "prif65.click",
+    "www.prif65.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "printinkcraft.com",
+    "www.printinkcraft.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "procuradoresnacionales.com",
+    "www.procuradoresnacionales.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "productosparahuertoyjardin.com",
+    "www.productosparahuertoyjardin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "profesor10experimentos.com",
+    "www.profesor10experimentos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "profitpaionnerhub.com",
+    "www.profitpaionnerhub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "meterq.progmetr.com",
+    "www.meterq.progmetr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "w.progtimess.top",
+    "www.w.progtimess.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dikiii.promq.top",
+    "dikiio.promq.top",
+    "dikiit.promq.top",
+    "dikiiu.promq.top",
+    "dikiiy.promq.top",
+    "marce.promq.top",
+    "marceloq.promq.top",
+    "momple.promq.top",
+    "mompli.promq.top",
+    "momplq.promq.top",
+    "momplr.promq.top",
+    "momplt.promq.top",
+    "momplu.promq.top",
+    "momplw.promq.top",
+    "momply.promq.top",
+    "storyw.promq.top",
+    "www.dikiii.promq.top",
+    "www.dikiio.promq.top",
+    "www.dikiit.promq.top",
+    "www.dikiiu.promq.top",
+    "www.dikiiy.promq.top",
+    "www.marce.promq.top",
+    "www.marceloq.promq.top",
+    "www.momple.promq.top",
+    "www.mompli.promq.top",
+    "www.momplq.promq.top",
+    "www.momplr.promq.top",
+    "www.momplt.promq.top",
+    "www.momplu.promq.top",
+    "www.momplw.promq.top",
+    "www.momply.promq.top",
+    "www.storyw.promq.top"
    ]
   },
   {
@@ -2793,7 +7849,140 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pt-shacifa.com",
+    "www.pt-shacifa.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ptolemaicacoin.com",
+    "www.ptolemaicacoin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pulseflix.com",
+    "www.pulseflix.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.qace.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "qdagmawi.com",
+    "www.qdagmawi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tiktokcdn.com.qlivecdn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.qlpb.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "qokidyy.com",
+    "www.qokidyy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "qovoyu.com",
+    "www.qovoyu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.qoze.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "quantumliax.shop",
+    "www.quantumliax.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "radiantreflection.pro",
+    "www.radiantreflection.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rajatongseng.com",
+    "www.rajatongseng.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "randomverbs.pro",
+    "www.randomverbs.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "oljx.rc8yvn.cyou",
+    "rc8yvn.cyou",
+    "www.oljx.rc8yvn.cyou",
+    "www.rc8yvn.cyou"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rdmfile.eu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "re-car-go.com",
+    "www.re-car-go.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "recepchtav3.com"
    ]
   },
   {
@@ -2923,6 +8112,209 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "redemshik.com",
+    "www.redemshik.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "redingtonconsultancy.com",
+    "www.redingtonconsultancy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "redmi-allegro.shop",
+    "www.redmi-allegro.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rednosehorse.com",
+    "www.rednosehorse.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "regaalame.com",
+    "www.regaalame.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "remedsmuss.com",
+    "www.remedsmuss.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "renovareformas.com",
+    "www.renovareformas.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rentselfiespot.com",
+    "www.rentselfiespot.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "reparacionhosteleriavalencia.com",
+    "www.reparacionhosteleriavalencia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "reparaseguro.com",
+    "www.reparaseguro.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "reptilien-futter.xyz",
+    "www.reptilien-futter.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "republicrentcar.com",
+    "www.republicrentcar.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.reqy.bet",
+    "solve.reqy.digital"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "restaurantandkitchen.com",
+    "www.restaurantandkitchen.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "restaurantelaalmadraba.com",
+    "www.restaurantelaalmadraba.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "retailconsult360.com",
+    "www.retailconsult360.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fijegu.reviewssphere.com",
+    "reviewssphere.com",
+    "www.fijegu.reviewssphere.com",
+    "www.reviewssphere.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rewiewe-optokens.com",
+    "www.rewiewe-optokens.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "booking.rewiewi-hotielindesx.com",
+    "rewiewi-hotielindesx.com",
+    "www.booking.rewiewi-hotielindesx.com",
+    "www.rewiewi-hotielindesx.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rezanoveri.com",
+    "www.rezanoveri.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "richnarratives.pro",
+    "www.richnarratives.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ringhdeter.com",
+    "www.ringhdeter.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.ritikhush.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ritromattu.com",
+    "www.ritromattu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rixbus.com",
+    "www.rixbus.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tiktokcdn.com.rocket-cdn.com"
    ]
   },
@@ -2930,7 +8322,436 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "rolimonss.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rooftopsalou.com",
+    "www.rooftopsalou.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rosafernandarodriguezrojas.com",
+    "www.rosafernandarodriguezrojas.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rosopii4.pro",
+    "www.rosopii4.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "roundengineering.cam",
+    "www.roundengineering.cam"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rubenbaiz.com",
+    "www.rubenbaiz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rubioplata.com",
+    "www.rubioplata.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rumahberkahmadiun.com",
+    "www.rumahberkahmadiun.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rumahdidepok.com",
+    "www.rumahdidepok.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rutastachira.com",
+    "www.rutastachira.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "rythvo.ink",
+    "www.rythvo.ink"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "s-kampanja-mobiili.com",
+    "www.s-kampanja-mobiili.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bonus.s-mobywatel.rest",
+    "www.bonus.s-mobywatel.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "s-pankki-kampanjafi.com",
+    "www.s-pankki-kampanjafi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sabanamagek.com",
+    "www.sabanamagek.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sabersih.com",
+    "www.sabersih.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "reupass.sacors.top",
+    "www.reupass.sacors.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sadartd.com",
+    "www.sadartd.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "salonlaxana.com",
+    "www.salonlaxana.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sanchezbonninp.com",
+    "www.sanchezbonninp.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sanctumcc.com",
+    "www.sanctumcc.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sandrosanches.com",
+    "www.sandrosanches.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sapanoq.info",
+    "www.sapanoq.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sarah1of4.com",
+    "www.sarah1of4.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sargomadrid.com",
+    "www.sargomadrid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "scallioncreature.com",
+    "www.scallioncreature.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "schiddigua.com",
+    "www.schiddigua.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "schillerbecker.cfd",
+    "www.schillerbecker.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sedationdentistplano.com",
+    "www.sedationdentistplano.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sedotwcbandungmandiri.com",
+    "www.sedotwcbandungmandiri.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "segrevivid.com",
+    "www.segrevivid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "semenkupang.com",
+    "www.semenkupang.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sementeegran.com",
+    "www.sementeegran.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "septarianitsolutions.com",
+    "www.septarianitsolutions.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "serenitytrendhub.com",
+    "www.serenitytrendhub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "servicemontana.com",
+    "www.servicemontana.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "serviciotecvalencia.com",
+    "www.serviciotecvalencia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "domena-poczta.serwer-p88.online",
+    "www.domena-poczta.serwer-p88.online"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zenbox-poczta.serwer-p89.space",
+    "zenbox-poczta.serwer-p89.space"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sewcraftz.com",
+    "www.sewcraftz.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sewixi.com",
+    "www.sewixi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sexualidadypareja.com",
+    "www.sexualidadypareja.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sexuhoy.com",
+    "www.sexuhoy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sgsnssdk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "shampanjabi.com",
+    "www.shampanjabi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sindanglaut.com",
+    "www.sindanglaut.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sineingenieria.com",
+    "www.sineingenieria.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sintomasneurologicos.com",
+    "www.sintomasneurologicos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sirect.pro",
+    "www.sirect.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sixmothers.org",
+    "www.sixmothers.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "skill-education-centre.com",
+    "www.skill-education-centre.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "skillyschool.com",
+    "www.skillyschool.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "smartunipack.com",
+    "www.smartunipack.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bitlunch.smogturfprance.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sms-szfang.com"
    ]
   },
   {
@@ -2994,7 +8815,420 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "snoozieros.info",
+    "www.snoozieros.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "socratesbarcelona.com",
+    "www.socratesbarcelona.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.socu.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sodamaz.buzz",
+    "www.sodamaz.buzz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sodaraf.buzz",
+    "www.sodaraf.buzz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "softrickinfo.com",
+    "www.softrickinfo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solodivino.com",
+    "www.solodivino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solusione.com",
+    "www.solusione.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "somospassivhaus.com",
+    "www.somospassivhaus.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sonrisagatuna.com",
+    "www.sonrisagatuna.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sophiedennett.com",
+    "www.sophiedennett.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sosroexport.com",
+    "www.sosroexport.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "spanishwithconfidence.com",
+    "www.spanishwithconfidence.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "spasaranda.com",
+    "www.spasaranda.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "speakofdrama.com",
+    "www.speakofdrama.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sportswi.com",
+    "www.sportswi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "spotipl.com",
+    "www.spotipl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "srl00.com",
+    "www.srl00.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "srogland.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "staemcommunutty.com",
+    "www.staemcommunutty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "staemcomunnitly.com",
+    "www.staemcomunnitly.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "stagggasif.com",
+    "www.stagggasif.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dashboard-opensea.stchh.com",
+    "www.dashboard-opensea.stchh.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "steamcommmnuty.com",
+    "www.steamcommmnuty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "stefaniaormello.com",
+    "www.stefaniaormello.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "stepianriani.com",
+    "www.stepianriani.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "stleamccmmnunlty.com",
+    "www.stleamccmmnunlty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "stora-steampowered.com",
+    "www.stora-steampowered.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "storyjoules.com",
+    "www.storyjoules.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "streakspire.com",
+    "www.streakspire.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "studyksync.com",
+    "www.studyksync.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sugoijs.com",
+    "www.sugoijs.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bonus.super-moby.click",
+    "www.bonus.super-moby.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "super-windeals.site",
+    "www.super-windeals.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sv-friolzheim.xyz",
+    "www.sv-friolzheim.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "svisaredif.com",
+    "www.svisaredif.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "svnxnw.com",
+    "www.svnxnw.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "swindonfestivalofliterature.com",
+    "www.swindonfestivalofliterature.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "symbiatec-fi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.t.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tablaperiodicadeloselementos.com",
+    "www.tablaperiodicadeloselementos.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "taconcreto.com",
+    "www.taconcreto.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tangiunwil.com",
+    "www.tangiunwil.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tasoqio.com",
+    "www.tasoqio.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tcgbybkls.com",
+    "www.tcgbybkls.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "teapocalypse.com",
+    "www.teapocalypse.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "teathsoler.com",
+    "www.teathsoler.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "technosaroha.com",
+    "www.technosaroha.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "technubert.com",
+    "www.technubert.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "teldelux.com",
+    "www.teldelux.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "telelienzo.com",
+    "www.telelienzo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tentempiewine.com",
+    "www.tentempiewine.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tenzoturba.com",
+    "www.tenzoturba.com"
    ]
   },
   {
@@ -3258,6 +9492,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "thebusinessera.com",
+    "www.thebusinessera.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "static.thefacebook.com",
     "tableau.thefacebook.com",
     "thefacebook.com"
@@ -3267,8 +9509,64 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "theimmediatekeflex.com",
+    "www.theimmediatekeflex.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "themembershipcoach.com",
+    "www.themembershipcoach.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thereggaepodcast.com",
+    "www.thereggaepodcast.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "thesocialhousingportal.com",
+    "www.thesocialhousingportal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "threads.net",
     "www.threads.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tickets-steampowered.com",
+    "www.tickets-steampowered.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tiendatproperty.com",
+    "www.tiendatproperty.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dropbox-document-online.tiiny.site",
+    "www.dropbox-document-online.tiiny.site"
    ]
   },
   {
@@ -3425,7 +9723,23 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "project12005857.tilda.ws",
+    "www.project12005857.tilda.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tinder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "titicacalodge.com",
+    "www.titicacalodge.com"
    ]
   },
   {
@@ -3440,6 +9754,148 @@
    "process": "any",
    "remote-domains": [
     "tiktokcdn.com.tlivepush.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tohoku-fg.xyz",
+    "www.tohoku-fg.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tokoaishah.com",
+    "www.tokoaishah.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "toniandguyproductsspain.com",
+    "www.toniandguyproductsspain.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "topropertindo.com",
+    "www.topropertindo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tortillalatina.com",
+    "www.tortillalatina.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "a.tradpl.top",
+    "www.a.tradpl.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tranquiltechniques.com",
+    "www.tranquiltechniques.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "transfermatters.com",
+    "www.transfermatters.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "transportescorpa.com",
+    "www.transportescorpa.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "transzurla.com",
+    "www.transzurla.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sdvn.trdeone.top",
+    "sdvvba.trdeone.top",
+    "www.sdvn.trdeone.top",
+    "www.sdvvba.trdeone.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "trendflow.live",
+    "www.trendflow.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "triplaysytem.com",
+    "www.triplaysytem.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dyjfh.troove.top",
+    "uoi.troove.top",
+    "wvs.troove.top",
+    "www.dyjfh.troove.top",
+    "www.uoi.troove.top",
+    "www.wvs.troove.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "trueanxietyrelief.com",
+    "www.trueanxietyrelief.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "truefusion.biz",
+    "www.truefusion.biz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "trustedlegalexperts.com",
+    "www.trustedlegalexperts.com"
    ]
   },
   {
@@ -3481,7 +9937,54 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ttswebhosting.com",
+    "www.ttswebhosting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ttwstatic.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tuberunder.com",
+    "www.tuberunder.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tuboina.com",
+    "www.tuboina.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tudbcqa.shop",
+    "www.tudbcqa.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.tugy.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tuhospitalonline.com",
+    "www.tuhospitalonline.com"
    ]
   },
   {
@@ -3515,6 +10018,14 @@
     "v.tumblr.com",
     "vt.tumblr.com",
     "www.tumblr.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tvandmovieworld.com",
+    "www.tvandmovieworld.com"
    ]
   },
   {
@@ -3686,6 +10197,331 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "twoj-wegiel.eu",
+    "www.twoj-wegiel.eu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.tyro.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "uaefuntours.com",
+    "www.uaefuntours.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ubayapimus.com",
+    "www.ubayapimus.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ukconfectioneryacademy.com",
+    "www.ukconfectioneryacademy.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.yeggtaosten.umlaudepas.com",
+    "yeggtaosten.umlaudepas.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "unratitocadadia.com",
+    "www.unratitocadadia.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "unserrob.com",
+    "www.unserrob.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "uprenfacun.com",
+    "www.uprenfacun.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "uraistrof.com",
+    "www.uraistrof.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "urbancleanermadrid.com",
+    "www.urbancleanermadrid.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "usimmigration-assistance.com",
+    "www.usimmigration-assistance.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "usnfoge4.quest",
+    "www.usnfoge4.quest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "payment.vachaltarvachal.com",
+    "www.payment.vachaltarvachal.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vanguardwriting.com",
+    "www.vanguardwriting.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vecihel.com",
+    "www.vecihel.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "velvetandsalad.com",
+    "www.velvetandsalad.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ventureaxis.website",
+    "www.ventureaxis.website"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "infringertrackeradvision.vercel.app",
+    "www.infringertrackeradvision.vercel.app"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "veryfreview.com",
+    "www.veryfreview.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "victoriafirehistorical.com",
+    "www.victoriafirehistorical.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "victorsedgepodcast.com",
+    "www.victorsedgepodcast.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vidlithub.com",
+    "www.vidlithub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vifaja.com",
+    "www.vifaja.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted.vinted-order2012.shop",
+    "www.vinted.vinted-order2012.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vipprofitstudio.com",
+    "www.vipprofitstudio.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "visitosrilanka.com",
+    "www.visitosrilanka.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vivaciouslingo.pro",
+    "www.vivaciouslingo.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tranzaction-opensea.vivantify.io",
+    "www.tranzaction-opensea.vivantify.io"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnb-fiduciarys-luxembourgs.com",
+    "www.vnb-fiduciarys-luxembourgs.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "lsks.volamngayxua.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vowolaa.info",
+    "www.vowolaa.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "check.vusy.run",
+    "solve.vusy.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vyattaedra.com",
+    "www.vyattaedra.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.vyzu.bet",
+    "solve.vyzu.digital"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wadaclub.com",
+    "www.wadaclub.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "steamcommunity.wallpaperenginestore.com",
+    "www.steamcommunity.wallpaperenginestore.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wangunbumi.com",
+    "www.wangunbumi.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.waqj.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "warriorcharacterdynamics.com",
+    "www.warriorcharacterdynamics.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wearedesign.org",
+    "www.wearedesign.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "weareher.com"
    ]
   },
@@ -3694,6 +10530,34 @@
    "process": "any",
    "remote-domains": [
     "fbcallback.wechat.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "5555676.weebly.com",
+    "ccsywqpocojcd.weebly.com",
+    "www.5555676.weebly.com",
+    "www.ccsywqpocojcd.weebly.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wehnermccullough.cfd",
+    "www.wehnermccullough.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "em.whampl.top",
+    "eq.whampl.top",
+    "www.em.whampl.top",
+    "www.eq.whampl.top"
    ]
   },
   {
@@ -3862,6 +10726,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "wholesaleflowersecudor.com",
+    "www.wholesaleflowersecudor.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sadc.wipmai.top",
+    "www.sadc.wipmai.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wizardslotomoto.com",
+    "www.wizardslotomoto.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "document-cloud-online.latosbono.workers.dev",
+    "www.document-cloud-online.latosbono.workers.dev"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tiktokcdn.com.c.worldfcdn.com",
     "tiktokv.com.c.worldfcdn.com",
     "ttlivecdn.com.c.worldfcdn.com"
@@ -3879,7 +10775,71 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hostingtue.wpenginepowered.com",
+    "www.hostingtue.wpenginepowered.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fhd.wtrad.top",
+    "hwr.wtrad.top",
+    "m1tp.wtrad.top",
+    "m2tp.wtrad.top",
+    "m4tp.wtrad.top",
+    "mta-ofc.wtrad.top",
+    "www.fhd.wtrad.top",
+    "www.hwr.wtrad.top",
+    "www.m1tp.wtrad.top",
+    "www.m2tp.wtrad.top",
+    "www.m4tp.wtrad.top",
+    "www.mta-ofc.wtrad.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.wuga.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "wwwfacebook.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "wynecare.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.wyplacic2750pln.info",
+    "wyplacic2750pln.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "jinp0st.wysylajlatwogratisowe.shop",
+    "www.jinp0st.wysylajlatwogratisowe.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.wysylkidodomu.shop",
+    "wysylkidodomu.shop"
    ]
   },
   {
@@ -3894,7 +10854,149 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.xalarae.com",
+    "xalarae.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.xcelreachagency.com",
+    "xcelreachagency.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.xecy.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.xojysei.info",
+    "xojysei.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "check.xufx.run"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "allegrolokalnie.y750.sbs",
+    "www.allegrolokalnie.y750.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cookiex.ngd.yahoo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.yiwujiangu.com",
+    "yiwujiangu.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zam-cordosta.shop",
+    "zam-cordosta.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "0lxpo.zamowienie24.shop",
+    "www.0lxpo.zamowienie24.shop",
+    "www.zamowienie24.icu",
+    "zamowienie24.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zappesurri.com",
+    "zappesurri.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zaraflow.xyz",
+    "zaraflow.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zarpasivinvpl.com",
+    "zarpasivinvpl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.zera.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "solve.zexd.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zifowua6.pro",
+    "zifowua6.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zingylingo.pro",
+    "zingylingo.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tradesuii.ziproap.com",
+    "www.tradesuii.ziproap.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zisepeo.com",
+    "zisepeo.com"
    ]
   }
  ]
