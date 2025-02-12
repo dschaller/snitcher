@@ -8216,6 +8216,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "du88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "duatop2024.net"
    ]
   },
@@ -9036,6 +9043,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "fb68.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "affiliate.fb88.com",
     "fb88.com",
     "fb88.delivery",
@@ -9271,6 +9285,13 @@
    "remote-domains": [
     "fbking33.com",
     "m.fbking33.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fc88.net"
    ]
   },
   {
