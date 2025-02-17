@@ -2901,6 +2901,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b52.cc",
     "b52.club",
     "b52.game",
     "b52.me",
@@ -4999,6 +5000,13 @@
     "bom52.club",
     "game.bom52.club",
     "play.bom52.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "bom88.com"
    ]
   },
   {
