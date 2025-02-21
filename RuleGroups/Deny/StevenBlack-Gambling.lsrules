@@ -404,6 +404,7 @@
    "process": "any",
    "remote-domains": [
     "188bet.pro",
+    "188bet.vote",
     "188bet.com",
     "www.188bet.com"
    ]
@@ -1409,7 +1410,9 @@
    "remote-domains": [
     "789club.biz",
     "789club.com",
-    "789club.org"
+    "789club.org",
+    "789club.sx",
+    "qc.789club.sx"
    ]
   },
   {
@@ -3331,6 +3334,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bet88.ai",
     "bet88.systems"
    ]
   },
@@ -5103,6 +5107,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bongdanet.co"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bntv.bongvip.com",
     "bongvip.com",
     "bongvip.onl",
@@ -5376,7 +5387,35 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "cacuoc.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "cacuoc247.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cacuoc365.blog"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cacuoconline.site"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "cacuocso.com"
    ]
   },
   {
@@ -7883,6 +7922,7 @@
     "debet.com",
     "debet.fun",
     "debet.info",
+    "debet.mn",
     "debet.moi",
     "debet.net",
     "debet.top",
@@ -9478,6 +9518,13 @@
    "remote-domains": [
     "flumecasino.com",
     "www.flumecasino.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fm88.vip"
    ]
   },
   {
@@ -17281,6 +17328,7 @@
    "remote-domains": [
     "net88.ac",
     "net88.day",
+    "net88.in",
     "net88.men",
     "net88.run",
     "net88.tv",
@@ -17406,7 +17454,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "nhacaiuytin.life"
+    "nhacaiuytin.life",
+    "nhacaiuytin.top"
    ]
   },
   {
@@ -19175,6 +19224,7 @@
     "rikvip.tv",
     "rikvip.us",
     "rikvip.vip",
+    "rikvip.wales",
     "rikvip.win",
     "tai.rikvip.tv",
     "tai.rikvip.us",
@@ -23515,7 +23565,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "vin88.com"
+    "vin88.com",
+    "vin88.net"
    ]
   },
   {
@@ -24052,6 +24103,13 @@
    "process": "any",
    "remote-domains": [
     "vnvwin.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnxoso-web.com"
    ]
   },
   {
