@@ -14755,6 +14755,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ku88.pro",
     "ku88.win"
    ]
   },
@@ -22128,6 +22129,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tic88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "tienlenpoker.fun"
    ]
   },
@@ -22160,6 +22168,13 @@
    "process": "any",
    "remote-domains": [
     "tip.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tip88.com"
    ]
   },
   {
@@ -23694,6 +23709,13 @@
     "viva88.com",
     "viva88.net",
     "www.viva88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vk88.com"
    ]
   },
   {
