@@ -15051,6 +15051,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "leo88.com",
+    "leo88.fun",
+    "leo88.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "leojackpot.com",
     "www.leojackpot.com"
    ]
@@ -22145,6 +22154,13 @@
    "remote-domains": [
     "tin010.com",
     "www.tin010.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "tin88.top"
    ]
   },
   {
