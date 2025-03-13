@@ -2195,6 +2195,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "98win.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "9911789.com"
    ]
   },
@@ -17595,7 +17602,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "nohu.band"
+    "nohu.band",
+    "nohu.win"
    ]
   },
   {
@@ -17604,6 +17612,13 @@
    "remote-domains": [
     "nohu35.com",
     "www.nohu35.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nohudoithuong.win"
    ]
   },
   {
@@ -24216,6 +24231,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vua88.app",
+    "vua88.biz",
     "vua88.club"
    ]
   },
@@ -25149,6 +25166,7 @@
     "i.win79.com",
     "i.win79.fun",
     "play.win79.vip",
+    "tai.win79.com",
     "tai.win79.pro",
     "tai.win79.vip",
     "win79.app",
