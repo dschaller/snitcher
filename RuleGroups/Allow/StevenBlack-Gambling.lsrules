@@ -22,6 +22,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "007win.com",
+    "007win.org",
+    "007win.shop",
+    "cnmgb.007win.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "009.casino",
     "009.com",
     "www.009.casino"
@@ -18226,6 +18236,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ad.pagedebet.org",
+    "pagedebet.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "palladiumcasino.eu",
     "www.palladiumcasino.eu"
    ]
@@ -19892,7 +19910,8 @@
    "process": "any",
    "remote-domains": [
     "dk.sieutaixiu79.club",
-    "sieutaixiu79.club"
+    "sieutaixiu79.club",
+    "soc.sieutaixiu79.club"
    ]
   },
   {
@@ -21742,6 +21761,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "007winand.taive.app",
+    "taive.app"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "taiwin79.win"
    ]
   },
@@ -22059,6 +22086,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "dk.thethaovin88.info",
+    "thethaovin88.info"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "thethaovip.vip"
    ]
   },
@@ -22207,6 +22242,14 @@
    "process": "any",
    "remote-domains": [
     "tip88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lp.tip88vn.me",
+    "tip88vn.me"
    ]
   },
   {
