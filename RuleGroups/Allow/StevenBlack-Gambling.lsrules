@@ -16752,6 +16752,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "mm99.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "mobil6000.com",
     "www.mobil6000.com"
    ]
