@@ -9000,6 +9000,7 @@
     "fa88.tv",
     "fa88.win",
     "play.fa88.win",
+    "qc.fa88.tv",
     "tai.fa88.win",
     "v.fa88.tv"
    ]
@@ -15156,6 +15157,13 @@
    "remote-domains": [
     "link2bet.com",
     "www.link2bet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "link789club.click"
    ]
   },
   {
@@ -22093,6 +22101,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "thethaova88.club"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dk.thethaovin88.info",
     "thethaovin88.info"
    ]
@@ -23297,6 +23312,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "va88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "www.vacasino.com"
    ]
   },
@@ -23791,6 +23813,14 @@
     "viva88.com",
     "viva88.net",
     "www.viva88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "v4.vivu88.com",
+    "vivu88.com"
    ]
   },
   {
