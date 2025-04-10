@@ -1066,6 +1066,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "555win.mobi"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "5566688.com",
     "5566688.net"
    ]
@@ -4496,6 +4503,7 @@
    "process": "any",
    "remote-domains": [
     "betvisa.com",
+    "betvisa.dog",
     "m.betvisa.com",
     "www.betvisa.com"
    ]
@@ -6048,6 +6056,13 @@
    "process": "any",
    "remote-domains": [
     "choi99.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choib52.club"
    ]
   },
   {
@@ -7927,7 +7942,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api2.debet.uk",
     "d1.debet.info",
+    "d1.debet.so",
     "d1.debet.top",
     "d1.debet.win",
     "d3.debet.info",
@@ -7942,11 +7959,13 @@
     "debet.mn",
     "debet.moi",
     "debet.net",
+    "debet.so",
     "debet.top",
     "debet.uk",
     "debet.us",
     "debet.win",
     "mkt.debet.com",
+    "socket.debet.so",
     "socket.debet.uk",
     "socket.debet.win",
     "www.debet.com",
@@ -16644,10 +16663,12 @@
     "mibet.cc",
     "mibet.com",
     "mibet.mobi",
+    "mibet.net",
     "mibet.win",
     "qc.mibet.com",
     "t.mibet.com",
     "tool.mibet.com",
+    "wp.mibet.net",
     "www.mibet.com",
     "www.mibet.mobi"
    ]
@@ -19105,6 +19126,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.red88.com",
     "api.red88.us",
     "api.red88.vin",
     "api.red88.vip",
@@ -19122,6 +19144,7 @@
     "sock.red88.us",
     "sock.red88.vin",
     "sock.red88.vip",
+    "wp.red88.com",
     "wp.red88.us",
     "wp.red88.vin",
     "wp.red88.vip"
@@ -19940,6 +19963,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api2.sin88.com",
     "euro.sin88.biz",
     "games.sin88.biz",
     "giutcohon.sin88.biz",
@@ -19950,6 +19974,7 @@
     "s2.sin88.biz",
     "s2.sin88.cc",
     "s2.sin88.club",
+    "s2.sin88.com",
     "sin88.bet",
     "sin88.biz",
     "sin88.cc",
@@ -19963,6 +19988,7 @@
     "sin88.us",
     "sin88.vip",
     "sin88.win",
+    "sn1.sin88.me",
     "thethao.sin88.biz",
     "www.sin88.biz",
     "www.sin88.club"
@@ -20107,6 +20133,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.sky88.com",
     "api.sky88.fun",
     "sky88.bet",
     "sky88.com",
@@ -20116,8 +20143,10 @@
     "sky88.net",
     "sky88.top",
     "sky88.win",
+    "sock.sky88.com",
     "sock.sky88.fun",
     "sock.sky88.in",
+    "wp.sky88.com",
     "wp.sky88.fun",
     "www.sky88.win"
    ]
@@ -22108,6 +22137,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dangky.thethaovb88.biz",
+    "thethaovb88.biz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dk.thethaovin88.info",
     "thethaovin88.info"
    ]
@@ -23728,6 +23765,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "i.vip79.com",
     "lp.vip79.com",
     "lp.vip79.vip",
     "play.vip79.com",
@@ -25864,6 +25902,7 @@
     "play.yo88.win",
     "web.yo88.tv",
     "www.yo88.net",
+    "yo88.cool",
     "yo88.net",
     "yo88.tv",
     "yo88.win"
@@ -25931,9 +25970,11 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api-v2.zbet.tv",
     "gw.zbet.com",
     "www.zbet.com",
     "z1.zbet.com",
+    "z1.zbet.tv",
     "z2.zbet.com",
     "z3.zbet.com",
     "zbet.com",
