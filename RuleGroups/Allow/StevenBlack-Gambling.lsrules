@@ -1361,6 +1361,7 @@
    "process": "any",
    "remote-domains": [
     "789bet.com",
+    "789bet.green",
     "789bet.run",
     "789bet.vip"
    ]
@@ -8929,6 +8930,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "f168.vision"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "f8bet.com",
     "f8bet.games",
     "f8bet.homes",
@@ -10952,6 +10960,7 @@
     "hi88.chat",
     "hi88.de",
     "hi88.gd",
+    "hi88.uno",
     "static.hi88.de"
    ]
   },
@@ -11051,6 +11060,7 @@
    "remote-domains": [
     "hit.club",
     "hit.game",
+    "i.hit.club",
     "play.hit.club",
     "web.hit.club"
    ]
@@ -24006,6 +24016,7 @@
     "vn88.fun",
     "vn88.io",
     "vn88.mobi",
+    "vn88.quest",
     "www.vn88.bet",
     "www.vn88.casino",
     "www.vn88.club",
