@@ -1454,6 +1454,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "789f.ac",
+    "api.789f.ac",
+    "www.789f.ac"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "789k.club"
    ]
   },
@@ -9569,7 +9578,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "fm88.vip"
+    "fm88.com",
+    "fm88.vip",
+    "m1.fm88.com",
+    "sk.fm88.com"
    ]
   },
   {
@@ -14278,6 +14290,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "kbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "kc8.link"
    ]
   },
@@ -15410,10 +15429,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "l4.lode88.ai",
+    "lode88.ai",
     "lode88.online",
     "lode88.vip",
     "m.lode88.vip",
-    "smartpay.lode88.vip"
+    "smartpay.lode88.vip",
+    "v1.lode88.ai"
    ]
   },
   {
