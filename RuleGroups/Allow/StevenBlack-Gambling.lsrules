@@ -3149,6 +3149,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "api.bec88.com",
+    "bec88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "belmont.ag",
     "www.belmont.ag"
    ]
