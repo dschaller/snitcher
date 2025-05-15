@@ -9896,7 +9896,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "ga88.pro"
+    "ga88.pro",
+    "ga88.top"
    ]
   },
   {
@@ -18862,6 +18863,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "b4.pum88.com",
+    "pum88.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "punchbets.com",
     "www.punchbets.com"
    ]
@@ -26039,6 +26048,14 @@
    "process": "any",
    "remote-domains": [
     "zenitbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "b4.zet88.com",
+    "zet88.com"
    ]
   },
   {
