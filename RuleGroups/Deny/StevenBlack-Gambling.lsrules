@@ -6080,7 +6080,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "choib52.club"
+    "choib52.club",
+    "choib52.me",
+    "lp.choib52.me"
    ]
   },
   {
@@ -6095,6 +6097,13 @@
    "process": "any",
    "remote-domains": [
     "choibancadoithuong.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "choibec88.vip"
    ]
   },
   {
@@ -7846,7 +7855,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "dangky789.vin"
+    "dangky789.one",
+    "dangky789.vin",
+    "web.dangky789.one"
    ]
   },
   {
@@ -21862,6 +21873,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "dk.taiwin79.my",
+    "taiwin79.my",
     "taiwin79.win"
    ]
   },
