@@ -6,6 +6,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "twitch.a2z.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "s.ads-twitter.com",
     "www.ads-twitter.com"
    ]
@@ -524,7 +531,8 @@
     "z-p42-scontent-waw1-1.cdninstagram.com",
     "z-p42-scontent-yyz1-1.cdninstagram.com",
     "z-p42-scontent.cdninstagram.com",
-    "z-p42-static.cdninstagram.com"
+    "z-p42-static.cdninstagram.com",
+    "scontent.fallback.cdninstagram.com"
    ]
   },
   {
@@ -622,6 +630,14 @@
     "mon-va.tiktokv.com.edgesuite.net",
     "mon.tiktokv.com.edgesuite.net",
     "xlog.tiktokv.com.edgesuite.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "ext-twitch.tv",
+    "supervisor.ext-twitch.tv"
    ]
   },
   {
@@ -2328,6 +2344,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "jtvnw.net",
+    "static-cdn.jtvnw.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "dms-akam.licdn.com",
     "dms.licdn.com",
     "media-akam.licdn.com",
@@ -2566,6 +2590,14 @@
     "za.linkedin.com",
     "zh-cn.help.linkedin.com",
     "zh-tw.help.linkedin.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "live-video.net",
+    "global.poe.live-video.net"
    ]
   },
   {
@@ -3481,6 +3513,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ttvnw.net",
+    "usher.ttvnw.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ttwstatic.com"
    ]
   },
@@ -3547,6 +3587,57 @@
     "tailfeather.twimg.com",
     "ton.twimg.com",
     "widgets.twimg.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitch.tv",
+    "www.twitch.tv",
+    "assets.twitch.tv",
+    "hermes.twitch.tv",
+    "irc-ws.chat.twitch.tv",
+    "gql.twitch.tv",
+    "pubsub-edge.twitch.tv",
+    "extensions-discovery-images.twitch.tv",
+    "panels.twitch.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitch-shadow.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitchcdn.net",
+    "k.twitchcdn.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitchcdn-shadow.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitchsvc.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "twitchsvc-staging.tech"
    ]
   },
   {

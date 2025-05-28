@@ -11230,6 +11230,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hong88vn.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "hopa.com",
     "www.hopa.com"
    ]
@@ -26093,6 +26100,14 @@
    "remote-domains": [
     "lp.zo1.win",
     "zo1.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "i.zo10.win",
+    "zo10.win"
    ]
   },
   {
