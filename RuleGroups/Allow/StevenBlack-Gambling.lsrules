@@ -1700,6 +1700,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "86bet.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "87vnd.com",
     "www.87vnd.com"
    ]
@@ -7904,6 +7911,14 @@
    "remote-domains": [
     "dangkythabet.com",
     "www.dangkythabet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dangkyva88.info",
+    "km.dangkyva88.info"
    ]
   },
   {
