@@ -4645,6 +4645,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b4.big88.com",
+    "big88.com",
     "big88.one",
     "www.big88.one"
    ]
@@ -19051,6 +19053,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b4.qibet.com",
+    "qibet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "qq101.com"
    ]
   },
@@ -24428,6 +24438,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vu88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "vua2.club"
    ]
   },
@@ -25289,6 +25306,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "w2.wi88.win",
     "wi88.top",
     "wi88.win"
    ]
@@ -25735,6 +25753,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sk.xibet.com",
+    "xibet.com",
     "xibet.win"
    ]
   },
