@@ -23234,6 +23234,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "uu88.com",
+    "uu88.now"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "uu8814.net"
    ]
   },
