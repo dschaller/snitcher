@@ -10255,6 +10255,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gen88.com",
+    "gw.gen88.com",
+    "s4.gen88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "genesiscasino.com",
     "www.genesiscasino.com"
    ]
@@ -19746,6 +19755,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "saobet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "saowin.ink",
     "saowin.plus"
    ]
@@ -20033,6 +20049,14 @@
    "process": "any",
    "remote-domains": [
     "sieukeo.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "dk.sieunhacai.us",
+    "sieunhacai.us"
    ]
   },
   {
@@ -22845,6 +22869,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tot88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "totalbets.com",
     "www.totalbets.com"
    ]
@@ -23823,8 +23854,11 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m1.vin88.net",
+    "sk.vin88.net",
     "vin88.com",
-    "vin88.net"
+    "vin88.net",
+    "vin88.top"
    ]
   },
   {
