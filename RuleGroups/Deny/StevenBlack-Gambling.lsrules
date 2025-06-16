@@ -6305,6 +6305,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "choiwon88.info",
+    "nt.choiwon88.info"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ad.choiyo88.co",
     "choiyo88.co"
    ]
@@ -10961,6 +10969,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.hdbet.com",
+    "hdbet.com",
+    "socket.hdbet.com",
+    "wp.hdbet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "heavenbet.com",
     "www.heavenbet.com"
    ]
@@ -14224,6 +14242,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "k9bet.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "k9vn1.com"
    ]
   },
@@ -16797,6 +16822,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.min88.com",
+    "img.min88.com",
+    "min88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "api.minivn.com",
     "minivn.com",
     "www.minivn.com"
@@ -17655,7 +17689,9 @@
    "remote-domains": [
     "nhatvip.mobi",
     "nhatvip.us",
+    "nhatvip.vip",
     "tai.nhatvip.live",
+    "v.nhatvip.vip",
     "web.nhatvip.net",
     "www.nhatvip.net"
    ]
@@ -18901,6 +18937,13 @@
    "process": "any",
    "remote-domains": [
     "ptwin6.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pub88.com"
    ]
   },
   {
@@ -21260,6 +21303,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sut88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "sv288.net"
    ]
   },
@@ -22388,6 +22438,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "m1.tin88.bet",
+    "sk.tin88.bet",
+    "tin88.bet",
     "tin88.top"
    ]
   },
@@ -23728,6 +23781,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b4.vibet.com",
+    "vibet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "play.vic.win",
     "qc.vic.win",
     "vic.win"
@@ -24494,9 +24555,11 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b4.vua88.com",
     "vua88.app",
     "vua88.biz",
-    "vua88.club"
+    "vua88.club",
+    "vua88.com"
    ]
   },
   {
@@ -25656,6 +25719,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "b4.won88.win",
+    "won88.com",
+    "won88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "worldwidegamble.com",
     "www.worldwidegamble.com"
    ]
@@ -25756,8 +25828,10 @@
     "play.x8.club",
     "qc.x8.club",
     "qc.x8.games",
+    "qc.x8.mobi",
     "x8.club",
-    "x8.games"
+    "x8.games",
+    "x8.mobi"
    ]
   },
   {
@@ -26047,9 +26121,11 @@
     "ad.yo88.win",
     "play.yo88.net",
     "play.yo88.win",
+    "web.yo88.is",
     "web.yo88.tv",
     "www.yo88.net",
     "yo88.cool",
+    "yo88.is",
     "yo88.net",
     "yo88.tv",
     "yo88.win"
