@@ -1097,6 +1097,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "58win.com",
+    "58win.cool"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "5dimes.com",
     "www.5dimes.com"
    ]
@@ -10256,7 +10264,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "gemwin.page"
+    "gemwin.page",
+    "gemwin.vip",
+    "play.gemwin.vip"
    ]
   },
   {
@@ -11274,6 +11284,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "hong88vn.click",
     "hong88vn.win"
    ]
   },
@@ -16625,6 +16636,7 @@
    "remote-domains": [
     "mb88.bet",
     "mb88.com",
+    "mb88.vip",
     "www.mb88.bet",
     "www.mb88.com"
    ]
@@ -26301,6 +26313,14 @@
    "remote-domains": [
     "dk.zoplay.top",
     "zoplay.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "web.zowin.tv",
+    "zowin.tv"
    ]
   },
   {
