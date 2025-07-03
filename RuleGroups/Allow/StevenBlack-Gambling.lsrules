@@ -9445,6 +9445,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "fc88.beauty",
     "fc88.net"
    ]
   },
@@ -10068,6 +10069,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gamebaidoithuong.lat",
     "gamebaidoithuong.quest"
    ]
   },
@@ -15183,6 +15185,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "legabet.gay"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "legendsportsbook.com",
     "www.legendsportsbook.com"
    ]
@@ -15256,6 +15265,13 @@
    "process": "any",
    "remote-domains": [
     "lienhe44.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "lienminhlega.com"
    ]
   },
   {
@@ -25962,6 +25978,13 @@
     "xocdia88.click",
     "xocdia88.es",
     "xocdia88.video"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "xocdiaonline.cool"
    ]
   },
   {
