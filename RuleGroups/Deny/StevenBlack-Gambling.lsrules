@@ -4692,6 +4692,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "bin88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "bingo.com",
     "www.bingo.com"
    ]
@@ -16558,7 +16565,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "max88.com"
+    "m1.max88.vip",
+    "max88.com",
+    "max88.vip"
    ]
   },
   {
@@ -20193,6 +20202,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "sinbet.com",
     "sinbet.vip",
     "www.sinbet.vip"
    ]
