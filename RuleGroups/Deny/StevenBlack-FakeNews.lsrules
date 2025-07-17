@@ -1044,17 +1044,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "aanirfan.blogspot.com",
-    "jamesfetzer.blogspot.com",
-    "landdestroyer.blogspot.com",
-    "sitsshow.blogspot.com",
-    "tradcatknight.blogspot.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "bloomingtonleader.com"
    ]
   },
@@ -4026,13 +4015,6 @@
    "process": "any",
    "remote-domains": [
     "floridaparishnews.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "www.floridasunpost.com"
    ]
   },
   {

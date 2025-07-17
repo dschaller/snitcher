@@ -1463,6 +1463,13 @@
    "process": "any",
    "remote-domains": [
     "789f.ac",
+    "789f.ai",
+    "789f.best",
+    "789f.com",
+    "789f.lat",
+    "789f.live",
+    "789f.love",
+    "789f.one",
     "api.789f.ac",
     "www.789f.ac"
    ]
