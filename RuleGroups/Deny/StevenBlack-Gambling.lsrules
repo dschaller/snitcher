@@ -2079,7 +2079,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "8kbet.app"
+    "8k88.live",
+    "8k88.plus"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "8kbet.app",
+    "8kbet.com"
    ]
   },
   {
@@ -6533,6 +6542,13 @@
    "remote-domains": [
     "cocktailbingo.com",
     "www.cocktailbingo.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "code8k.vip"
    ]
   },
   {
@@ -24541,6 +24557,13 @@
    "remote-domains": [
     "voodoodreams.com",
     "www.voodoodreams.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vpn8k.top"
    ]
   },
   {
