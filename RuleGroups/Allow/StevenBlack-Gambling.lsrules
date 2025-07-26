@@ -7486,6 +7486,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "cuocxau188bet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "cupcakebingo.com",
     "www.cupcakebingo.com"
    ]
@@ -11446,7 +11453,8 @@
    "process": "any",
    "remote-domains": [
     "i9.bet",
-    "i9.pro"
+    "i9.pro",
+    "i9.top"
    ]
   },
   {
@@ -12230,6 +12238,13 @@
    "process": "any",
    "remote-domains": [
     "i9bet999.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "i9betapp.win"
    ]
   },
   {
@@ -17502,6 +17517,13 @@
    "process": "any",
    "remote-domains": [
     "nbet88.org"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "nc88.net"
    ]
   },
   {
@@ -23082,6 +23104,13 @@
    "process": "any",
    "remote-domains": [
     "traiga.vn"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "trang188vn.com"
    ]
   },
   {
