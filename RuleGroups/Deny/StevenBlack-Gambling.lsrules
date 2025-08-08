@@ -4671,7 +4671,9 @@
    "process": "any",
    "remote-domains": [
     "b4.big88.com",
+    "b4.big88.net",
     "big88.com",
+    "big88.net",
     "big88.one",
     "www.big88.one"
    ]
@@ -10480,6 +10482,16 @@
    "process": "any",
    "remote-domains": [
     "go789.nl"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "go8.lv",
+    "go8.plus",
+    "go8.pub",
+    "go8.pw"
    ]
   },
   {
@@ -18406,6 +18418,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "o4.oxbet.in",
     "oxbet.cc",
     "oxbet.club",
     "oxbet.com",
