@@ -4552,6 +4552,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "betvip.center"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "betvisa.com",
     "betvisa.dog",
     "m.betvisa.com",
@@ -13035,6 +13042,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "k88.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "k89bet.com"
    ]
   },
@@ -14499,6 +14513,15 @@
    "remote-domains": [
     "keyarena.gg",
     "www.keyarena.gg"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "kg88.com",
+    "kg88.shop",
+    "youwevnak.kg88.shop"
    ]
   },
   {
@@ -16464,6 +16487,13 @@
    "remote-domains": [
     "game.man79.org",
     "man79.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "man88.net"
    ]
   },
   {
