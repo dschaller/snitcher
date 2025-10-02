@@ -1439,6 +1439,7 @@
     "789club.com",
     "789club.org",
     "789club.sx",
+    "play.789club.sx",
     "qc.789club.sx"
    ]
   },
@@ -6436,14 +6437,12 @@
     "pl-oferta2467149.co.in",
     "pl-oferta4268133.co.in",
     "pl-oferta6932343.co.in",
-    "pl-oferta8668296.co.in",
     "pl-oferta9884701.co.in",
     "pl-oferta9036234247.co.in",
     "www.pl-oferta1172123.co.in",
     "www.pl-oferta2467149.co.in",
     "www.pl-oferta4268133.co.in",
     "www.pl-oferta6932343.co.in",
-    "www.pl-oferta8668296.co.in",
     "www.pl-oferta9884701.co.in",
     "www.pl-oferta9036234247.co.in",
     "22bet.co.ke",
@@ -12362,16 +12361,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "id-pl-oferta-df45d-index-https.shop",
-    "olx.id-pl-oferta-df45d-index-https.shop",
-    "www.id-pl-oferta-df45d-index-https.shop",
-    "www.olx.id-pl-oferta-df45d-index-https.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "iforbet.cz",
     "iforbet.pl",
     "www.iforbet.cz"
@@ -16548,7 +16537,8 @@
    "process": "any",
    "remote-domains": [
     "man88.net",
-    "man88.top"
+    "man88.top",
+    "man88.vip"
    ]
   },
   {
@@ -18204,6 +18194,15 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "okking.com",
+    "okking.cooking",
+    "okking.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "okvip.life",
     "okvip.pro",
     "okvip.today",
@@ -18514,6 +18513,7 @@
     "oxbet.cc",
     "oxbet.club",
     "oxbet.com",
+    "oxbet.fun",
     "oxbet.in",
     "oxbet.net",
     "oxbet.top",
@@ -18741,14 +18741,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta-04632.live",
-    "www.pl-oferta-04632.live"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta-2137651551-macbook-pro-2022.sbs",
     "vinted.pl-oferta-2137651551-macbook-pro-2022.sbs",
     "www.pl-oferta-2137651551-macbook-pro-2022.sbs",
@@ -18769,8 +18761,48 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta-2302349.icu",
+    "vinted.pl-oferta-2302349.icu",
+    "www.pl-oferta-2302349.icu",
+    "www.vinted.pl-oferta-2302349.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta-2355549.sbs",
+    "vinted.pl-oferta-2355549.sbs",
+    "www.pl-oferta-2355549.sbs",
+    "www.vinted.pl-oferta-2355549.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta-2402749.cfd",
+    "vinted.pl-oferta-2402749.cfd",
+    "www.pl-oferta-2402749.cfd",
+    "www.vinted.pl-oferta-2402749.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta-4765680.icu",
     "www.pl-oferta-4765680.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta-54303764.cfd",
+    "vinted.pl-oferta-54303764.cfd",
+    "www.pl-oferta-54303764.cfd",
+    "www.vinted.pl-oferta-54303764.cfd"
    ]
   },
   {
@@ -18787,24 +18819,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta-64623.shop",
-    "www.pl-oferta-64623.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta-6483938.sbs",
     "www.pl-oferta-6483938.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta-74623.sbs",
-    "www.pl-oferta-74623.sbs"
    ]
   },
   {
@@ -18837,14 +18853,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta-853285.top",
-    "www.pl-oferta-853285.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta-88272662718199171981.sbs",
     "vinted.pl-oferta-88272662718199171981.sbs",
     "www.pl-oferta-88272662718199171981.sbs",
@@ -18855,24 +18863,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta-883256.icu",
-    "www.pl-oferta-883256.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta-90302.rest",
     "www.pl-oferta-90302.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta-98425.top",
-    "www.pl-oferta-98425.top"
    ]
   },
   {
@@ -18889,6 +18881,16 @@
    "remote-domains": [
     "pl-oferta-proponowane34293942.icu",
     "www.pl-oferta-proponowane34293942.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta003881.icu",
+    "vinted.pl-oferta003881.icu",
+    "www.pl-oferta003881.icu",
+    "www.vinted.pl-oferta003881.icu"
    ]
   },
   {
@@ -18993,32 +18995,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta051121.icu",
-    "www.pl-oferta051121.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta054009.icu",
     "www.pl-oferta054009.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta054121.icu",
-    "www.pl-oferta054121.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta055121.icu",
-    "www.pl-oferta055121.icu"
    ]
   },
   {
@@ -19029,22 +19007,6 @@
     "pl-oferta07432.sbs",
     "www.pl-oferta07432.icu",
     "www.pl-oferta07432.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta0759017.cfd",
-    "www.pl-oferta0759017.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta08845.top",
-    "www.pl-oferta08845.top"
    ]
   },
   {
@@ -19077,22 +19039,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta1024782.icu",
-    "www.pl-oferta1024782.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta1037382.cyou",
-    "www.pl-oferta1037382.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta1038892.shop",
     "www.pl-oferta1038892.shop"
    ]
@@ -19111,54 +19057,6 @@
    "remote-domains": [
     "pl-oferta10526837249.lat",
     "www.pl-oferta10526837249.lat"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta10703504.cyou",
-    "www.pl-oferta10703504.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta107482.cyou",
-    "www.pl-oferta107482.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta107842.cyou",
-    "www.pl-oferta107842.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta1078946.cyou",
-    "www.pl-oferta1078946.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta108945.cyou",
-    "www.pl-oferta108945.cyou"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta110121.icu",
-    "www.pl-oferta110121.icu"
    ]
   },
   {
@@ -19191,24 +19089,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta1184159671253-samsung-galaxy.shop",
+    "vinted.pl-oferta1184159671253-samsung-galaxy.shop",
+    "www.pl-oferta1184159671253-samsung-galaxy.shop",
+    "www.vinted.pl-oferta1184159671253-samsung-galaxy.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta12014233.icu",
     "www.pl-oferta12014233.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta122121.icu",
-    "www.pl-oferta122121.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta122321.icu",
-    "www.pl-oferta122321.icu"
    ]
   },
   {
@@ -19241,40 +19133,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta123529837.cfd",
-    "www.pl-oferta123529837.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta12442.icu",
     "www.pl-oferta12442.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta125121.icu",
-    "www.pl-oferta125121.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta125211.icu",
-    "www.pl-oferta125211.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta125321.icu",
-    "www.pl-oferta125321.icu"
    ]
   },
   {
@@ -19285,6 +19145,16 @@
     "vinted.pl-oferta1253362.shop",
     "www.pl-oferta1253362.shop",
     "www.vinted.pl-oferta1253362.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta125581.icu",
+    "vinted.pl-oferta125581.icu",
+    "www.pl-oferta125581.icu",
+    "www.vinted.pl-oferta125581.icu"
    ]
   },
   {
@@ -19325,6 +19195,16 @@
     "vinted.pl-oferta129541.icu",
     "www.pl-oferta129541.icu",
     "www.vinted.pl-oferta129541.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta1297900.sbs",
+    "vinted.pl-oferta1297900.sbs",
+    "www.pl-oferta1297900.sbs",
+    "www.vinted.pl-oferta1297900.sbs"
    ]
   },
   {
@@ -19381,14 +19261,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta144536.icu",
-    "www.pl-oferta144536.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta1467657.cfd",
     "www.pl-oferta1467657.cfd"
    ]
@@ -19401,22 +19273,6 @@
     "vinted.pl-oferta152321.icu",
     "www.pl-oferta152321.icu",
     "www.vinted.pl-oferta152321.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta153421.icu",
-    "www.pl-oferta153421.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta155121.icu",
-    "www.pl-oferta155121.icu"
    ]
   },
   {
@@ -19449,16 +19305,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta1794651.top",
-    "www.pl-oferta1794651.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta182457245.icu",
-    "www.pl-oferta182457245.icu"
+    "pl-oferta173651.icu",
+    "vinted.pl-oferta173651.icu",
+    "www.pl-oferta173651.icu",
+    "www.vinted.pl-oferta173651.icu"
    ]
   },
   {
@@ -19491,22 +19341,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta1893529.cfd",
-    "www.pl-oferta1893529.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta1896550.sbs",
-    "www.pl-oferta1896550.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta19038.icu",
     "www.pl-oferta19038.icu"
    ]
@@ -19515,32 +19349,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta1919502.sbs",
-    "www.pl-oferta1919502.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta1923817.sbs",
-    "www.pl-oferta1923817.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta192473.top",
-    "www.pl-oferta192473.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta192835.icu",
     "www.pl-oferta192835.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta193001.icu",
+    "vinted.pl-oferta193001.icu",
+    "www.pl-oferta193001.icu",
+    "www.vinted.pl-oferta193001.icu"
    ]
   },
   {
@@ -19563,10 +19383,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta1979449.pl",
-    "vinted.pl-oferta1979449.pl",
-    "www.pl-oferta1979449.pl",
-    "www.vinted.pl-oferta1979449.pl"
+    "pl-oferta197001.icu",
+    "vinted.pl-oferta197001.icu",
+    "www.pl-oferta197001.icu",
+    "www.vinted.pl-oferta197001.icu"
    ]
   },
   {
@@ -19575,14 +19395,6 @@
    "remote-domains": [
     "pl-oferta2029741.cfd",
     "www.pl-oferta2029741.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2034820696.sbs",
-    "www.pl-oferta2034820696.sbs"
    ]
   },
   {
@@ -19607,24 +19419,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta2096789.sbs",
-    "www.pl-oferta2096789.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta214794545.icu",
-    "www.pl-oferta214794545.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta21681.icu",
-    "www.pl-oferta21681.icu"
+    "pl-oferta21532.rest",
+    "vinted.pl-oferta21532.rest",
+    "www.pl-oferta21532.rest",
+    "www.vinted.pl-oferta21532.rest"
    ]
   },
   {
@@ -19665,8 +19463,28 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta2209449.sbs",
+    "vinted.pl-oferta2209449.sbs",
+    "www.pl-oferta2209449.sbs",
+    "www.vinted.pl-oferta2209449.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta2219451.cfd",
     "www.pl-oferta2219451.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta2222211.icu",
+    "vinted.pl-oferta2222211.icu",
+    "www.pl-oferta2222211.icu",
+    "www.vinted.pl-oferta2222211.icu"
    ]
   },
   {
@@ -19725,22 +19543,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta2345052.sbs",
-    "www.pl-oferta2345052.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2346626.cfd",
-    "www.pl-oferta2346626.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta2347409.icu",
     "www.pl-oferta2347409.icu"
    ]
@@ -19751,14 +19553,6 @@
    "remote-domains": [
     "pl-oferta23488.top",
     "www.pl-oferta23488.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2350427.cfd",
-    "www.pl-oferta2350427.cfd"
    ]
   },
   {
@@ -19777,30 +19571,6 @@
    "remote-domains": [
     "pl-oferta236921.icu",
     "www.pl-oferta236921.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "alegrolokalnie.pl-oferta2374.icu",
-    "www.alegrolokalnie.pl-oferta2374.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2459024500830.sbs",
-    "www.pl-oferta2459024500830.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2460761.icu",
-    "www.pl-oferta2460761.icu"
    ]
   },
   {
@@ -19881,14 +19651,6 @@
     "vinted.pl-oferta268172.icu",
     "www.pl-oferta268172.icu",
     "www.vinted.pl-oferta268172.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2684585.cfd",
-    "www.pl-oferta2684585.cfd"
    ]
   },
   {
@@ -19977,14 +19739,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta293847.cfd",
-    "www.pl-oferta293847.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta294581.icu",
     "www.pl-oferta294581.icu"
    ]
@@ -20011,14 +19765,6 @@
    "remote-domains": [
     "pl-oferta294781.icu",
     "www.pl-oferta294781.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta308592.sbs",
-    "www.pl-oferta308592.sbs"
    ]
   },
   {
@@ -20077,6 +19823,26 @@
     "www.pl-oferta3213788.cfd",
     "www.pl-oferta3213788.icu",
     "www.pl-oferta3213788.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta321391293921.shop",
+    "vinted.pl-oferta321391293921.shop",
+    "www.pl-oferta321391293921.shop",
+    "www.vinted.pl-oferta321391293921.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta321589123.cyou",
+    "vinted.pl-oferta321589123.cyou",
+    "www.pl-oferta321589123.cyou",
+    "www.vinted.pl-oferta321589123.cyou"
    ]
   },
   {
@@ -20145,6 +19911,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta332991.icu",
+    "vinted.pl-oferta332991.icu",
+    "www.pl-oferta332991.icu",
+    "www.vinted.pl-oferta332991.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta3342963.icu",
     "vinted.pl-oferta3342963.icu",
     "www.pl-oferta3342963.icu",
@@ -20175,26 +19951,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta3392937.cfd",
-    "www.pl-oferta3392937.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta341254.sbs",
     "vinted.pl-oferta341254.sbs",
     "www.pl-oferta341254.sbs",
     "www.vinted.pl-oferta341254.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta34302.sbs",
-    "www.pl-oferta34302.sbs"
    ]
   },
   {
@@ -20237,14 +19997,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta3454.icu",
-    "www.pl-oferta3454.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta346128.icu",
     "vinted.pl-oferta346128.icu",
     "www.pl-oferta346128.icu",
@@ -20279,24 +20031,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta3505348.icu",
-    "www.pl-oferta3505348.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta35466.icu",
-    "www.pl-oferta35466.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta354664.cfd",
-    "www.pl-oferta354664.cfd"
+    "pl-oferta3511713.cfd",
+    "vinted.pl-oferta3511713.cfd",
+    "www.pl-oferta3511713.cfd",
+    "www.vinted.pl-oferta3511713.cfd"
    ]
   },
   {
@@ -20361,24 +20099,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta3742515.sbs",
-    "www.pl-oferta3742515.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta374691074.icu",
-    "www.pl-oferta374691074.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta375237.icu",
     "www.pl-oferta375237.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta38146.icu",
+    "vinted.pl-oferta38146.icu",
+    "www.pl-oferta38146.icu",
+    "www.vinted.pl-oferta38146.icu"
    ]
   },
   {
@@ -20417,8 +20149,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta39439.icu",
-    "www.pl-oferta39439.icu"
+    "pl-oferta393621.icu",
+    "vinted.pl-oferta393621.icu",
+    "www.pl-oferta393621.icu",
+    "www.vinted.pl-oferta393621.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta393721.icu",
+    "vinted.pl-oferta393721.icu",
+    "www.pl-oferta393721.icu",
+    "www.vinted.pl-oferta393721.icu"
    ]
   },
   {
@@ -20457,10 +20201,30 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta412311.icu",
+    "vinted.pl-oferta412311.icu",
+    "www.pl-oferta412311.icu",
+    "www.vinted.pl-oferta412311.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta4123617.icu",
     "vinted.pl-oferta4123617.icu",
     "www.pl-oferta4123617.icu",
     "www.vinted.pl-oferta4123617.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta412811.icu",
+    "vinted.pl-oferta412811.icu",
+    "www.pl-oferta412811.icu",
+    "www.vinted.pl-oferta412811.icu"
    ]
   },
   {
@@ -20485,14 +20249,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta4155776.cfd",
-    "www.pl-oferta4155776.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta4187384.cfd",
     "www.pl-oferta4187384.cfd"
    ]
@@ -20503,6 +20259,14 @@
    "remote-domains": [
     "pl-oferta4197534.sbs",
     "www.pl-oferta4197534.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alegrolokalnie.pl-oferta42203.icu",
+    "www.alegrolokalnie.pl-oferta42203.icu"
    ]
   },
   {
@@ -20559,22 +20323,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta42586748.icu",
-    "www.pl-oferta42586748.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4274.icu",
-    "www.pl-oferta4274.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta428091.shop",
     "www.pl-oferta428091.shop"
    ]
@@ -20625,22 +20373,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta4355441.sbs",
-    "www.pl-oferta4355441.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4374.icu",
-    "www.pl-oferta4374.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta43916817681256-msi-vector-16.shop",
     "pl-oferta43916817681256-msi-vector-16.site",
     "vinted.pl-oferta43916817681256-msi-vector-16.shop",
@@ -20659,14 +20391,6 @@
     "vinted.pl-oferta43916817681256-msi-vector-16-hxa14vhg.rest",
     "www.pl-oferta43916817681256-msi-vector-16-hxa14vhg.rest",
     "www.vinted.pl-oferta43916817681256-msi-vector-16-hxa14vhg.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta439648291.cfd",
-    "www.pl-oferta439648291.cfd"
    ]
   },
   {
@@ -20701,14 +20425,6 @@
    "remote-domains": [
     "pl-oferta4495895.sbs",
     "www.pl-oferta4495895.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4504.icu",
-    "www.pl-oferta4504.icu"
    ]
   },
   {
@@ -20759,14 +20475,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta4574689.sbs",
-    "www.pl-oferta4574689.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta459126.icu",
     "www.pl-oferta459126.icu"
    ]
@@ -20787,22 +20495,6 @@
    "remote-domains": [
     "pl-oferta4596899.cfd",
     "www.pl-oferta4596899.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta46074.icu",
-    "www.pl-oferta46074.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta46078.icu",
-    "www.pl-oferta46078.icu"
    ]
   },
   {
@@ -20833,14 +20525,6 @@
     "vinted.pl-oferta46234743.icu",
     "www.pl-oferta46234743.icu",
     "www.vinted.pl-oferta46234743.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4632001.sbs",
-    "www.pl-oferta4632001.sbs"
    ]
   },
   {
@@ -20879,8 +20563,28 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta478561.icu",
-    "www.pl-oferta478561.icu"
+    "pl-oferta479196.icu",
+    "vinted.pl-oferta479196.icu",
+    "www.pl-oferta479196.icu",
+    "www.vinted.pl-oferta479196.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta4811843.sbs",
+    "vinted.pl-oferta4811843.sbs",
+    "www.pl-oferta4811843.sbs",
+    "www.vinted.pl-oferta4811843.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "alegrolokalnie.pl-oferta48206.icu",
+    "www.alegrolokalnie.pl-oferta48206.icu"
    ]
   },
   {
@@ -20905,8 +20609,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "alegrolokalnie.pl-oferta4832.icu",
-    "www.alegrolokalnie.pl-oferta4832.icu"
+    "pl-oferta482374214.icu",
+    "vinted.pl-oferta482374214.icu",
+    "www.pl-oferta482374214.icu",
+    "www.vinted.pl-oferta482374214.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta48239145.shop",
+    "vinted.pl-oferta48239145.shop",
+    "www.pl-oferta48239145.shop",
+    "www.vinted.pl-oferta48239145.shop"
    ]
   },
   {
@@ -21003,24 +20719,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta49459.icu",
-    "www.pl-oferta49459.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta49492.icu",
     "www.pl-oferta49492.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4949623.cfd",
-    "www.pl-oferta4949623.cfd"
    ]
   },
   {
@@ -21039,14 +20739,6 @@
    "remote-domains": [
     "pl-oferta4954.icu",
     "www.pl-oferta4954.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta495494.icu",
-    "www.pl-oferta495494.icu"
    ]
   },
   {
@@ -21097,22 +20789,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5039737.cfd",
-    "www.pl-oferta5039737.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5091153.cfd",
-    "www.pl-oferta5091153.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta5119370.shop",
     "vinted.pl-oferta5119370.shop",
     "www.pl-oferta5119370.shop",
@@ -21131,18 +20807,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta512566234.icu",
-    "www.pl-oferta512566234.icu"
+    "pl-oferta512980.cfd",
+    "vinted.pl-oferta512980.cfd",
+    "www.pl-oferta512980.cfd",
+    "www.vinted.pl-oferta512980.cfd"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta512980.cfd",
-    "vinted.pl-oferta512980.cfd",
-    "www.pl-oferta512980.cfd",
-    "www.vinted.pl-oferta512980.cfd"
+    "pl-oferta5132814551.shop",
+    "vinted.pl-oferta5132814551.shop",
+    "www.pl-oferta5132814551.shop",
+    "www.vinted.pl-oferta5132814551.shop"
    ]
   },
   {
@@ -21161,14 +20839,6 @@
     "vinted.pl-oferta515211.info",
     "www.pl-oferta515211.info",
     "www.vinted.pl-oferta515211.info"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5161075.cfd",
-    "www.pl-oferta5161075.cfd"
    ]
   },
   {
@@ -21257,6 +20927,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta5323511357894211585211.sbs",
+    "vinted.pl-oferta5323511357894211585211.sbs",
+    "www.pl-oferta5323511357894211585211.sbs",
+    "www.vinted.pl-oferta5323511357894211585211.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta53251.sbs",
     "pl-oferta53251.shop",
     "www.pl-oferta53251.sbs",
@@ -21283,14 +20963,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5371492.cfd",
-    "www.pl-oferta5371492.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta5384749.icu",
     "www.pl-oferta5384749.icu"
    ]
@@ -21311,14 +20983,6 @@
     "vinted.pl-oferta5398062.shop",
     "www.pl-oferta5398062.shop",
     "www.vinted.pl-oferta5398062.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta539861.icu",
-    "www.pl-oferta539861.icu"
    ]
   },
   {
@@ -21439,14 +21103,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5524788.sbs",
-    "www.pl-oferta5524788.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta5532135566667196.cfd",
     "www.pl-oferta5532135566667196.cfd"
    ]
@@ -21483,24 +21139,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5604866.cfd",
-    "www.pl-oferta5604866.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5649521.sbs",
-    "www.pl-oferta5649521.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5654.icu",
-    "www.pl-oferta5654.icu"
+    "pl-oferta5654184.sbs",
+    "vinted.pl-oferta5654184.sbs",
+    "www.pl-oferta5654184.sbs",
+    "www.vinted.pl-oferta5654184.sbs"
    ]
   },
   {
@@ -21509,78 +21151,6 @@
    "remote-domains": [
     "pl-oferta566121.icu",
     "www.pl-oferta566121.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735634.cfd",
-    "www.pl-oferta56735634.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735635.cfd",
-    "www.pl-oferta56735635.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735636.cfd",
-    "www.pl-oferta56735636.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735638.cfd",
-    "www.pl-oferta56735638.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735639.cfd",
-    "www.pl-oferta56735639.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735932.cfd",
-    "www.pl-oferta56735932.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735938.cfd",
-    "www.pl-oferta56735938.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56735967.cfd",
-    "www.pl-oferta56735967.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta56737962.cfd",
-    "www.pl-oferta56737962.cfd"
    ]
   },
   {
@@ -21611,14 +21181,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta567380.icu",
-    "www.pl-oferta567380.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta568172.icu",
     "vinted.pl-oferta568172.icu",
     "www.pl-oferta568172.icu",
@@ -21629,16 +21191,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5688429.sbs",
-    "www.pl-oferta5688429.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta57250189.cfd",
-    "www.pl-oferta57250189.cfd"
+    "pl-oferta5682054.sbs",
+    "vinted.pl-oferta5682054.sbs",
+    "www.pl-oferta5682054.sbs",
+    "www.vinted.pl-oferta5682054.sbs"
    ]
   },
   {
@@ -21689,14 +21245,6 @@
    "remote-domains": [
     "pl-oferta581371.icu",
     "www.pl-oferta581371.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta581951.icu",
-    "www.pl-oferta581951.icu"
    ]
   },
   {
@@ -21761,32 +21309,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta59321.icu",
-    "www.pl-oferta59321.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta5940898.shop",
     "www.pl-oferta5940898.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5949872.cfd",
-    "www.pl-oferta5949872.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta595566.icu",
-    "www.pl-oferta595566.icu"
    ]
   },
   {
@@ -21859,30 +21383,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta616936.icu",
-    "www.pl-oferta616936.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta619836.cfd",
-    "www.pl-oferta619836.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta6199067.cfd",
-    "www.pl-oferta6199067.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta6249995.sbs",
     "vinted.pl-oferta6249995.sbs",
     "www.pl-oferta6249995.sbs",
@@ -21927,6 +21427,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta6270181.shop",
+    "vinted.pl-oferta6270181.shop",
+    "www.pl-oferta6270181.shop",
+    "www.vinted.pl-oferta6270181.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta628123.icu",
     "www.pl-oferta628123.icu"
    ]
@@ -21935,8 +21445,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta628451.icu",
-    "www.pl-oferta628451.icu"
+    "pl-oferta6312781.sbs",
+    "vinted.pl-oferta6312781.sbs",
+    "www.pl-oferta6312781.sbs",
+    "www.vinted.pl-oferta6312781.sbs"
    ]
   },
   {
@@ -21945,22 +21457,6 @@
    "remote-domains": [
     "pl-oferta6339565.sbs",
     "www.pl-oferta6339565.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta634442.icu",
-    "www.pl-oferta634442.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta6349004.cfd",
-    "www.pl-oferta6349004.cfd"
    ]
   },
   {
@@ -22003,8 +21499,28 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta6433579.sbs",
+    "vinted.pl-oferta6433579.sbs",
+    "www.pl-oferta6433579.sbs",
+    "www.vinted.pl-oferta6433579.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta643623.sbs",
     "www.pl-oferta643623.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta64376.top",
+    "vinted.pl-oferta64376.top",
+    "www.pl-oferta64376.top",
+    "www.vinted.pl-oferta64376.top"
    ]
   },
   {
@@ -22015,14 +21531,6 @@
     "vinted.pl-oferta6478229.sbs",
     "www.pl-oferta6478229.sbs",
     "www.vinted.pl-oferta6478229.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta6486527.icu",
-    "www.pl-oferta6486527.icu"
    ]
   },
   {
@@ -22067,6 +21575,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta65285393672.shop",
+    "vinted.pl-oferta65285393672.shop",
+    "www.pl-oferta65285393672.shop",
+    "www.vinted.pl-oferta65285393672.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta655600067812-rtx-3080-ti.shop",
     "vinted.pl-oferta655600067812-rtx-3080-ti.shop",
     "www.pl-oferta655600067812-rtx-3080-ti.shop",
@@ -22077,16 +21595,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta6561209.icu",
-    "www.pl-oferta6561209.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta6588462.sbs",
-    "www.pl-oferta6588462.sbs"
+    "pl-oferta65824.cfd",
+    "vinted.pl-oferta65824.cfd",
+    "www.pl-oferta65824.cfd",
+    "www.vinted.pl-oferta65824.cfd"
    ]
   },
   {
@@ -22133,6 +21645,26 @@
     "vinted.pl-oferta6628457.sbs",
     "www.pl-oferta6628457.sbs",
     "www.vinted.pl-oferta6628457.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta66622.icu",
+    "vinted.pl-oferta66622.icu",
+    "www.pl-oferta66622.icu",
+    "www.vinted.pl-oferta66622.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta667301.icu",
+    "vinted.pl-oferta667301.icu",
+    "www.pl-oferta667301.icu",
+    "www.vinted.pl-oferta667301.icu"
    ]
   },
   {
@@ -22209,14 +21741,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta6764045.sbs",
-    "www.pl-oferta6764045.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta676515617.icu",
     "www.pl-oferta676515617.icu"
    ]
@@ -22227,14 +21751,6 @@
    "remote-domains": [
     "pl-oferta6779902.sbs",
     "www.pl-oferta6779902.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta678543.cfd",
-    "www.pl-oferta678543.cfd"
    ]
   },
   {
@@ -22255,14 +21771,6 @@
     "vinted.pl-oferta6830308.shop",
     "www.pl-oferta6830308.shop",
     "www.vinted.pl-oferta6830308.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta68314.icu",
-    "www.pl-oferta68314.icu"
    ]
   },
   {
@@ -22317,22 +21825,6 @@
     "vinted.pl-oferta6930458.cfd",
     "www.pl-oferta6930458.cfd",
     "www.vinted.pl-oferta6930458.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta697487.icu",
-    "www.pl-oferta697487.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta697596.icu",
-    "www.pl-oferta697596.icu"
    ]
   },
   {
@@ -22423,14 +21915,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7128388.sbs",
-    "www.pl-oferta7128388.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta712839.icu",
     "www.pl-oferta712839.icu"
    ]
@@ -22441,14 +21925,6 @@
    "remote-domains": [
     "pl-oferta7182791.icu",
     "www.pl-oferta7182791.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta7190186.sbs",
-    "www.pl-oferta7190186.sbs"
    ]
   },
   {
@@ -22551,14 +22027,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta729726.icu",
-    "www.pl-oferta729726.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta7302779.shop",
     "vinted.pl-oferta7302779.shop",
     "www.pl-oferta7302779.shop",
@@ -22587,22 +22055,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7342219.icu",
-    "www.pl-oferta7342219.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta735389.cfd",
-    "www.pl-oferta735389.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta736194.icu",
     "www.pl-oferta736194.icu"
    ]
@@ -22623,6 +22075,16 @@
    "remote-domains": [
     "pl-oferta7375611.shop",
     "www.pl-oferta7375611.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta73863494614190.shop",
+    "vinted.pl-oferta73863494614190.shop",
+    "www.pl-oferta73863494614190.shop",
+    "www.vinted.pl-oferta73863494614190.shop"
    ]
   },
   {
@@ -22675,6 +22137,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7466067.icu",
+    "vinted.pl-oferta7466067.icu",
+    "www.pl-oferta7466067.icu",
+    "www.vinted.pl-oferta7466067.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7471978.shop",
     "www.pl-oferta7471978.shop"
    ]
@@ -22699,26 +22171,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta747848.cfd",
-    "www.pl-oferta747848.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta7479184.icu",
     "vinted.pl-oferta7479184.icu",
     "www.pl-oferta7479184.icu",
     "www.vinted.pl-oferta7479184.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta7500952.cfd",
-    "www.pl-oferta7500952.cfd"
    ]
   },
   {
@@ -22781,6 +22237,20 @@
     "www.pl-oferta75214678006262781.sbs",
     "www.vinted.pl-oferta75214678006262781.cfd",
     "www.vinted.pl-oferta75214678006262781.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta75237.cfd",
+    "pl-oferta75237.sbs",
+    "vinted.pl-oferta75237.cfd",
+    "vinted.pl-oferta75237.sbs",
+    "www.pl-oferta75237.cfd",
+    "www.pl-oferta75237.sbs",
+    "www.vinted.pl-oferta75237.cfd",
+    "www.vinted.pl-oferta75237.sbs"
    ]
   },
   {
@@ -22861,6 +22331,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta75732.icu",
+    "vinted.pl-oferta75732.icu",
+    "www.pl-oferta75732.icu",
+    "www.vinted.pl-oferta75732.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta758131541.icu",
     "vinted.pl-oferta758131541.icu",
     "www.pl-oferta758131541.icu",
@@ -22925,8 +22405,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta76830637.cfd",
-    "www.pl-oferta76830637.cfd"
+    "pl-oferta7690795.shop",
+    "vinted.pl-oferta7690795.shop",
+    "www.pl-oferta7690795.shop",
+    "www.vinted.pl-oferta7690795.shop"
    ]
   },
   {
@@ -22961,10 +22443,40 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta772999111332147652719199272629190.icu",
+    "vinted.pl-oferta772999111332147652719199272629190.icu",
+    "www.pl-oferta772999111332147652719199272629190.icu",
+    "www.vinted.pl-oferta772999111332147652719199272629190.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta77421.icu",
+    "vinted.pl-oferta77421.icu",
+    "www.pl-oferta77421.icu",
+    "www.vinted.pl-oferta77421.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7752085.sbs",
     "vinted.pl-oferta7752085.sbs",
     "www.pl-oferta7752085.sbs",
     "www.vinted.pl-oferta7752085.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta77643.shop",
+    "vinted.pl-oferta77643.shop",
+    "www.pl-oferta77643.shop",
+    "www.vinted.pl-oferta77643.shop"
    ]
   },
   {
@@ -22999,14 +22511,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7814118.cfd",
-    "www.pl-oferta7814118.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta7818921.shop",
     "vinted.pl-oferta7818921.shop",
     "www.pl-oferta7818921.shop",
@@ -23027,8 +22531,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7842759.sbs",
-    "www.pl-oferta7842759.sbs"
+    "pl-oferta78643.rest",
+    "vinted.pl-oferta78643.rest",
+    "www.pl-oferta78643.rest",
+    "www.vinted.pl-oferta78643.rest"
    ]
   },
   {
@@ -23069,14 +22575,6 @@
     "vinted.pl-oferta792347.icu",
     "www.pl-oferta792347.icu",
     "www.vinted.pl-oferta792347.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta7930136.sbs",
-    "www.pl-oferta7930136.sbs"
    ]
   },
   {
@@ -23135,14 +22633,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7983638.cfd",
-    "www.pl-oferta7983638.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop",
     "vinted.pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop",
     "www.pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop",
@@ -23173,8 +22663,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta799646156785234-razer-blade.cfd",
+    "vinted.pl-oferta799646156785234-razer-blade.cfd",
+    "www.pl-oferta799646156785234-razer-blade.cfd",
+    "www.vinted.pl-oferta799646156785234-razer-blade.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta802553276992.icu",
     "www.pl-oferta802553276992.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta8033581567123-husqvarna-automover.sbs",
+    "vinted.pl-oferta8033581567123-husqvarna-automover.sbs",
+    "www.pl-oferta8033581567123-husqvarna-automover.sbs",
+    "www.vinted.pl-oferta8033581567123-husqvarna-automover.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta8033581567123-husqvarna-automover-2020.sbs",
+    "vinted.pl-oferta8033581567123-husqvarna-automover-2020.sbs",
+    "www.pl-oferta8033581567123-husqvarna-automover-2020.sbs",
+    "www.vinted.pl-oferta8033581567123-husqvarna-automover-2020.sbs"
    ]
   },
   {
@@ -23219,6 +22739,16 @@
    "remote-domains": [
     "pl-oferta81114247.icu",
     "www.pl-oferta81114247.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta812311.icu",
+    "vinted.pl-oferta812311.icu",
+    "www.pl-oferta812311.icu",
+    "www.vinted.pl-oferta812311.icu"
    ]
   },
   {
@@ -23285,8 +22815,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta815311.icu",
+    "vinted.pl-oferta815311.icu",
+    "www.pl-oferta815311.icu",
+    "www.vinted.pl-oferta815311.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta815711.icu",
+    "vinted.pl-oferta815711.icu",
+    "www.pl-oferta815711.icu",
+    "www.vinted.pl-oferta815711.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8172636.icu",
     "www.pl-oferta8172636.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta817311.icu",
+    "vinted.pl-oferta817311.icu",
+    "www.pl-oferta817311.icu",
+    "www.vinted.pl-oferta817311.icu"
    ]
   },
   {
@@ -23305,6 +22865,26 @@
    "remote-domains": [
     "pl-oferta8182521.shop",
     "www.pl-oferta8182521.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta819011.icu",
+    "vinted.pl-oferta819011.icu",
+    "www.pl-oferta819011.icu",
+    "www.vinted.pl-oferta819011.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta820231.icu",
+    "vinted.pl-oferta820231.icu",
+    "www.pl-oferta820231.icu",
+    "www.vinted.pl-oferta820231.icu"
    ]
   },
   {
@@ -23353,6 +22933,24 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta8256-iphone.shop",
+    "www.pl-oferta8256-iphone.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta826211.icu",
+    "vinted.pl-oferta826211.icu",
+    "www.pl-oferta826211.icu",
+    "www.vinted.pl-oferta826211.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta826442754.icu",
     "www.pl-oferta826442754.icu"
    ]
@@ -23373,6 +22971,16 @@
     "vinted.pl-oferta8272661191934.cfd",
     "www.pl-oferta8272661191934.cfd",
     "www.vinted.pl-oferta8272661191934.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta83125.sbs",
+    "vinted.pl-oferta83125.sbs",
+    "www.pl-oferta83125.sbs",
+    "www.vinted.pl-oferta83125.sbs"
    ]
   },
   {
@@ -23419,10 +23027,40 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta8321304.icu",
+    "vinted.pl-oferta8321304.icu",
+    "www.pl-oferta8321304.icu",
+    "www.vinted.pl-oferta8321304.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta83218313891.icu",
+    "vinted.pl-oferta83218313891.icu",
+    "www.pl-oferta83218313891.icu",
+    "www.vinted.pl-oferta83218313891.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8321931290.icu",
     "vinted.pl-oferta8321931290.icu",
     "www.pl-oferta8321931290.icu",
     "www.vinted.pl-oferta8321931290.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta8328138193.shop",
+    "vinted.pl-oferta8328138193.shop",
+    "www.pl-oferta8328138193.shop",
+    "www.vinted.pl-oferta8328138193.shop"
    ]
   },
   {
@@ -23449,8 +23087,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8340045.cfd",
-    "www.pl-oferta8340045.cfd"
+    "pl-oferta8349321954.shop",
+    "vinted.pl-oferta8349321954.shop",
+    "www.pl-oferta8349321954.shop",
+    "www.vinted.pl-oferta8349321954.shop"
    ]
   },
   {
@@ -23461,14 +23101,6 @@
     "vinted.pl-oferta8352723.shop",
     "www.pl-oferta8352723.shop",
     "www.vinted.pl-oferta8352723.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8363639.cfd",
-    "www.pl-oferta8363639.cfd"
    ]
   },
   {
@@ -23549,6 +23181,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta8428264.sbs",
+    "www.pl-oferta8428264.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta845214.site",
     "vinted.pl-oferta845214.site",
     "www.pl-oferta845214.site",
@@ -23577,14 +23217,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta845655.cfd",
-    "www.pl-oferta845655.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta8460473.shop",
     "vinted.pl-oferta8460473.shop",
     "www.pl-oferta8460473.shop",
@@ -23597,14 +23229,6 @@
    "remote-domains": [
     "pl-oferta84638974238.shop",
     "www.pl-oferta84638974238.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8463928459.shop",
-    "www.pl-oferta8463928459.shop"
    ]
   },
   {
@@ -23643,14 +23267,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta84719491.cfd",
-    "www.pl-oferta84719491.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta847299.cfd",
     "vinted.pl-oferta847299.cfd",
     "www.pl-oferta847299.cfd",
@@ -23661,34 +23277,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta847474.cfd",
-    "www.pl-oferta847474.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta84851.icu",
-    "www.pl-oferta84851.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta84955682.icu",
-    "www.pl-oferta84955682.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta8509828.shop",
     "vinted.pl-oferta8509828.shop",
     "www.pl-oferta8509828.shop",
     "www.vinted.pl-oferta8509828.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta85173123.icu",
+    "vinted.pl-oferta85173123.icu",
+    "www.pl-oferta85173123.icu",
+    "www.vinted.pl-oferta85173123.icu"
    ]
   },
   {
@@ -23731,18 +23333,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta85429132.icu",
-    "vinted.pl-oferta85429132.icu",
-    "www.pl-oferta85429132.icu",
-    "www.vinted.pl-oferta85429132.icu"
+    "pl-oferta854235.sbs",
+    "vinted.pl-oferta854235.sbs",
+    "www.pl-oferta854235.sbs",
+    "www.vinted.pl-oferta854235.sbs"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta854836.cfd",
-    "www.pl-oferta854836.cfd"
+    "pl-oferta85429132.icu",
+    "vinted.pl-oferta85429132.icu",
+    "www.pl-oferta85429132.icu",
+    "www.vinted.pl-oferta85429132.icu"
    ]
   },
   {
@@ -23757,6 +23361,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta8554854.sbs",
+    "vinted.pl-oferta8554854.sbs",
+    "www.pl-oferta8554854.sbs",
+    "www.vinted.pl-oferta8554854.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta857193.cfd",
     "www.pl-oferta857193.cfd"
    ]
@@ -23765,24 +23379,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta857195.cfd",
-    "www.pl-oferta857195.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta85764.icu",
     "www.pl-oferta85764.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8611997.top",
-    "www.pl-oferta8611997.top"
    ]
   },
   {
@@ -23809,6 +23407,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta864264318934.shop",
+    "vinted.pl-oferta864264318934.shop",
+    "www.pl-oferta864264318934.shop",
+    "www.vinted.pl-oferta864264318934.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta864320.icu",
     "www.pl-oferta864320.icu"
    ]
@@ -23819,22 +23427,6 @@
    "remote-domains": [
     "pl-oferta86452918731.shop",
     "www.pl-oferta86452918731.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta864576.cfd",
-    "www.pl-oferta864576.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8646573821.shop",
-    "www.pl-oferta8646573821.shop"
    ]
   },
   {
@@ -23861,14 +23453,6 @@
    "remote-domains": [
     "pl-oferta864892471923673.com",
     "www.pl-oferta864892471923673.com"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8649278954.shop",
-    "www.pl-oferta8649278954.shop"
    ]
   },
   {
@@ -23911,24 +23495,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta87321324124.sbs",
+    "vinted.pl-oferta87321324124.sbs",
+    "www.pl-oferta87321324124.sbs",
+    "www.vinted.pl-oferta87321324124.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta87321391.icu",
+    "vinted.pl-oferta87321391.icu",
+    "www.pl-oferta87321391.icu",
+    "www.vinted.pl-oferta87321391.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta873213981235.cyou",
+    "vinted.pl-oferta873213981235.cyou",
+    "www.pl-oferta873213981235.cyou",
+    "www.vinted.pl-oferta873213981235.cyou"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8736388.cfd",
     "www.pl-oferta8736388.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta874598.icu",
-    "www.pl-oferta874598.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8746.icu",
-    "www.pl-oferta8746.icu"
    ]
   },
   {
@@ -23953,24 +23551,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta8772211.icu",
+    "vinted.pl-oferta8772211.icu",
+    "www.pl-oferta8772211.icu",
+    "www.vinted.pl-oferta8772211.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8782604.sbs",
     "www.pl-oferta8782604.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8799472.sbs",
-    "www.pl-oferta8799472.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta881481418.icu",
-    "www.pl-oferta881481418.icu"
    ]
   },
   {
@@ -23987,6 +23579,26 @@
    "remote-domains": [
     "pl-oferta8830667.cfd",
     "www.pl-oferta8830667.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta8830991.icu",
+    "vinted.pl-oferta8830991.icu",
+    "www.pl-oferta8830991.icu",
+    "www.vinted.pl-oferta8830991.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta883112.icu",
+    "vinted.pl-oferta883112.icu",
+    "www.pl-oferta883112.icu",
+    "www.vinted.pl-oferta883112.icu"
    ]
   },
   {
@@ -24011,14 +23623,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta88990.top",
-    "www.pl-oferta88990.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta89345.top",
     "vinted.pl-oferta89345.top",
     "www.pl-oferta89345.top",
@@ -24031,6 +23635,16 @@
    "remote-domains": [
     "pl-oferta8941715715.icu",
     "www.pl-oferta8941715715.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta894527652928.shop",
+    "vinted.pl-oferta894527652928.shop",
+    "www.pl-oferta894527652928.shop",
+    "www.vinted.pl-oferta894527652928.shop"
    ]
   },
   {
@@ -24063,14 +23677,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8946734178.shop",
-    "www.pl-oferta8946734178.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta894719.cfd",
     "vinted.pl-oferta894719.cfd",
     "www.pl-oferta894719.cfd",
@@ -24089,24 +23695,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8947489643.shop",
-    "www.pl-oferta8947489643.shop"
+    "pl-oferta8947426835289.shop",
+    "vinted.pl-oferta8947426835289.shop",
+    "www.pl-oferta8947426835289.shop",
+    "www.vinted.pl-oferta8947426835289.shop"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8947648914.shop",
-    "www.pl-oferta8947648914.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta89476780.icu",
-    "www.pl-oferta89476780.icu"
+    "pl-oferta894761325182.shop",
+    "vinted.pl-oferta894761325182.shop",
+    "www.pl-oferta894761325182.shop",
+    "www.vinted.pl-oferta894761325182.shop"
    ]
   },
   {
@@ -24127,14 +23729,6 @@
     "vinted.pl-oferta9026868.sbs",
     "www.pl-oferta9026868.sbs",
     "www.vinted.pl-oferta9026868.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta90334.top",
-    "www.pl-oferta90334.top"
    ]
   },
   {
@@ -24203,6 +23797,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta912387314.icu",
+    "vinted.pl-oferta912387314.icu",
+    "www.pl-oferta912387314.icu",
+    "www.vinted.pl-oferta912387314.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta9137521.icu",
     "vinted.pl-oferta9137521.icu",
     "www.pl-oferta9137521.icu",
@@ -24257,14 +23861,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9180819.cfd",
-    "www.pl-oferta9180819.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta9182376472.icu",
     "www.pl-oferta9182376472.icu"
    ]
@@ -24277,6 +23873,16 @@
     "vinted.pl-oferta918263644.cfd",
     "www.pl-oferta918263644.cfd",
     "www.vinted.pl-oferta918263644.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta918273644.shop",
+    "vinted.pl-oferta918273644.shop",
+    "www.pl-oferta918273644.shop",
+    "www.vinted.pl-oferta918273644.shop"
    ]
   },
   {
@@ -24317,10 +23923,40 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta922411.icu",
+    "vinted.pl-oferta922411.icu",
+    "www.pl-oferta922411.icu",
+    "www.vinted.pl-oferta922411.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta923172.icu",
     "vinted.pl-oferta923172.icu",
     "www.pl-oferta923172.icu",
     "www.vinted.pl-oferta923172.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta923256.icu",
+    "vinted.pl-oferta923256.icu",
+    "www.pl-oferta923256.icu",
+    "www.vinted.pl-oferta923256.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta923451.icu",
+    "vinted.pl-oferta923451.icu",
+    "www.pl-oferta923451.icu",
+    "www.vinted.pl-oferta923451.icu"
    ]
   },
   {
@@ -24339,22 +23975,6 @@
     "vinted.pl-oferta924872.icu",
     "www.pl-oferta924872.icu",
     "www.vinted.pl-oferta924872.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta92532176.icu",
-    "www.pl-oferta92532176.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta92586773.icu",
-    "www.pl-oferta92586773.icu"
    ]
   },
   {
@@ -24397,14 +24017,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9300621.sbs",
-    "www.pl-oferta9300621.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta932131541.icu",
     "vinted.pl-oferta932131541.icu",
     "www.pl-oferta932131541.icu",
@@ -24425,22 +24037,6 @@
    "remote-domains": [
     "pl-oferta9337455.cfd",
     "www.pl-oferta9337455.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta934466.top",
-    "www.pl-oferta934466.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta93493.icu",
-    "www.pl-oferta93493.icu"
    ]
   },
   {
@@ -24475,14 +24071,6 @@
    "remote-domains": [
     "pl-oferta9361590.sbs",
     "www.pl-oferta9361590.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta936383.cfd",
-    "www.pl-oferta936383.cfd"
    ]
   },
   {
@@ -24539,14 +24127,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta939439.icu",
-    "www.pl-oferta939439.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta942385.icu",
     "www.pl-oferta942385.icu"
    ]
@@ -24597,14 +24177,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta946746.cfd",
-    "www.pl-oferta946746.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta947194.cfd",
     "vinted.pl-oferta947194.cfd",
     "www.pl-oferta947194.cfd",
@@ -24631,16 +24203,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9474647.cfd",
-    "www.pl-oferta9474647.cfd"
+    "pl-oferta948101.cfd",
+    "vinted.pl-oferta948101.cfd",
+    "www.pl-oferta948101.cfd",
+    "www.vinted.pl-oferta948101.cfd"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta94814.icu",
-    "www.pl-oferta94814.icu"
+    "pl-oferta948109.cfd",
+    "vinted.pl-oferta948109.cfd",
+    "www.pl-oferta948109.cfd",
+    "www.vinted.pl-oferta948109.cfd"
    ]
   },
   {
@@ -24659,6 +24235,16 @@
     "vinted.pl-oferta948189.cfd",
     "www.pl-oferta948189.cfd",
     "www.vinted.pl-oferta948189.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta94819.cfd",
+    "vinted.pl-oferta94819.cfd",
+    "www.pl-oferta94819.cfd",
+    "www.vinted.pl-oferta94819.cfd"
    ]
   },
   {
@@ -24755,8 +24341,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9581959.cfd",
-    "www.pl-oferta9581959.cfd"
+    "pl-oferta958294.cfd",
+    "vinted.pl-oferta958294.cfd",
+    "www.pl-oferta958294.cfd",
+    "www.vinted.pl-oferta958294.cfd"
    ]
   },
   {
@@ -24843,14 +24431,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9788151599.icu",
-    "www.pl-oferta9788151599.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta97881691217.cfd",
     "www.pl-oferta97881691217.cfd"
    ]
@@ -24869,24 +24449,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9815559.sbs",
-    "www.pl-oferta9815559.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta981821.icu",
     "www.pl-oferta981821.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta98321.icu",
-    "www.pl-oferta98321.icu"
    ]
   },
   {
@@ -24903,14 +24467,6 @@
    "remote-domains": [
     "pl-oferta9836163.icu",
     "www.pl-oferta9836163.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta9855712.icu",
-    "www.pl-oferta9855712.icu"
    ]
   },
   {
@@ -24971,6 +24527,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta992001.icu",
+    "vinted.pl-oferta992001.icu",
+    "www.pl-oferta992001.icu",
+    "www.vinted.pl-oferta992001.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta992821.icu",
     "www.pl-oferta992821.icu"
    ]
@@ -24989,8 +24555,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta99428720.icu",
-    "www.pl-oferta99428720.icu"
+    "pl-oferta998002.icu",
+    "vinted.pl-oferta998002.icu",
+    "www.pl-oferta998002.icu",
+    "www.vinted.pl-oferta998002.icu"
    ]
   },
   {
@@ -25045,6 +24613,16 @@
     "vinted.pl-ofertaid8910381.sbs",
     "www.pl-ofertaid8910381.sbs",
     "www.vinted.pl-ofertaid8910381.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-elektronika.icu",
+    "vinted.pl-ogloszenia-elektronika.icu",
+    "www.pl-ogloszenia-elektronika.icu",
+    "www.vinted.pl-ogloszenia-elektronika.icu"
    ]
   },
   {
@@ -25153,24 +24731,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenia-firmowe-884235235.icu",
-    "www.pl-ogloszenia-firmowe-884235235.icu"
+    "pl-ogloszenia-firmowe-888839239.icu",
+    "vinted.pl-ogloszenia-firmowe-888839239.icu",
+    "www.pl-ogloszenia-firmowe-888839239.icu",
+    "www.vinted.pl-ogloszenia-firmowe-888839239.icu"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenia-firmowe-888830212.icu",
-    "www.pl-ogloszenia-firmowe-888830212.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenia-firmowe-888835335.icu",
-    "www.pl-ogloszenia-firmowe-888835335.icu"
+    "pl-ogloszenia-firmowe-88883934.icu",
+    "vinted.pl-ogloszenia-firmowe-88883934.icu",
+    "www.pl-ogloszenia-firmowe-88883934.icu",
+    "www.vinted.pl-ogloszenia-firmowe-88883934.icu"
    ]
   },
   {
@@ -25181,30 +24755,6 @@
     "vinted.pl-ogloszenie-0058926.rest",
     "www.pl-ogloszenie-0058926.rest",
     "www.vinted.pl-ogloszenie-0058926.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-02103994.rest",
-    "www.pl-ogloszenie-02103994.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-0230905937.rest",
-    "www.pl-ogloszenie-0230905937.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-02390934812.top",
-    "www.pl-ogloszenie-02390934812.top"
    ]
   },
   {
@@ -25285,14 +24835,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-093494092.top",
-    "www.pl-ogloszenie-093494092.top"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-ogloszenie-094302.top",
     "www.pl-ogloszenie-094302.top"
    ]
@@ -25325,6 +24867,66 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-ogloszenie-2045264.rest",
+    "vinted.pl-ogloszenie-2045264.rest",
+    "www.pl-ogloszenie-2045264.rest",
+    "www.vinted.pl-ogloszenie-2045264.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-2304356756.cfd",
+    "vinted.pl-ogloszenie-2304356756.cfd",
+    "www.pl-ogloszenie-2304356756.cfd",
+    "www.vinted.pl-ogloszenie-2304356756.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-230436.cfd",
+    "vinted.pl-ogloszenie-230436.cfd",
+    "www.pl-ogloszenie-230436.cfd",
+    "www.vinted.pl-ogloszenie-230436.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-232495.cfd",
+    "vinted.pl-ogloszenie-232495.cfd",
+    "www.pl-ogloszenie-232495.cfd",
+    "www.vinted.pl-ogloszenie-232495.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-2355049.icu",
+    "vinted.pl-ogloszenie-2355049.icu",
+    "www.pl-ogloszenie-2355049.icu",
+    "www.vinted.pl-ogloszenie-2355049.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-23904.rest",
+    "vinted.pl-ogloszenie-23904.rest",
+    "www.pl-ogloszenie-23904.rest",
+    "www.vinted.pl-ogloszenie-23904.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-ogloszenie-2390562.rest",
     "vinted.pl-ogloszenie-2390562.rest",
     "www.pl-ogloszenie-2390562.rest",
@@ -25339,6 +24941,26 @@
     "vinted.pl-ogloszenie-239405.rest",
     "www.pl-ogloszenie-239405.rest",
     "www.vinted.pl-ogloszenie-239405.rest"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-320495.cfd",
+    "vinted.pl-ogloszenie-320495.cfd",
+    "www.pl-ogloszenie-320495.cfd",
+    "www.vinted.pl-ogloszenie-320495.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-32095.cfd",
+    "vinted.pl-ogloszenie-32095.cfd",
+    "www.pl-ogloszenie-32095.cfd",
+    "www.vinted.pl-ogloszenie-32095.cfd"
    ]
   },
   {
@@ -25365,14 +24987,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-47124.rest",
-    "www.pl-ogloszenie-47124.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-ogloszenie-504326.top",
     "www.pl-ogloszenie-504326.top"
    ]
@@ -25391,8 +25005,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-66f43fg32dggzznb46ryp1.org",
-    "www.pl-ogloszenie-66f43fg32dggzznb46ryp1.org"
+    "pl-ogloszenie-59332.rest",
+    "vinted.pl-ogloszenie-59332.rest",
+    "www.pl-ogloszenie-59332.rest",
+    "www.vinted.pl-ogloszenie-59332.rest"
    ]
   },
   {
@@ -25413,22 +25029,6 @@
     "vinted.pl-ogloszenie-7003952.rest",
     "www.pl-ogloszenie-7003952.rest",
     "www.vinted.pl-ogloszenie-7003952.rest"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-843285.shop",
-    "www.pl-ogloszenie-843285.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-8532752.cfd",
-    "www.pl-ogloszenie-8532752.cfd"
    ]
   },
   {
@@ -25537,16 +25137,18 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-930293404092.rest",
-    "www.pl-ogloszenie-930293404092.rest"
+    "pl-ogloszenie-934054.rest",
+    "www.pl-ogloszenie-934054.rest"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-934054.rest",
-    "www.pl-ogloszenie-934054.rest"
+    "pl-ogloszenie-943053.cfd",
+    "vinted.pl-ogloszenie-943053.cfd",
+    "www.pl-ogloszenie-943053.cfd",
+    "www.vinted.pl-ogloszenie-943053.cfd"
    ]
   },
   {
@@ -25589,6 +25191,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-ogloszenie-dfkj6uj45w09jsefoi3204.cfd",
+    "vinted.pl-ogloszenie-dfkj6uj45w09jsefoi3204.cfd",
+    "www.pl-ogloszenie-dfkj6uj45w09jsefoi3204.cfd",
+    "www.vinted.pl-ogloszenie-dfkj6uj45w09jsefoi3204.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-ogloszenie-firmowe-8845634.icu",
     "vinted.pl-ogloszenie-firmowe-8845634.icu",
     "www.pl-ogloszenie-firmowe-8845634.icu",
@@ -25607,18 +25219,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie472819.cfd",
-    "www.pl-ogloszenie472819.cfd"
+    "pl-ogloszenie7908497268274.site",
+    "vinted.pl-ogloszenie7908497268274.site",
+    "www.pl-ogloszenie7908497268274.site",
+    "www.vinted.pl-ogloszenie7908497268274.site"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie7908497268274.site",
-    "vinted.pl-ogloszenie7908497268274.site",
-    "www.pl-ogloszenie7908497268274.site",
-    "www.vinted.pl-ogloszenie7908497268274.site"
+    "pl-ogloszenie8916187827789.site",
+    "vinted.pl-ogloszenie8916187827789.site",
+    "www.pl-ogloszenie8916187827789.site",
+    "www.vinted.pl-ogloszenie8916187827789.site"
    ]
   },
   {
@@ -29893,9 +29507,12 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.topbet.net",
     "api.topbet.top",
     "socket.topbet.top",
+    "topbet.net",
     "topbet.top",
+    "wp.topbet.net",
     "wp.topbet.top",
     "topbet.eu",
     "www.topbet.eu"
