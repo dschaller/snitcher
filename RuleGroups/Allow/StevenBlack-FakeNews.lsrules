@@ -9666,9 +9666,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta-elektronika-67312.cfd",
-    "vinted.pl-oferta-elektronika-67312.cfd",
-    "www.pl-oferta-elektronika-67312.cfd",
-    "www.vinted.pl-oferta-elektronika-67312.cfd"
+    "www.pl-oferta-elektronika-67312.cfd"
    ]
   },
   {
@@ -9846,18 +9844,20 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta1449608.icu",
-    "vinted.pl-oferta1449608.icu",
-    "www.pl-oferta1449608.icu",
-    "www.vinted.pl-oferta1449608.icu"
+    "www.pl-oferta1449608.icu"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta16171.cfd",
     "pl-oferta16171.icu",
+    "vinted.pl-oferta16171.cfd",
     "vinted.pl-oferta16171.icu",
+    "www.pl-oferta16171.cfd",
     "www.pl-oferta16171.icu",
+    "www.vinted.pl-oferta16171.cfd",
     "www.vinted.pl-oferta16171.icu"
    ]
   },
@@ -10052,9 +10052,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta34819.cfd",
-    "vinted.pl-oferta34819.cfd",
-    "www.pl-oferta34819.cfd",
-    "www.vinted.pl-oferta34819.cfd"
+    "www.pl-oferta34819.cfd"
    ]
   },
   {
@@ -10294,9 +10292,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta5020133.icu",
-    "vinted.pl-oferta5020133.icu",
-    "www.pl-oferta5020133.icu",
-    "www.vinted.pl-oferta5020133.icu"
+    "www.pl-oferta5020133.icu"
    ]
   },
   {
@@ -10762,9 +10758,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta74815.cfd",
-    "vinted.pl-oferta74815.cfd",
-    "www.pl-oferta74815.cfd",
-    "www.vinted.pl-oferta74815.cfd"
+    "www.pl-oferta74815.cfd"
    ]
   },
   {
@@ -10772,9 +10766,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta74867809.sbs",
-    "vinted.pl-oferta74867809.sbs",
-    "www.pl-oferta74867809.sbs",
-    "www.vinted.pl-oferta74867809.sbs"
+    "www.pl-oferta74867809.sbs"
    ]
   },
   {
@@ -11432,9 +11424,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta9316574.icu",
-    "vinted.pl-oferta9316574.icu",
-    "www.pl-oferta9316574.icu",
-    "www.vinted.pl-oferta9316574.icu"
+    "www.pl-oferta9316574.icu"
    ]
   },
   {
@@ -11528,9 +11518,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta9735732.icu",
-    "vinted.pl-oferta9735732.icu",
-    "www.pl-oferta9735732.icu",
-    "www.vinted.pl-oferta9735732.icu"
+    "www.pl-oferta9735732.icu"
    ]
   },
   {
