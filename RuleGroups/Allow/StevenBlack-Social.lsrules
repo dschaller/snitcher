@@ -2793,14 +2793,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta-2356727.cfd",
-    "www.vinted.pl-oferta-2356727.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "vinted.pl-oferta-kategorie-polecane0293924.sbs",
     "www.vinted.pl-oferta-kategorie-polecane0293924.sbs"
    ]
@@ -2957,16 +2949,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta1859801.icu",
-    "www.vinted.pl-oferta1859801.icu"
+    "pl-oferta19062.cfd",
+    "www.pl-oferta19062.cfd"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta19062.cfd",
-    "www.pl-oferta19062.cfd"
+    "pl-oferta196912.icu",
+    "www.pl-oferta196912.icu"
    ]
   },
   {
@@ -2993,14 +2985,6 @@
    "remote-domains": [
     "pl-oferta21371.icu",
     "www.pl-oferta21371.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta21953-apple-watch-ultra-3-nowy.sbs",
-    "www.vinted.pl-oferta21953-apple-watch-ultra-3-nowy.sbs"
    ]
   },
   {
@@ -3565,14 +3549,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta73578990.rest",
-    "www.vinted.pl-oferta73578990.rest"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta738642.sbs",
     "vinted.pl-oferta738642.sbs",
     "www.pl-oferta738642.sbs",
@@ -3655,14 +3631,6 @@
     "vinted.pl-oferta786378.sbs",
     "www.pl-oferta786378.sbs",
     "www.vinted.pl-oferta786378.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta7883453.icu",
-    "www.vinted.pl-oferta7883453.icu"
    ]
   },
   {
@@ -3959,24 +3927,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta9034301-ipad-pro-13-m4-wifi-cellular.sbs",
-    "www.vinted.pl-oferta9034301-ipad-pro-13-m4-wifi-cellular.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta9034302-ipad-pro-13-m4-wifi-cellular.sbs",
-    "www.vinted.pl-oferta9034302-ipad-pro-13-m4-wifi-cellular.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs",
-    "www.vinted.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs"
+    "pl-oferta90190.icu",
+    "www.pl-oferta90190.icu"
    ]
   },
   {
@@ -3997,14 +3949,6 @@
     "vinted.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs",
     "www.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs",
     "www.vinted.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta904601-ipad-pro-13-m4-wifi-cellular.sbs",
-    "www.vinted.pl-oferta904601-ipad-pro-13-m4-wifi-cellular.sbs"
    ]
   },
   {
