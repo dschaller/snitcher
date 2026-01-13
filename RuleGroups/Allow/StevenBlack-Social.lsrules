@@ -3321,14 +3321,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta632731.cfd",
-    "www.vinted.pl-oferta632731.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs",
     "vinted.pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs",
     "www.pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs",
@@ -3441,14 +3433,6 @@
     "vinted.pl-oferta6734157.icu",
     "www.pl-oferta6734157.icu",
     "www.vinted.pl-oferta6734157.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta674286.sbs",
-    "www.vinted.pl-oferta674286.sbs"
    ]
   },
   {
@@ -3665,22 +3649,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta814932.sbs",
-    "www.vinted.pl-oferta814932.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta817285125.sbs",
-    "www.vinted.pl-oferta817285125.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta84037449.cfd",
     "pl-oferta84037449.lol",
     "vinted.pl-oferta84037449.cfd",
@@ -3767,14 +3735,6 @@
     "vinted.pl-oferta8646559.icu",
     "www.pl-oferta8646559.icu",
     "www.vinted.pl-oferta8646559.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "vinted.pl-oferta864936.com",
-    "www.vinted.pl-oferta864936.com"
    ]
   },
   {
