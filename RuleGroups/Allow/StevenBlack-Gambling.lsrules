@@ -1162,6 +1162,7 @@
     "789club.com",
     "789club.org",
     "789club.sx",
+    "789club.vg",
     "789club.vin",
     "789club.win",
     "play.789club.sx",
@@ -1892,10 +1893,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "9bet.mobi",
     "9bet.net",
     "9bet.win",
+    "api.9bet.mobi",
     "api.9bet.win",
+    "socket.9bet.mobi",
     "socket.9bet.win",
+    "wp.9bet.mobi",
     "wp.9bet.win"
    ]
   },
@@ -5445,6 +5450,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "choibongtaptap.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "choidabanh.com",
     "qc.choidabanh.com"
    ]
@@ -7441,7 +7453,8 @@
    "process": "any",
    "remote-domains": [
     "du88.club",
-    "du88.com"
+    "du88.com",
+    "du88.pro"
    ]
   },
   {
@@ -9164,8 +9177,10 @@
    "remote-domains": [
     "ad.gem88.win",
     "gem88.com",
+    "gem88.guru",
     "gem88.win",
-    "static.gem88.com"
+    "static.gem88.com",
+    "static.gem88.guru"
    ]
   },
   {
@@ -11711,6 +11726,7 @@
    "process": "any",
    "remote-domains": [
     "k88.club",
+    "k88.mobi",
     "k88.pro",
     "k88.win"
    ]
@@ -13815,6 +13831,7 @@
     "image.lu88.co",
     "lu88.co",
     "lu88.com",
+    "lu88.gdn",
     "lu88.pro",
     "static.lu88.com"
    ]
@@ -14243,6 +14260,7 @@
    "process": "any",
    "remote-domains": [
     "man88.net",
+    "man88.pw",
     "man88.top",
     "man88.vip",
     "man88.win"
@@ -16345,14 +16363,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta109602.cfd",
-    "www.pl-oferta109602.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta1250260.sbs",
     "vinted.pl-oferta1250260.sbs",
     "www.pl-oferta1250260.sbs",
@@ -16407,22 +16417,6 @@
     "vinted.pl-oferta1837322.cfd",
     "www.pl-oferta1837322.cfd",
     "www.vinted.pl-oferta1837322.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta19062.cfd",
-    "www.pl-oferta19062.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta196912.icu",
-    "www.pl-oferta196912.icu"
    ]
   },
   {
@@ -16539,22 +16533,6 @@
     "vinted.pl-oferta3045040.cfd",
     "www.pl-oferta3045040.cfd",
     "www.vinted.pl-oferta3045040.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3950320.icu",
-    "www.pl-oferta3950320.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4192026.cfd",
-    "www.pl-oferta4192026.cfd"
    ]
   },
   {
@@ -17077,26 +17055,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8646559.icu",
-    "vinted.pl-oferta8646559.icu",
-    "www.pl-oferta8646559.icu",
-    "www.vinted.pl-oferta8646559.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta869372.cfd",
-    "vinted.pl-oferta869372.cfd",
-    "www.pl-oferta869372.cfd",
-    "www.vinted.pl-oferta869372.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta8752387.icu",
     "vinted.pl-oferta8752387.icu",
     "www.pl-oferta8752387.icu",
@@ -17107,58 +17065,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta893172.sbs",
-    "vinted.pl-oferta893172.sbs",
-    "www.pl-oferta893172.sbs",
-    "www.vinted.pl-oferta893172.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta9014-apple-watch-ultra.cfd",
     "www.pl-oferta9014-apple-watch-ultra.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta90190.icu",
-    "www.pl-oferta90190.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta91062.cfd",
-    "www.pl-oferta91062.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta9162.cfd",
-    "www.pl-oferta9162.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta918909.icu",
-    "www.pl-oferta918909.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta91986.cfd",
-    "www.pl-oferta91986.cfd"
    ]
   },
   {
@@ -20325,6 +20233,22 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "aff.taptap.asia",
+    "taptap.asia"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "aff.taptaptructuyen.com",
+    "taptaptructuyen.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "tatkazino.lt",
     "www.tatkazino.lt"
    ]
@@ -21310,6 +21234,7 @@
    "process": "any",
    "remote-domains": [
     "tx88.com",
+    "tx88.fun",
     "tx88.top"
    ]
   },
@@ -21464,10 +21389,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "api.usbet.cc",
     "api.usbet.net",
     "api.usbet.win",
+    "socket.usbet.cc",
     "socket.usbet.net",
     "socket.usbet.win",
+    "usbet.cc",
     "usbet.net",
     "usbet.win"
    ]
@@ -22490,6 +22418,7 @@
    "process": "any",
    "remote-domains": [
     "vu88.com",
+    "vu88.de",
     "vu88.net"
    ]
   },
@@ -23679,8 +23608,11 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m1.xibet.fun",
     "sk.xibet.com",
+    "sk.xibet.fun",
     "xibet.com",
+    "xibet.fun",
     "xibet.win"
    ]
   },

@@ -2827,14 +2827,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta109602.cfd",
-    "www.pl-oferta109602.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta1250260.sbs",
     "vinted.pl-oferta1250260.sbs",
     "www.pl-oferta1250260.sbs",
@@ -2889,22 +2881,6 @@
     "vinted.pl-oferta1837322.cfd",
     "www.pl-oferta1837322.cfd",
     "www.vinted.pl-oferta1837322.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta19062.cfd",
-    "www.pl-oferta19062.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta196912.icu",
-    "www.pl-oferta196912.icu"
    ]
   },
   {
@@ -3021,22 +2997,6 @@
     "vinted.pl-oferta3045040.cfd",
     "www.pl-oferta3045040.cfd",
     "www.vinted.pl-oferta3045040.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3950320.icu",
-    "www.pl-oferta3950320.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta4192026.cfd",
-    "www.pl-oferta4192026.cfd"
    ]
   },
   {
@@ -3559,26 +3519,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8646559.icu",
-    "vinted.pl-oferta8646559.icu",
-    "www.pl-oferta8646559.icu",
-    "www.vinted.pl-oferta8646559.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta869372.cfd",
-    "vinted.pl-oferta869372.cfd",
-    "www.pl-oferta869372.cfd",
-    "www.vinted.pl-oferta869372.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta8752387.icu",
     "vinted.pl-oferta8752387.icu",
     "www.pl-oferta8752387.icu",
@@ -3589,58 +3529,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta893172.sbs",
-    "vinted.pl-oferta893172.sbs",
-    "www.pl-oferta893172.sbs",
-    "www.vinted.pl-oferta893172.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta9014-apple-watch-ultra.cfd",
     "www.pl-oferta9014-apple-watch-ultra.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta90190.icu",
-    "www.pl-oferta90190.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta91062.cfd",
-    "www.pl-oferta91062.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta9162.cfd",
-    "www.pl-oferta9162.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta918909.icu",
-    "www.pl-oferta918909.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta91986.cfd",
-    "www.pl-oferta91986.cfd"
    ]
   },
   {
