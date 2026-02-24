@@ -16345,8 +16345,38 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta027529.cfd",
+    "vinted.pl-oferta027529.cfd",
+    "www.pl-oferta027529.cfd",
+    "www.vinted.pl-oferta027529.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta027539.cfd",
+    "vinted.pl-oferta027539.cfd",
+    "www.pl-oferta027539.cfd",
+    "www.vinted.pl-oferta027539.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "vinted.pl-oferta03662357.sbs",
     "www.vinted.pl-oferta03662357.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta063962.cfd",
+    "vinted.pl-oferta063962.cfd",
+    "www.pl-oferta063962.cfd",
+    "www.vinted.pl-oferta063962.cfd"
    ]
   },
   {
@@ -16493,6 +16523,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta2198749-apple-macbook-pro-m4.digital",
+    "vinted.pl-oferta2198749-apple-macbook-pro-m4.digital",
+    "www.pl-oferta2198749-apple-macbook-pro-m4.digital",
+    "www.vinted.pl-oferta2198749-apple-macbook-pro-m4.digital"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta2435361.icu",
     "vinted.pl-oferta2435361.icu",
     "www.pl-oferta2435361.icu",
@@ -16609,6 +16649,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta3106209.icu",
+    "www.pl-oferta3106209.icu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta3139169.cfd",
     "vinted.pl-oferta3139169.cfd",
     "www.pl-oferta3139169.cfd",
@@ -16683,20 +16731,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta504710.cfd",
-    "vinted.pl-oferta504710.cfd",
-    "www.pl-oferta504710.cfd",
-    "www.vinted.pl-oferta504710.cfd"
+    "pl-oferta5013582-apple-macbook-pro-m4-24gb.site",
+    "vinted.pl-oferta5013582-apple-macbook-pro-m4-24gb.site",
+    "www.pl-oferta5013582-apple-macbook-pro-m4-24gb.site",
+    "www.vinted.pl-oferta5013582-apple-macbook-pro-m4-24gb.site"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta50538-google-pixel-9-12-256-gb.sbs",
-    "vinted.pl-oferta50538-google-pixel-9-12-256-gb.sbs",
-    "www.pl-oferta50538-google-pixel-9-12-256-gb.sbs",
-    "www.vinted.pl-oferta50538-google-pixel-9-12-256-gb.sbs"
+    "pl-oferta504710.cfd",
+    "vinted.pl-oferta504710.cfd",
+    "www.pl-oferta504710.cfd",
+    "www.vinted.pl-oferta504710.cfd"
    ]
   },
   {
@@ -16733,16 +16781,6 @@
    "remote-domains": [
     "pl-oferta5480129.cfd",
     "www.pl-oferta5480129.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta5693597.sbs",
-    "vinted.pl-oferta5693597.sbs",
-    "www.pl-oferta5693597.sbs",
-    "www.vinted.pl-oferta5693597.sbs"
    ]
   },
   {
@@ -16787,26 +16825,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta6131652.sbs",
-    "vinted.pl-oferta6131652.sbs",
-    "www.pl-oferta6131652.sbs",
-    "www.vinted.pl-oferta6131652.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta614589.sbs",
-    "vinted.pl-oferta614589.sbs",
-    "www.pl-oferta614589.sbs",
-    "www.vinted.pl-oferta614589.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta623123124-macbook-pro-m1-max-16.cfd",
     "www.pl-oferta623123124-macbook-pro-m1-max-16.cfd"
    ]
@@ -16839,16 +16857,6 @@
     "vinted.pl-oferta6689400.sbs",
     "www.pl-oferta6689400.sbs",
     "www.vinted.pl-oferta6689400.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta672349.sbs",
-    "vinted.pl-oferta672349.sbs",
-    "www.pl-oferta672349.sbs",
-    "www.vinted.pl-oferta672349.sbs"
    ]
   },
   {
@@ -16969,16 +16977,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta762984.sbs",
-    "vinted.pl-oferta762984.sbs",
-    "www.pl-oferta762984.sbs",
-    "www.vinted.pl-oferta762984.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta7630463-samsung-galaxy-s9-ultra.cfd",
     "vinted.pl-oferta7630463-samsung-galaxy-s9-ultra.cfd",
     "www.pl-oferta7630463-samsung-galaxy-s9-ultra.cfd",
@@ -16989,38 +16987,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7819317.sbs",
-    "vinted.pl-oferta7819317.sbs",
-    "www.pl-oferta7819317.sbs",
-    "www.vinted.pl-oferta7819317.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta782948.sbs",
     "vinted.pl-oferta782948.sbs",
     "www.pl-oferta782948.sbs",
     "www.vinted.pl-oferta782948.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta7836888.sbs",
-    "www.pl-oferta7836888.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta786432.sbs",
-    "vinted.pl-oferta786432.sbs",
-    "www.pl-oferta786432.sbs",
-    "www.vinted.pl-oferta786432.sbs"
    ]
   },
   {
@@ -17065,14 +17035,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "vinted.pl-oferta829436.sbs",
-    "www.vinted.pl-oferta829436.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta8308012.sbs",
     "www.pl-oferta8308012.sbs"
    ]
@@ -17099,16 +17061,6 @@
    "remote-domains": [
     "vinted.pl-oferta857127124.cfd",
     "www.vinted.pl-oferta857127124.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta862372.cfd",
-    "vinted.pl-oferta862372.cfd",
-    "www.pl-oferta862372.cfd",
-    "www.vinted.pl-oferta862372.cfd"
    ]
   },
   {
@@ -17223,16 +17175,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9335447.com",
-    "vinted.pl-oferta9335447.com",
-    "www.pl-oferta9335447.com",
-    "www.vinted.pl-oferta9335447.com"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
     "vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
     "www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
@@ -17255,6 +17197,16 @@
     "vinted.pl-oferta9614533.cfd",
     "www.pl-oferta9614533.cfd",
     "www.vinted.pl-oferta9614533.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta9651630-apple-macbook-pro-m4-24gb.pro",
+    "vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro",
+    "www.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro",
+    "www.vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro"
    ]
   },
   {
