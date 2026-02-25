@@ -9793,20 +9793,20 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta2105131-ipad-pro-m1-512gb.sbs",
-    "vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs",
-    "www.pl-oferta2105131-ipad-pro-m1-512gb.sbs",
-    "www.vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs"
+    "pl-oferta2015260-sprzedam-macbook-pro-m1.digital",
+    "vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital",
+    "www.pl-oferta2015260-sprzedam-macbook-pro-m1.digital",
+    "www.vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta21706162.icu",
-    "vinted.pl-oferta21706162.icu",
-    "www.pl-oferta21706162.icu",
-    "www.vinted.pl-oferta21706162.icu"
+    "pl-oferta2105131-ipad-pro-m1-512gb.sbs",
+    "vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs",
+    "www.pl-oferta2105131-ipad-pro-m1-512gb.sbs",
+    "www.vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs"
    ]
   },
   {
@@ -9861,28 +9861,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta2725972.bond",
-    "pl-oferta2725972.cfd",
-    "pl-oferta2725972.click",
-    "pl-oferta2725972.club",
-    "vinted.pl-oferta2725972.bond",
-    "vinted.pl-oferta2725972.cfd",
-    "vinted.pl-oferta2725972.click",
-    "vinted.pl-oferta2725972.club",
-    "www.pl-oferta2725972.bond",
-    "www.pl-oferta2725972.cfd",
-    "www.pl-oferta2725972.click",
-    "www.pl-oferta2725972.club",
-    "www.vinted.pl-oferta2725972.bond",
-    "www.vinted.pl-oferta2725972.cfd",
-    "www.vinted.pl-oferta2725972.click",
-    "www.vinted.pl-oferta2725972.club"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta28372929.sbs",
     "www.pl-oferta28372929.sbs"
    ]
@@ -9913,16 +9891,6 @@
    "remote-domains": [
     "pl-oferta293822283.sbs",
     "www.pl-oferta293822283.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3045040.cfd",
-    "vinted.pl-oferta3045040.cfd",
-    "www.pl-oferta3045040.cfd",
-    "www.vinted.pl-oferta3045040.cfd"
    ]
   },
   {
@@ -10071,16 +10039,6 @@
    "remote-domains": [
     "pl-oferta5480129.cfd",
     "www.pl-oferta5480129.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta57543514.icu",
-    "vinted.pl-oferta57543514.icu",
-    "www.pl-oferta57543514.icu",
-    "www.vinted.pl-oferta57543514.icu"
    ]
   },
   {
@@ -10459,24 +10417,6 @@
    "remote-domains": [
     "pl-oferta9226020-samsung-galaxy-watch-2025.sbs",
     "www.pl-oferta9226020-samsung-galaxy-watch-2025.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
-    "vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
-    "www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs",
-    "www.vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta94891.cfd",
-    "www.pl-oferta94891.cfd"
    ]
   },
   {
