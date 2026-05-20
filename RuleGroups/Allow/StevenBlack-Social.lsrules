@@ -2864,24 +2864,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "ticketmaster.pl-oferta56291.lat",
+    "www.ticketmaster.pl-oferta56291.lat"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8392653875173.cfd",
     "www.pl-oferta8392653875173.cfd"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta85324.lol",
-    "www.pl-oferta85324.lol"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta855434.lol",
-    "www.pl-oferta855434.lol"
    ]
   },
   {

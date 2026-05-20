@@ -16526,24 +16526,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ticketmaster.pl-oferta56291.lat",
+    "www.ticketmaster.pl-oferta56291.lat"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8392653875173.cfd",
     "www.pl-oferta8392653875173.cfd"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta85324.lol",
-    "www.pl-oferta85324.lol"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta855434.lol",
-    "www.pl-oferta855434.lol"
    ]
   },
   {
@@ -20709,6 +20701,7 @@
     "tx88.fun",
     "tx88.fyi",
     "tx88.in",
+    "tx88.ing",
     "tx88.llc",
     "tx88.top"
    ]
