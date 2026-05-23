@@ -2828,22 +2828,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta2356236.sbs",
-    "www.pl-oferta2356236.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3425623.lol",
-    "www.pl-oferta3425623.lol"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta4582753.lol",
     "vinted.pl-oferta4582753.lol",
     "www.pl-oferta4582753.lol",

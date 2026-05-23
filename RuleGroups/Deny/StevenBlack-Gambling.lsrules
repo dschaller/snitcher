@@ -374,6 +374,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "18win.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "1bet2bet.com",
     "www.1bet2bet.com"
    ]
@@ -1522,6 +1529,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "88clb.app",
+    "88clb.fit"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "88gobet.com"
    ]
   },
@@ -1940,8 +1955,25 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "abc8.cm",
+    "abc8.cv"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "abcislands.ag",
     "www.abcislands.ag"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "abcvip.com",
+    "abcvip.in",
+    "vn.abcvip.in"
    ]
   },
   {
@@ -7178,6 +7210,7 @@
    "remote-domains": [
     "api2.debet.uk",
     "d1.debet.cx",
+    "d1.debet.gd",
     "d1.debet.gs",
     "d1.debet.info",
     "d1.debet.lc",
@@ -7194,6 +7227,7 @@
     "debet.cx",
     "debet.fan",
     "debet.fun",
+    "debet.gd",
     "debet.gs",
     "debet.info",
     "debet.lc",
@@ -7207,6 +7241,7 @@
     "debet.win",
     "mkt.debet.com",
     "sk.debet.cx",
+    "sk.debet.gd",
     "sk.debet.gs",
     "sk.debet.lc",
     "sk.debet.vg",
@@ -8188,8 +8223,10 @@
    "process": "any",
    "remote-domains": [
     "dl.fa88.win",
+    "fa88.tel",
     "fa88.tv",
     "fa88.win",
+    "play.fa88.tel",
     "play.fa88.win",
     "qc.fa88.tv",
     "tai.fa88.win",
@@ -8687,6 +8724,7 @@
     "five88.biz",
     "five88.com",
     "five88.in",
+    "five88.lc",
     "five88.net",
     "five88.sale",
     "five88.show",
@@ -9250,6 +9288,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gemwin.fm",
     "gemwin.is",
     "gemwin.my",
     "gemwin.page",
@@ -10142,6 +10181,7 @@
     "hitclub.lc",
     "hitclub.lt",
     "hitclub.lv",
+    "hitclub.pl",
     "hitclub.pro",
     "hitclub.salon",
     "hitclub.si",
@@ -15636,6 +15676,7 @@
     "nhatvip.mobi",
     "nhatvip.moi",
     "nhatvip.us",
+    "nhatvip.vin",
     "nhatvip.vip",
     "qc.nhatvip.pro",
     "v.nhatvip.pro",
@@ -15948,6 +15989,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "ok365.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "okcado.com",
     "okcado.org"
    ]
@@ -16166,6 +16214,13 @@
    "remote-domains": [
     "opcrates.com",
     "www.opcrates.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "open88.com"
    ]
   },
   {
@@ -16484,22 +16539,6 @@
     "vinted.pl-oferta-88291.click",
     "www.pl-oferta-88291.click",
     "www.vinted.pl-oferta-88291.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta2356236.sbs",
-    "www.pl-oferta2356236.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3425623.lol",
-    "www.pl-oferta3425623.lol"
    ]
   },
   {
@@ -17326,6 +17365,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.ricwin.pw",
+    "ricwin.pw"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "ridika.com",
     "www.ridika.com"
    ]
@@ -18002,6 +18049,7 @@
     "s2.sin88.club",
     "s2.sin88.com",
     "s3.sin88.ms",
+    "s3.sin88.si",
     "s3.sin88.sx",
     "s3.sin88.tw",
     "sin88.bet",
@@ -18016,6 +18064,7 @@
     "sin88.mobi",
     "sin88.ms",
     "sin88.mx",
+    "sin88.si",
     "sin88.sx",
     "sin88.tw",
     "sin88.uk",
@@ -18023,6 +18072,7 @@
     "sin88.vip",
     "sin88.win",
     "sk.sin88.ms",
+    "sk.sin88.si",
     "sk.sin88.tw",
     "sn1.sin88.me",
     "thethao.sin88.biz",
@@ -19243,6 +19293,7 @@
    "process": "any",
    "remote-domains": [
     "sv1.sv88.vu",
+    "sv88.ae",
     "sv88.club",
     "sv88.com",
     "sv88.in",
@@ -20371,6 +20422,7 @@
     "play.top88.uk",
     "play.top88.us",
     "play.top88.vn",
+    "play.top88.voto",
     "qc.top88.me",
     "qc.top88.uk",
     "qc.top88.us",
@@ -20382,6 +20434,7 @@
     "top88.us",
     "top88.vip",
     "top88.vn",
+    "top88.voto",
     "www.top88.fun"
    ]
   },
@@ -20711,6 +20764,14 @@
    "process": "any",
    "remote-domains": [
     "tydo88.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "u888.cc",
+    "u888.id"
    ]
   },
   {
@@ -21280,6 +21341,7 @@
    "remote-domains": [
     "play.vic.hair",
     "qc.vic.win",
+    "vic.doctor",
     "vic.hair",
     "vic.win"
    ]
@@ -23044,10 +23106,12 @@
    "process": "any",
    "remote-domains": [
     "play.x8.club",
+    "play.x8.fit",
     "qc.x8.club",
     "qc.x8.games",
     "qc.x8.mobi",
     "x8.club",
+    "x8.fit",
     "x8.games",
     "x8.mobi"
    ]
@@ -23315,11 +23379,13 @@
     "ad.yo88.win",
     "web.yo88.is",
     "web.yo88.ml",
+    "web.yo88.so",
     "web.yo88.tv",
     "yo88.cool",
     "yo88.is",
     "yo88.ml",
     "yo88.pw",
+    "yo88.so",
     "yo88.tv",
     "yo88.win"
    ]
@@ -23385,11 +23451,15 @@
    "process": "any",
    "remote-domains": [
     "api-v2.zbet.tv",
+    "sk.zbet.ws",
     "z1.zbet.tv",
+    "z1.zbet.ws",
     "zbet.com",
+    "zbet.dev",
     "zbet.fun",
     "zbet.me",
-    "zbet.tv"
+    "zbet.tv",
+    "zbet.ws"
    ]
   },
   {
@@ -23480,6 +23550,7 @@
     "zowin.bh",
     "zowin.im",
     "zowin.is",
+    "zowin.ng",
     "zowin.red",
     "zowin.sh",
     "zowin.sx",
