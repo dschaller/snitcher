@@ -16596,9 +16596,7 @@
    "process": "any",
    "remote-domains": [
     "pl-oferta93625279.shop",
-    "vinted.pl-oferta93625279.shop",
-    "www.pl-oferta93625279.shop",
-    "www.vinted.pl-oferta93625279.shop"
+    "www.pl-oferta93625279.shop"
    ]
   },
   {
@@ -20581,7 +20579,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "tot88.com"
+    "gw.tot88.store",
+    "s4.tot88.store",
+    "tot88.com",
+    "tot88.store"
    ]
   },
   {
