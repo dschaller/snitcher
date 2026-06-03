@@ -2836,6 +2836,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta47284971.shop",
+    "www.pl-oferta47284971.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta543321.lol",
     "vinted.pl-oferta543321.lol",
     "www.pl-oferta543321.lol",
@@ -2854,8 +2862,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta8392653875173.cfd",
-    "www.pl-oferta8392653875173.cfd"
+    "pl-oferta85jh74hc94.sbs",
+    "www.pl-oferta85jh74hc94.sbs"
    ]
   },
   {
