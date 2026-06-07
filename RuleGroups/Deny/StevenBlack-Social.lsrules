@@ -2828,26 +2828,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta4582753.lol",
-    "www.pl-oferta4582753.lol"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta47284971.shop",
     "www.pl-oferta47284971.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta543321.lol",
-    "vinted.pl-oferta543321.lol",
-    "www.pl-oferta543321.lol",
-    "www.vinted.pl-oferta543321.lol"
    ]
   },
   {
@@ -2872,14 +2854,6 @@
    "remote-domains": [
     "pl-oferta909347.click",
     "www.pl-oferta909347.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta93625279.shop",
-    "www.pl-oferta93625279.shop"
    ]
   },
   {
