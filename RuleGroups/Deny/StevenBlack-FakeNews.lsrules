@@ -9619,16 +9619,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta-0394.shop",
-    "vinted.pl-oferta-0394.shop",
-    "www.pl-oferta-0394.shop",
-    "www.vinted.pl-oferta-0394.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta-543383.shop",
     "www.pl-oferta-543383.shop"
    ]
