@@ -808,6 +808,7 @@
     "3bet.biz",
     "3bet.la",
     "3bet.ph",
+    "3bet.sh",
     "3bet.ski",
     "3bet.so",
     "3bet.tech",
@@ -2617,6 +2618,7 @@
     "ball88.com",
     "ball88.day",
     "ball88.fun",
+    "ball88.games",
     "ball88.mobi",
     "ball88.red",
     "ball88.to",
@@ -2624,6 +2626,7 @@
     "m1.ball88.app",
     "m1.ball88.com",
     "m1.ball88.fun",
+    "m1.ball88.games",
     "m1.ball88.mobi",
     "m1.ball88.red",
     "m1.ball88.to",
@@ -7238,6 +7241,8 @@
     "d1.debet.gs",
     "d1.debet.info",
     "d1.debet.lc",
+    "d1.debet.mp",
+    "d1.debet.mw",
     "d1.debet.sc",
     "d1.debet.so",
     "d1.debet.st",
@@ -7259,6 +7264,8 @@
     "debet.lc",
     "debet.lv",
     "debet.moi",
+    "debet.mp",
+    "debet.mw",
     "debet.net",
     "debet.sc",
     "debet.so",
@@ -7274,6 +7281,7 @@
     "sk.debet.gs",
     "sk.debet.lc",
     "sk.debet.lv",
+    "sk.debet.mw",
     "sk.debet.st",
     "sk.debet.vg",
     "socket.debet.so",
@@ -8760,6 +8768,7 @@
     "five88.net",
     "five88.ng",
     "five88.nl",
+    "five88.ro",
     "five88.sale",
     "five88.show",
     "five88.sx",
@@ -9326,6 +9335,7 @@
     "gemwin.ink",
     "gemwin.is",
     "gemwin.lc",
+    "gemwin.lv",
     "gemwin.my",
     "gemwin.nz",
     "gemwin.page",
@@ -10218,6 +10228,7 @@
     "hitclub.lc",
     "hitclub.lt",
     "hitclub.lv",
+    "hitclub.mk",
     "hitclub.ml",
     "hitclub.mu",
     "hitclub.pl",
@@ -10225,6 +10236,7 @@
     "hitclub.salon",
     "hitclub.si",
     "hitclub.so",
+    "hitclub.su",
     "hitclub.top",
     "hitclub.tv",
     "hitclub.vin",
@@ -10234,6 +10246,7 @@
     "v.hitclub.ml",
     "v.hitclub.mu",
     "v.hitclub.si",
+    "v.hitclub.su",
     "v.hitclub.tv",
     "web.hitclub.top"
    ]
@@ -15711,6 +15724,7 @@
     "nhat.it",
     "nhat.my",
     "nhat.one",
+    "nhat.pw",
     "nhat.sh",
     "nhat.sx",
     "nhat.vip",
@@ -16584,6 +16598,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta21857139.shop",
+    "vinted.pl-oferta21857139.shop",
+    "www.pl-oferta21857139.shop",
+    "www.vinted.pl-oferta21857139.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta47284971.shop",
     "www.pl-oferta47284971.shop"
    ]
@@ -16592,8 +16616,74 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ticketmaster.pl-oferta56291.lat",
-    "www.ticketmaster.pl-oferta56291.lat"
+    "pl-oferta57423598.shop",
+    "vinted.pl-oferta57423598.shop",
+    "www.pl-oferta57423598.shop",
+    "www.vinted.pl-oferta57423598.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5821989.shop",
+    "www.pl-oferta5821989.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5828521.shop",
+    "www.pl-oferta5828521.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta736hdt6fe.click",
+    "vinted.pl-oferta736hdt6fe.click",
+    "www.pl-oferta736hdt6fe.click",
+    "www.vinted.pl-oferta736hdt6fe.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta745hf65.shop",
+    "vinted.pl-oferta745hf65.shop",
+    "www.pl-oferta745hf65.shop",
+    "www.vinted.pl-oferta745hf65.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vinted.pl-oferta754f5f543.click",
+    "www.vinted.pl-oferta754f5f543.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta75h547f4.click",
+    "vinted.pl-oferta75h547f4.click",
+    "www.pl-oferta75h547f4.click",
+    "www.vinted.pl-oferta75h547f4.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta7845hf5f.shop",
+    "vinted.pl-oferta7845hf5f.shop",
+    "www.pl-oferta7845hf5f.shop",
+    "www.vinted.pl-oferta7845hf5f.shop"
    ]
   },
   {
@@ -16602,6 +16692,16 @@
    "remote-domains": [
     "pl-oferta85jh74hc94.sbs",
     "www.pl-oferta85jh74hc94.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta874f5h5.click",
+    "vinted.pl-oferta874f5h5.click",
+    "www.pl-oferta874f5h5.click",
+    "www.vinted.pl-oferta874f5h5.click"
    ]
   },
   {
@@ -16618,10 +16718,58 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-ogloszenia-firmowe-id-883823.click",
+    "vinted.pl-ogloszenia-firmowe-id-883823.click",
+    "www.pl-ogloszenia-firmowe-id-883823.click",
+    "www.vinted.pl-ogloszenia-firmowe-id-883823.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-firmowe-id833083.click",
+    "vinted.pl-ogloszenia-firmowe-id833083.click",
+    "www.pl-ogloszenia-firmowe-id833083.click",
+    "www.vinted.pl-ogloszenia-firmowe-id833083.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-ogloszenia-firmowe-id83380.click",
     "vinted.pl-ogloszenia-firmowe-id83380.click",
     "www.pl-ogloszenia-firmowe-id83380.click",
     "www.vinted.pl-ogloszenia-firmowe-id83380.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-firmowe-id902430.click",
+    "vinted.pl-ogloszenia-firmowe-id902430.click",
+    "www.pl-ogloszenia-firmowe-id902430.click",
+    "www.vinted.pl-ogloszenia-firmowe-id902430.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-firmowe8827323.click",
+    "vinted.pl-ogloszenia-firmowe8827323.click",
+    "www.pl-ogloszenia-firmowe8827323.click",
+    "www.vinted.pl-ogloszenia-firmowe8827323.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie483704921.cfd",
+    "www.pl-ogloszenie483704921.cfd"
    ]
   },
   {
@@ -18097,6 +18245,7 @@
     "s2.sin88.cc",
     "s2.sin88.club",
     "s2.sin88.com",
+    "s3.sin88.fo",
     "s3.sin88.lu",
     "s3.sin88.ml",
     "s3.sin88.ms",
@@ -18109,6 +18258,7 @@
     "sin88.club",
     "sin88.com",
     "sin88.cv",
+    "sin88.fo",
     "sin88.im",
     "sin88.lu",
     "sin88.me",
@@ -18124,6 +18274,7 @@
     "sin88.us",
     "sin88.vip",
     "sin88.win",
+    "sk.sin88.fo",
     "sk.sin88.lu",
     "sk.sin88.ml",
     "sk.sin88.ms",
@@ -19355,7 +19506,9 @@
     "sv88.com",
     "sv88.in",
     "sv88.lv",
+    "sv88.ml",
     "sv88.ro",
+    "sv88.si",
     "sv88.vin",
     "sv88.vip",
     "sv88.vu",
@@ -23457,6 +23610,8 @@
     "web.yo88.so",
     "web.yo88.st",
     "web.yo88.tv",
+    "web.yo88.vu",
+    "yo88.ae",
     "yo88.cool",
     "yo88.is",
     "yo88.ml",
@@ -23465,6 +23620,7 @@
     "yo88.st",
     "yo88.tv",
     "yo88.vg",
+    "yo88.vu",
     "yo88.win"
    ]
   },
@@ -23628,6 +23784,7 @@
     "zowin.bh",
     "zowin.im",
     "zowin.is",
+    "zowin.kim",
     "zowin.mom",
     "zowin.ng",
     "zowin.red",
@@ -23635,6 +23792,7 @@
     "zowin.sx",
     "zowin.tv",
     "zowin.tw",
+    "zowin.uno",
     "zowin.ws"
    ]
   },
