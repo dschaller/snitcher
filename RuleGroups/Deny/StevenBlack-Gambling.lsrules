@@ -2526,10 +2526,19 @@
     "b52.game",
     "b52.me",
     "b52.mobi",
+    "b52.nu",
     "b52.vip",
     "b52.win",
     "i.b52.club",
     "www.b52.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "b52club.me",
+    "play.b52club.me"
    ]
   },
   {
@@ -7604,6 +7613,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "du88.cafe",
     "du88.club",
     "du88.com",
     "du88.in",
@@ -9364,6 +9374,7 @@
    "process": "any",
    "remote-domains": [
     "gemwin.cab",
+    "gemwin.esq",
     "gemwin.fm",
     "gemwin.fyi",
     "gemwin.ink",
@@ -9995,15 +10006,32 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "api.haybet.ws",
+    "haybet.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "haywin.ac",
     "haywin.ai",
     "haywin.my",
     "haywin.space",
     "haywin.store",
+    "haywin.training",
     "haywin.vip",
     "play.haywin.ai",
     "play.haywin.space",
-    "play.haywin.store"
+    "play.haywin.store",
+    "play.haywin.training"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "haywinchinhhang.com"
    ]
   },
   {
@@ -10057,6 +10085,7 @@
    "process": "any",
    "remote-domains": [
     "hbet.club",
+    "hbet.li",
     "hbet.lv",
     "hbet.net",
     "hbet.pw",
@@ -14116,6 +14145,7 @@
     "lu88.com",
     "lu88.gdn",
     "lu88.kim",
+    "lu88.nz",
     "lu88.pro",
     "static.lu88.com"
    ]
@@ -14546,6 +14576,7 @@
    "remote-domains": [
     "man88.la",
     "man88.net",
+    "man88.ng",
     "man88.pl",
     "man88.pw",
     "man88.top",
@@ -15777,6 +15808,7 @@
     "nhat.bet",
     "nhat.bh",
     "nhat.bz",
+    "nhat.cam",
     "nhat.cx",
     "nhat.game",
     "nhat.is",
@@ -16701,6 +16733,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta2946470.click",
+    "www.pl-oferta2946470.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta47284971.shop",
     "www.pl-oferta47284971.shop"
    ]
@@ -16737,6 +16777,16 @@
    "remote-domains": [
     "pl-oferta5828521.shop",
     "www.pl-oferta5828521.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5jfc4dd4x.click",
+    "vinted.pl-oferta5jfc4dd4x.click",
+    "www.pl-oferta5jfc4dd4x.click",
+    "www.vinted.pl-oferta5jfc4dd4x.click"
    ]
   },
   {
@@ -17806,7 +17856,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "play.ricwin.moi",
     "play.ricwin.pw",
+    "ricwin.moi",
+    "ricwin.mx",
     "ricwin.pw"
    ]
   },
@@ -19579,8 +19632,16 @@
     "sunwin.moi",
     "sunwin.pro",
     "sunwin.pw",
+    "sunwin.show",
     "sunwin.sx",
     "web.sunwin.pro"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "sunwinchinhhang.com"
    ]
   },
   {
@@ -20624,6 +20685,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "tip88.app",
     "tip88.com"
    ]
   },
@@ -21235,6 +21297,7 @@
    "process": "any",
    "remote-domains": [
     "tx88.com",
+    "tx88.fan",
     "tx88.fun",
     "tx88.fyi",
     "tx88.in",
@@ -21843,6 +21906,8 @@
    "process": "any",
    "remote-domains": [
     "vic88.com",
+    "vic88.link",
+    "vic88.mx",
     "vic88.net"
    ]
   },
@@ -22447,6 +22512,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "vu88.ac",
     "vu88.com",
     "vu88.de",
     "vu88.in",
@@ -23654,6 +23720,7 @@
     "sk.xibet.fun",
     "xibet.com",
     "xibet.fun",
+    "xibet.vg",
     "xibet.win"
    ]
   },
@@ -24061,6 +24128,7 @@
    "remote-domains": [
     "web.zowin.tv",
     "zowin.bh",
+    "zowin.esq",
     "zowin.im",
     "zowin.is",
     "zowin.kim",
@@ -24075,6 +24143,13 @@
     "zowin.uno",
     "zowin.vu",
     "zowin.ws"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "zowinchinhhang.online"
    ]
   },
   {

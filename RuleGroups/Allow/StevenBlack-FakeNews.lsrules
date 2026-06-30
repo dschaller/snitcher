@@ -9647,6 +9647,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta2946470.click",
+    "www.pl-oferta2946470.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta47284971.shop",
     "www.pl-oferta47284971.shop"
    ]
@@ -9683,6 +9691,16 @@
    "remote-domains": [
     "pl-oferta5828521.shop",
     "www.pl-oferta5828521.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5jfc4dd4x.click",
+    "vinted.pl-oferta5jfc4dd4x.click",
+    "www.pl-oferta5jfc4dd4x.click",
+    "www.vinted.pl-oferta5jfc4dd4x.click"
    ]
   },
   {
