@@ -806,6 +806,7 @@
    "process": "any",
    "remote-domains": [
     "3bet.biz",
+    "3bet.host",
     "3bet.la",
     "3bet.ph",
     "3bet.sh",
@@ -814,6 +815,7 @@
     "3bet.tech",
     "3bet.vc",
     "3bet.win",
+    "3bet.work",
     "3bet.you"
    ]
   },
@@ -1177,6 +1179,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "789club.ba",
     "789club.biz",
     "789club.com",
     "789club.org",
@@ -2538,7 +2541,9 @@
    "process": "any",
    "remote-domains": [
     "b52club.me",
-    "play.b52club.me"
+    "b52club.mobi",
+    "play.b52club.me",
+    "play.b52club.mobi"
    ]
   },
   {
@@ -2627,8 +2632,10 @@
     "ball88.com",
     "ball88.day",
     "ball88.fun",
+    "ball88.fyi",
     "ball88.games",
     "ball88.llc",
+    "ball88.men",
     "ball88.mobi",
     "ball88.red",
     "ball88.to",
@@ -2638,6 +2645,7 @@
     "m1.ball88.fun",
     "m1.ball88.games",
     "m1.ball88.llc",
+    "m1.ball88.men",
     "m1.ball88.mobi",
     "m1.ball88.red",
     "m1.ball88.to",
@@ -2647,6 +2655,7 @@
     "sk.ball88.day",
     "sk.ball88.fun",
     "sk.ball88.llc",
+    "sk.ball88.men",
     "sk.ball88.mobi",
     "sk.ball88.to",
     "sk.ball88.zone"
@@ -4601,9 +4610,11 @@
    "remote-domains": [
     "bom88.com",
     "bom88.cool",
+    "bom88.diy",
     "bom88.ing",
     "bom88.net",
-    "bom88.pics"
+    "bom88.pics",
+    "bom88.plus"
    ]
   },
   {
@@ -6956,6 +6967,7 @@
    "remote-domains": [
     "da88.com",
     "da88.pro",
+    "da88.si",
     "da88.vip",
     "da88.win"
    ]
@@ -9381,6 +9393,7 @@
     "gemwin.is",
     "gemwin.lc",
     "gemwin.lv",
+    "gemwin.mobi",
     "gemwin.my",
     "gemwin.nz",
     "gemwin.page",
@@ -10007,6 +10020,7 @@
    "process": "any",
    "remote-domains": [
     "api.haybet.ws",
+    "haybet.nl",
     "haybet.ws"
    ]
   },
@@ -16741,8 +16755,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta47284971.shop",
-    "www.pl-oferta47284971.shop"
+    "pl-oferta3891461.click",
+    "www.pl-oferta3891461.click"
    ]
   },
   {
@@ -16751,6 +16765,16 @@
    "remote-domains": [
     "pl-oferta4955301.sbs",
     "www.pl-oferta4955301.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta4jdfj4s.click",
+    "vinted.pl-oferta4jdfj4s.click",
+    "www.pl-oferta4jdfj4s.click",
+    "www.vinted.pl-oferta4jdfj4s.click"
    ]
   },
   {
@@ -16787,6 +16811,16 @@
     "vinted.pl-oferta5jfc4dd4x.click",
     "www.pl-oferta5jfc4dd4x.click",
     "www.vinted.pl-oferta5jfc4dd4x.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5y53f44a.cfd",
+    "vinted.pl-oferta5y53f44a.cfd",
+    "www.pl-oferta5y53f44a.cfd",
+    "www.vinted.pl-oferta5y53f44a.cfd"
    ]
   },
   {
@@ -16871,18 +16905,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta85fj598f.click",
-    "vinted.pl-oferta85fj598f.click",
-    "www.pl-oferta85fj598f.click",
-    "www.vinted.pl-oferta85fj598f.click"
+    "pl-oferta857715ha1.click",
+    "vinted.pl-oferta857715ha1.click",
+    "www.pl-oferta857715ha1.click",
+    "www.vinted.pl-oferta857715ha1.click"
    ]
   },
   {
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta85jh74hc94.sbs",
-    "www.pl-oferta85jh74hc94.sbs"
+    "pl-oferta85fj598f.click",
+    "vinted.pl-oferta85fj598f.click",
+    "www.pl-oferta85fj598f.click",
+    "www.vinted.pl-oferta85fj598f.click"
    ]
   },
   {
@@ -16909,6 +16945,14 @@
    "remote-domains": [
     "pl-oferta9837392.sbs",
     "www.pl-oferta9837392.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta983791.sbs",
+    "www.pl-oferta983791.sbs"
    ]
   },
   {
@@ -17035,6 +17079,26 @@
     "vinted.pl-ogloszenia-firmowe-id838423.click",
     "www.pl-ogloszenia-firmowe-id838423.click",
     "www.vinted.pl-ogloszenia-firmowe-id838423.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-firmowe-id8832383.click",
+    "vinted.pl-ogloszenia-firmowe-id8832383.click",
+    "www.pl-ogloszenia-firmowe-id8832383.click",
+    "www.vinted.pl-ogloszenia-firmowe-id8832383.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenia-firmowe-id883828.sbs",
+    "vinted.pl-ogloszenia-firmowe-id883828.sbs",
+    "www.pl-ogloszenia-firmowe-id883828.sbs",
+    "www.vinted.pl-ogloszenia-firmowe-id883828.sbs"
    ]
   },
   {
@@ -17856,8 +17920,10 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "play.ricwin.ing",
     "play.ricwin.moi",
     "play.ricwin.pw",
+    "ricwin.ing",
     "ricwin.moi",
     "ricwin.mx",
     "ricwin.pw"
@@ -17914,10 +17980,13 @@
    "remote-domains": [
     "lp.rikvip.tv",
     "play.rikvip.info",
+    "play.rikvip.med",
     "play.rikvip.tv",
     "qc.rikvip.info",
+    "qc.rikvip.med",
     "rikvip.fun",
     "rikvip.info",
+    "rikvip.med",
     "rikvip.property",
     "rikvip.tv",
     "rikvip.us",
@@ -17929,6 +17998,13 @@
     "tai.rikvip.vip",
     "tai.rikvip.win",
     "wp.rikvip.tv"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rikvipchinhhang.com"
    ]
   },
   {
@@ -22003,16 +22079,19 @@
    "process": "any",
    "remote-domains": [
     "m1.vin88.net",
+    "m1.vin88.pub",
     "m1.vin88.pw",
     "m1.vin88.vin",
     "m1.vin88.vip",
     "sk.vin88.net",
+    "sk.vin88.pub",
     "sk.vin88.pw",
     "sk.vin88.vin",
     "sk.vin88.vip",
     "vin88.com",
     "vin88.moi",
     "vin88.net",
+    "vin88.pub",
     "vin88.pw",
     "vin88.sx",
     "vin88.top",
@@ -22020,6 +22099,13 @@
     "vin88.vin",
     "vin88.vip",
     "vin88.win"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vin88chinhhang.com"
    ]
   },
   {
@@ -24137,6 +24223,7 @@
     "zowin.ph",
     "zowin.red",
     "zowin.sh",
+    "zowin.srl",
     "zowin.sx",
     "zowin.tv",
     "zowin.tw",
