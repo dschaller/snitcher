@@ -91,8 +91,10 @@
     "11bet.gg",
     "11bet.in",
     "11bet.life",
+    "11bet.lt",
     "11bet.mobi",
     "11bet.mx",
+    "11bet.name",
     "11bet.net",
     "11bet.online",
     "11bet.org",
@@ -173,6 +175,13 @@
     "123bhh.com",
     "api.123bhh.com",
     "www.123bhh.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "123bong.vg"
    ]
   },
   {
@@ -808,6 +817,7 @@
     "3bet.biz",
     "3bet.host",
     "3bet.la",
+    "3bet.llc",
     "3bet.ph",
     "3bet.sh",
     "3bet.ski",
@@ -1179,6 +1189,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "789club.am",
     "789club.ba",
     "789club.biz",
     "789club.com",
@@ -2634,6 +2645,7 @@
     "ball88.fun",
     "ball88.fyi",
     "ball88.games",
+    "ball88.lat",
     "ball88.llc",
     "ball88.men",
     "ball88.mobi",
@@ -2772,7 +2784,8 @@
    "process": "any",
    "remote-domains": [
     "api.bec88.com",
-    "bec88.com"
+    "bec88.com",
+    "bec88.fun"
    ]
   },
   {
@@ -4614,7 +4627,8 @@
     "bom88.ing",
     "bom88.net",
     "bom88.pics",
-    "bom88.plus"
+    "bom88.plus",
+    "bom88.shop"
    ]
   },
   {
@@ -5709,6 +5723,14 @@
    "process": "any",
    "remote-domains": [
     "www.cloudbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "club-gov.com",
+    "hit.club-gov.com"
    ]
   },
   {
@@ -7625,11 +7647,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "du88.art",
     "du88.cafe",
     "du88.club",
     "du88.com",
     "du88.in",
     "du88.info",
+    "du88.life",
     "du88.pro"
    ]
   },
@@ -7684,6 +7708,13 @@
    "process": "any",
    "remote-domains": [
     "dutapoker.co"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "dv88.city"
    ]
   },
   {
@@ -8712,7 +8743,9 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "febet.fun",
     "febet.net",
+    "febet.sh",
     "img.febet.net"
    ]
   },
@@ -9397,6 +9430,7 @@
     "gemwin.my",
     "gemwin.nz",
     "gemwin.page",
+    "gemwin.spot",
     "gemwin.tax",
     "gemwin.to",
     "gemwin.tv",
@@ -9570,12 +9604,15 @@
    "remote-domains": [
     "api2-gateway.go88.com",
     "dangky.go88.com",
+    "go88.bayern",
     "go88.ca",
     "go88.club",
     "go88.com",
     "go88.contractors",
+    "go88.food",
     "go88.live",
     "go88.luxury",
+    "go88.me",
     "go88.org",
     "go88.study",
     "go88.top",
@@ -10098,10 +10135,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hbet.ac",
     "hbet.club",
+    "hbet.fm",
     "hbet.li",
     "hbet.lv",
     "hbet.net",
+    "hbet.ph",
     "hbet.pw",
     "hbet.win"
    ]
@@ -10111,6 +10151,13 @@
    "process": "any",
    "remote-domains": [
     "hcm66.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "hd88.tv"
    ]
   },
   {
@@ -10317,6 +10364,7 @@
     "hitclub.mk",
     "hitclub.ml",
     "hitclub.mu",
+    "hitclub.mw",
     "hitclub.pl",
     "hitclub.pro",
     "hitclub.salon",
@@ -10327,6 +10375,7 @@
     "hitclub.tv",
     "hitclub.vin",
     "hitclub.win",
+    "hitclub.yoga",
     "v.hitclub.in",
     "v.hitclub.ist",
     "v.hitclub.lv",
@@ -10335,6 +10384,7 @@
     "v.hitclub.si",
     "v.hitclub.su",
     "v.hitclub.tv",
+    "v.hitclub.yoga",
     "web.hitclub.top"
    ]
   },
@@ -14155,12 +14205,15 @@
    "remote-domains": [
     "image.lu88.co",
     "lu88.ai",
+    "lu88.ch",
     "lu88.co",
     "lu88.com",
     "lu88.gdn",
     "lu88.kim",
+    "lu88.mn",
     "lu88.nz",
     "lu88.pro",
+    "lu88.tw",
     "static.lu88.com"
    ]
   },
@@ -14588,11 +14641,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "man88.biz",
+    "man88.bz",
+    "man88.co",
     "man88.la",
     "man88.net",
     "man88.ng",
     "man88.pl",
     "man88.pw",
+    "man88.sh",
     "man88.top",
     "man88.vip",
     "man88.win"
@@ -15037,6 +15094,7 @@
     "api.min88.com",
     "img.min88.com",
     "min88.com",
+    "min88.ing",
     "min88.me"
    ]
   },
@@ -16739,6 +16797,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta24533.sbs",
+    "vinted.pl-oferta24533.sbs",
+    "www.pl-oferta24533.sbs",
+    "www.vinted.pl-oferta24533.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta2632920.lat",
     "www.pl-oferta2632920.lat"
    ]
@@ -16749,6 +16817,26 @@
    "remote-domains": [
     "pl-oferta2946470.click",
     "www.pl-oferta2946470.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta295938.shop",
+    "vinted.pl-oferta295938.shop",
+    "www.pl-oferta295938.shop",
+    "www.vinted.pl-oferta295938.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta3625bdg54.click",
+    "vinted.pl-oferta3625bdg54.click",
+    "www.pl-oferta3625bdg54.click",
+    "www.vinted.pl-oferta3625bdg54.click"
    ]
   },
   {
@@ -16831,6 +16919,16 @@
     "vinted.pl-oferta635h5fs7h.click",
     "www.pl-oferta635h5fs7h.click",
     "www.vinted.pl-oferta635h5fs7h.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta73072399.click",
+    "vinted.pl-oferta73072399.click",
+    "www.pl-oferta73072399.click",
+    "www.vinted.pl-oferta73072399.click"
    ]
   },
   {
@@ -16937,6 +17035,14 @@
    "remote-domains": [
     "pl-oferta910932.cfd",
     "www.pl-oferta910932.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta9182837428923712673281.lat",
+    "www.pl-oferta9182837428923712673281.lat"
    ]
   },
   {
@@ -17492,6 +17598,7 @@
    "process": "any",
    "remote-domains": [
     "pub88.com",
+    "pub88.day",
     "pub88.win"
    ]
   },
@@ -17964,6 +18071,13 @@
    "remote-domains": [
     "play.rik88.life",
     "rik88.life"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "rikbet.red"
    ]
   },
   {
@@ -21372,15 +21486,20 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tx88.biz",
     "tx88.com",
     "tx88.fan",
     "tx88.fun",
     "tx88.fyi",
+    "tx88.hot",
     "tx88.in",
     "tx88.ing",
+    "tx88.la",
     "tx88.llc",
+    "tx88.now",
     "tx88.onl",
-    "tx88.top"
+    "tx88.top",
+    "tx88.vet"
    ]
   },
   {
@@ -21491,8 +21610,12 @@
     "k1.uk88.vip",
     "uk88.club",
     "uk88.com",
+    "uk88.gd",
+    "uk88.how",
+    "uk88.mba",
     "uk88.top",
-    "uk88.vip"
+    "uk88.vip",
+    "uk88.xin"
    ]
   },
   {
@@ -21809,7 +21932,8 @@
    "process": "any",
    "remote-domains": [
     "vb88.com",
-    "vb88.win"
+    "vb88.win",
+    "vb88.zone"
    ]
   },
   {
@@ -22093,6 +22217,7 @@
     "vin88.net",
     "vin88.pub",
     "vin88.pw",
+    "vin88.soy",
     "vin88.sx",
     "vin88.top",
     "vin88.tv",
@@ -22602,8 +22727,13 @@
     "vu88.com",
     "vu88.de",
     "vu88.in",
+    "vu88.la",
+    "vu88.live",
+    "vu88.lv",
     "vu88.net",
-    "vu88.tv"
+    "vu88.sh",
+    "vu88.tv",
+    "vu88.ws"
    ]
   },
   {
@@ -22614,7 +22744,8 @@
     "vua88.app",
     "vua88.biz",
     "vua88.club",
-    "vua88.com"
+    "vua88.com",
+    "vua88.host"
    ]
   },
   {
@@ -23801,12 +23932,17 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "m1.xibet.ec",
     "m1.xibet.fun",
     "sk.xibet.com",
+    "sk.xibet.ec",
     "sk.xibet.fun",
+    "sk.xibet.vu",
     "xibet.com",
+    "xibet.ec",
     "xibet.fun",
     "xibet.vg",
+    "xibet.vu",
     "xibet.win"
    ]
   },
@@ -23849,6 +23985,7 @@
     "xo88.com",
     "xo88.fun",
     "xo88.pro",
+    "xo88.tw",
     "xo88.us",
     "xo88.win"
    ]
@@ -24031,6 +24168,7 @@
     "web.yo88.is",
     "web.yo88.ist",
     "web.yo88.ml",
+    "web.yo88.phd",
     "web.yo88.so",
     "web.yo88.st",
     "web.yo88.tv",
@@ -24040,6 +24178,7 @@
     "yo88.is",
     "yo88.ist",
     "yo88.ml",
+    "yo88.phd",
     "yo88.pw",
     "yo88.so",
     "yo88.st",
@@ -24215,6 +24354,7 @@
     "web.zowin.tv",
     "zowin.bh",
     "zowin.esq",
+    "zowin.fan",
     "zowin.im",
     "zowin.is",
     "zowin.kim",
