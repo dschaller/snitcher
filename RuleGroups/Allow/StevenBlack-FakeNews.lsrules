@@ -9825,6 +9825,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta783692781.cfd",
+    "www.pl-oferta783692781.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7845hf5f.shop",
     "vinted.pl-oferta7845hf5f.shop",
     "www.pl-oferta7845hf5f.shop",
