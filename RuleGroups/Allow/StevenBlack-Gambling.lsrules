@@ -826,6 +826,7 @@
     "3bet.sh",
     "3bet.ski",
     "3bet.so",
+    "3bet.store",
     "3bet.tech",
     "3bet.vc",
     "3bet.win",
@@ -1201,6 +1202,7 @@
     "789club.cr",
     "789club.gp",
     "789club.ke",
+    "789club.mu",
     "789club.org",
     "789club.sx",
     "789club.vg",
@@ -2657,10 +2659,12 @@
     "ball88.games",
     "ball88.lat",
     "ball88.llc",
+    "ball88.love",
     "ball88.ltd",
     "ball88.men",
     "ball88.mobi",
     "ball88.red",
+    "ball88.team",
     "ball88.to",
     "ball88.zone",
     "m1.ball88.app",
@@ -2682,6 +2686,7 @@
     "sk.ball88.ltd",
     "sk.ball88.men",
     "sk.ball88.mobi",
+    "sk.ball88.team",
     "sk.ball88.to",
     "sk.ball88.zone"
    ]
@@ -4645,7 +4650,8 @@
     "bom88.net",
     "bom88.pics",
     "bom88.plus",
-    "bom88.shop"
+    "bom88.shop",
+    "bom88.team"
    ]
   },
   {
@@ -7665,6 +7671,7 @@
    "process": "any",
    "remote-domains": [
     "du88.art",
+    "du88.blue",
     "du88.cafe",
     "du88.care",
     "du88.club",
@@ -10159,6 +10166,7 @@
    "remote-domains": [
     "hbet.ac",
     "hbet.club",
+    "hbet.cz",
     "hbet.fm",
     "hbet.la",
     "hbet.li",
@@ -12098,6 +12106,7 @@
    "process": "any",
    "remote-domains": [
     "k88.art",
+    "k88.cam",
     "k88.club",
     "k88.mobi",
     "k88.moe",
@@ -14241,6 +14250,7 @@
     "lu88.ec",
     "lu88.gdn",
     "lu88.kim",
+    "lu88.lc",
     "lu88.mn",
     "lu88.nz",
     "lu88.pro",
@@ -14687,6 +14697,7 @@
     "man88.top",
     "man88.vc",
     "man88.vip",
+    "man88.vu",
     "man88.win"
    ]
   },
@@ -16830,6 +16841,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta1203910910.shop",
+    "www.pl-oferta1203910910.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta24533.sbs",
     "vinted.pl-oferta24533.sbs",
     "www.pl-oferta24533.sbs",
@@ -16922,16 +16941,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta635h5fs7h.click",
-    "vinted.pl-oferta635h5fs7h.click",
-    "www.pl-oferta635h5fs7h.click",
-    "www.vinted.pl-oferta635h5fs7h.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta73072399.click",
     "vinted.pl-oferta73072399.click",
     "www.pl-oferta73072399.click",
@@ -16970,10 +16979,26 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta81276832.shop",
+    "www.pl-oferta81276832.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta836hdhye3.click",
     "vinted.pl-oferta836hdhye3.click",
     "www.pl-oferta836hdhye3.click",
     "www.vinted.pl-oferta836hdhye3.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta837419830.shop",
+    "www.pl-oferta837419830.shop"
    ]
   },
   {
@@ -17030,6 +17055,14 @@
    "remote-domains": [
     "pl-oferta910932.cfd",
     "www.pl-oferta910932.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta912712672332.icu",
+    "www.pl-oferta912712672332.icu"
    ]
   },
   {
@@ -17106,46 +17139,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenia-firmowe-83443.click",
-    "vinted.pl-ogloszenia-firmowe-83443.click",
-    "www.pl-ogloszenia-firmowe-83443.click",
-    "www.vinted.pl-ogloszenia-firmowe-83443.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenia-firmowe-83445.click",
-    "vinted.pl-ogloszenia-firmowe-83445.click",
-    "www.pl-ogloszenia-firmowe-83445.click",
-    "www.vinted.pl-ogloszenia-firmowe-83445.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenia-firmowe-id823833.click",
-    "vinted.pl-ogloszenia-firmowe-id823833.click",
-    "www.pl-ogloszenia-firmowe-id823833.click",
-    "www.vinted.pl-ogloszenia-firmowe-id823833.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenia-firmowe-id838423.click",
-    "vinted.pl-ogloszenia-firmowe-id838423.click",
-    "www.pl-ogloszenia-firmowe-id838423.click",
-    "www.vinted.pl-ogloszenia-firmowe-id838423.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-ogloszenia-firmowe-id8832383.click",
     "vinted.pl-ogloszenia-firmowe-id8832383.click",
     "www.pl-ogloszenia-firmowe-id8832383.click",
@@ -17176,8 +17169,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie483704921.cfd",
-    "www.pl-ogloszenie483704921.cfd"
+    "pl-ogloszenie9967883927.cyou",
+    "www.pl-ogloszenie9967883927.cyou"
    ]
   },
   {
@@ -21422,6 +21415,7 @@
    "process": "any",
    "remote-domains": [
     "tx88.biz",
+    "tx88.ch",
     "tx88.com",
     "tx88.download",
     "tx88.fan",
@@ -22664,6 +22658,7 @@
    "remote-domains": [
     "vu88.ac",
     "vu88.com",
+    "vu88.cz",
     "vu88.de",
     "vu88.in",
     "vu88.la",
@@ -23880,6 +23875,7 @@
     "sk.xibet.ec",
     "sk.xibet.fun",
     "sk.xibet.ing",
+    "sk.xibet.now",
     "sk.xibet.nz",
     "sk.xibet.vu",
     "xibet.com",
@@ -23887,6 +23883,7 @@
     "xibet.fun",
     "xibet.ing",
     "xibet.moi",
+    "xibet.now",
     "xibet.nz",
     "xibet.vg",
     "xibet.vu",
