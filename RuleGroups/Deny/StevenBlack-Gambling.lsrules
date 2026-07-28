@@ -1203,6 +1203,7 @@
     "789club.gp",
     "789club.ke",
     "789club.mu",
+    "789club.mw",
     "789club.org",
     "789club.sx",
     "789club.vg",
@@ -12110,6 +12111,7 @@
     "k88.club",
     "k88.mobi",
     "k88.moe",
+    "k88.mov",
     "k88.pro",
     "k88.tel",
     "k88.win"
@@ -16823,16 +16825,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta03116876.shop",
-    "vinted.pl-oferta03116876.shop",
-    "www.pl-oferta03116876.shop",
-    "www.vinted.pl-oferta03116876.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta084828412.click",
     "www.pl-oferta084828412.click"
    ]
@@ -16843,6 +16835,22 @@
    "remote-domains": [
     "pl-oferta1203910910.shop",
     "www.pl-oferta1203910910.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta19251829432.shop",
+    "www.pl-oferta19251829432.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "ticketmaster.pl-oferta2193799.click",
+    "www.ticketmaster.pl-oferta2193799.click"
    ]
   },
   {
@@ -16921,6 +16929,22 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta5291202.shop",
+    "www.pl-oferta5291202.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta529185219.shop",
+    "www.pl-oferta529185219.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta5jfc4dd4x.click",
     "vinted.pl-oferta5jfc4dd4x.click",
     "www.pl-oferta5jfc4dd4x.click",
@@ -16961,10 +16985,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta74hf84cf4.shop",
-    "vinted.pl-oferta74hf84cf4.shop",
-    "www.pl-oferta74hf84cf4.shop",
-    "www.vinted.pl-oferta74hf84cf4.shop"
+    "pl-oferta7463271.click",
+    "vinted.pl-oferta7463271.click",
+    "www.pl-oferta7463271.click",
+    "www.vinted.pl-oferta7463271.click"
    ]
   },
   {
@@ -16979,18 +17003,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta81276832.shop",
-    "www.pl-oferta81276832.shop"
+    "pl-oferta81267329324.icu",
+    "www.pl-oferta81267329324.icu"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta836hdhye3.click",
-    "vinted.pl-oferta836hdhye3.click",
-    "www.pl-oferta836hdhye3.click",
-    "www.vinted.pl-oferta836hdhye3.click"
+    "pl-oferta81276832.shop",
+    "www.pl-oferta81276832.shop"
    ]
   },
   {
@@ -17035,26 +17057,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta85fj598f.click",
-    "vinted.pl-oferta85fj598f.click",
-    "www.pl-oferta85fj598f.click",
-    "www.vinted.pl-oferta85fj598f.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta879836048.shop",
     "www.pl-oferta879836048.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta910932.cfd",
-    "www.pl-oferta910932.cfd"
    ]
   },
   {
@@ -17121,18 +17125,28 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ofertaw2xs580q.shop",
-    "www.pl-ofertaw2xs580q.shop"
+    "pl-ofertan1ni5kd.shop",
+    "vinted.pl-ofertan1ni5kd.shop",
+    "www.pl-ofertan1ni5kd.shop",
+    "www.vinted.pl-ofertan1ni5kd.shop"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenia-firmowe-73842.click",
-    "vinted.pl-ogloszenia-firmowe-73842.click",
-    "www.pl-ogloszenia-firmowe-73842.click",
-    "www.vinted.pl-ogloszenia-firmowe-73842.click"
+    "pl-ofertan4ni3jh.shop",
+    "vinted.pl-ofertan4ni3jh.shop",
+    "www.pl-ofertan4ni3jh.shop",
+    "www.vinted.pl-ofertan4ni3jh.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ofertaw2xs580q.shop",
+    "www.pl-ofertaw2xs580q.shop"
    ]
   },
   {
@@ -17153,16 +17167,6 @@
     "vinted.pl-ogloszenia-firmowe-id883828.sbs",
     "www.pl-ogloszenia-firmowe-id883828.sbs",
     "www.vinted.pl-ogloszenia-firmowe-id883828.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenia-firmowe83842.click",
-    "vinted.pl-ogloszenia-firmowe83842.click",
-    "www.pl-ogloszenia-firmowe83842.click",
-    "www.vinted.pl-ogloszenia-firmowe83842.click"
    ]
   },
   {
@@ -21543,6 +21547,7 @@
     "k1.uk88.vip",
     "uk88.club",
     "uk88.com",
+    "uk88.dev",
     "uk88.gd",
     "uk88.how",
     "uk88.mba",
@@ -22664,6 +22669,7 @@
     "vu88.la",
     "vu88.live",
     "vu88.lv",
+    "vu88.mobi",
     "vu88.moe",
     "vu88.mx",
     "vu88.net",
@@ -23877,6 +23883,7 @@
     "sk.xibet.ing",
     "sk.xibet.now",
     "sk.xibet.nz",
+    "sk.xibet.pl",
     "sk.xibet.vu",
     "xibet.com",
     "xibet.ec",
@@ -23885,6 +23892,7 @@
     "xibet.moi",
     "xibet.now",
     "xibet.nz",
+    "xibet.pl",
     "xibet.vg",
     "xibet.vu",
     "xibet.win"
