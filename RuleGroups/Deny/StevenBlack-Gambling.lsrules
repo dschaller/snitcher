@@ -315,6 +315,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.17jl177.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "180bets.com",
     "www.180bets.com"
    ]
@@ -389,6 +396,13 @@
    "process": "any",
    "remote-domains": [
     "18win.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.191slotsgo.cc"
    ]
   },
   {
@@ -1027,6 +1041,13 @@
    "process": "any",
    "remote-domains": [
     "68lottery.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.69687696.com"
    ]
   },
   {
@@ -1883,6 +1904,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "96phj.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "988bet.info",
     "www.988bet.info"
    ]
@@ -2044,6 +2072,13 @@
    "remote-domains": [
     "ace-skins.com",
     "www.ace-skins.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.acewin999.top"
    ]
   },
   {
@@ -2279,6 +2314,13 @@
    "remote-domains": [
     "agentspinner.com",
     "www.agentspinner.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.ah77lb5.xyz"
    ]
   },
   {
@@ -4993,6 +5035,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.c04jilipark.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "c54373.com"
    ]
   },
@@ -7513,6 +7562,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "diamondjl.vip"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "dicestrike.com",
     "www.dicestrike.com"
    ]
@@ -9227,6 +9283,27 @@
    "process": "any",
    "remote-domains": [
     "fv88.win"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "fy379vvu3.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.g488hshsssaaz.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "g89.lol"
    ]
   },
   {
@@ -11611,6 +11688,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.injljl.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "instacasino.com",
     "www.instacasino.com"
    ]
@@ -11807,6 +11891,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "j7n1p8x.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "j9vi.com"
    ]
   },
@@ -11943,6 +12034,20 @@
     "gatewayvn.jbovn.com",
     "jbovn.com",
     "www.jbovn.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.jdquest.org"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.jdsp4825.xyz"
    ]
   },
   {
@@ -16753,6 +16858,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.paldocrown94.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "palladiumcasino.eu",
     "www.palladiumcasino.eu"
    ]
@@ -16847,6 +16959,13 @@
    "process": "any",
    "remote-domains": [
     "vn.pg.bet"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.phtaya46.link"
    ]
   },
   {
@@ -18469,6 +18588,13 @@
    "remote-domains": [
     "seabet.com",
     "www.seabet.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.sealjl.bar"
    ]
   },
   {
@@ -24233,6 +24359,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "www.z17phwin.cc"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "zalomomo.com"
    ]
   },
@@ -24372,6 +24505,13 @@
    "process": "any",
    "remote-domains": [
     "zpisportbk.com"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "www.zzzhhhhwoog488.cyou"
    ]
   }
  ]
