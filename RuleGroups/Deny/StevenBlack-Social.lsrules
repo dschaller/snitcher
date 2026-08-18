@@ -3281,16 +3281,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7353hd6hd.click",
-    "vinted.pl-oferta7353hd6hd.click",
-    "www.pl-oferta7353hd6hd.click",
-    "www.vinted.pl-oferta7353hd6hd.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta7463271.click",
     "vinted.pl-oferta7463271.click",
     "www.pl-oferta7463271.click",
@@ -3301,8 +3291,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta783692781.cfd",
-    "www.pl-oferta783692781.cfd"
+    "ticketmaster.pl-oferta749876187.cfd",
+    "www.ticketmaster.pl-oferta749876187.cfd"
    ]
   },
   {
@@ -3343,16 +3333,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta84df858hf4d.click",
-    "vinted.pl-oferta84df858hf4d.click",
-    "www.pl-oferta84df858hf4d.click",
-    "www.vinted.pl-oferta84df858hf4d.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta84nfsdf56d.click",
     "vinted.pl-oferta84nfsdf56d.click",
     "www.pl-oferta84nfsdf56d.click",
@@ -3365,14 +3345,6 @@
    "remote-domains": [
     "pl-oferta8731298212.shop",
     "www.pl-oferta8731298212.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta879836048.shop",
-    "www.pl-oferta879836048.shop"
    ]
   },
   {
