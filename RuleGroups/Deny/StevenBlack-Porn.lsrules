@@ -129164,6 +129164,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "javhdz.cam",
     "javhdz.city",
     "javhdz.fun",
     "javhdz.hot",
@@ -130115,6 +130116,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "javsub.blog",
     "javsub.cc",
     "javsub.co",
     "javsub.live",
@@ -184019,6 +184021,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta01976.icu",
+    "www.pl-oferta01976.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta04842855.shop",
     "www.pl-oferta04842855.shop"
    ]
@@ -184047,14 +184057,6 @@
    "remote-domains": [
     "ticketmaster.pl-oferta21929878.click",
     "www.ticketmaster.pl-oferta21929878.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ticketmaster.pl-oferta2193799.click",
-    "www.ticketmaster.pl-oferta2193799.click"
    ]
   },
   {
@@ -184111,16 +184113,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7463271.click",
-    "vinted.pl-oferta7463271.click",
-    "www.pl-oferta7463271.click",
-    "www.vinted.pl-oferta7463271.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ticketmaster.pl-oferta749876187.cfd",
     "www.ticketmaster.pl-oferta749876187.cfd"
    ]
@@ -184145,16 +184137,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta81267329324.icu",
-    "www.pl-oferta81267329324.icu"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta81276832.shop",
-    "www.pl-oferta81276832.shop"
+    "pl-oferta81811.sbs",
+    "www.pl-oferta81811.sbs"
    ]
   },
   {
@@ -184179,8 +184163,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta912712672332.icu",
-    "www.pl-oferta912712672332.icu"
+    "pl-oferta9012.sbs",
+    "www.pl-oferta9012.sbs"
    ]
   },
   {
@@ -184199,16 +184183,6 @@
     "vinted.pl-ofertan1ni5kd.shop",
     "www.pl-ofertan1ni5kd.shop",
     "www.vinted.pl-ofertan1ni5kd.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ofertan4ni3jh.shop",
-    "vinted.pl-ofertan4ni3jh.shop",
-    "www.pl-ofertan4ni3jh.shop",
-    "www.vinted.pl-ofertan4ni3jh.shop"
    ]
   },
   {
@@ -272136,6 +272110,7 @@
     "vlxx.net",
     "vlxx.network",
     "vlxx.pet",
+    "vlxx.phd",
     "vlxx.pw",
     "vlxx.rocks",
     "vlxx.ru",

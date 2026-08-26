@@ -134,6 +134,7 @@
     "11win.mx",
     "11win.net",
     "11win.skin",
+    "11win.tips",
     "11win.vin",
     "11win.works"
    ]
@@ -1241,6 +1242,7 @@
     "789club.mw",
     "789club.nu",
     "789club.org",
+    "789club.rich",
     "789club.sx",
     "789club.tr",
     "789club.vg",
@@ -1993,6 +1995,7 @@
     "9bet.band",
     "9bet.blue",
     "9bet.care",
+    "9bet.diy",
     "9bet.fund",
     "9bet.green",
     "9bet.mobi",
@@ -2005,6 +2008,7 @@
     "api.9bet.army",
     "api.9bet.band",
     "api.9bet.care",
+    "api.9bet.diy",
     "api.9bet.fund",
     "api.9bet.green",
     "api.9bet.mobi",
@@ -2013,6 +2017,7 @@
     "socket.9bet.army",
     "socket.9bet.band",
     "socket.9bet.care",
+    "socket.9bet.diy",
     "socket.9bet.fund",
     "socket.9bet.green",
     "socket.9bet.mobi",
@@ -2021,6 +2026,7 @@
     "wp.9bet.army",
     "wp.9bet.band",
     "wp.9bet.care",
+    "wp.9bet.diy",
     "wp.9bet.fund",
     "wp.9bet.green",
     "wp.9bet.mobi",
@@ -4741,6 +4747,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bom88.ac",
     "bom88.baby",
     "bom88.casa",
     "bom88.city",
@@ -7799,6 +7806,7 @@
     "du88.football",
     "du88.guru",
     "du88.health",
+    "du88.house",
     "du88.in",
     "du88.info",
     "du88.life",
@@ -12301,6 +12309,7 @@
     "k88.mov",
     "k88.nz",
     "k88.pro",
+    "k88.soy",
     "k88.sx",
     "k88.tel",
     "k88.vc",
@@ -14439,6 +14448,7 @@
    "remote-domains": [
     "image.lu88.co",
     "lu88.ai",
+    "lu88.bio",
     "lu88.ch",
     "lu88.co",
     "lu88.com",
@@ -14902,7 +14912,8 @@
     "man88.vc",
     "man88.vip",
     "man88.vu",
-    "man88.win"
+    "man88.win",
+    "man88.xin"
    ]
   },
   {
@@ -17048,6 +17059,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta01976.icu",
+    "www.pl-oferta01976.icu"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta04842855.shop",
     "www.pl-oferta04842855.shop"
    ]
@@ -17076,14 +17095,6 @@
    "remote-domains": [
     "ticketmaster.pl-oferta21929878.click",
     "www.ticketmaster.pl-oferta21929878.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "ticketmaster.pl-oferta2193799.click",
-    "www.ticketmaster.pl-oferta2193799.click"
    ]
   },
   {
@@ -17140,16 +17151,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta7463271.click",
-    "vinted.pl-oferta7463271.click",
-    "www.pl-oferta7463271.click",
-    "www.vinted.pl-oferta7463271.click"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "ticketmaster.pl-oferta749876187.cfd",
     "www.ticketmaster.pl-oferta749876187.cfd"
    ]
@@ -17174,16 +17175,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta81267329324.icu",
-    "www.pl-oferta81267329324.icu"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta81276832.shop",
-    "www.pl-oferta81276832.shop"
+    "pl-oferta81811.sbs",
+    "www.pl-oferta81811.sbs"
    ]
   },
   {
@@ -17208,8 +17201,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta912712672332.icu",
-    "www.pl-oferta912712672332.icu"
+    "pl-oferta9012.sbs",
+    "www.pl-oferta9012.sbs"
    ]
   },
   {
@@ -17228,16 +17221,6 @@
     "vinted.pl-ofertan1ni5kd.shop",
     "www.pl-ofertan1ni5kd.shop",
     "www.vinted.pl-ofertan1ni5kd.shop"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-ofertan4ni3jh.shop",
-    "vinted.pl-ofertan4ni3jh.shop",
-    "www.pl-ofertan4ni3jh.shop",
-    "www.vinted.pl-ofertan4ni3jh.shop"
    ]
   },
   {
@@ -17614,6 +17597,7 @@
    "remote-domains": [
     "pub88.camera",
     "pub88.channel",
+    "pub88.charity",
     "pub88.com",
     "pub88.day",
     "pub88.forum",
@@ -21542,6 +21526,7 @@
     "tx88.fan",
     "tx88.fashion",
     "tx88.fun",
+    "tx88.fund",
     "tx88.fyi",
     "tx88.games",
     "tx88.hot",
@@ -22187,8 +22172,10 @@
    "process": "any",
    "remote-domains": [
     "play.vicclub.ac",
+    "play.vicclub.id",
     "play.vicclub.sh",
     "vicclub.ac",
+    "vicclub.id",
     "vicclub.sh"
    ]
   },
@@ -22821,6 +22808,7 @@
     "vu88.ng",
     "vu88.ro",
     "vu88.sh",
+    "vu88.tel",
     "vu88.tv",
     "vu88.vu",
     "vu88.ws"
@@ -24042,6 +24030,7 @@
     "sk.xibet.pl",
     "sk.xibet.red",
     "sk.xibet.soy",
+    "sk.xibet.tax",
     "sk.xibet.vu",
     "sk.xibet.wtf",
     "xibet.com",
@@ -24054,6 +24043,7 @@
     "xibet.pl",
     "xibet.red",
     "xibet.soy",
+    "xibet.tax",
     "xibet.uno",
     "xibet.vg",
     "xibet.vu",
@@ -24486,6 +24476,7 @@
     "zowin.ng",
     "zowin.ph",
     "zowin.red",
+    "zowin.ro",
     "zowin.sh",
     "zowin.srl",
     "zowin.st",
