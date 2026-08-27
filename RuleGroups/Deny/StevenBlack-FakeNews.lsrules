@@ -9645,14 +9645,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta19251829432.shop",
-    "www.pl-oferta19251829432.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ticketmaster.pl-oferta21929878.click",
     "www.ticketmaster.pl-oferta21929878.click"
    ]
@@ -9687,16 +9679,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta5291202.shop",
-    "www.pl-oferta5291202.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta529185219.shop",
-    "www.pl-oferta529185219.shop"
+    "pl-oferta594583.shop",
+    "www.pl-oferta594583.shop"
    ]
   },
   {
@@ -9705,6 +9689,22 @@
    "remote-domains": [
     "pl-oferta658937811.cfd",
     "www.pl-oferta658937811.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta68902840231235.click",
+    "www.pl-oferta68902840231235.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta6893457623479.sbs",
+    "www.pl-oferta6893457623479.sbs"
    ]
   },
   {
@@ -9721,6 +9721,14 @@
    "remote-domains": [
     "pl-oferta764129783.cfd",
     "www.pl-oferta764129783.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta783694.biz",
+    "www.pl-oferta783694.biz"
    ]
   },
   {
@@ -9761,6 +9769,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta89657082415.shop",
+    "www.pl-oferta89657082415.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta9012.sbs",
     "www.pl-oferta9012.sbs"
    ]
@@ -9771,16 +9787,6 @@
    "remote-domains": [
     "pl-oferta981912111.sbs",
     "www.pl-oferta981912111.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ofertan1ni5kd.shop",
-    "vinted.pl-ofertan1ni5kd.shop",
-    "www.pl-ofertan1ni5kd.shop",
-    "www.vinted.pl-ofertan1ni5kd.shop"
    ]
   },
   {
