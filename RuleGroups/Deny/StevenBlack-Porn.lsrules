@@ -47418,6 +47418,7 @@
     "cap3.autos",
     "cap3.beer",
     "cap3.click",
+    "cap3.email",
     "cap3.monster",
     "cap3.pics",
     "cap3.pro",
@@ -52854,6 +52855,9 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "javhd.co.uk",
+    "v.javhd.co.uk",
+    "x.javhd.co.uk",
     "adultbanners.co.uk",
     "angel-companions.co.uk",
     "angels4you.co.uk",
@@ -91130,7 +91134,23 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gaidep.blog",
+    "s.gaidep.blog"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "gaidepvn.xyz"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "gaidepxx.com",
+    "gaidepxx.me"
    ]
   },
   {
@@ -179000,7 +179020,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "a.pemsrv.com",
     "s.pemsrv.com"
    ]
   },
@@ -180553,6 +180572,7 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "phim18k.blog",
     "phim18k.com",
     "www.phim18k.com"
    ]
@@ -184022,6 +184042,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta-lokalna54351364.live",
+    "www.pl-oferta-lokalna54351364.live"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta01976.icu",
     "www.pl-oferta01976.icu"
    ]
@@ -184030,44 +184058,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta04842855.shop",
-    "www.pl-oferta04842855.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta1239391293.shop",
-    "vinted.pl-oferta1239391293.shop",
-    "www.pl-oferta1239391293.shop",
-    "www.vinted.pl-oferta1239391293.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "ticketmaster.pl-oferta21929878.click",
-    "www.ticketmaster.pl-oferta21929878.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "ticketmaster.pl-oferta27919729.click",
     "www.ticketmaster.pl-oferta27919729.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta3281.sbs",
-    "vinted.pl-oferta3281.sbs",
-    "www.pl-oferta3281.sbs",
-    "www.vinted.pl-oferta3281.sbs"
    ]
   },
   {
@@ -184084,6 +184076,16 @@
    "remote-domains": [
     "pl-oferta594583.shop",
     "www.pl-oferta594583.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta6484958.shop",
+    "vinted.pl-oferta6484958.shop",
+    "www.pl-oferta6484958.shop",
+    "www.vinted.pl-oferta6484958.shop"
    ]
   },
   {
@@ -184108,6 +184110,16 @@
    "remote-domains": [
     "pl-oferta6893457623479.sbs",
     "www.pl-oferta6893457623479.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta748103810.cfd",
+    "vinted.pl-oferta748103810.cfd",
+    "www.pl-oferta748103810.cfd",
+    "www.vinted.pl-oferta748103810.cfd"
    ]
   },
   {
@@ -184154,18 +184166,8 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta84bd74bx4f.click",
-    "vinted.pl-oferta84bd74bx4f.click",
-    "www.pl-oferta84bd74bx4f.click",
-    "www.vinted.pl-oferta84bd74bx4f.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta8731298212.shop",
-    "www.pl-oferta8731298212.shop"
+    "pl-oferta8745329.lol",
+    "www.pl-oferta8745329.lol"
    ]
   },
   {
@@ -184174,6 +184176,14 @@
    "remote-domains": [
     "pl-oferta89657082415.shop",
     "www.pl-oferta89657082415.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta896712.lol",
+    "www.pl-oferta896712.lol"
    ]
   },
   {
@@ -184196,20 +184206,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ofertan8nhi3ad.shop",
-    "vinted.pl-ofertan8nhi3ad.shop",
-    "www.pl-ofertan8nhi3ad.shop",
-    "www.vinted.pl-ofertan8nhi3ad.shop"
+    "pl-ogloszenie5128592891591.shop",
+    "vinted.pl-ogloszenie5128592891591.shop",
+    "www.pl-ogloszenie5128592891591.shop",
+    "www.vinted.pl-ogloszenie5128592891591.shop"
    ]
   },
   {
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-ogloszenie-1k851fa.shop",
-    "vinted.pl-ogloszenie-1k851fa.shop",
-    "www.pl-ogloszenie-1k851fa.shop",
-    "www.vinted.pl-ogloszenie-1k851fa.shop"
+    "pl-ogloszenie6753998232.lol",
+    "vinted.pl-ogloszenie6753998232.lol",
+    "www.pl-ogloszenie6753998232.lol",
+    "www.vinted.pl-ogloszenie6753998232.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie8517181.shop",
+    "vinted.pl-ogloszenie8517181.shop",
+    "www.pl-ogloszenie8517181.shop",
+    "www.vinted.pl-ogloszenie8517181.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie8913.icu",
+    "www.pl-ogloszenie8913.icu"
    ]
   },
   {
@@ -228334,6 +228362,7 @@
     "sextop1.one",
     "sextop1.page",
     "sextop1.site",
+    "sextop1.spa",
     "sextop1.team",
     "sextop1.video",
     "sextop1.net",
@@ -240855,6 +240884,7 @@
    "process": "any",
    "remote-domains": [
     "cdn.subjav.sex",
+    "subjav.buzz",
     "subjav.live",
     "subjav.org",
     "subjav.sex",
@@ -272441,6 +272471,13 @@
    "process": "any",
    "remote-domains": [
     "vnok.net"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vnsextop1.com"
    ]
   },
   {
