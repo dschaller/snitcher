@@ -17118,14 +17118,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "ticketmaster.pl-oferta27919729.click",
-    "www.ticketmaster.pl-oferta27919729.click"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta37377382.sbs",
     "www.pl-oferta37377382.sbs"
    ]
@@ -17146,6 +17138,16 @@
    "remote-domains": [
     "pl-oferta46879.lol",
     "www.pl-oferta46879.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta5647654.shop",
+    "vinted.pl-oferta5647654.shop",
+    "www.pl-oferta5647654.shop",
+    "www.vinted.pl-oferta5647654.shop"
    ]
   },
   {
@@ -17216,6 +17218,16 @@
    "remote-domains": [
     "pl-oferta764129783.cfd",
     "www.pl-oferta764129783.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta78224.click",
+    "vinted.pl-oferta78224.click",
+    "www.pl-oferta78224.click",
+    "www.vinted.pl-oferta78224.click"
    ]
   },
   {
@@ -17308,6 +17320,24 @@
    "remote-domains": [
     "pl-oferta981912111.sbs",
     "www.pl-oferta981912111.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-prywatne7584645.click",
+    "www.pl-ogloszenie-prywatne7584645.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-tomaszkaraszewski-52.click",
+    "vinted.pl-ogloszenie-tomaszkaraszewski-52.click",
+    "www.pl-ogloszenie-tomaszkaraszewski-52.click",
+    "www.vinted.pl-ogloszenie-tomaszkaraszewski-52.click"
    ]
   },
   {
