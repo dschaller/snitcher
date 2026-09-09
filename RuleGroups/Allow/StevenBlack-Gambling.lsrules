@@ -1560,6 +1560,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "888sport.de",
     "888sport.com",
     "www.888sport.com"
    ]
@@ -3037,6 +3038,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bet-at-home.de",
     "www.bet-at-home.com"
    ]
   },
@@ -3117,6 +3119,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bet3000.de",
     "bet3000.com",
     "www.bet3000.com"
    ]
@@ -3133,6 +3136,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bet365.de",
     "bet365.com",
     "www.bet365.com"
    ]
@@ -3262,6 +3266,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "betano.de",
     "betano.bg",
     "betano.cz",
     "betano.pt",
@@ -3292,6 +3297,13 @@
    "remote-domains": [
     "betbanks.com",
     "www.betbanks.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "betbird.de"
    ]
   },
   {
@@ -4318,6 +4330,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "betway.de",
     "betway.bg",
     "betway.com",
     "betway.pt",
@@ -5052,6 +5065,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "bwin.de",
     "bwin.com",
     "bwin.pt",
     "livebetting.bwin.com",
@@ -7430,6 +7444,13 @@
    "remote-domains": [
     "dashbet.com",
     "www.dashbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "daznbet.de"
    ]
   },
   {
@@ -11796,6 +11817,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "interwetten.de",
     "interwetten.com",
     "www.interwetten.com"
    ]
@@ -13866,6 +13888,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "letsbet.de",
     "letsbet.com",
     "www.letsbet.com"
    ]
@@ -15272,6 +15295,20 @@
    "remote-domains": [
     "meridianbet.com",
     "www.meridianbet.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "merkur-sports.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "merkurbets.de"
    ]
   },
   {
@@ -16854,6 +16891,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "original-wetten.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "orlandocasino.com",
     "www.orlandocasino.com"
    ]
@@ -17028,6 +17072,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pddset.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pelaa.com"
    ]
   },
@@ -17144,6 +17195,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta52724.click",
+    "vinted.pl-oferta52724.click",
+    "www.pl-oferta52724.click",
+    "www.vinted.pl-oferta52724.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta5647654.shop",
     "vinted.pl-oferta5647654.shop",
     "www.pl-oferta5647654.shop",
@@ -17208,8 +17269,28 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta749081263.cfd",
+    "vinted.pl-oferta749081263.cfd",
+    "www.pl-oferta749081263.cfd",
+    "www.vinted.pl-oferta749081263.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "ticketmaster.pl-oferta749876187.cfd",
     "www.ticketmaster.pl-oferta749876187.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta76218.click",
+    "vinted.pl-oferta76218.click",
+    "www.pl-oferta76218.click",
+    "www.vinted.pl-oferta76218.click"
    ]
   },
   {
@@ -17286,6 +17367,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta87344537.click",
+    "www.pl-oferta87344537.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8745329.lol",
     "www.pl-oferta8745329.lol"
    ]
@@ -17318,6 +17407,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta92831.lol",
+    "vinted.pl-oferta92831.lol",
+    "www.pl-oferta92831.lol",
+    "www.vinted.pl-oferta92831.lol"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta981912111.sbs",
     "www.pl-oferta981912111.sbs"
    ]
@@ -17326,8 +17425,38 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-ogloszenie-pawelwisniewski9-29.click",
+    "vinted.pl-ogloszenie-pawelwisniewski9-29.click",
+    "www.pl-ogloszenie-pawelwisniewski9-29.click",
+    "www.vinted.pl-ogloszenie-pawelwisniewski9-29.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-ogloszenie-prywatne7584645.click",
     "www.pl-ogloszenie-prywatne7584645.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-prywatne763637483.click",
+    "vinted.pl-ogloszenie-prywatne763637483.click",
+    "www.pl-ogloszenie-prywatne763637483.click",
+    "www.vinted.pl-ogloszenie-prywatne763637483.click"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-prywatne765256384.click",
+    "vinted.pl-ogloszenie-prywatne765256384.click",
+    "www.pl-ogloszenie-prywatne765256384.click",
+    "www.vinted.pl-ogloszenie-prywatne765256384.click"
    ]
   },
   {
@@ -17344,10 +17473,30 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-ogloszenie4567998231.top",
+    "vinted.pl-ogloszenie4567998231.top",
+    "www.pl-ogloszenie4567998231.top",
+    "www.vinted.pl-ogloszenie4567998231.top"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-ogloszenie5128592891591.shop",
     "vinted.pl-ogloszenie5128592891591.shop",
     "www.pl-ogloszenie5128592891591.shop",
     "www.vinted.pl-ogloszenie5128592891591.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie5672993186.top",
+    "vinted.pl-ogloszenie5672993186.top",
+    "www.pl-ogloszenie5672993186.top",
+    "www.vinted.pl-ogloszenie5672993186.top"
    ]
   },
   {
@@ -19609,6 +19758,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "sportingbet.de",
     "sportingbet.com",
     "www.sportingbet.com"
    ]
@@ -19738,6 +19888,14 @@
    "remote-domains": [
     "sporttime.net",
     "www.sporttime.net"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sportwetten.de",
+    "betstar.sportwetten.de"
    ]
   },
   {
@@ -19997,6 +20155,7 @@
     "sunwin.inc",
     "sunwin.lt",
     "sunwin.moi",
+    "sunwin.parts",
     "sunwin.pro",
     "sunwin.pw",
     "sunwin.show",
@@ -20317,6 +20476,13 @@
    "process": "any",
    "remote-domains": [
     "svv388.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "betstar.sw.de"
    ]
   },
   {
@@ -21079,6 +21245,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tipico.de",
     "tipico.com",
     "www.tipico.com"
    ]
@@ -21125,6 +21292,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "tiptorro.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "tipwin.de",
     "tipwin.com",
     "www.tipwin.com"
    ]
@@ -22146,6 +22321,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "vbet.de",
     "vbet.com",
     "www.vbet.com"
    ]
@@ -23707,6 +23883,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "wettarena.de"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "wettpunkt.com",
     "www.wettpunkt.com"
    ]
@@ -23896,6 +24079,13 @@
    "remote-domains": [
     "win999.vip",
     "www.win999.vip"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "winamax.de"
    ]
   },
   {
