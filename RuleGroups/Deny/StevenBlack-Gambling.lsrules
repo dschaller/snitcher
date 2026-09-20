@@ -127,6 +127,7 @@
    "remote-domains": [
     "11win.beer",
     "11win.casa",
+    "11win.dance",
     "11win.fashion",
     "11win.free",
     "11win.link",
@@ -1254,6 +1255,7 @@
     "789club.nu",
     "789club.org",
     "789club.rich",
+    "789club.spa",
     "789club.sx",
     "789club.tr",
     "789club.vg",
@@ -2013,6 +2015,7 @@
     "9bet.green",
     "9bet.krd",
     "9bet.mobi",
+    "9bet.navy",
     "9bet.net",
     "9bet.photo",
     "9bet.pink",
@@ -2172,6 +2175,7 @@
    "process": "any",
    "remote-domains": [
     "3bet.adqc.net",
+    "bom88.adqc.net",
     "go88.adqc.net"
    ]
   },
@@ -4785,6 +4789,7 @@
     "bom88.casa",
     "bom88.city",
     "bom88.click",
+    "bom88.coach",
     "bom88.com",
     "bom88.cool",
     "bom88.diy",
@@ -7840,6 +7845,7 @@
     "du88.blue",
     "du88.cafe",
     "du88.care",
+    "du88.chat",
     "du88.click",
     "du88.club",
     "du88.com",
@@ -10373,6 +10379,7 @@
     "hbet.bio",
     "hbet.club",
     "hbet.cz",
+    "hbet.esq",
     "hbet.fm",
     "hbet.la",
     "hbet.li",
@@ -10667,6 +10674,13 @@
    "process": "any",
    "remote-domains": [
     "hn8.link"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "hoibannghien.com"
    ]
   },
   {
@@ -12348,6 +12362,7 @@
     "k88.bz",
     "k88.cam",
     "k88.club",
+    "k88.cyou",
     "k88.day",
     "k88.mba",
     "k88.mobi",
@@ -14510,9 +14525,11 @@
     "lu88.kim",
     "lu88.lc",
     "lu88.lv",
+    "lu88.mba",
     "lu88.mn",
     "lu88.nz",
     "lu88.pro",
+    "lu88.pub",
     "lu88.pw",
     "lu88.tv",
     "lu88.tw",
@@ -15804,12 +15821,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "gw.mubet.care",
     "gw.mubet.help",
     "gw.mubet.media",
     "gw.mubet.talk",
     "gw.mubet.tips",
     "gw.mubet.vip",
     "mubet.best",
+    "mubet.care",
     "mubet.dev",
     "mubet.help",
     "mubet.info",
@@ -15820,6 +15839,7 @@
     "mubet.video",
     "mubet.vip",
     "mubet.website",
+    "s4.mubet.care",
     "s4.mubet.help",
     "s4.mubet.vip"
    ]
@@ -17145,9 +17165,13 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta.best",
     "pl-oferta.com",
+    "vinted.pl-oferta.best",
     "vinted.pl-oferta.com",
+    "www.pl-oferta.best",
     "www.pl-oferta.com",
+    "www.vinted.pl-oferta.best",
     "www.vinted.pl-oferta.com"
    ]
   },
@@ -17173,6 +17197,46 @@
    "remote-domains": [
     "pl-oferta01976.icu",
     "www.pl-oferta01976.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta15533.lol",
+    "vinted.pl-oferta15533.lol",
+    "www.pl-oferta15533.lol",
+    "www.vinted.pl-oferta15533.lol"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta23121.cfd",
+    "vinted.pl-oferta23121.cfd",
+    "www.pl-oferta23121.cfd",
+    "www.vinted.pl-oferta23121.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta32384.sbs",
+    "vinted.pl-oferta32384.sbs",
+    "www.pl-oferta32384.sbs",
+    "www.vinted.pl-oferta32384.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta33412.lol",
+    "vinted.pl-oferta33412.lol",
+    "www.pl-oferta33412.lol",
+    "www.vinted.pl-oferta33412.lol"
    ]
   },
   {
@@ -17275,6 +17339,46 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta54343.cfd",
+    "vinted.pl-oferta54343.cfd",
+    "www.pl-oferta54343.cfd",
+    "www.vinted.pl-oferta54343.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta543543543.cfd",
+    "vinted.pl-oferta543543543.cfd",
+    "www.pl-oferta543543543.cfd",
+    "www.vinted.pl-oferta543543543.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta54376.shop",
+    "vinted.pl-oferta54376.shop",
+    "www.pl-oferta54376.shop",
+    "www.vinted.pl-oferta54376.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta54376543.shop",
+    "vinted.pl-oferta54376543.shop",
+    "www.pl-oferta54376543.shop",
+    "www.vinted.pl-oferta54376543.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta5647654.shop",
     "vinted.pl-oferta5647654.shop",
     "www.pl-oferta5647654.shop",
@@ -17363,6 +17467,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta684792173.sbs",
+    "vinted.pl-oferta684792173.sbs",
+    "www.pl-oferta684792173.sbs",
+    "www.vinted.pl-oferta684792173.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta68902840231235.click",
     "www.pl-oferta68902840231235.click"
    ]
@@ -17389,10 +17503,38 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta6987142135.cfd",
+    "vinted.pl-oferta6987142135.cfd",
+    "www.pl-oferta6987142135.cfd",
+    "www.vinted.pl-oferta6987142135.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7037863813.sbs",
     "vinted.pl-oferta7037863813.sbs",
     "www.pl-oferta7037863813.sbs",
     "www.vinted.pl-oferta7037863813.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta732691879.cfd",
+    "www.pl-oferta732691879.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta7409873643.shop",
+    "vinted.pl-oferta7409873643.shop",
+    "www.pl-oferta7409873643.shop",
+    "www.vinted.pl-oferta7409873643.shop"
    ]
   },
   {
@@ -17467,6 +17609,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta749929.shop",
+    "vinted.pl-oferta749929.shop",
+    "www.pl-oferta749929.shop",
+    "www.vinted.pl-oferta749929.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta76218.click",
     "vinted.pl-oferta76218.click",
     "www.pl-oferta76218.click",
@@ -17477,8 +17629,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta764129783.cfd",
-    "www.pl-oferta764129783.cfd"
+    "pl-oferta769218743.cfd",
+    "vinted.pl-oferta769218743.cfd",
+    "www.pl-oferta769218743.cfd",
+    "www.vinted.pl-oferta769218743.cfd"
    ]
   },
   {
@@ -17527,6 +17681,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta82572.cfd",
+    "vinted.pl-oferta82572.cfd",
+    "www.pl-oferta82572.cfd",
+    "www.vinted.pl-oferta82572.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta8312.sbs",
     "vinted.pl-oferta8312.sbs",
     "www.pl-oferta8312.sbs",
@@ -17541,6 +17705,16 @@
     "vinted.pl-oferta84123.sbs",
     "www.pl-oferta84123.sbs",
     "www.vinted.pl-oferta84123.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta849012893.cfd",
+    "vinted.pl-oferta849012893.cfd",
+    "www.pl-oferta849012893.cfd",
+    "www.vinted.pl-oferta849012893.cfd"
    ]
   },
   {
@@ -17665,6 +17839,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta937217842.cfd",
+    "vinted.pl-oferta937217842.cfd",
+    "www.pl-oferta937217842.cfd",
+    "www.vinted.pl-oferta937217842.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta9786324.lol",
     "vinted.pl-oferta9786324.lol",
     "www.pl-oferta9786324.lol",
@@ -17677,6 +17861,16 @@
    "remote-domains": [
     "pl-oferta981912111.sbs",
     "www.pl-oferta981912111.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ofertan7h4lf.click",
+    "vinted.pl-ofertan7h4lf.click",
+    "www.pl-ofertan7h4lf.click",
+    "www.vinted.pl-ofertan7h4lf.click"
    ]
   },
   {
@@ -18278,6 +18472,7 @@
     "pub88.ltd",
     "pub88.monster",
     "pub88.pw",
+    "pub88.tips",
     "pub88.win"
    ]
   },
@@ -22249,6 +22444,7 @@
     "tx88.rest",
     "tx88.top",
     "tx88.vet",
+    "tx88.vote",
     "tx88.zone"
    ]
   },
@@ -22882,6 +23078,7 @@
     "play.vicclub.mx",
     "play.vicclub.sh",
     "vicclub.ac",
+    "vicclub.at",
     "vicclub.id",
     "vicclub.ink",
     "vicclub.mx",
@@ -23464,6 +23661,13 @@
    "process": "any",
    "remote-domains": [
     "vpn8k.top"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "vsbetvbs.net"
    ]
   },
   {
@@ -24746,6 +24950,7 @@
    "remote-domains": [
     "m1.xibet.ec",
     "m1.xibet.fun",
+    "sk.xibet.cat",
     "sk.xibet.com",
     "sk.xibet.ec",
     "sk.xibet.foo",
@@ -24760,6 +24965,7 @@
     "sk.xibet.vu",
     "sk.xibet.wtf",
     "sk.xibet.you",
+    "xibet.cat",
     "xibet.com",
     "xibet.ec",
     "xibet.foo",
