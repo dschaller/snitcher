@@ -2020,6 +2020,7 @@
     "9bet.photo",
     "9bet.pink",
     "9bet.rest",
+    "9bet.vote",
     "9bet.win",
     "9bet.world",
     "api.9bet.army",
@@ -2032,6 +2033,7 @@
     "api.9bet.krd",
     "api.9bet.mobi",
     "api.9bet.photo",
+    "api.9bet.vote",
     "api.9bet.win",
     "socket.9bet.army",
     "socket.9bet.band",
@@ -2043,6 +2045,7 @@
     "socket.9bet.krd",
     "socket.9bet.mobi",
     "socket.9bet.photo",
+    "socket.9bet.vote",
     "socket.9bet.win",
     "wp.9bet.army",
     "wp.9bet.band",
@@ -2054,6 +2057,7 @@
     "wp.9bet.krd",
     "wp.9bet.mobi",
     "wp.9bet.photo",
+    "wp.9bet.vote",
     "wp.9bet.win"
    ]
   },
@@ -5105,6 +5109,13 @@
    "process": "any",
    "remote-domains": [
     "www.c04jilipark.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "c168.biz"
    ]
   },
   {
@@ -14977,6 +14988,7 @@
     "man88.pl",
     "man88.pw",
     "man88.sh",
+    "man88.spa",
     "man88.top",
     "man88.vc",
     "man88.vip",
@@ -15826,6 +15838,7 @@
     "gw.mubet.media",
     "gw.mubet.talk",
     "gw.mubet.tips",
+    "gw.mubet.toys",
     "gw.mubet.vip",
     "mubet.best",
     "mubet.care",
@@ -15836,6 +15849,7 @@
     "mubet.sh",
     "mubet.talk",
     "mubet.tips",
+    "mubet.toys",
     "mubet.video",
     "mubet.vip",
     "mubet.website",
@@ -17253,14 +17267,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta37377382.sbs",
-    "www.pl-oferta37377382.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta3920481.shop",
     "vinted.pl-oferta3920481.shop",
     "www.pl-oferta3920481.shop",
@@ -17339,6 +17345,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta538175.sbs",
+    "vinted.pl-oferta538175.sbs",
+    "www.pl-oferta538175.sbs",
+    "www.vinted.pl-oferta538175.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta54343.cfd",
     "vinted.pl-oferta54343.cfd",
     "www.pl-oferta54343.cfd",
@@ -17373,6 +17389,14 @@
     "vinted.pl-oferta54376543.shop",
     "www.pl-oferta54376543.shop",
     "www.vinted.pl-oferta54376543.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted.pl-oferta56447654.cfd",
+    "www.vinted.pl-oferta56447654.cfd"
    ]
   },
   {
@@ -17531,6 +17555,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7392634.shop",
+    "vinted.pl-oferta7392634.shop",
+    "www.pl-oferta7392634.shop",
+    "www.vinted.pl-oferta7392634.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7409873643.shop",
     "vinted.pl-oferta7409873643.shop",
     "www.pl-oferta7409873643.shop",
@@ -17629,6 +17663,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7639128732.cfd",
+    "vinted.pl-oferta7639128732.cfd",
+    "www.pl-oferta7639128732.cfd",
+    "www.vinted.pl-oferta7639128732.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta769218743.cfd",
     "vinted.pl-oferta769218743.cfd",
     "www.pl-oferta769218743.cfd",
@@ -17659,14 +17703,6 @@
    "remote-domains": [
     "pl-oferta78429.lol",
     "www.pl-oferta78429.lol"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta812281.lol",
-    "www.pl-oferta812281.lol"
    ]
   },
   {
@@ -17809,6 +17845,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta92057284.cfd",
+    "www.pl-oferta92057284.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta923411.lol",
     "vinted.pl-oferta923411.lol",
     "www.pl-oferta923411.lol",
@@ -17853,14 +17897,6 @@
     "vinted.pl-oferta9786324.lol",
     "www.pl-oferta9786324.lol",
     "www.vinted.pl-oferta9786324.lol"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta981912111.sbs",
-    "www.pl-oferta981912111.sbs"
    ]
   },
   {
@@ -23723,6 +23759,7 @@
     "vu88.ng",
     "vu88.ro",
     "vu88.sh",
+    "vu88.tax",
     "vu88.tel",
     "vu88.tv",
     "vu88.vu",

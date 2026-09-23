@@ -91370,6 +91370,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "gaigu18.blog",
+    "s.gaigu18.blog"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "gaigu6.tv"
    ]
   },
@@ -110435,6 +110443,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "hihisex.app",
     "hihisex.pro",
     "hihisex.vip"
    ]
@@ -129195,6 +129204,7 @@
    "process": "any",
    "remote-domains": [
     "javhdz.ac",
+    "javhdz.bz",
     "javhdz.cam",
     "javhdz.city",
     "javhdz.fun",
@@ -180525,6 +180535,7 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "phim-sex.io",
     "phim-sex.live",
     "phim-sex.net"
    ]
@@ -180845,10 +180856,13 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "img.phimkk.pro",
     "phimkk.com",
     "phimkk.me",
     "phimkk.net",
-    "phimkk.ws"
+    "phimkk.pro",
+    "phimkk.ws",
+    "s5.phimkk.pro"
    ]
   },
   {
@@ -184141,14 +184155,6 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
-    "pl-oferta37377382.sbs",
-    "www.pl-oferta37377382.sbs"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta3920481.shop",
     "vinted.pl-oferta3920481.shop",
     "www.pl-oferta3920481.shop",
@@ -184227,6 +184233,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta538175.sbs",
+    "vinted.pl-oferta538175.sbs",
+    "www.pl-oferta538175.sbs",
+    "www.vinted.pl-oferta538175.sbs"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta54343.cfd",
     "vinted.pl-oferta54343.cfd",
     "www.pl-oferta54343.cfd",
@@ -184261,6 +184277,14 @@
     "vinted.pl-oferta54376543.shop",
     "www.pl-oferta54376543.shop",
     "www.vinted.pl-oferta54376543.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "vinted.pl-oferta56447654.cfd",
+    "www.vinted.pl-oferta56447654.cfd"
    ]
   },
   {
@@ -184419,6 +184443,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7392634.shop",
+    "vinted.pl-oferta7392634.shop",
+    "www.pl-oferta7392634.shop",
+    "www.vinted.pl-oferta7392634.shop"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7409873643.shop",
     "vinted.pl-oferta7409873643.shop",
     "www.pl-oferta7409873643.shop",
@@ -184517,6 +184551,16 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7639128732.cfd",
+    "vinted.pl-oferta7639128732.cfd",
+    "www.pl-oferta7639128732.cfd",
+    "www.vinted.pl-oferta7639128732.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta769218743.cfd",
     "vinted.pl-oferta769218743.cfd",
     "www.pl-oferta769218743.cfd",
@@ -184547,14 +184591,6 @@
    "remote-domains": [
     "pl-oferta78429.lol",
     "www.pl-oferta78429.lol"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta812281.lol",
-    "www.pl-oferta812281.lol"
    ]
   },
   {
@@ -184697,6 +184733,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "pl-oferta92057284.cfd",
+    "www.pl-oferta92057284.cfd"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta923411.lol",
     "vinted.pl-oferta923411.lol",
     "www.pl-oferta923411.lol",
@@ -184741,14 +184785,6 @@
     "vinted.pl-oferta9786324.lol",
     "www.pl-oferta9786324.lol",
     "www.vinted.pl-oferta9786324.lol"
-   ]
-  },
-  {
-   "action": "allow",
-   "process": "any",
-   "remote-domains": [
-    "pl-oferta981912111.sbs",
-    "www.pl-oferta981912111.sbs"
    ]
   },
   {
@@ -217515,9 +217551,11 @@
    "remote-domains": [
     "rphang.ac",
     "rphang.cc",
+    "rphang.com",
     "rphang.dog",
     "rphang.lat",
     "rphang.me",
+    "rphang.now",
     "rphang.online"
    ]
   },
@@ -223521,6 +223559,14 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "img.sexbuz.com",
+    "sexbuz.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "sexcam.blue",
     "sexcam.pink",
     "www.sexcam.ch"
@@ -225349,6 +225395,13 @@
    "process": "any",
    "remote-domains": [
     "sexhay123.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
+    "sexhay247.net"
    ]
   },
   {
@@ -296961,6 +297014,15 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "img.xxxmeo.com",
+    "phim.xxxmeo.com",
+    "xxxmeo.com"
+   ]
+  },
+  {
+   "action": "allow",
+   "process": "any",
+   "remote-domains": [
     "xxxmia.com"
    ]
   },
@@ -300651,6 +300713,8 @@
    "action": "allow",
    "process": "any",
    "remote-domains": [
+    "img.xxxviet.io",
+    "x5.xxxviet.io",
     "xxxviet.io",
     "xxxviet.pro"
    ]
