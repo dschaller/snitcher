@@ -9633,6 +9633,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta-521691.sbs",
+    "vinted.pl-oferta-521691.sbs",
+    "www.pl-oferta-521691.sbs",
+    "www.vinted.pl-oferta-521691.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta-lokalna54351364.live",
     "www.pl-oferta-lokalna54351364.live"
    ]
@@ -9711,6 +9721,16 @@
     "vinted.pl-oferta3920481.shop",
     "www.pl-oferta3920481.shop",
     "www.vinted.pl-oferta3920481.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta4187287941.sbs",
+    "vinted.pl-oferta4187287941.sbs",
+    "www.pl-oferta4187287941.sbs",
+    "www.vinted.pl-oferta4187287941.sbs"
    ]
   },
   {
@@ -9995,6 +10015,16 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta7382186.shop",
+    "vinted.pl-oferta7382186.shop",
+    "www.pl-oferta7382186.shop",
+    "www.vinted.pl-oferta7382186.shop"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta7392634.shop",
     "vinted.pl-oferta7392634.shop",
     "www.pl-oferta7392634.shop",
@@ -10067,6 +10097,16 @@
     "vinted.pl-oferta749081263.cfd",
     "www.pl-oferta749081263.cfd",
     "www.vinted.pl-oferta749081263.cfd"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta74928-share.cfd",
+    "vinted.pl-oferta74928-share.cfd",
+    "www.pl-oferta74928-share.cfd",
+    "www.vinted.pl-oferta74928-share.cfd"
    ]
   },
   {
@@ -10149,8 +10189,10 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta81811.sbs",
-    "www.pl-oferta81811.sbs"
+    "pl-oferta7891241924.sbs",
+    "vinted.pl-oferta7891241924.sbs",
+    "www.pl-oferta7891241924.sbs",
+    "www.vinted.pl-oferta7891241924.sbs"
    ]
   },
   {
@@ -10269,14 +10311,6 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
-    "pl-oferta9012.sbs",
-    "www.pl-oferta9012.sbs"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
     "pl-oferta91922.icu",
     "www.pl-oferta91922.icu"
    ]
@@ -10347,6 +10381,16 @@
     "vinted.pl-ofertan7h4lf.click",
     "www.pl-ofertan7h4lf.click",
     "www.vinted.pl-ofertan7h4lf.click"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-ogloszenie-jaroslawkarasz-58.top",
+    "vinted.pl-ogloszenie-jaroslawkarasz-58.top",
+    "www.pl-ogloszenie-jaroslawkarasz-58.top",
+    "www.vinted.pl-ogloszenie-jaroslawkarasz-58.top"
    ]
   },
   {
