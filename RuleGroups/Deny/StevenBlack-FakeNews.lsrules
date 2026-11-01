@@ -9687,6 +9687,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta091678002.icu",
+    "www.pl-oferta091678002.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta1069022.icu",
     "www.pl-oferta1069022.icu"
    ]
@@ -9903,6 +9911,14 @@
     "vinted.pl-oferta571352.sbs",
     "www.pl-oferta571352.sbs",
     "www.vinted.pl-oferta571352.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta60792670.icu",
+    "www.pl-oferta60792670.icu"
    ]
   },
   {
@@ -10133,6 +10149,14 @@
    "action": "deny",
    "process": "any",
    "remote-domains": [
+    "pl-oferta910733.icu",
+    "www.pl-oferta910733.icu"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
     "pl-oferta91210629.icu",
     "www.pl-oferta91210629.icu"
    ]
@@ -10171,6 +10195,14 @@
     "vinted.pl-oferta913421.sbs",
     "www.pl-oferta913421.sbs",
     "www.vinted.pl-oferta913421.sbs"
+   ]
+  },
+  {
+   "action": "deny",
+   "process": "any",
+   "remote-domains": [
+    "pl-oferta91630.icu",
+    "www.pl-oferta91630.icu"
    ]
   },
   {
@@ -10295,16 +10327,6 @@
     "vinted.pl-ogloszenie-mariuszossowski-41.shop",
     "www.pl-ogloszenie-mariuszossowski-41.shop",
     "www.vinted.pl-ogloszenie-mariuszossowski-41.shop"
-   ]
-  },
-  {
-   "action": "deny",
-   "process": "any",
-   "remote-domains": [
-    "pl-ogloszenie-nikodempiecha-19.shop",
-    "vinted.pl-ogloszenie-nikodempiecha-19.shop",
-    "www.pl-ogloszenie-nikodempiecha-19.shop",
-    "www.vinted.pl-ogloszenie-nikodempiecha-19.shop"
    ]
   },
   {
